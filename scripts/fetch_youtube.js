@@ -9,12 +9,12 @@
  *   各チャンネルのフリーチャット配信（動画ID固定）
  */
 
-import fs from "fs";
-import fetch from "node-fetch";
+import fs from 'fs';
+import fetch from 'node-fetch';
 
 const API_KEY = process.env.YOUTUBE_API_KEY;
 if (!API_KEY) {
-  throw new Error("YOUTUBE_API_KEY が設定されていません");
+  throw new Error('YOUTUBE_API_KEY が設定されていません');
 }
 
 /**
@@ -23,12 +23,12 @@ if (!API_KEY) {
  */
 const CHANNELS = {
   channelA: {
-    channelId: "UCrxtv0Zc8uQNfsY0HsAGY8g",
-    freechatVideoId: "k0g-C_oCYb0"
+    channelId: 'UCrxtv0Zc8uQNfsY0HsAGY8g',
+    freechatVideoId: 'k0g-C_oCYb0'
   },
   channelB: {
-    channelId: "UCFernrRmaCRoOjZ55pwNxpw",
-    freechatVideoId: "foFBBmkRyf0"
+    channelId: 'UCFernrRmaCRoOjZ55pwNxpw',
+    freechatVideoId: 'foFBBmkRyf0'
   }
 };
 
@@ -44,14 +44,14 @@ const FREECHAT_IDS = new Set(
  * 動画IDからサムネイルURLを生成する
  *
  * @param {string} videoId - YouTube動画ID
- * @param {"max" | "hq" | "mq"} size - サムネイルサイズ
+ * @param {'max' | 'hq' | 'mq'} size - サムネイルサイズ
  * @returns {string} サムネイル画像URL
  */
-function getThumbnail(videoId, size = "max") {
+function getThumbnail(videoId, size = 'max') {
   switch (size) {
-    case "max":
+    case 'max':
       return `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg`;
-    case "hq":
+    case 'hq':
       return `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`;
     default:
       return `https://i.ytimg.com/vi/${videoId}/mqdefault.jpg`;
@@ -84,7 +84,7 @@ async function main() {
   /**
    * 出力用ディレクトリパス
    */
-  const OUTPUT_DIR = "docs/assets/data/json";
+  const OUTPUT_DIR = 'docs/assets/data/json';
 
   /**
    * 各チャンネルごとの search.list 処理
@@ -122,9 +122,9 @@ async function main() {
           return {
             videoId,
             title: item.snippet.title,
-            thumbnail: getThumbnail(videoId, "hq"),
+            thumbnail: getThumbnail(videoId, 'hq'),
             url: `https://www.youtube.com/watch?v=${videoId}`,
-            status: "upcoming",
+            status: 'upcoming',
             scheduledStartTime: null,
             actualStartTime: null
           };
@@ -137,7 +137,7 @@ async function main() {
      */
     freechatResult[key] = {
       videoId: channel.freechatVideoId,
-      thumbnail: getThumbnail(channel.freechatVideoId, "max")
+      thumbnail: getThumbnail(channel.freechatVideoId, 'max')
     };
 
     videoIdsForDetail.push(channel.freechatVideoId);
@@ -154,7 +154,7 @@ async function main() {
     const detailUrl =
       `https://www.googleapis.com/youtube/v3/videos` +
       `?part=liveStreamingDetails` +
-      `&id=${videoIdsForDetail.join(",")}` +
+      `&id=${videoIdsForDetail.join(',')}` +
       `&key=${API_KEY}`;
 
     const detailResponse = await fetch(detailUrl);
@@ -176,7 +176,7 @@ async function main() {
         const detail = videoDetailMap.get(entry.videoId);
 
         if (detail?.actualStartTime) {
-          entry.status = "live";
+          entry.status = 'live';
           entry.actualStartTime = detail.actualStartTime;
         }
 
@@ -200,22 +200,22 @@ async function main() {
   fs.writeFileSync(
     `${OUTPUT_DIR}/live_cache.json`,
     JSON.stringify(liveResult, null, 2),
-    "utf-8"
+    'utf-8'
   );
 
   fs.writeFileSync(
     `${OUTPUT_DIR}/freechat.json`,
     JSON.stringify(freechatResult, null, 2),
-    "utf-8"
+    'utf-8'
   );
 
-  console.log("YouTube 配信キャッシュを更新しました");
+  console.log('YouTube 配信キャッシュを更新しました');
 }
 
 /**
  * 実行
  */
 main().catch(error => {
-  console.error("スクリプト実行中にエラーが発生しました", error);
+  console.error('スクリプト実行中にエラーが発生しました', error);
   process.exit(1);
 });
