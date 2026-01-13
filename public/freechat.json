@@ -1,4 +1,8 @@
 {
-  "updatedAt": null,
-  "channels": {}
+  "channelA": {
+    "videoId": "k0g-C_oCYb0"
+  },
+  "channelB": {
+    "videoId": "foFBBmkRyf0"
+  }
 }
