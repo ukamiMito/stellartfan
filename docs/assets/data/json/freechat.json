@@ -1,10 +1,12 @@
 {
   "channelA": {
     "videoId": "k0g-C_oCYb0",
-    "thumbnail": "https://i.ytimg.com/vi/k0g-C_oCYb0/maxresdefault.jpg"
+    "thumbnail": "https://i.ytimg.com/vi/k0g-C_oCYb0/maxresdefault.jpg",
+    "channelName": "天硝路ろまん"
   },
   "channelB": {
     "videoId": "foFBBmkRyf0",
-    "thumbnail": "https://i.ytimg.com/vi/foFBBmkRyf0/maxresdefault.jpg"
+    "thumbnail": "https://i.ytimg.com/vi/foFBBmkRyf0/maxresdefault.jpg",
+    "channelName": "華鉈イオ"
   }
 }

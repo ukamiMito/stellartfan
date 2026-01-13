@@ -136,10 +136,7 @@ function createFreechatBlock(freechat) {
 
   const img = document.createElement('img');
   img.src = freechat.thumbnail;
-  img.alt = `${freechat.channelName} フリーチャット`;
-  img.style.maxWidth = '320px';
-  img.style.display = 'block';
-  img.style.borderRadius = '8px';
+  img.alt = `${freechat.channelName} 配信スケジュール`;
 
   link.appendChild(img);
 

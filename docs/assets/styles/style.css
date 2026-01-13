@@ -112,7 +112,8 @@ h3 {
 }
 
 #freechat-list img {
-  max-width: 320px;
+  max-width: 1280px;
   border-radius: 12px;
   display: block;
+  margin-inline: auto;
 }
