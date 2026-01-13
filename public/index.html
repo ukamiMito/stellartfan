@@ -2,13 +2,40 @@
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
-<title>Live Schedule</title>
+<meta name="robots" content="noindex">
+<title>Test</title>
+<link rel="stylesheet" href="css/style.css">
+<script type="module" src="js/main.js"></script>
 </head>
 <body>
-<h1>ライブ配信</h1>
-<div id="freechat"></div>
-<div id="live"></div>
+<h1>配信情報</h1>
 
-<script src="main.js"></script>
+<section>
+<h2>🔴 配信中 / 予定</h2>
+<div id="live-list" class="card-list"></div>
+</section>
+
+<section>
+<h2>📅 スケジュール</h2>
+<div id="freechat-list" class="card-list"></div>
+</section>
+
+<!-- カードテンプレート -->
+<template id="video-card-template">
+<div class="card">
+<a class="video-link" target="_blank" rel="noopener">
+<img class="thumbnail" alt="">
+</a>
+<div class="card-body">
+<div class="channel">
+<img class="channel-icon" alt="">
+<span class="channel-name"></span>
+</div>
+<span class="badge"></span>
+<div class="title"></div>
+<div class="time"></div>
+</div>
+</div>
+</template>
 </body>
 </html>

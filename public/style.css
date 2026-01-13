@@ -1,0 +1,101 @@
+body {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+h1, h2 {
+  margin-bottom: 10px;
+}
+
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 16px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+  transition: opacity 0.2s;
+}
+
+.card.ended {
+  opacity: 0.5;
+}
+
+.card img {
+  width: 100%;
+  display: block;
+}
+
+.card-body {
+  padding: 10px;
+}
+
+.channel {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  margin-bottom: 4px;
+}
+
+.channel img {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.badge {
+  display: inline-block;
+  padding: 4px 8px;
+  font-size: 12px;
+  border-radius: 4px;
+  margin-bottom: 6px;
+}
+
+.badge.live {
+  background: red;
+  color: white;
+}
+
+.badge.upcoming {
+  background: orange;
+  color: white;
+}
+
+.badge.ended {
+  background: gray;
+  color: white;
+}
+
+.badge.freechat {
+  background: #555;
+  color: white;
+}
+
+.time {
+  font-size: 13px;
+  color: #555;
+}
+
+/* Skeleton */
+.skeleton {
+  height: 240px;
+  border-radius: 8px;
+  background: linear-gradient(
+    90deg,
+    #eee 25%,
+    #ddd 37%,
+    #eee 63%
+  );
+  background-size: 400% 100%;
+  animation: skeleton 1.4s ease infinite;
+}
+
+@keyframes skeleton {
+  0% { background-position: 100% 0; }
+  100% { background-position: 0 0; }
+}
