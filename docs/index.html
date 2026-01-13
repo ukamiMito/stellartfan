@@ -3,7 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="robots" content="noindex">
-<title>Test</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>配信情報｜</title>
 <link rel="stylesheet" href="/assets/styles/style.css">
 <script type="module" src="/assets/scripts/main.js"></script>
 </head>
@@ -12,25 +13,21 @@
 
 <section>
 <h2>🔴 配信中 / 予定</h2>
-<div id="live-list" class="card-list"></div>
+<div id="live-list"></div>
 </section>
 
 <section>
 <h2>📅 スケジュール</h2>
-<div id="freechat-list" class="card-list"></div>
+<div id="freechat-list"></div>
 </section>
 
-<!-- カードテンプレート -->
 <template id="video-card-template">
 <div class="card">
 <a class="video-link" target="_blank" rel="noopener">
 <img class="thumbnail" alt="">
 </a>
+
 <div class="card-body">
-<div class="channel">
-<img class="channel-icon" alt="">
-<span class="channel-name"></span>
-</div>
 <span class="badge"></span>
 <div class="title"></div>
 <div class="time"></div>

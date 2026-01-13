@@ -1,5 +1,15 @@
 /**
+ * チャンネルキー → 表示名マップ
+ */
+const CHANNEL_NAME_MAP = {
+  channelA: "天硝路ろまん",
+  channelB: "華鉈イオ"
+};
+
+/**
  * ISO文字列を JST 表記に変換
+ * @param {string} iso
+ * @returns {string}
  */
 function formatJST(iso) {
   if (!iso) return "";
@@ -10,8 +20,11 @@ function formatJST(iso) {
 
 /**
  * Skeleton を表示
+ * @param {HTMLElement} container
+ * @param {number} count
  */
 function showSkeleton(container, count = 4) {
+  container.textContent = "";
   for (let i = 0; i < count; i++) {
     const div = document.createElement("div");
     div.className = "skeleton";
@@ -20,15 +33,37 @@ function showSkeleton(container, count = 4) {
 }
 
 /**
- * テンプレートからカードを生成
+ * ライブ配信データをソート
+ * - live → upcoming
+ * - scheduledStartTime 昇順
+ * @param {Array} videos
+ * @returns {Array}
  */
-function createCard(video) {
+function sortLiveVideos(videos) {
+  return [...videos].sort((a, b) => {
+    if (a.status !== b.status) {
+      return a.status === "live" ? -1 : 1;
+    }
+
+    if (a.scheduledStartTime && b.scheduledStartTime) {
+      return new Date(a.scheduledStartTime) - new Date(b.scheduledStartTime);
+    }
+
+    if (a.scheduledStartTime) return -1;
+    if (b.scheduledStartTime) return 1;
+
+    return 0;
+  });
+}
+
+/**
+ * テンプレートから動画カードを生成
+ * @param {Object} video
+ * @returns {HTMLElement}
+ */
+function createVideoCard(video) {
   const template = document.getElementById("video-card-template");
   const card = template.content.firstElementChild.cloneNode(true);
-
-  if (video.status === "ended") {
-    card.classList.add("ended");
-  }
 
   // link
   const link = card.querySelector(".video-link");
@@ -37,30 +72,12 @@ function createCard(video) {
   // thumbnail
   const thumb = card.querySelector(".thumbnail");
   thumb.src = video.thumbnail;
-
-  // channel
-  const icon = card.querySelector(".channel-icon");
-  icon.src = video.channelIcon;
-  icon.alt = video.channelName;
-
-  const name = card.querySelector(".channel-name");
-  name.textContent = video.channelName;
+  thumb.alt = video.title;
 
   // badge
   const badge = card.querySelector(".badge");
-  let badgeText = "予定";
-  let badgeClass = "upcoming";
-
-  if (video.status === "live") {
-    badgeText = "配信中";
-    badgeClass = "live";
-  } else if (video.status === "ended") {
-    badgeText = "配信終了";
-    badgeClass = "ended";
-  }
-
-  badge.textContent = badgeText;
-  badge.classList.add(badgeClass);
+  badge.textContent = video.status === "live" ? "配信中" : "予定";
+  badge.classList.add(video.status);
 
   // title
   card.querySelector(".title").textContent = video.title;
@@ -76,42 +93,93 @@ function createCard(video) {
   return card;
 }
 
+/**
+ * チャンネル単位のライブ表示ブロックを生成
+ * @param {string} channelName
+ * @param {Array} videos
+ * @returns {HTMLElement}
+ */
+function createLiveChannelBlock(channelName, videos) {
+  const section = document.createElement("section");
+
+  const h3 = document.createElement("h3");
+  h3.textContent = channelName;
+
+  const list = document.createElement("div");
+  list.className = "card-list";
+
+  sortLiveVideos(videos).forEach(video => {
+    list.appendChild(createVideoCard(video));
+  });
+
+  section.appendChild(h3);
+  section.appendChild(list);
+
+  return section;
+}
+
+/**
+ * フリーチャット（スケジュール）表示ブロックを生成
+ * @param {Object} freechat
+ * @returns {HTMLElement}
+ */
+function createFreechatBlock(freechat) {
+  const section = document.createElement("section");
+
+  const h3 = document.createElement("h3");
+  h3.textContent = freechat.channelName;
+
+  const link = document.createElement("a");
+  link.href = `https://www.youtube.com/watch?v=${freechat.videoId}`;
+  link.target = "_blank";
+  link.rel = "noopener";
+
+  const img = document.createElement("img");
+  img.src = freechat.thumbnail;
+  img.alt = `${freechat.channelName} フリーチャット`;
+  img.style.maxWidth = "320px";
+  img.style.display = "block";
+  img.style.borderRadius = "8px";
+
+  link.appendChild(img);
+
+  section.appendChild(h3);
+  section.appendChild(link);
+
+  return section;
+}
+
+/**
+ * メイン処理
+ */
 async function main() {
   const liveList = document.getElementById("live-list");
   const freechatList = document.getElementById("freechat-list");
 
-  showSkeleton(liveList);
+  // Skeleton 表示
+  showSkeleton(liveList, 4);
   showSkeleton(freechatList, 2);
 
   /* ---------- live_cache ---------- */
-  const liveJson = await fetch("/assets/data/json/live_cache.json").then(r => r.json());
+  const liveJson = await fetch("/assets/data/live_cache.json").then(r => r.json());
 
-  let videos = Object.values(liveJson.channels).flat();
+  liveList.textContent = "";
 
-  // live → upcoming → ended
-  const order = { live: 0, upcoming: 1, ended: 2 };
-  videos.sort((a, b) => {
-    return order[a.status] - order[b.status];
+  Object.entries(liveJson.channels).forEach(([key, videos]) => {
+    if (!videos.length) return;
+
+    liveList.appendChild(
+      createLiveChannelBlock(CHANNEL_NAME_MAP[key], videos)
+    );
   });
 
-  liveList.innerHTML = "";
-  videos.forEach(v => liveList.appendChild(createCard(v)));
-
   /* ---------- freechat ---------- */
-  const freechatJson = await fetch("/assets/data/json/freechat.json").then(r => r.json());
+  const freechatJson = await fetch("/assets/data/freechat.json").then(r => r.json());
 
-  freechatList.innerHTML = "";
+  freechatList.textContent = "";
+
   Object.values(freechatJson).forEach(fc => {
-    freechatList.appendChild(
-      createCard({
-        title: "フリーチャット",
-        thumbnail: fc.thumbnail,
-        url: `https://www.youtube.com/watch?v=${fc.videoId}`,
-        status: "freechat",
-        channelName: fc.channelName,
-        channelIcon: fc.channelIcon
-      })
-    );
+    freechatList.appendChild(createFreechatBlock(fc));
   });
 }
 
