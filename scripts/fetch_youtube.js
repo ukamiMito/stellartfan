@@ -184,6 +184,11 @@ async function main() {
           entry.scheduledStartTime = detail.scheduledStartTime;
         }
 
+        if (detail?.actualEndTime) {
+          entry.status = 'end';
+          entry.actualEndTime = detail.actualEndTime;
+        }
+
         return entry;
       }
     );
