@@ -84,7 +84,7 @@ async function main() {
   showSkeleton(freechatList, 2);
 
   /* ---------- live_cache ---------- */
-  const liveJson = await fetch("public/live_cache.json").then(r => r.json());
+  const liveJson = await fetch("/assets/data/json/live_cache.json").then(r => r.json());
 
   let videos = Object.values(liveJson.channels).flat();
 
@@ -98,7 +98,7 @@ async function main() {
   videos.forEach(v => liveList.appendChild(createCard(v)));
 
   /* ---------- freechat ---------- */
-  const freechatJson = await fetch("public/freechat.json").then(r => r.json());
+  const freechatJson = await fetch("/assets/data/json/freechat.json").then(r => r.json());
 
   freechatList.innerHTML = "";
   Object.values(freechatJson).forEach(fc => {

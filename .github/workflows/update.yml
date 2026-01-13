@@ -24,6 +24,6 @@ jobs:
       - run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add public/*.json
+          git add docs/assets/data/json/*.json
           git commit -m "Update YouTube cache" || exit 0
           git push

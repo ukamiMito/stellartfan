@@ -82,6 +82,11 @@ async function main() {
   const videoIdsForDetail = [];
 
   /**
+   * 出力用ディレクトリパス
+   */
+  const OUTPUT_DIR = "docs/assets/data/json";
+
+  /**
    * 各チャンネルごとの search.list 処理
    */
   for (const [key, channel] of Object.entries(CHANNELS)) {
@@ -185,21 +190,21 @@ async function main() {
   }
 
   /**
-   * public ディレクトリを作成（存在しない場合）
+   * json用 ディレクトリを作成（存在しない場合）
    */
-  fs.mkdirSync("public", { recursive: true });
+  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
 
   /**
    * JSON ファイルを書き出す
    */
   fs.writeFileSync(
-    "public/live_cache.json",
+    `${OUTPUT_DIR}/live_cache.json`,
     JSON.stringify(liveResult, null, 2),
     "utf-8"
   );
 
   fs.writeFileSync(
-    "public/freechat.json",
+    `${OUTPUT_DIR}/freechat.json`,
     JSON.stringify(freechatResult, null, 2),
     "utf-8"
   );
