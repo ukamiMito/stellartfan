@@ -126,7 +126,8 @@ async function main() {
             url: `https://www.youtube.com/watch?v=${videoId}`,
             status: 'upcoming',
             scheduledStartTime: null,
-            actualStartTime: null
+            actualStartTime: null,
+            actualEndTime: null,
           };
         });
     }

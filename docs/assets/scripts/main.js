@@ -76,7 +76,19 @@ function createVideoCard(video) {
 
   // badge
   const badge = card.querySelector('.badge');
-  badge.textContent = video.status === 'live' ? '配信中' : '予定';
+  switch (video.status) {
+    case 'live':
+      badge.textContent = '配信中';
+      break;
+
+    case 'end':
+      badge.textContent = '終了';
+      break;
+
+    default:
+      badge.textContent = '予定'
+      break;
+  }
   badge.classList.add(video.status);
 
   // title

@@ -67,6 +67,10 @@ h3 {
   background-color: #e53935;
 }
 
+.badge.end {
+  background-color: #999;
+}
+
 .badge.upcoming {
   background-color: #1e88e5;
 }
