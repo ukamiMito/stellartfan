@@ -1,4 +1,4 @@
-name: Update YouTube Cache
+name: Update YouTube Caches
 
 on:
   schedule:
