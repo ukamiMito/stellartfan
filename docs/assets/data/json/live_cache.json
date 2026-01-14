@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T17:02:18.925Z",
+  "updatedAt": "2026-01-14T18:59:57.021Z",
   "channels": {
     "channelA": [
       {
@@ -7,10 +7,10 @@
         "title": "【利用規約に同意したい】どうか同意させてくださいお願いします。【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/oxDjoqE44PE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oxDjoqE44PE",
-        "status": "live",
+        "status": "end",
         "scheduledStartTime": "2026-01-14T13:00:00Z",
         "actualStartTime": "2026-01-14T12:59:01Z",
-        "actualEndTime": null
+        "actualEndTime": "2026-01-14T18:28:48Z"
       }
     ],
     "channelB": [
