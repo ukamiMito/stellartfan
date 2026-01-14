@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T10:54:49.837Z",
+  "updatedAt": "2026-01-14T13:54:01.863Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【利用規約に同意したい】どうか同意させてくださいお願いします。【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/oxDjoqE44PE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oxDjoqE44PE",
-        "status": "upcoming",
+        "status": "live",
         "scheduledStartTime": "2026-01-14T13:00:00Z",
-        "actualStartTime": null,
+        "actualStartTime": "2026-01-14T12:59:01Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【 ダレカレ 】きっと貴方も泣いてしまう。「歪み」の先にある物語。※ネタバレ禁止【華鉈イオ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/BvCvy6K0kTc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BvCvy6K0kTc",
-        "status": "upcoming",
+        "status": "live",
         "scheduledStartTime": "2026-01-14T13:00:00Z",
-        "actualStartTime": null,
+        "actualStartTime": "2026-01-14T12:59:02Z",
         "actualEndTime": null
       }
     ]
