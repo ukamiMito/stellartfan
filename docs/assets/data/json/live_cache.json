@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T04:15:09.737Z",
+  "updatedAt": "2026-01-14T07:01:08.033Z",
   "channels": {
     "channelA": [
       {
@@ -15,22 +15,22 @@
     ],
     "channelB": [
       {
-        "videoId": "BvCvy6K0kTc",
-        "title": "【 ダレカレ 】きっと貴方も泣いてしまう。「歪み」の先にある物語。※ネタバレ禁止【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/BvCvy6K0kTc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BvCvy6K0kTc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-14T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
         "videoId": "udKdbZ0Mhsk",
         "title": "【グランツーリスモ7】初めてのGT7🔰愛車インプレッサと共に往く！メニューブックを進めていくぞ！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/udKdbZ0Mhsk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=udKdbZ0Mhsk",
         "status": "upcoming",
         "scheduledStartTime": "2026-01-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "BvCvy6K0kTc",
+        "title": "【 ダレカレ 】きっと貴方も泣いてしまう。「歪み」の先にある物語。※ネタバレ禁止【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/BvCvy6K0kTc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BvCvy6K0kTc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-14T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
