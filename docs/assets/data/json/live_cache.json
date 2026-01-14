@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-14T14:57:03.053Z",
+  "updatedAt": "2026-01-14T17:02:18.925Z",
   "channels": {
     "channelA": [
       {
@@ -29,10 +29,10 @@
         "title": "【 ダレカレ 】きっと貴方も泣いてしまう。「歪み」の先にある物語。※ネタバレ禁止【華鉈イオ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/BvCvy6K0kTc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BvCvy6K0kTc",
-        "status": "live",
+        "status": "end",
         "scheduledStartTime": "2026-01-14T13:00:00Z",
         "actualStartTime": "2026-01-14T12:59:02Z",
-        "actualEndTime": null
+        "actualEndTime": "2026-01-14T15:22:11Z"
       }
     ]
   }
