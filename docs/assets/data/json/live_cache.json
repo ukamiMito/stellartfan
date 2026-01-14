@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-01-14T18:59:57.021Z",
+  "updatedAt": "2026-01-14T20:43:37.872Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "oxDjoqE44PE",
-        "title": "【利用規約に同意したい】どうか同意させてくださいお願いします。【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/oxDjoqE44PE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oxDjoqE44PE",
-        "status": "end",
-        "scheduledStartTime": "2026-01-14T13:00:00Z",
-        "actualStartTime": "2026-01-14T12:59:01Z",
-        "actualEndTime": "2026-01-14T18:28:48Z"
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "udKdbZ0Mhsk",
@@ -23,16 +12,6 @@
         "scheduledStartTime": "2026-01-15T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "BvCvy6K0kTc",
-        "title": "【 ダレカレ 】きっと貴方も泣いてしまう。「歪み」の先にある物語。※ネタバレ禁止【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/BvCvy6K0kTc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BvCvy6K0kTc",
-        "status": "end",
-        "scheduledStartTime": "2026-01-14T13:00:00Z",
-        "actualStartTime": "2026-01-14T12:59:02Z",
-        "actualEndTime": "2026-01-14T15:22:11Z"
       }
     ]
   }
