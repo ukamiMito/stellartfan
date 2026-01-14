@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-14T20:43:37.872Z",
+  "updatedAt": "2026-01-14T22:49:40.157Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "5oFgFj0eqB8",
+        "title": "【利用規約に同意したい】クリアするまで終われない！三度目の正直よ！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/5oFgFj0eqB8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5oFgFj0eqB8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "udKdbZ0Mhsk",
