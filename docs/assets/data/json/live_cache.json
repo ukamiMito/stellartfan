@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-15T10:53:08.767Z",
+  "updatedAt": "2026-01-15T13:53:53.764Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【利用規約に同意したい】クリアするまで終われない！三度目の正直よ！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/5oFgFj0eqB8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5oFgFj0eqB8",
-        "status": "upcoming",
+        "status": "live",
         "scheduledStartTime": "2026-01-15T13:00:00Z",
-        "actualStartTime": null,
+        "actualStartTime": "2026-01-15T12:59:43Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【グランツーリスモ7】初めてのGT7🔰愛車インプレッサと共に往く！メニューブックを進めていくぞ！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/udKdbZ0Mhsk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=udKdbZ0Mhsk",
-        "status": "upcoming",
+        "status": "live",
         "scheduledStartTime": "2026-01-15T13:00:00Z",
-        "actualStartTime": null,
+        "actualStartTime": "2026-01-15T12:59:07Z",
         "actualEndTime": null
       }
     ]
