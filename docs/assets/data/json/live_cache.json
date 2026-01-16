@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-16T18:59:58.699Z",
+  "updatedAt": "2026-01-16T20:40:39.261Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "YITcLpbbgvI",
+        "title": "#2【違う冬のぼくら】見える世界が違う協力ゲーム。こちらはとても無機質な世界です。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/YITcLpbbgvI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YITcLpbbgvI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-17T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
