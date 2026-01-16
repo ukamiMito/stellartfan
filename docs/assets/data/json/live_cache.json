@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-16T14:53:58.001Z",
+  "updatedAt": "2026-01-16T16:58:47.189Z",
   "channels": {
     "channelA": [
       {
@@ -7,10 +7,10 @@
         "title": "【誕プレ開封】リスナーさんから頂いた誕生日プレゼントを見ていく✨素敵なプレゼント本当にありがとおおお！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/bB2_QS3jNeQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=bB2_QS3jNeQ",
-        "status": "live",
+        "status": "end",
         "scheduledStartTime": "2026-01-16T13:00:00Z",
         "actualStartTime": "2026-01-16T13:00:22Z",
-        "actualEndTime": null
+        "actualEndTime": "2026-01-16T16:13:06Z"
       }
     ],
     "channelB": []
