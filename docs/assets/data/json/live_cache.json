@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T10:42:35.681Z",
+  "updatedAt": "2026-01-17T13:37:07.142Z",
   "channels": {
     "channelA": [
       {
@@ -7,23 +7,12 @@
         "title": "#2【違う冬のぼくら】見える世界が違う協力ゲーム。こちらはとても無機質な世界です。【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/YITcLpbbgvI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YITcLpbbgvI",
-        "status": "upcoming",
+        "status": "live",
         "scheduledStartTime": "2026-01-17T13:00:00Z",
-        "actualStartTime": null,
+        "actualStartTime": "2026-01-17T12:58:16Z",
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "B8TE4pT8SLU",
-        "title": "【違う冬のぼくら】協力ゲーなのに観てる世界が違う？！クリアまでやりきる！(後編) w/天硝路ろまん【華鉈イオ/StellArt.】#新人vtuber #紅白天華",
-        "thumbnail": "https://i.ytimg.com/vi/B8TE4pT8SLU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=B8TE4pT8SLU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-17T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
