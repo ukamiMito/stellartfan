@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-17T22:41:18.609Z",
+  "updatedAt": "2026-01-18T04:11:02.136Z",
   "channels": {
     "channelA": [
       {
@@ -13,6 +13,17 @@
         "actualEndTime": null
       }
     ],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "hvn9kzGJ42w",
+        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.41『誕生』メインストーリー攻略！(後編)ボス強い？！！#137【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/hvn9kzGJ42w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hvn9kzGJ42w",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
