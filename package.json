@@ -1,5 +1,13 @@
 {
   "name": "stellartfan",
   "private": true,
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "browser-sync": "^3.0.4",
+    "npm-run-all2": "^8.0.4"
+  },
+  "scripts": {
+    "start": "run-p -c watch",
+    "watch": "browser-sync start --config bs-config.cjs"
+  }
 }
