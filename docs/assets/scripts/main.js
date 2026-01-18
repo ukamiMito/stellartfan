@@ -131,44 +131,14 @@ function createLiveChannelBlock(channelName, videos) {
 }
 
 /**
- * フリーチャット（スケジュール）表示ブロックを生成
- * @param {Object} freechat
- * @returns {HTMLElement}
- */
-function createFreechatBlock(freechat) {
-  const section = document.createElement('section');
-
-  const h3 = document.createElement('h3');
-  h3.textContent = freechat.channelName;
-
-  const link = document.createElement('a');
-  link.href = `https://www.youtube.com/watch?v=${freechat.videoId}`;
-  link.target = '_blank';
-  link.rel = 'noopener';
-
-  const img = document.createElement('img');
-  img.src = freechat.thumbnail;
-  img.alt = `${freechat.channelName} 配信スケジュール`;
-
-  link.appendChild(img);
-
-  section.appendChild(h3);
-  section.appendChild(link);
-
-  return section;
-}
-
-/**
  * メイン処理
  */
 async function main() {
   const liveList = document.getElementById('live-list');
-  const freechatList = document.getElementById('schedule-list');
   const OUTPUT_DIR = '/assets/data/json';
 
   // Skeleton 表示
   showSkeleton(liveList, 4);
-  showSkeleton(freechatList, 2);
 
   /* ---------- live_cache ---------- */
   const liveJson = await fetch(`${OUTPUT_DIR}/live_cache.json`).then(r => r.json());
@@ -181,15 +151,6 @@ async function main() {
     liveList.appendChild(
       createLiveChannelBlock(CHANNEL_NAME_MAP[key], videos)
     );
-  });
-
-  /* ---------- freechat ---------- */
-  const freechatJson = await fetch(`${OUTPUT_DIR}/freechat.json`).then(r => r.json());
-
-  freechatList.textContent = '';
-
-  Object.values(freechatJson).forEach(fc => {
-    freechatList.appendChild(createFreechatBlock(fc));
   });
 }
 
