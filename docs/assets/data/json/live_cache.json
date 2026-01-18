@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-01-18T06:56:49.214Z",
+  "updatedAt": "2026-01-18T08:51:43.805Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "i69_6BTUuKc",
-        "title": "【グランツーリスモ7】メニューブックの課題進めるぞ～！スープラ3台勝ち取る✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/i69_6BTUuKc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=i69_6BTUuKc",
-        "status": "live",
-        "scheduledStartTime": "2026-01-18T05:00:00Z",
-        "actualStartTime": "2026-01-18T04:59:21Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "hvn9kzGJ42w",
