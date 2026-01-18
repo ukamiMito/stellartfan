@@ -163,7 +163,7 @@ function createFreechatBlock(freechat) {
  */
 async function main() {
   const liveList = document.getElementById('live-list');
-  const freechatList = document.getElementById('freechat-list');
+  const freechatList = document.getElementById('schedule-list');
   const OUTPUT_DIR = '/assets/data/json';
 
   // Skeleton 表示

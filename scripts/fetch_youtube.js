@@ -24,10 +24,12 @@ if (!API_KEY) {
 const CHANNELS = {
   channelA: {
     channelId: 'UCrxtv0Zc8uQNfsY0HsAGY8g',
+    channelName: '天硝路ろまん',
     freechatVideoId: 'k0g-C_oCYb0'
   },
   channelB: {
     channelId: 'UCFernrRmaCRoOjZ55pwNxpw',
+    channelName: '華鉈イオ',
     freechatVideoId: 'foFBBmkRyf0'
   }
 };
@@ -138,6 +140,7 @@ async function main() {
      */
     freechatResult[key] = {
       videoId: channel.freechatVideoId,
+      channelName: channel.channelName,
       thumbnail: getThumbnail(channel.freechatVideoId, 'max')
     };
 
