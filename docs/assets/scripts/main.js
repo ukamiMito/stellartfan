@@ -137,16 +137,21 @@ async function main() {
   const liveList = document.getElementById('live-list');
   const OUTPUT_DIR = '/assets/data/json';
 
-  // Skeleton 表示
-  showSkeleton(liveList, 4);
-
   /* ---------- live_cache ---------- */
   const liveJson = await fetch(`${OUTPUT_DIR}/live_cache.json`).then(r => r.json());
-
-  liveList.textContent = '';
+  let clearFlg = false;
 
   Object.entries(liveJson.channels).forEach(([key, videos]) => {
-    if (!videos.length) return;
+    if (!videos.length) {
+      return
+    }
+
+    if (!clearFlg) {
+      liveList.textContent = '';
+      // Skeleton 表示
+      showSkeleton(liveList, 4);
+      clearFlg = true;
+    }
 
     liveList.appendChild(
       createLiveChannelBlock(CHANNEL_NAME_MAP[key], videos)
