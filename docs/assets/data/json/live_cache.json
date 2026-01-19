@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-19T14:59:17.490Z",
+  "updatedAt": "2026-01-19T17:00:12.107Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "mxiwZJlVwLE",
+        "title": "【テストプレイをサボりすぎたＲＰＧ】フルボイス超大作RPG！しかしミスが多すぎる、、！？【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/mxiwZJlVwLE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mxiwZJlVwLE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "SEqZRwJclZs",
