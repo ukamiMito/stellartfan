@@ -1,7 +1,149 @@
 {
-  "updatedAt": "2026-01-19T13:57:01.244Z",
+  "updatedAt": "2026-01-19T14:19:54.975Z",
   "channels": {
-    "channelA": [],
-    "channelB": []
+    "channelA": [
+      {
+        "videoId": "i69_6BTUuKc",
+        "title": "【グランツーリスモ7】メニューブックの課題進めるぞ～！スープラ3台勝ち取る✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/i69_6BTUuKc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=i69_6BTUuKc",
+        "status": "end",
+        "scheduledStartTime": "2026-01-18T05:00:00Z",
+        "actualStartTime": "2026-01-18T04:59:21Z",
+        "actualEndTime": "2026-01-18T07:58:26Z"
+      },
+      {
+        "videoId": "YITcLpbbgvI",
+        "title": "#2【違う冬のぼくら】見える世界が違う協力ゲーム。こちらはとても無機質な世界です。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/YITcLpbbgvI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YITcLpbbgvI",
+        "status": "end",
+        "scheduledStartTime": "2026-01-17T13:00:00Z",
+        "actualStartTime": "2026-01-17T12:58:16Z",
+        "actualEndTime": "2026-01-17T16:06:19Z"
+      },
+      {
+        "videoId": "bB2_QS3jNeQ",
+        "title": "【誕プレ開封】リスナーさんから頂いた誕生日プレゼントを見ていく✨素敵なプレゼント本当にありがとおおお！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/bB2_QS3jNeQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bB2_QS3jNeQ",
+        "status": "end",
+        "scheduledStartTime": "2026-01-16T13:00:00Z",
+        "actualStartTime": "2026-01-16T13:00:22Z",
+        "actualEndTime": "2026-01-16T16:13:06Z"
+      },
+      {
+        "videoId": "5oFgFj0eqB8",
+        "title": "【利用規約に同意したい】クリアするまで終われない！三度目の正直よ！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/5oFgFj0eqB8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5oFgFj0eqB8",
+        "status": "end",
+        "scheduledStartTime": "2026-01-15T13:00:00Z",
+        "actualStartTime": "2026-01-15T12:59:43Z",
+        "actualEndTime": "2026-01-15T16:46:15Z"
+      },
+      {
+        "videoId": "3QwH5hip_1k",
+        "title": "作戦はプランX！！【天硝路ろまん/StellArt.】 #vtuber #個人vtuber #切り抜き #gt7 #V1GP",
+        "thumbnail": "https://i.ytimg.com/vi/3QwH5hip_1k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3QwH5hip_1k",
+        "status": "upcoming",
+        "scheduledStartTime": null,
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "oxDjoqE44PE",
+        "title": "【利用規約に同意したい】どうか同意させてくださいお願いします。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/oxDjoqE44PE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oxDjoqE44PE",
+        "status": "end",
+        "scheduledStartTime": "2026-01-14T13:00:00Z",
+        "actualStartTime": "2026-01-14T12:59:01Z",
+        "actualEndTime": "2026-01-14T18:28:48Z"
+      },
+      {
+        "videoId": "9gI1iL4Xv9A",
+        "title": "コーチに笑われヘラってしまうチームブルー【天硝路ろまん/StellArt.】 #vtuber #個人vtuber #切り抜き #gt7 #V1GP",
+        "thumbnail": "https://i.ytimg.com/vi/9gI1iL4Xv9A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9gI1iL4Xv9A",
+        "status": "upcoming",
+        "scheduledStartTime": null,
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "SEqZRwJclZs",
+        "title": "【ELDEN RING/エルデンリング】#25 完全初見！強敵ボス『火の巨人』を倒す！！！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/SEqZRwJclZs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SEqZRwJclZs",
+        "status": "live",
+        "scheduledStartTime": "2026-01-19T13:00:00Z",
+        "actualStartTime": "2026-01-19T12:59:17Z",
+        "actualEndTime": null
+      },
+      {
+        "videoId": "hvn9kzGJ42w",
+        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.41『誕生』メインストーリー攻略！(後編)ボス強い？！！#137【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/hvn9kzGJ42w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hvn9kzGJ42w",
+        "status": "end",
+        "scheduledStartTime": "2026-01-18T13:00:00Z",
+        "actualStartTime": "2026-01-18T12:58:29Z",
+        "actualEndTime": "2026-01-18T15:28:04Z"
+      },
+      {
+        "videoId": "B8TE4pT8SLU",
+        "title": "【違う冬のぼくら】協力ゲーなのに観てる世界が違う？！クリアまでやりきる！(後編) w/天硝路ろまん【華鉈イオ/StellArt.】#新人vtuber #紅白天華",
+        "thumbnail": "https://i.ytimg.com/vi/B8TE4pT8SLU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=B8TE4pT8SLU",
+        "status": "end",
+        "scheduledStartTime": "2026-01-17T13:00:00Z",
+        "actualStartTime": "2026-01-17T12:58:11Z",
+        "actualEndTime": "2026-01-17T16:05:25Z"
+      },
+      {
+        "videoId": "udKdbZ0Mhsk",
+        "title": "【グランツーリスモ7】初めてのGT7🔰愛車インプレッサと共に往く！メニューブックを進めていくぞ！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/udKdbZ0Mhsk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=udKdbZ0Mhsk",
+        "status": "end",
+        "scheduledStartTime": "2026-01-15T13:00:00Z",
+        "actualStartTime": "2026-01-15T12:59:07Z",
+        "actualEndTime": "2026-01-15T17:47:38Z"
+      },
+      {
+        "videoId": "czKoKdnp9lI",
+        "title": "【イオモニ/朝活】最近の皆の流行りなに？初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
+        "thumbnail": "https://i.ytimg.com/vi/czKoKdnp9lI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=czKoKdnp9lI",
+        "status": "end",
+        "scheduledStartTime": "2026-01-14T20:57:15Z",
+        "actualStartTime": "2026-01-14T20:57:30Z",
+        "actualEndTime": "2026-01-15T00:40:56Z"
+      },
+      {
+        "videoId": "d1MVAPxRKts",
+        "title": "【ELDEN RING/エルデンリング】#24 完全初見！新マップ解放『巨人たちの山嶺』攻略する！！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/d1MVAPxRKts/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=d1MVAPxRKts",
+        "status": "end",
+        "scheduledStartTime": "2026-01-13T14:00:00Z",
+        "actualStartTime": "2026-01-13T13:58:40Z",
+        "actualEndTime": "2026-01-13T17:59:52Z"
+      },
+      {
+        "videoId": "285GVRKjhVQ",
+        "title": "リスナーに喝入れる【華鉈イオ/StellArt.】#shorts #新人vtuber #vtuber  #バズれ #shortvideo",
+        "thumbnail": "https://i.ytimg.com/vi/285GVRKjhVQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=285GVRKjhVQ",
+        "status": "upcoming",
+        "scheduledStartTime": null,
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
