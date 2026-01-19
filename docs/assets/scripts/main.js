@@ -149,7 +149,7 @@ async function main() {
     if (!clearFlg) {
       liveList.textContent = '';
       // Skeleton 表示
-      showSkeleton(liveList, 4);
+      // showSkeleton(liveList, 4);
       clearFlg = true;
     }
 
