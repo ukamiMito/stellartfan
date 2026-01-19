@@ -100,8 +100,8 @@ async function main() {
       `https://www.googleapis.com/youtube/v3/search` +
       `?part=snippet` +
       `&channelId=${channel.channelId}` +
-      `&eventType=upcoming` +
       `&type=video` +
+      `&order=date` +
       `&maxResults=7` +
       `&key=${API_KEY}`;
 
