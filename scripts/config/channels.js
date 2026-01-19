@@ -9,11 +9,17 @@ export const CHANNELS = {
   channelA: {
     channelId: 'UCrxtv0Zc8uQNfsY0HsAGY8g',
     channelName: '天硝路ろまん',
-    freechatVideoId: 'k0g-C_oCYb0'
+    freechatVideoId: 'k0g-C_oCYb0',
+    excludeVideoIds: [
+      'kX5GOU7-uSE'
+    ]
   },
   channelB: {
     channelId: 'UCFernrRmaCRoOjZ55pwNxpw',
     channelName: '華鉈イオ',
-    freechatVideoId: 'foFBBmkRyf0'
+    freechatVideoId: 'foFBBmkRyf0',
+    excludeVideoIds: [
+      'BlrvT6-EnRs'
+    ]
   }
 };

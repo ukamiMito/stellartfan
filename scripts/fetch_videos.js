@@ -98,6 +98,14 @@ async function fetchLiveArchives(videoIds, channelKey, channel) {
       // ★ 最優先：フリーチャット除外（完全一致）
       if (videoId === channel.freechatVideoId) return;
 
+      // 除外対象配信を除外
+      if (
+        Array.isArray(channel.excludeVideoIds) &&
+        channel.excludeVideoIds.includes(videoId)
+      ) {
+        return;
+      }
+
       const live = video.liveStreamingDetails;
 
       // 配信以外（shorts / 通常動画）
