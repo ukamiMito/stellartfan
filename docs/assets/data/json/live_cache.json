@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T17:00:12.107Z",
+  "updatedAt": "2026-01-19T18:15:39.112Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "SEqZRwJclZs",
-        "title": "【ELDEN RING/エルデンリング】#25 完全初見！強敵ボス『火の巨人』を倒す！！！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/SEqZRwJclZs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SEqZRwJclZs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-19T12:59:17Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
