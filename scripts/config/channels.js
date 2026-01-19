@@ -5,21 +5,15 @@
  * fetch_videos.js / fetch_comments.js 共通
  */
 
-const CHANNELS = {
+export const CHANNELS = {
   channelA: {
     channelId: 'UCrxtv0Zc8uQNfsY0HsAGY8g',
     channelName: '天硝路ろまん',
-    freechatVideoIds: [
-      'k0g-C_oCYb0'
-    ]
+    freechatVideoId: 'k0g-C_oCYb0'
   },
   channelB: {
     channelId: 'UCFernrRmaCRoOjZ55pwNxpw',
     channelName: '華鉈イオ',
-    freechatVideoIds: [
-      'foFBBmkRyf0'
-    ]
+    freechatVideoId: 'foFBBmkRyf0'
   }
 };
-
-export default CHANNELS;
