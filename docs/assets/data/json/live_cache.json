@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-19T18:15:39.112Z",
+  "updatedAt": "2026-01-19T21:38:31.394Z",
   "channels": {
     "channelA": [
       {
@@ -13,6 +13,17 @@
         "actualEndTime": null
       }
     ],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "iQzCTty80F8",
+        "title": "【グランツーリスモ7】初めてのGT7🔰ライセンス沼にハマった人間のメニューブック！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/iQzCTty80F8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iQzCTty80F8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
