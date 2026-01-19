@@ -1,5 +1,5 @@
 
-import CHANNELS from './config/channels.js';/**
+/**
  * fetch_videos.js
  *
  * 各チャンネルのライブ配信アーカイブのみを取得し
