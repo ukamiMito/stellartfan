@@ -1,28 +1,7 @@
 {
-  "updatedAt": "2026-01-19T14:40:58.354Z",
+  "updatedAt": "2026-01-19T14:59:17.490Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "3QwH5hip_1k",
-        "title": "作戦はプランX！！【天硝路ろまん/StellArt.】 #vtuber #個人vtuber #切り抜き #gt7 #V1GP",
-        "thumbnail": "https://i.ytimg.com/vi/3QwH5hip_1k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3QwH5hip_1k",
-        "status": "upcoming",
-        "scheduledStartTime": null,
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "9gI1iL4Xv9A",
-        "title": "コーチに笑われヘラってしまうチームブルー【天硝路ろまん/StellArt.】 #vtuber #個人vtuber #切り抜き #gt7 #V1GP",
-        "thumbnail": "https://i.ytimg.com/vi/9gI1iL4Xv9A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9gI1iL4Xv9A",
-        "status": "upcoming",
-        "scheduledStartTime": null,
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "SEqZRwJclZs",
@@ -30,18 +9,8 @@
         "thumbnail": "https://i.ytimg.com/vi/SEqZRwJclZs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SEqZRwJclZs",
         "status": "live",
-        "scheduledStartTime": "2026-01-19T13:00:00Z",
-        "actualStartTime": "2026-01-19T12:59:17Z",
-        "actualEndTime": null
-      },
-      {
-        "videoId": "285GVRKjhVQ",
-        "title": "リスナーに喝入れる【華鉈イオ/StellArt.】#shorts #新人vtuber #vtuber  #バズれ #shortvideo",
-        "thumbnail": "https://i.ytimg.com/vi/285GVRKjhVQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=285GVRKjhVQ",
-        "status": "upcoming",
         "scheduledStartTime": null,
-        "actualStartTime": null,
+        "actualStartTime": "2026-01-19T12:59:17Z",
         "actualEndTime": null
       }
     ]
