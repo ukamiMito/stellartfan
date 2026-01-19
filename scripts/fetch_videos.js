@@ -1,14 +1,6 @@
-
 /**
- * fetch_videos.js
- *
- * 各チャンネルのライブ配信アーカイブのみを取得し
- * docs/assets/data/videos.json を生成・更新する
- *
- * - shorts / 通常動画は除外
- * - フリーチャットは除外
- * - 最古 → 最新（昇順）
- * - 冪等
+ * 配信アーカイブ（チャットあり動画）のみを
+ * 最古 → 最新の昇順で取得し videos.json を生成する
  */
 
 import fs from 'fs';
@@ -16,37 +8,27 @@ import fetch from 'node-fetch';
 import CHANNELS from './config/channels.js';
 
 const API_KEY = process.env.YOUTUBE_API_KEY;
-if (!API_KEY) {
-  throw new Error('YOUTUBE_API_KEY が設定されていません');
-}
+if (!API_KEY) throw new Error('YOUTUBE_API_KEY is not set');
 
-const OUTPUT_PATH = 'docs/assets/data/videos.json';
-const SEARCH_MAX = 50;
+const OUTPUT = 'docs/assets/data/videos.json';
+const MAX_RESULTS = 50;
 
 /**
- * 既存 videos.json 読み込み
+ * search.list を最後まで辿り videoId をすべて取得
  */
-function loadExistingVideos() {
-  if (!fs.existsSync(OUTPUT_PATH)) return [];
-  return JSON.parse(fs.readFileSync(OUTPUT_PATH, 'utf-8'));
-}
+async function fetchAllVideoIds(channelId) {
+  const ids = [];
+  let pageToken = '';
 
-/**
- * search.list を全ページ取得（新→旧）
- */
-async function fetchAllSearchResults(channelId) {
-  let items = [];
-  let pageToken = undefined;
-
-  while (true) {
+  do {
     const url =
-      'https://www.googleapis.com/youtube/v3/search' +
-      `?part=snippet` +
+      `https://www.googleapis.com/youtube/v3/search` +
+      `?part=id,snippet` +
       `&channelId=${channelId}` +
       `&type=video` +
       `&order=date` +
-      `&maxResults=${SEARCH_MAX}` +
-      (pageToken ? `&pageToken=${pageToken}` : '') +
+      `&maxResults=${MAX_RESULTS}` +
+      `&pageToken=${pageToken}` +
       `&key=${API_KEY}`;
 
     const res = await fetch(url);
@@ -54,28 +36,38 @@ async function fetchAllSearchResults(channelId) {
 
     if (!json.items) break;
 
-    items.push(...json.items);
+    json.items.forEach(item => {
+      ids.push({
+        videoId: item.id.videoId,
+        publishedAt: item.snippet.publishedAt,
+        title: item.snippet.title
+      });
+    });
 
-    if (!json.nextPageToken) break;
-    pageToken = json.nextPageToken;
-  }
+    pageToken = json.nextPageToken || '';
+  } while (pageToken);
 
-  return items;
+  return ids;
 }
 
 /**
- * videos.list で liveStreamingDetails を取得
+ * videos.list で配信動画のみ抽出
  */
-async function fetchLiveDetails(videoIds) {
-  const map = new Map();
+async function enrichAndFilterVideos(videos, channelKey, channel) {
+  const results = [];
+  const chunks = [];
 
-  for (let i = 0; i < videoIds.length; i += 50) {
-    const chunk = videoIds.slice(i, i + 50);
+  while (videos.length) {
+    chunks.push(videos.splice(0, 50));
+  }
+
+  for (const chunk of chunks) {
+    const ids = chunk.map(v => v.videoId).join(',');
 
     const url =
-      'https://www.googleapis.com/youtube/v3/videos' +
+      `https://www.googleapis.com/youtube/v3/videos` +
       `?part=liveStreamingDetails,snippet` +
-      `&id=${chunk.join(',')}` +
+      `&id=${ids}` +
       `&key=${API_KEY}`;
 
     const res = await fetch(url);
@@ -84,39 +76,14 @@ async function fetchLiveDetails(videoIds) {
     if (!json.items) continue;
 
     json.items.forEach(item => {
-      map.set(item.id, item);
-    });
-  }
+      const live = item.liveStreamingDetails;
+      const videoId = item.id;
 
-  return map;
-}
-
-async function main() {
-  const existing = loadExistingVideos();
-  const existingIds = new Set(existing.map(v => v.videoId));
-  const results = [...existing];
-
-  for (const [channelKey, channel] of Object.entries(CHANNELS)) {
-    console.log(`Fetching channel: ${channel.channelName}`);
-
-    const searchItems = await fetchAllSearchResults(channel.channelId);
-
-    const videoIds = searchItems
-      .map(item => item.id.videoId)
-      .filter(id => id && !existingIds.has(id));
-
-    if (videoIds.length === 0) continue;
-
-    const detailMap = await fetchLiveDetails(videoIds);
-
-    for (const [videoId, item] of detailMap.entries()) {
       // フリーチャット除外
-      if (channel.freechatVideoIds?.includes(videoId)) continue;
+      if (videoId === channel.freechatVideoId) return;
 
-      // ライブ配信由来でない動画（shorts / 通常動画）除外
-      if (!item.liveStreamingDetails) continue;
-
-      const { actualEndTime } = item.liveStreamingDetails;
+      // 配信以外（shorts / 通常動画）除外
+      if (!live || (!live.actualStartTime && !live.scheduledStartTime)) return;
 
       results.push({
         videoId,
@@ -124,27 +91,38 @@ async function main() {
         channelName: channel.channelName,
         publishedAt: item.snippet.publishedAt,
         title: item.snippet.title,
-        status: actualEndTime ? 'ended' : 'live',
+        status: live.actualEndTime
+          ? 'ended'
+          : live.actualStartTime
+          ? 'live'
+          : 'upcoming',
         chatFetched: false
       });
+    });
+  }
 
-      existingIds.add(videoId);
-    }
+  return results;
+}
+
+async function main() {
+  const all = [];
+
+  for (const [key, channel] of Object.entries(CHANNELS)) {
+    console.log(`Fetching ${channel.channelName}`);
+
+    const ids = await fetchAllVideoIds(channel.channelId);
+    const videos = await enrichAndFilterVideos(ids, key, channel);
+
+    all.push(...videos);
   }
 
   // 最古 → 最新
-  results.sort((a, b) => {
-    return new Date(a.publishedAt) - new Date(b.publishedAt);
-  });
+  all.sort((a, b) => new Date(a.publishedAt) - new Date(b.publishedAt));
 
   fs.mkdirSync('docs/assets/data', { recursive: true });
-  fs.writeFileSync(
-    OUTPUT_PATH,
-    JSON.stringify(results, null, 2),
-    'utf-8'
-  );
+  fs.writeFileSync(OUTPUT, JSON.stringify(all, null, 2), 'utf-8');
 
-  console.log(`videos.json updated: ${results.length} items`);
+  console.log(`Saved ${all.length} videos`);
 }
 
 main().catch(err => {
