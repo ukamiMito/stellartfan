@@ -2,10 +2,10 @@
  * YouTube Data API v3 を利用して配信情報を取得し、
  * 以下の JSON キャッシュを生成する
  *
- * - public/live_cache.json
+ * - docs/assets/data/json/live_cache.json
  *   各チャンネルの配信予定・配信中情報（フリーチャット除外）
  *
- * - public/freechat.json
+ * - docs/assets/data/json/freechat.json
  *   各チャンネルのフリーチャット配信（動画ID固定）
  */
 
@@ -19,7 +19,6 @@ if (!API_KEY) {
 
 /**
  * 対象チャンネル定義
- * key は JSON 出力時の識別子として使用する
  */
 const CHANNELS = {
   channelA: {
@@ -36,7 +35,6 @@ const CHANNELS = {
 
 /**
  * フリーチャット動画ID一覧
- * search.list の結果から除外するため Set として保持する
  */
 const FREECHAT_IDS = new Set(
   Object.values(CHANNELS).map(channel => channel.freechatVideoId)
@@ -60,9 +58,6 @@ function getThumbnail(videoId, size = 'max') {
   }
 }
 
-/**
- * メイン処理
- */
 async function main() {
   /**
    * live_cache.json 用の結果オブジェクト
@@ -89,7 +84,7 @@ async function main() {
   const OUTPUT_DIR = 'docs/assets/data/json';
 
   /**
-   * 各チャンネルごとの search.list 処理
+   * 各チャンネルの search.list
    */
   for (const [key, channel] of Object.entries(CHANNELS)) {
     /**
@@ -97,46 +92,43 @@ async function main() {
      * 配信予定（upcoming）の動画を取得する
      */
     const searchUrl =
-      `https://www.googleapis.com/youtube/v3/search` +
-      `?part=snippet` +
+      'https://www.googleapis.com/youtube/v3/search' +
+      '?part=snippet' +
       `&channelId=${channel.channelId}` +
-      `&type=video` +
-      `&order=date` +
-      `&maxResults=7` +
+      '&type=video' +
+      '&order=date' +
+      '&maxResults=10' +
       `&key=${API_KEY}`;
 
     const searchResponse = await fetch(searchUrl);
     const searchJson = await searchResponse.json();
 
-    if (!searchJson.items) {
-      liveResult.channels[key] = [];
-    } else {
-      /**
-       * フリーチャット動画を除外し、live_cache のベースを作成
-       * （時刻・状態は後続の videos.list で補完する）
-       */
-      liveResult.channels[key] = searchJson.items
-        .filter(item => !FREECHAT_IDS.has(item.id.videoId))
-        .map(item => {
-          const videoId = item.id.videoId;
-          videoIdsForDetail.push(videoId);
+    liveResult.channels[key] = [];
 
-          return {
-            videoId,
-            title: item.snippet.title,
-            thumbnail: getThumbnail(videoId, 'hq'),
-            url: `https://www.youtube.com/watch?v=${videoId}`,
-            status: 'upcoming',
-            scheduledStartTime: null,
-            actualStartTime: null,
-            actualEndTime: null,
-          };
+    if (searchJson.items) {
+      for (const item of searchJson.items) {
+        const videoId = item.id.videoId;
+
+        // フリーチャット除外
+        if (FREECHAT_IDS.has(videoId)) continue;
+
+        liveResult.channels[key].push({
+          videoId,
+          title: item.snippet.title,
+          thumbnail: getThumbnail(videoId, 'hq'),
+          url: `https://www.youtube.com/watch?v=${videoId}`,
+          status: 'upcoming',
+          scheduledStartTime: null,
+          actualStartTime: null,
+          actualEndTime: null
         });
+
+        videoIdsForDetail.push(videoId);
+      }
     }
 
     /**
-     * freechat.json 用データ
-     * フリーチャットは動画ID固定・最大サイズサムネイルを使用
+     * freechat.json 用
      */
     freechatResult[key] = {
       videoId: channel.freechatVideoId,
@@ -148,16 +140,14 @@ async function main() {
   }
 
   /**
-   * videos.list API
-   * scheduledStartTime / actualStartTime を取得する
-   * ※ 動画IDをまとめて 1 回のみ呼び出す（ユニット最小）
+   * videos.list（liveStreamingDetails 取得）
    */
-  let videoDetailMap = new Map();
+  const videoDetailMap = new Map();
 
   if (videoIdsForDetail.length > 0) {
     const detailUrl =
-      `https://www.googleapis.com/youtube/v3/videos` +
-      `?part=liveStreamingDetails` +
+      'https://www.googleapis.com/youtube/v3/videos' +
+      '?part=liveStreamingDetails' +
       `&id=${videoIdsForDetail.join(',')}` +
       `&key=${API_KEY}`;
 
@@ -165,37 +155,43 @@ async function main() {
     const detailJson = await detailResponse.json();
 
     if (detailJson.items) {
-      detailJson.items.forEach(item => {
-        videoDetailMap.set(item.id, item.liveStreamingDetails || {});
-      });
+      for (const item of detailJson.items) {
+        videoDetailMap.set(item.id, item.liveStreamingDetails || null);
+      }
     }
   }
 
   /**
-   * live_cache.json に videos.list の情報をマージ
+   * 配信情報マージ
+   * - live / upcoming のみ残す
+   * - Shorts / 通常動画 / ended は除外
    */
   for (const channelKey of Object.keys(liveResult.channels)) {
-    liveResult.channels[channelKey] = liveResult.channels[channelKey].map(
-      entry => {
+    liveResult.channels[channelKey] = liveResult.channels[channelKey]
+      .map(entry => {
         const detail = videoDetailMap.get(entry.videoId);
 
-        if (detail?.actualStartTime) {
+        // liveStreamingDetails を持たない動画は除外（Shorts / 通常動画）
+        if (!detail) return null;
+
+        // 配信中
+        if (detail.actualStartTime && !detail.actualEndTime) {
           entry.status = 'live';
           entry.actualStartTime = detail.actualStartTime;
+          return entry;
         }
 
-        if (detail?.scheduledStartTime) {
+        // 配信予定
+        if (detail.scheduledStartTime && !detail.actualStartTime) {
+          entry.status = 'upcoming';
           entry.scheduledStartTime = detail.scheduledStartTime;
+          return entry;
         }
 
-        if (detail?.actualEndTime) {
-          entry.status = 'end';
-          entry.actualEndTime = detail.actualEndTime;
-        }
-
-        return entry;
-      }
-    ).filter(entry => entry.status !== 'end');
+        // 終了済み or その他は除外
+        return null;
+      })
+      .filter(Boolean);
   }
 
   /**
