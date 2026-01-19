@@ -8,11 +8,17 @@
 const CHANNELS = {
   channelA: {
     channelId: 'UCrxtv0Zc8uQNfsY0HsAGY8g',
-    channelName: '天硝路ろまん'
+    channelName: '天硝路ろまん',
+    freechatVideoIds: [
+      'k0g-C_oCYb0'
+    ]
   },
   channelB: {
     channelId: 'UCFernrRmaCRoOjZ55pwNxpw',
-    channelName: '華鉈イオ'
+    channelName: '華鉈イオ',
+    freechatVideoIds: [
+      'foFBBmkRyf0'
+    ]
   }
 };
 
