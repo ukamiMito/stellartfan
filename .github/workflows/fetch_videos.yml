@@ -1,9 +1,9 @@
-name: Update YouTube Cache
+name: Fetch Videos (Daily)
 
 on:
   schedule:
-    # 3時間ごと（UTC）
-    - cron: '0 */3 * * *'
+    # JST 03:00（UTC 18:00）
+    - cron: '0 18 * * *'
   workflow_dispatch:
 
 concurrency:
@@ -11,7 +11,7 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  update:
+  fetch-videos:
     runs-on: ubuntu-latest
 
     steps:
@@ -26,15 +26,15 @@ jobs:
       - name: Install dependencies
         run: npm install node-fetch@3
 
-      - name: Run fetch_youtube.js
+      - name: Run fetch_videos.js
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-        run: node scripts/fetch_youtube.js
+        run: node scripts/fetch_videos.js
 
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add docs/assets/data/json
-          git commit -m "Update live / upcoming cache" || exit 0
+          git add docs/assets/data/videos.json
+          git commit -m "Update videos.json" || exit 0
           git push
