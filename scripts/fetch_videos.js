@@ -11,7 +11,7 @@
 
 import fs from 'fs';
 import fetch from 'node-fetch';
-import CHANNELS from './config/channels';
+import CHANNELS from './config/channels.js';
 
 const API_KEY = process.env.YOUTUBE_API_KEY;
 if (!API_KEY) {
