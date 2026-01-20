@@ -21,7 +21,7 @@ if (!API_KEY) {
 const VIDEOS_JSON = 'docs/assets/data/videos.json';
 const COMMENTS_BASE_DIR = 'docs/assets/data/comments';
 
-const MAX_VIDEOS_PER_RUN = 5; // ← 安全ブレーキ（daily 前提）
+const MAX_VIDEOS_PER_RUN = 3; // ← 安全ブレーキ（daily 前提）
 
 /**
  * YouTube LiveChatMessages API
