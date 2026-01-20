@@ -1,9 +1,6 @@
 name: Fetch Live Chat Comments (Daily)
 
 on:
-  push:
-    branches-ignore:
-      - '**'
   schedule:
     # JST 04:00（UTC 19:00）
     - cron: '0 19 * * *'
