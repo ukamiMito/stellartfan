@@ -1,29 +1,18 @@
 {
-  "updatedAt": "2026-01-20T16:00:14.253Z",
+  "updatedAt": "2026-01-20T20:36:28.312Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "mxiwZJlVwLE",
-        "title": "【テストプレイをサボりすぎたＲＰＧ】フルボイス超大作RPG！しかしミスが多すぎる、、！？【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/mxiwZJlVwLE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mxiwZJlVwLE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-20T12:59:06Z",
+        "videoId": "Z8VJtLxsCOQ",
+        "title": "【同時視聴】映画『ワイルド・スピード』シリーズ第1作目をみんなで観よう！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Z8VJtLxsCOQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Z8VJtLxsCOQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-21T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "iQzCTty80F8",
-        "title": "【グランツーリスモ7】初めてのGT7🔰ライセンス沼にハマった人間のメニューブック！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/iQzCTty80F8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iQzCTty80F8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-20T13:28:33Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
