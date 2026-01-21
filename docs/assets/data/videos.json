@@ -12033,20 +12033,20 @@
     "chatFetched": false
   },
   {
-    "videoId": "Z8VJtLxsCOQ",
-    "channelKey": "channelA",
-    "channelName": "天硝路ろまん",
-    "publishedAt": "2026-01-20T20:30:16Z",
-    "title": "【同時視聴】映画『ワイルド・スピード』シリーズ第1作目をみんなで観よう！【天硝路ろまん / StellArt.】",
-    "status": "live",
-    "chatFetched": false
-  },
-  {
     "videoId": "uPTJS6ORXUg",
     "channelKey": "channelB",
     "channelName": "華鉈イオ",
-    "publishedAt": "2026-01-21T10:02:55Z",
+    "publishedAt": "2026-01-21T16:29:18Z",
     "title": "【 勝利の女神 : #nikke 】新イベント✨『SIN EDITOR』イベスト読み！新キャラがいろんな意味でやばい#138【華鉈イオ/StellArt.】#新人vtuber",
+    "status": "ended",
+    "chatFetched": false
+  },
+  {
+    "videoId": "Z8VJtLxsCOQ",
+    "channelKey": "channelA",
+    "channelName": "天硝路ろまん",
+    "publishedAt": "2026-01-21T17:27:40Z",
+    "title": "【同時視聴】映画『ワイルド・スピード』シリーズ第1作目をみんなで観よう！【天硝路ろまん / StellArt.】",
     "status": "ended",
     "chatFetched": false
   }
