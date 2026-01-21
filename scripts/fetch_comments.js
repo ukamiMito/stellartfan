@@ -26,24 +26,11 @@ const COMMENTS_BASE_DIR = 'docs/assets/data/comments';
 const MAX_VIDEOS_PER_RUN = 3; // ← 安全ブレーキ（daily 前提）
 
 // チャット取得を除外する videoId のリスト（アーカイブ取得実装までの一時的な措置）
-// 環境変数 DISALLOW_VIDEO_IDS で指定可能（カンマ区切り）
-// 指定されていない場合は、videos.json から Z8VJtLxsCOQ 以外の全ての videoId を自動生成
-let DISALLOW_VIDEO_IDS = [];
-if (process.env.DISALLOW_VIDEO_IDS) {
-  DISALLOW_VIDEO_IDS = process.env.DISALLOW_VIDEO_IDS.split(',').map(id => id.trim());
-} else {
-  // 環境変数が指定されていない場合、videos.json から自動生成
-  try {
-    if (fs.existsSync(VIDEOS_JSON)) {
-      const videos = JSON.parse(fs.readFileSync(VIDEOS_JSON, 'utf-8'));
-      DISALLOW_VIDEO_IDS = videos
-        .map(v => v.videoId)
-        .filter(id => id !== 'Z8VJtLxsCOQ');
-    }
-  } catch (err) {
-    console.warn('videos.json から除外リストを生成できませんでした:', err.message);
-  }
-}
+// scripts/config/dissallow_fetch_comments_videos.js から読み込む
+// このファイルは現時点の videos.json の内容を固定化したもので、
+// 新しい配信が videos.json に追加されても、このファイルは更新されないため、
+// 新しい配信は自動的にチャット取得対象になります
+// （main() 関数内で読み込む）
 
 /**
  * YouTube LiveChatMessages API
@@ -108,6 +95,17 @@ async function main() {
   }
 
   const videos = JSON.parse(fs.readFileSync(VIDEOS_JSON, 'utf-8'));
+
+  // 除外リストファイルの読み込み（存在しない場合は空配列）
+  let DISALLOW_VIDEO_IDS = [];
+  try {
+    const disallowModule = await import('./config/dissallow_fetch_comments_videos.js');
+    DISALLOW_VIDEO_IDS = disallowModule.DISSALLOW_FETCH_COMMENTS_VIDEOS || [];
+  } catch (err) {
+    console.warn('除外リストファイルが見つかりません。scripts/config/dissallow_fetch_comments_videos.js を確認してください。');
+    DISALLOW_VIDEO_IDS = [];
+  }
+
   const statePath = 'docs/assets/data/comments_state.json';
   /** @type {Record<string, { liveChatId?: string | null; nextPageToken?: string | null }>} */
   let state = {};

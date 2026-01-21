@@ -29,9 +29,6 @@ jobs:
       - name: Run fetch_comments.js
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
-          # チャット取得を除外する videoId（アーカイブ取得実装までの一時的な措置）
-          # 環境変数が指定されていない場合、videos.json から Z8VJtLxsCOQ 以外を自動生成
-          # 新しい配信は自動的に対象になる
         run: node scripts/fetch_comments.js
 
       - name: Commit and push if changed
