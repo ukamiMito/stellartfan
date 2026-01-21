@@ -22,6 +22,32 @@ const OUTPUT_PATH = 'docs/assets/data/videos.json';
 const MAX_RESULTS = 50;
 
 /**
+ * 既存の videos.json を読み込み、videoId -> chatFetched を復元する
+ * fetch_videos.js は配信一覧を毎回再構築するため、この引き継ぎがないと
+ * fetch_comments.js の冪等制御（chatFetched=true）を破壊してしまう。
+ *
+ * @returns {Map<string, boolean>}
+ */
+function loadExistingChatFetchedMap() {
+  try {
+    if (!fs.existsSync(OUTPUT_PATH)) return new Map();
+    const raw = fs.readFileSync(OUTPUT_PATH, 'utf-8');
+    const arr = JSON.parse(raw);
+    if (!Array.isArray(arr)) return new Map();
+
+    const map = new Map();
+    for (const v of arr) {
+      if (!v?.videoId) continue;
+      map.set(v.videoId, Boolean(v.chatFetched));
+    }
+    return map;
+  } catch {
+    // 壊れたJSON等があっても取得処理自体は止めない（再生成できるため）
+    return new Map();
+  }
+}
+
+/**
  * uploads プレイリストIDを取得
  */
 async function getUploadsPlaylistId(channelId) {
@@ -118,6 +144,7 @@ async function fetchLiveArchives(videoIds, channelKey, channel) {
         publishedAt: video.snippet.publishedAt,
         title: video.snippet.title,
         status: live.actualEndTime ? 'ended' : 'live',
+        // chatFetched は main() 側で既存値を引き継いで上書きする
         chatFetched: false
       });
     });
@@ -127,6 +154,7 @@ async function fetchLiveArchives(videoIds, channelKey, channel) {
 }
 
 async function main() {
+  const existingChatFetched = loadExistingChatFetchedMap();
   const allVideos = [];
 
   for (const [channelKey, channel] of Object.entries(CHANNELS)) {
@@ -143,6 +171,13 @@ async function main() {
   allVideos.sort((a, b) => {
     return new Date(a.publishedAt) - new Date(b.publishedAt);
   });
+
+  // chatFetched を既存 videos.json から引き継ぐ（videoId 単位）
+  for (const v of allVideos) {
+    if (existingChatFetched.has(v.videoId)) {
+      v.chatFetched = existingChatFetched.get(v.videoId);
+    }
+  }
 
   fs.mkdirSync('docs/assets/data', { recursive: true });
   fs.writeFileSync(
