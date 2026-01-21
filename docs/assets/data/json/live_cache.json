@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-01-21T16:01:59.084Z",
+  "updatedAt": "2026-01-21T19:17:37.567Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "Z8VJtLxsCOQ",
-        "title": "【同時視聴】映画『ワイルド・スピード』シリーズ第1作目をみんなで観よう！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Z8VJtLxsCOQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Z8VJtLxsCOQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-21T12:58:43Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "uPTJS6ORXUg",
-        "title": "【 勝利の女神 : #nikke 】新イベント✨『SIN EDITOR』イベスト読み！新キャラがいろんな意味でやばい#138【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/uPTJS6ORXUg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uPTJS6ORXUg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-21T12:57:33Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": []
   }
 }
