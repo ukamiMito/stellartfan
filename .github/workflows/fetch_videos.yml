@@ -1,14 +1,14 @@
-name: Fetch Videos (Daily)
+name: Fetch Videos (Polling)
 
 on:
   schedule:
-    # JST 03:00（UTC 18:00）
-    - cron: '0 18 * * *'
+    # 10分間隔で uploads を再スキャンし、live/ended を更新
+    - cron: '*/10 * * * *'
   workflow_dispatch:
 
 concurrency:
   group: youtube-data-update
-  cancel-in-progress: false
+  cancel-in-progress: true
 
 jobs:
   fetch-videos:
