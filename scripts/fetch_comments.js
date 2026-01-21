@@ -1,12 +1,13 @@
 /**
  * fetch_comments.js
  *
- * 配信中（live）のライブチャットを段階的に取得し、
+ * 配信終了済み（ended）のライブチャットを全件取得し、
  * /docs/assets/data/comments/{channelKey}/{videoId}.json に保存する
  *
+ * - 配信中は取得しない（ユニット消費削減）
+ * - 配信終了後に1回だけ全ページ読み切り
+ * - 完了後、chatFetched=true に設定
  * - 冪等（chatFetched=true は再取得しない）
- * - 差分取得
- * - 大量取得耐性（安全ブレーキ付き）
  */
 
 import fs from 'fs';
@@ -22,6 +23,12 @@ const VIDEOS_JSON = 'docs/assets/data/videos.json';
 const COMMENTS_BASE_DIR = 'docs/assets/data/comments';
 
 const MAX_VIDEOS_PER_RUN = 3; // ← 安全ブレーキ（daily 前提）
+
+// 例外的に取得対象とする videoId のリスト（テスト用など）
+// 環境変数 FORCE_FETCH_VIDEO_IDS で指定可能（カンマ区切り）
+const FORCE_FETCH_VIDEO_IDS = process.env.FORCE_FETCH_VIDEO_IDS
+  ? process.env.FORCE_FETCH_VIDEO_IDS.split(',').map(id => id.trim())
+  : [];
 
 /**
  * YouTube LiveChatMessages API
@@ -102,13 +109,23 @@ async function main() {
   let processed = 0;
 
   for (const video of videos) {
+    // 例外的に取得対象とする videoId かどうか
+    const isForceFetch = FORCE_FETCH_VIDEO_IDS.includes(video.videoId);
+
     if (
-      // ★ 取得対象を「終了済み」から「配信中（live）」に変更
-      video.status !== 'live' ||
-      video.chatFetched ||
+      // 取得対象は「配信終了済み（ended）」のみ
+      // 配信中は取得しない（ユニット消費削減のため）
+      // ただし、FORCE_FETCH_VIDEO_IDS で指定された videoId は例外的に取得対象とする
+      (!isForceFetch && video.status !== 'ended') ||
+      (!isForceFetch && video.chatFetched) ||
       processed >= MAX_VIDEOS_PER_RUN
     ) {
       continue;
+    }
+
+    // 強制取得対象の場合は chatFetched を一時的に無視
+    if (isForceFetch && video.chatFetched) {
+      console.log(`強制取得対象として処理します: ${video.videoId}`);
     }
 
     const channelKey = video.channelKey;
@@ -122,19 +139,17 @@ async function main() {
     // 差分取得用ステートを読み込み
     const vState = state[videoId] || {};
 
-    // liveChatId が未取得または null の場合、最新を取得して記録
-    const liveChatId =
-      vState.liveChatId !== undefined
-        ? vState.liveChatId
-        : await getLiveChatId(videoId);
+    // 配信終了後は activeLiveChatId を取得して全ページ読み切り
+    const liveChatId = await getLiveChatId(videoId);
 
     if (!liveChatId) {
       // activeLiveChatId が取得できない場合:
-      // - 既に配信が終了して liveChatId が消えている
+      // - 配信終了後、liveChatId が既に消えている（時間が経ちすぎた）
       // - もともとチャットが無効だった
       // などが考えられるため、この動画についてはこれ以上試行しない
       video.chatFetched = true;
       state[videoId] = { liveChatId: null, nextPageToken: null };
+      console.log(`activeLiveChatId が取得できません: ${video.videoId} - チャット取得をスキップします`);
       continue;
     }
 
@@ -143,12 +158,13 @@ async function main() {
 
     console.log(`チャット取得開始: ${video.videoId}`);
 
-    // 既存コメントファイルの存在確認（初回実行判定用）
-    const isFirstRun = !fs.existsSync(outPath) && !vState.nextPageToken;
+    // 配信終了後は常に最初から全ページ読み切り
+    // nextPageToken をリセット（既存のコメントファイルがあっても上書き）
+    vState.nextPageToken = '';
 
     // 1回の実行で取得するページ数の上限（クォータ制御用）
-    // 初回実行時は全ページ読み切るため上限を大きくする（無限ループ防止のため1000ページ = 20万コメントまで）
-    const MAX_PAGES_PER_RUN = isFirstRun ? 1000 : 10;
+    // 配信終了後は全ページ読み切るため上限を大きくする
+    const MAX_PAGES_PER_RUN = 1000;
     let pageToken = vState.nextPageToken || '';
     let pagesFetched = 0;
     let newMessages = [];
@@ -188,7 +204,8 @@ async function main() {
       }
     }
 
-    // 既存コメントとマージ（単純に後ろに追加）
+    // 既存コメントとマージ（重複チェック付き）
+    // 配信終了後は最初から全ページ読み切るため、途中で中断された場合のみ既存コメントとマージ
     /** @type {{ videoId: string; channelKey: string; channelName: string; fetchedAt: string; messages: any[] }} */
     let existing = {
       videoId,
@@ -198,7 +215,9 @@ async function main() {
       messages: []
     };
 
-    if (fs.existsSync(outPath)) {
+    // 途中で中断された場合（pageToken !== null）は、既存コメントとマージ
+    // 全ページ読み切り完了時（pageToken === null）は、既存コメントを上書き
+    if (pageToken !== null && fs.existsSync(outPath)) {
       try {
         existing = JSON.parse(fs.readFileSync(outPath, 'utf-8'));
       } catch {
@@ -206,7 +225,23 @@ async function main() {
       }
     }
 
-    existing.messages = [...existing.messages, ...newMessages];
+    if (pageToken !== null) {
+      // 途中で中断された場合: 既存コメントとマージ（重複チェック付き）
+      const existingTimestamps = new Set(
+        existing.messages.map(msg => `${msg.t}|${msg.m}`)
+      );
+      const uniqueNewMessages = newMessages.filter(
+        msg => !existingTimestamps.has(`${msg.t}|${msg.m}`)
+      );
+      existing.messages = [...existing.messages, ...uniqueNewMessages].sort(
+        (a, b) => new Date(a.t) - new Date(b.t)
+      );
+    } else {
+      // 全ページ読み切り完了時: 既存コメントを上書き（配信終了後は最初から全ページ読み切るため）
+      existing.messages = newMessages.sort(
+        (a, b) => new Date(a.t) - new Date(b.t)
+      );
+    }
     existing.fetchedAt = new Date().toISOString();
 
     fs.writeFileSync(
@@ -215,13 +250,25 @@ async function main() {
       'utf-8'
     );
 
-    // 次回用の pageToken を保存（null の場合はこれ以上取得できない）
-    vState.nextPageToken = pageToken;
+    // 全ページ読み切り完了後、chatFetched を true に設定
+    // ただし、強制取得対象の場合は chatFetched を更新しない（テスト用）
+    if (pageToken === null) {
+      // nextPageToken が null = 全ページ読み切り完了
+      if (!isForceFetch) {
+        video.chatFetched = true;
+      }
+      vState.nextPageToken = null;
+      console.log(
+        `全ページ読み切り完了: ${video.videoId} - ${isForceFetch ? '（強制取得対象のため chatFetched は更新しません）' : 'chatFetched=true に設定'}`
+      );
+    } else {
+      // まだページが残っている場合は、次回実行時に続きから取得
+      vState.nextPageToken = pageToken;
+      console.log(`部分取得完了: ${video.videoId} - 次回実行時に続きから取得します（${pagesFetched}ページ取得）`);
+    }
     state[videoId] = vState;
 
-    // chatFetched は「liveChatId が取得できなくなった時点」で true にする
     processed++;
-    console.log(`取得完了: ${video.videoId}`);
   }
 
   fs.writeFileSync(
