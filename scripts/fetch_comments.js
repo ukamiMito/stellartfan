@@ -23,7 +23,7 @@ if (!API_KEY) {
 const VIDEOS_JSON = 'docs/assets/data/videos.json';
 const COMMENTS_BASE_DIR = 'docs/assets/data/comments';
 
-const MAX_VIDEOS_PER_RUN = 5; // ← 安全ブレーキ（daily 前提）
+const MAX_VIDEOS_PER_RUN = 5; // ← 安全ブレーキ（10分間隔実行前提、最大4チャンネル同時配信想定）
 
 // チャット取得を除外する videoId のリスト（アーカイブ取得実装までの一時的な措置）
 // scripts/config/dissallow_fetch_comments_videos.js から読み込む
