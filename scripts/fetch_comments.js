@@ -143,8 +143,12 @@ async function main() {
 
     console.log(`チャット取得開始: ${video.videoId}`);
 
+    // 既存コメントファイルの存在確認（初回実行判定用）
+    const isFirstRun = !fs.existsSync(outPath) && !vState.nextPageToken;
+
     // 1回の実行で取得するページ数の上限（クォータ制御用）
-    const MAX_PAGES_PER_RUN = 10;
+    // 初回実行時は全ページ読み切るため上限を大きくする（無限ループ防止のため1000ページ = 20万コメントまで）
+    const MAX_PAGES_PER_RUN = isFirstRun ? 1000 : 10;
     let pageToken = vState.nextPageToken || '';
     let pagesFetched = 0;
     let newMessages = [];
