@@ -137,13 +137,29 @@ async function fetchLiveArchives(videoIds, channelKey, channel) {
       // 配信以外（shorts / 通常動画）
       if (!live) return;
 
+      // 配信状態の判定
+      // - actualStartTime があり、actualEndTime が無い → 配信中（live）
+      // - scheduledStartTime があり、actualStartTime が無い → 配信予定（upcoming）
+      // - actualEndTime がある → 配信終了（ended）
+      let status;
+      if (live.actualEndTime) {
+        status = 'ended';
+      } else if (live.actualStartTime) {
+        status = 'live';
+      } else if (live.scheduledStartTime) {
+        status = 'upcoming';
+      } else {
+        // liveStreamingDetails はあるが、状態が不明な場合は配信終了として扱う
+        status = 'ended';
+      }
+
       results.push({
         videoId,
         channelKey,
         channelName: channel.channelName,
         publishedAt: video.snippet.publishedAt,
         title: video.snippet.title,
-        status: live.actualEndTime ? 'ended' : 'live',
+        status,
         // chatFetched は main() 側で既存値を引き継いで上書きする
         chatFetched: false
       });

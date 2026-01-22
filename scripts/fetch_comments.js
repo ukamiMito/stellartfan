@@ -128,7 +128,7 @@ async function main() {
     }
 
     if (
-      // ★ 取得対象を「配信中（live）」に変更
+      // 取得対象は「配信中（live）」のみ（配信予定（upcoming）は対象外）
       video.status !== 'live' ||
       video.chatFetched ||
       processed >= MAX_VIDEOS_PER_RUN

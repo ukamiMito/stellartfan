@@ -7,8 +7,8 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: youtube-data-update
-  cancel-in-progress: true
+  group: fetch-videos
+  cancel-in-progress: false
 
 jobs:
   fetch-videos:
