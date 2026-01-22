@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-22T19:03:39.599Z",
+  "updatedAt": "2026-01-22T21:47:42.095Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "9JpXCtujdiM",
+        "title": "#15【キャプテン翼 RISE OF NEW CHAMPIONS】『EPISODE OF NEW HERO』武蔵中編！アルゼンチン戦勝てるか、、？※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/9JpXCtujdiM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9JpXCtujdiM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-23T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
