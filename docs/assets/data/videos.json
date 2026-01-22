@@ -12051,20 +12051,20 @@
     "chatFetched": false
   },
   {
-    "videoId": "G2nQrtUQTjQ",
-    "channelKey": "channelA",
-    "channelName": "天硝路ろまん",
-    "publishedAt": "2026-01-21T19:56:25Z",
-    "title": "【日本事故物件監視協会2】前回よりも更に危険！？実在する事故物件を再び監視する！【天硝路ろまん / StellArt.】",
-    "status": "live",
-    "chatFetched": false
-  },
-  {
     "videoId": "P2LT-YmuQcw",
     "channelKey": "channelB",
     "channelName": "華鉈イオ",
     "publishedAt": "2026-01-22T02:23:58Z",
     "title": "【イオモニ/朝活】眼鏡女子は好きですか？初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
+    "status": "ended",
+    "chatFetched": false
+  },
+  {
+    "videoId": "G2nQrtUQTjQ",
+    "channelKey": "channelA",
+    "channelName": "天硝路ろまん",
+    "publishedAt": "2026-01-22T18:06:24Z",
+    "title": "【日本事故物件監視協会2】前回よりも更に危険！？実在する事故物件を再び監視する！【天硝路ろまん / StellArt.】",
     "status": "ended",
     "chatFetched": false
   }
