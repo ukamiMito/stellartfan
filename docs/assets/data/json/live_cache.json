@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-21T21:53:38.238Z",
+  "updatedAt": "2026-01-22T04:15:59.873Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "P2LT-YmuQcw",
-        "title": "【イオモニ/朝活】眼鏡女子は好きですか？初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
-        "thumbnail": "https://i.ytimg.com/vi/P2LT-YmuQcw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=P2LT-YmuQcw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-21T20:57:14Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
