@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-01-22T15:59:06.778Z",
+  "updatedAt": "2026-01-22T19:03:39.599Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "G2nQrtUQTjQ",
-        "title": "【日本事故物件監視協会2】前回よりも更に危険！？実在する事故物件を再び監視する！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/G2nQrtUQTjQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=G2nQrtUQTjQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-22T13:00:16Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
