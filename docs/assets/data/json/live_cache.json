@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-01-23T15:52:41.907Z",
+  "updatedAt": "2026-01-23T21:39:39.110Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "9JpXCtujdiM",
-        "title": "#15【キャプテン翼 RISE OF NEW CHAMPIONS】『EPISODE OF NEW HERO』武蔵中編！アルゼンチン戦勝てるか、、？※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/9JpXCtujdiM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9JpXCtujdiM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-23T12:59:27Z",
+        "videoId": "nFUbvehY22c",
+        "title": "#30【ペルソナ4 ザ・ゴールデン / P4G 】シリーズ完全初見！ついにボスのもとへ向かう！会いに行く！！※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/nFUbvehY22c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nFUbvehY22c",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-24T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
