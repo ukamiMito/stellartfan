@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-24T18:55:26.013Z",
+  "updatedAt": "2026-01-24T21:32:58.083Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "MD53MXbsSuI",
+        "title": "【グランツーリスモ7】選手権「ワールドツーリングカー 600」で勝つぞー！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/MD53MXbsSuI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MD53MXbsSuI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-25T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "KsaDg0D7S6c",
