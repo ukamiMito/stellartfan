@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-24T09:38:55.431Z",
+  "updatedAt": "2026-01-24T13:42:07.018Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#30【ペルソナ4 ザ・ゴールデン / P4G 】シリーズ完全初見！ついにボスのもとへ向かう！会いに行く！！※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/nFUbvehY22c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nFUbvehY22c",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-24T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-01-24T12:59:32Z",
         "actualEndTime": null
       }
     ],
