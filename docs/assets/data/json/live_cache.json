@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-01-24T13:42:07.018Z",
+  "updatedAt": "2026-01-24T18:55:26.013Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "nFUbvehY22c",
-        "title": "#30【ペルソナ4 ザ・ゴールデン / P4G 】シリーズ完全初見！ついにボスのもとへ向かう！会いに行く！！※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/nFUbvehY22c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nFUbvehY22c",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-24T12:59:32Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "KsaDg0D7S6c",
@@ -21,16 +10,6 @@
         "url": "https://www.youtube.com/watch?v=KsaDg0D7S6c",
         "status": "upcoming",
         "scheduledStartTime": "2026-01-25T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "3TDE2ci_Tkg",
-        "title": "【華鉈イオの深夜喫茶】第3回✨秘密のあの人へのメッセージとは・・・【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
-        "thumbnail": "https://i.ytimg.com/vi/3TDE2ci_Tkg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3TDE2ci_Tkg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-24T14:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
