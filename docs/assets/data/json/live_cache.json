@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-23T21:39:39.110Z",
+  "updatedAt": "2026-01-24T03:52:37.089Z",
   "channels": {
     "channelA": [
       {
@@ -13,6 +13,27 @@
         "actualEndTime": null
       }
     ],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "KsaDg0D7S6c",
+        "title": "【 #アークナイツエンドフィールド 】超期待の新作！今日からはじめる管理人生活✨１日目！【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/KsaDg0D7S6c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KsaDg0D7S6c",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-25T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "3TDE2ci_Tkg",
+        "title": "【華鉈イオの深夜喫茶】第3回✨秘密のあの人へのメッセージとは・・・【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
+        "thumbnail": "https://i.ytimg.com/vi/3TDE2ci_Tkg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3TDE2ci_Tkg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-24T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
