@@ -12078,15 +12078,6 @@
     "chatFetched": false
   },
   {
-    "videoId": "KsaDg0D7S6c",
-    "channelKey": "channelB",
-    "channelName": "華鉈イオ",
-    "publishedAt": "2026-01-24T02:58:23Z",
-    "title": "【 #アークナイツエンドフィールド 】超期待の新作！今日からはじめる管理人生活✨１日目！【華鉈イオ/StellArt.】",
-    "status": "live",
-    "chatFetched": false
-  },
-  {
     "videoId": "nFUbvehY22c",
     "channelKey": "channelA",
     "channelName": "天硝路ろまん",
@@ -12110,6 +12101,15 @@
     "channelName": "天硝路ろまん",
     "publishedAt": "2026-01-25T08:23:51Z",
     "title": "【グランツーリスモ7】選手権「ワールドツーリングカー 600」で勝つぞー！！【天硝路ろまん / StellArt.】",
+    "status": "ended",
+    "chatFetched": false
+  },
+  {
+    "videoId": "KsaDg0D7S6c",
+    "channelKey": "channelB",
+    "channelName": "華鉈イオ",
+    "publishedAt": "2026-01-25T17:22:28Z",
+    "title": "【 #アークナイツエンドフィールド 】超期待の新作！今日からはじめる管理人生活✨１日目！【華鉈イオ/StellArt.】",
     "status": "ended",
     "chatFetched": false
   }
