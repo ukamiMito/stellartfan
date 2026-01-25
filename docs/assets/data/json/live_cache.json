@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-01-25T15:38:58.892Z",
+  "updatedAt": "2026-01-25T21:35:31.912Z",
   "channels": {
     "channelA": [],
     "channelB": [
       {
-        "videoId": "KsaDg0D7S6c",
-        "title": "【 #アークナイツエンドフィールド 】超期待の新作！今日からはじめる管理人生活✨１日目！【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/KsaDg0D7S6c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KsaDg0D7S6c",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-25T12:57:39Z",
+        "videoId": "OJ2acmFgELg",
+        "title": "【 勝利の女神 : #nikke 】オーケストラコンサート同時視聴『 MELODIES OF VICTORY 』一緒に観よう！#139【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/OJ2acmFgELg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OJ2acmFgELg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-26T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ]
