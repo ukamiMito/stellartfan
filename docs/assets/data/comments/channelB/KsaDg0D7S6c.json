@@ -2,7 +2,7 @@
   "videoId": "KsaDg0D7S6c",
   "channelKey": "channelB",
   "channelName": "華鉈イオ",
-  "fetchedAt": "2026-01-25T15:51:46.846Z",
+  "fetchedAt": "2026-01-25T16:51:31.822Z",
   "messages": [
     {
       "t": "2026-01-25T14:12:18.142926+00:00",
@@ -1256,6 +1256,456 @@
       "t": "2026-01-25T15:50:23.797516+00:00",
       "o": null,
       "m": "タワー建てて電線引っ張ってきたらできるよ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:24:16.47333+00:00",
+      "o": null,
+      "m": "源石を爆発させて大丈夫なんだろうか",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:25:13.168362+00:00",
+      "o": null,
+      "m": "おお～",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:25:13.654924+00:00",
+      "o": null,
+      "m": "投げ方かわい",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:25:37.534809+00:00",
+      "o": null,
+      "m": "そういうのが不安定でできないんだろうね",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:27:03.019099+00:00",
+      "o": null,
+      "m": "武器あるんだ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:27:18.041409+00:00",
+      "o": null,
+      "m": "武器屋だ！",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:27:28.064019+00:00",
+      "o": null,
+      "m": "買うんかい",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:28:14.091868+00:00",
+      "o": null,
+      "m": "餅あるのかな",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:28:29.40873+00:00",
+      "o": null,
+      "m": "あるね",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:28:44.131449+00:00",
+      "o": null,
+      "m": "あるけど入手はガチャ引かないとなので",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:29:12.007828+00:00",
+      "o": null,
+      "m": "ペリカ強化したいよね",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:29:46.303998+00:00",
+      "o": null,
+      "m": "ロマンティックな言い方するじゃん",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:30:00.216125+00:00",
+      "o": null,
+      "m": "あの場所ていったらあの場所ですよｗｗ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:30:51.159165+00:00",
+      "o": null,
+      "m": "これわかりやすいねー",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:31:13.229523+00:00",
+      "o": null,
+      "m": "毛玉ラスボス説ｗ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:31:26.05892+00:00",
+      "o": null,
+      "m": "あらら",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:31:52.57994+00:00",
+      "o": null,
+      "m": "かわいいじゃん",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:32:07.849562+00:00",
+      "o": null,
+      "m": "詳細イボンヌ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:32:26.263039+00:00",
+      "o": null,
+      "m": "おっと",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:33:02.274216+00:00",
+      "o": null,
+      "m": "オネェかな？w",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:33:08.609463+00:00",
+      "o": null,
+      "m": "面白キャラの気配",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:33:11.06685+00:00",
+      "o": null,
+      "m": "かわいいｗ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:34:33.969741+00:00",
+      "o": null,
+      "m": "ｗｗｗ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:34:38.646137+00:00",
+      "o": null,
+      "m": "チェンの必殺技使ったとき危ないアングルでうれしい",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:34:50.844716+00:00",
+      "o": null,
+      "m": "嫌がられたｗ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:34:54.614024+00:00",
+      "o": null,
+      "m": "距離取られてるｗ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:34:57.468847+00:00",
+      "o": null,
+      "m": "引かれたw",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:35:37.710579+00:00",
+      "o": null,
+      "m": "あーあ、嫌われたw",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:36:06.930534+00:00",
+      "o": null,
+      "m": "気づいたら氷点下だ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:36:23.754765+00:00",
+      "o": null,
+      "m": "寒いっすね…ブランケット必須…",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:36:29.1386+00:00",
+      "o": null,
+      "m": "朝から雪かきでしたよ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:38:22.318209+00:00",
+      "o": null,
+      "m": "みんな表情がかわいい",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:38:51.210303+00:00",
+      "o": null,
+      "m": "タロタロ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:39:24.049556+00:00",
+      "o": null,
+      "m": "オリジニウムまじで何",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:39:42.463886+00:00",
+      "o": null,
+      "m": "管理人のアーツなんだ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:40:05.06335+00:00",
+      "o": null,
+      "m": "そうだね",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:40:32.629593+00:00",
+      "o": null,
+      "m": "大事なエネルギー源だけど大変な病気の元でもあったね",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:40:37.61827+00:00",
+      "o": null,
+      "m": "まぁアークナイツの時点でアーツはあれがないと動かないですから",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:40:42.467936+00:00",
+      "o": null,
+      "m": "知育きたー！",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:40:43.902326+00:00",
+      "o": null,
+      "m": "あれは源石によって引き起こされる鉱石病と言いますか",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:40:44.15684+00:00",
+      "o": null,
+      "m": "唐突に知育きか",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:40:45.998786+00:00",
+      "o": null,
+      "m": "前作プレイしてても謎なんだ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:41:03.118723+00:00",
+      "o": null,
+      "m": "www",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:41:15.754121+00:00",
+      "o": null,
+      "m": "ピクロス？",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:41:29.02259+00:00",
+      "o": null,
+      "m": "ピクロスみたいなやつ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:41:37.617554+00:00",
+      "o": null,
+      "m": ":_ぐっど::_ぐっど::_ぐっど:",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:41:45.570767+00:00",
+      "o": null,
+      "m": "理解した",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:42:29.584181+00:00",
+      "o": null,
+      "m": "こんばんは～",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:42:51.270055+00:00",
+      "o": null,
+      "m": "要塞が占拠されてるのえぐい",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:44:34.851997+00:00",
+      "o": null,
+      "m": "もしかして今まで服着てなかったのか",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:44:52.605705+00:00",
+      "o": null,
+      "m": "まぁ4人PTだからｗ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:44:54.631557+00:00",
+      "o": null,
+      "m": "2人に装備させれるからヨシ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:46:12.187032+00:00",
+      "o": null,
+      "m": "記憶ないから歓迎会気まずい",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:46:15.607685+00:00",
+      "o": null,
+      "m": "義理堅いな…",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:47:51.392072+00:00",
+      "o": null,
+      "m": "シン主任ブチギレ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:48:42.235283+00:00",
+      "o": null,
+      "m": "すご",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:48:49.108824+00:00",
+      "o": null,
+      "m": "凝ってるね",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:49:15.945475+00:00",
+      "o": null,
+      "m": "きりいいね",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:49:16.464715+00:00",
+      "o": null,
+      "m": "ガチャが引ける！",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:49:27.468363+00:00",
+      "o": null,
+      "m": "ガチャくるぅ？",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:49:34.070139+00:00",
+      "o": null,
+      "m": "おおー",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:49:35.739246+00:00",
+      "o": null,
+      "m": "引けるね",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:49:44.809495+00:00",
+      "o": null,
+      "m": "やること沢山",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:49:46.790491+00:00",
+      "o": null,
+      "m": "だれほしい？",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:50:01.134624+00:00",
+      "o": null,
+      "m": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:50:04.504543+00:00",
+      "o": null,
+      "m": ":face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes::face-red-droopy-eyes:",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:50:05.843673+00:00",
+      "o": null,
+      "m": ":medal-yellow-first-red::medal-yellow-first-red::medal-yellow-first-red::medal-yellow-first-red::medal-yellow-first-red:",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:50:09.38583+00:00",
+      "o": null,
+      "m": "術式反転…",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:50:12.882508+00:00",
+      "o": null,
+      "m": ":face-red-heart-shape::face-red-heart-shape::face-red-heart-shape::face-red-heart-shape::face-red-heart-shape:",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:50:30.034016+00:00",
+      "o": null,
+      "m": "あっ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:50:40.529768+00:00",
+      "o": null,
+      "m": "凸あります",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:50:47.082038+00:00",
+      "o": null,
+      "m": "キャラは重ねれるよ",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:50:52.53897+00:00",
+      "o": null,
+      "m": "フローライトちゃんえっどくない？",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:50:55.769213+00:00",
+      "o": null,
+      "m": "いいね",
+      "type": "textMessageEvent"
+    },
+    {
+      "t": "2026-01-25T16:51:12.661602+00:00",
+      "o": null,
+      "m": "動きカワヨ",
       "type": "textMessageEvent"
     }
   ]
