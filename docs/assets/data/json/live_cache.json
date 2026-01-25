@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-25T09:40:48.367Z",
+  "updatedAt": "2026-01-25T13:44:39.246Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -8,9 +8,9 @@
         "title": "【 #アークナイツエンドフィールド 】超期待の新作！今日からはじめる管理人生活✨１日目！【華鉈イオ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/KsaDg0D7S6c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=KsaDg0D7S6c",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-25T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-01-25T12:57:39Z",
         "actualEndTime": null
       }
     ]
