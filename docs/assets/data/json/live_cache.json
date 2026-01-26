@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-01-26T19:03:57.391Z",
+  "updatedAt": "2026-01-26T19:52:14.366Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "quq9Ik83URs",
+        "title": "【APEX】くれよんちでフルパえぺ！初心者だけどちゃんぽん狙う！！＃くれよんどおり三番地 【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/quq9Ik83URs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=quq9Ik83URs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-27T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
