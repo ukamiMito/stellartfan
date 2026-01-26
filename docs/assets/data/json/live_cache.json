@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-01-26T13:57:07.442Z",
+  "updatedAt": "2026-01-26T15:55:49.309Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "OJ2acmFgELg",
-        "title": "【 勝利の女神 : #nikke 】オーケストラコンサート同時視聴『 MELODIES OF VICTORY 』一緒に観よう！※スパチャ禁止#139【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/OJ2acmFgELg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OJ2acmFgELg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-26T12:58:27Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
