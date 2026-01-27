@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-27T11:55:12.502Z",
+  "updatedAt": "2026-01-27T13:59:53.522Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【APEX】くれよんちでフルパえぺ！初心者だけどちゃんぽん狙う！！＃くれよんどおり三番地 【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/quq9Ik83URs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=quq9Ik83URs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-27T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-01-27T12:58:15Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【 APEX 】フルパで挑戦！久しぶりFPSだけどちゃんぽん狙って頑張ります【華鉈イオ/StellArt.】#新人vtuber #くれよんどおり三番地",
         "thumbnail": "https://i.ytimg.com/vi/nrz3exAlC7A/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nrz3exAlC7A",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-27T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-01-27T12:58:15Z",
         "actualEndTime": null
       }
     ]
