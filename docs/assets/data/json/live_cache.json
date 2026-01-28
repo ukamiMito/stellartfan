@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T11:53:38.836Z",
+  "updatedAt": "2026-01-28T13:59:54.299Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【同時視聴】映画『ワイルド・スピードX2』を完全初見で観る✨【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/nD-V0RDIGwI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nD-V0RDIGwI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-28T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-01-28T12:58:28Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【グランツーリスモ7】初めてのGT7🔰FR車に大苦戦、、！カマロくん難しいよー！！！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/fzdUSsyv61U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fzdUSsyv61U",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-28T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-01-28T12:59:23Z",
         "actualEndTime": null
       }
     ]
