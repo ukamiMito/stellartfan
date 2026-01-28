@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T07:03:39.564Z",
+  "updatedAt": "2026-01-28T07:54:35.812Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "H9QFRyeVTHA",
+        "title": "【 #アークナイツエンドフィールド 】#2 超期待の新作！アルデリア貰ったから使ってみたい！【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/H9QFRyeVTHA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H9QFRyeVTHA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "fzdUSsyv61U",
         "title": "【グランツーリスモ7】初めてのGT7🔰FR車に大苦戦、、！カマロくん難しいよー！！！【華鉈イオ/StellArt.】#gt7",
