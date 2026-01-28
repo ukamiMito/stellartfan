@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-01-28T19:47:12.299Z",
+  "updatedAt": "2026-01-28T21:02:40.663Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "jCkjScUOZbU",
+        "title": "【Quarantine Zone】今話題の人間かゾンビかを仕分けるゲーム！私がいる限りこの避難所は安全よ。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/jCkjScUOZbU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jCkjScUOZbU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
+      {
+        "videoId": "sLV-Mqwf324",
+        "title": "【イオモニ/朝活】2026年初お買い物失敗しました。初見さんも大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
+        "thumbnail": "https://i.ytimg.com/vi/sLV-Mqwf324/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sLV-Mqwf324",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-01-28T20:57:19Z",
+        "actualEndTime": null
+      },
       {
         "videoId": "H9QFRyeVTHA",
         "title": "【 #アークナイツエンドフィールド 】#2 超期待の新作！アルデリア貰ったから使ってみたい！【華鉈イオ/StellArt.】",
