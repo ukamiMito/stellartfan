@@ -1,0 +1,9 @@
+# ビルド済みCSSファイル
+docs/
+*.css
+
+# 依存関係
+node_modules/
+
+# 外部ファイル
+src/assets/styles/base/_reset.scss

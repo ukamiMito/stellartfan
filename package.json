@@ -3,11 +3,28 @@
   "private": true,
   "type": "module",
   "devDependencies": {
+    "@11ty/eleventy": "^3.1.2",
     "browser-sync": "^3.0.4",
-    "npm-run-all2": "^8.0.4"
+    "cssnano": "^7.1.2",
+    "nodemon": "^3.1.11",
+    "npm-run-all2": "^8.0.4",
+    "postcss": "^8.5.6",
+    "postcss-cli": "^11.0.1",
+    "postcss-scss": "^4.0.9",
+    "sass": "^1.97.3",
+    "stylelint": "^17.0.0",
+    "stylelint-config-standard-scss": "^17.0.0"
   },
   "scripts": {
-    "start": "run-p -c watch",
-    "watch": "browser-sync start --config bs-config.cjs"
+    "start": "run-p -c watch:*",
+    "build": "run-s build:*",
+    "build:scss": "sass src/assets/styles:docs/assets/styles --no-source-map",
+    "build:css": "postcss docs/assets/styles/**/*.css --dir docs/assets/styles --base docs/assets/styles",
+    "lint": "run-p lint:*",
+    "lint:scss": "stylelint \"src/assets/styles/**/*.scss\"",
+    "lint:fix": "stylelint \"src/assets/styles/**/*.scss\" --fix",
+    "watch": "run-p -c watch:*",
+    "watch:css": "nodemon --watch src/assets/styles --ext scss --exec \"npm run build\"",
+    "watch:server": "browser-sync start --config bs-config.cjs"
   }
 }
