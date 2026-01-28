@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-28T17:08:33.894Z",
+  "updatedAt": "2026-01-28T18:02:20.748Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -11,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-01-29T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "fzdUSsyv61U",
-        "title": "【グランツーリスモ7】初めてのGT7🔰FR車に大苦戦、、！カマロくん難しいよー！！！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/fzdUSsyv61U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fzdUSsyv61U",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-28T12:59:23Z",
         "actualEndTime": null
       }
     ]
