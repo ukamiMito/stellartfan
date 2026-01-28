@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-01-28T15:03:04.073Z",
+  "updatedAt": "2026-01-28T17:08:33.894Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "nD-V0RDIGwI",
-        "title": "【同時視聴】映画『ワイルド・スピードX2』を完全初見で観る✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/nD-V0RDIGwI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nD-V0RDIGwI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-28T12:58:28Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "H9QFRyeVTHA",
