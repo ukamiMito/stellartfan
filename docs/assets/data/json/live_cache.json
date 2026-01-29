@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T10:01:17.290Z",
+  "updatedAt": "2026-01-29T11:49:49.036Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "zFjItpwsmy0",
+        "title": "【ELDEN RING/エルデンリング】#2 完全初見！Lv88で挑む！強敵ボス『火の巨人』を倒す(3回目)※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/zFjItpwsmy0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zFjItpwsmy0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-30T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "H9QFRyeVTHA",
         "title": "【 #アークナイツエンドフィールド 】#2 超期待の新作！アルデリア貰ったから使ってみたい！【華鉈イオ/StellArt.】",
