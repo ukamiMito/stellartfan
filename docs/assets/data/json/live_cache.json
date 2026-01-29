@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T16:05:05.620Z",
+  "updatedAt": "2026-01-29T18:04:26.606Z",
   "channels": {
     "channelA": [
       {
@@ -22,16 +22,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-01-30T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "H9QFRyeVTHA",
-        "title": "【 #アークナイツエンドフィールド 】#2 超期待の新作！アルデリア貰ったから使ってみたい！【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/H9QFRyeVTHA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=H9QFRyeVTHA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-29T12:58:01Z",
         "actualEndTime": null
       }
     ]
