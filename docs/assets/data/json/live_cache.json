@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-29T11:49:49.036Z",
+  "updatedAt": "2026-01-29T14:11:27.933Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【Quarantine Zone】今話題の人間かゾンビかを仕分けるゲーム！私がいる限りこの避難所は安全よ。【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/jCkjScUOZbU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=jCkjScUOZbU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-29T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-01-29T12:58:55Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【 #アークナイツエンドフィールド 】#2 超期待の新作！アルデリア貰ったから使ってみたい！【華鉈イオ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/H9QFRyeVTHA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=H9QFRyeVTHA",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-29T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-01-29T12:58:01Z",
         "actualEndTime": null
       }
     ]
