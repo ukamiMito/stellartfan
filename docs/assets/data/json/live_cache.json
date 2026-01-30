@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-01-30T16:01:56.011Z",
+  "updatedAt": "2026-01-30T18:01:03.057Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "zFjItpwsmy0",
-        "title": "【ELDEN RING/エルデンリング】#2 完全初見！Lv88で挑む！強敵ボス『火の巨人』を倒す(3回目)※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/zFjItpwsmy0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zFjItpwsmy0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-30T13:03:19Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
