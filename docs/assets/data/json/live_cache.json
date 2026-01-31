@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T11:39:23.573Z",
+  "updatedAt": "2026-01-31T13:53:28.465Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#5【スナック浪漫】今日は恋愛トーク！？みんなのラブタイプが知りたい！💕【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/w9Rt2ZOqC-g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=w9Rt2ZOqC-g",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-31T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-01-31T12:59:13Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【ELDEN RING/エルデンリング】#27 完全初見！レベル上げ修行の旅！『ファルムアズラ』攻略の為に強化する！！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/DSVrdqKrJEE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DSVrdqKrJEE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-01-31T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-01-31T12:58:29Z",
         "actualEndTime": null
       }
     ]
