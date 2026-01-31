@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-01-31T16:58:53.707Z",
+  "updatedAt": "2026-01-31T17:52:21.476Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "w9Rt2ZOqC-g",
-        "title": "#5【スナック浪漫】今日は恋愛トーク！？みんなのラブタイプが知りたい！💕【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/w9Rt2ZOqC-g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=w9Rt2ZOqC-g",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-01-31T12:59:13Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
