@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-01-31T07:43:47.204Z",
+  "updatedAt": "2026-01-31T08:59:38.520Z",
   "channels": {
-    "channelA": [],
-    "channelB": []
+    "channelA": [
+      {
+        "videoId": "w9Rt2ZOqC-g",
+        "title": "#5【スナック浪漫】今日は恋愛トーク！？みんなのラブタイプが知りたい！💕【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/w9Rt2ZOqC-g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w9Rt2ZOqC-g",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-31T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "DSVrdqKrJEE",
+        "title": "【ELDEN RING/エルデンリング】#27 完全初見！レベル上げ修行の旅！『ファルムアズラ』攻略の為に強化する！！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/DSVrdqKrJEE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DSVrdqKrJEE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-01-31T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
