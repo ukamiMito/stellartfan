@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-01-31T23:44:35.883Z",
+  "updatedAt": "2026-02-01T05:17:35.203Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#31【ペルソナ4 ザ・ゴールデン / P4G 】シリーズ完全初見！霧も晴れて平和だあああ✨※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/DiJSOXF2A9g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DiJSOXF2A9g",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-01T05:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-01T04:59:22Z",
         "actualEndTime": null
       }
     ],
