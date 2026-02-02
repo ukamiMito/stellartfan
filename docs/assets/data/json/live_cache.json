@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-02T14:28:10.004Z",
+  "updatedAt": "2026-02-02T16:02:57.261Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -21,16 +21,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-02-03T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "XulnGDqprnM",
-        "title": "【 勝利の女神 : #nikke 】✨新イベ＆キャラ登場！『FATAL MAID』一緒に観よう！！ベルベット色々とやばい。#140【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/XulnGDqprnM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XulnGDqprnM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-02T12:57:43Z",
         "actualEndTime": null
       }
     ]
