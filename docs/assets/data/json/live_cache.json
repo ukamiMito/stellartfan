@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-02-02T18:06:55.048Z",
+  "updatedAt": "2026-02-02T23:56:41.003Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "826vn8vVyDI",
+        "title": "#2【Quarantine Zone】DAY10から！どんどん検査してくよ～ワンオペだよ～～！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/826vn8vVyDI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=826vn8vVyDI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-03T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "8TnvAiT2fs4",
