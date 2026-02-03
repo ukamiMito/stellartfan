@@ -1,39 +1,7 @@
 {
-  "updatedAt": "2026-02-03T07:54:30.240Z",
+  "updatedAt": "2026-02-03T10:05:31.843Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "826vn8vVyDI",
-        "title": "#2【Quarantine Zone】DAY10から！どんどん検査してくよ～ワンオペだよ～～！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/826vn8vVyDI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=826vn8vVyDI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-03T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "8TnvAiT2fs4",
-        "title": "【 #アークナイツエンドフィールド 】#3 推しと共にメインストーリーを進めていく！工業むずいい【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/8TnvAiT2fs4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8TnvAiT2fs4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-04T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "0ViLIXcb5f0",
-        "title": "【グランツーリスモ7】初めてのGT7🔰A級ライセンスもオールゴールド達成目指します！！！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/0ViLIXcb5f0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0ViLIXcb5f0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-03T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": []
   }
 }
