@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-02-03T20:01:14.055Z",
+  "updatedAt": "2026-02-03T22:00:12.072Z",
   "channels": {
-    "channelA": [],
-    "channelB": []
+    "channelA": [
+      {
+        "videoId": "KHgw7HZLLKI",
+        "title": "【同時視聴】映画『ワイルド・スピードX3 TOKYO DRIFT』を完全初見で観る！今回の舞台は東京！？【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/KHgw7HZLLKI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KHgw7HZLLKI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-04T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "8TnvAiT2fs4",
+        "title": "【 #アークナイツエンドフィールド 】#3 推しと共にメインストーリーを進めていく！工業むずいい【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/8TnvAiT2fs4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8TnvAiT2fs4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-04T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
