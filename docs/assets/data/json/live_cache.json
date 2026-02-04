@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-02-04T19:50:10.242Z",
+  "updatedAt": "2026-02-04T21:05:21.916Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "p9pXj2blFKs",
+        "title": "【龍が如く0】完全初見！極から0へ、伝説の始まりを見に行く！！※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/p9pXj2blFKs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=p9pXj2blFKs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-05T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
