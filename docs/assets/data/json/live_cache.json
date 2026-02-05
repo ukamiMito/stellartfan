@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-02-05T17:35:38.526Z",
+  "updatedAt": "2026-02-05T19:51:51.481Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "p9pXj2blFKs",
-        "title": "【龍が如く0】完全初見！極から0へ、伝説の始まりを見に行く！！※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/p9pXj2blFKs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=p9pXj2blFKs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-05T12:59:08Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "gbjmFJRvHdM",
@@ -22,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-02-06T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "jubiNCxG0yM",
-        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.42『唯一』メインストーリー攻略！ギリギリ青字攻略、、#141【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/jubiNCxG0yM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jubiNCxG0yM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-05T12:57:57Z",
         "actualEndTime": null
       }
     ]
