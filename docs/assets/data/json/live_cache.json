@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-04T23:55:04.274Z",
+  "updatedAt": "2026-02-05T05:08:51.135Z",
   "channels": {
     "channelA": [
       {
@@ -13,6 +13,27 @@
         "actualEndTime": null
       }
     ],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "gbjmFJRvHdM",
+        "title": "【ELDEN RING/エルデンリング】#28 完全初見！ケイリッド地区にてレベル上げ修行の旅！アズラまでの道のり長い～※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/gbjmFJRvHdM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gbjmFJRvHdM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "jubiNCxG0yM",
+        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.42『唯一』メインストーリー攻略！ギリギリ青字攻略、、#141【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/jubiNCxG0yM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jubiNCxG0yM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-05T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
