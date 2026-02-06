@@ -1,27 +1,16 @@
 {
-  "updatedAt": "2026-02-06T16:28:00.709Z",
+  "updatedAt": "2026-02-06T19:11:28.982Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "JXX06TtKluM",
-        "title": "#32【ペルソナ4 ザ・ゴールデン / P4G 】シリーズ完全初見！スキーにバレンタインまだまだイベントがたくさん🎶※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/JXX06TtKluM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JXX06TtKluM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-06T12:59:35Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
-        "videoId": "gbjmFJRvHdM",
-        "title": "【ELDEN RING/エルデンリング】#28 完全初見！ケイリッド地区にてレベル上げ修行の旅！アズラまでの道のり長い～※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/gbjmFJRvHdM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gbjmFJRvHdM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-06T12:57:41Z",
+        "videoId": "OeRacowxkQQ",
+        "title": "【ELDEN RING/エルデンリング】#29 完全初見！レベルUP＆武器強化の旅！霊灰をもっと見つけたい。※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/OeRacowxkQQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OeRacowxkQQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-07T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ]
