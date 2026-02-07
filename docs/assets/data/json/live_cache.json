@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-02-07T11:44:08.005Z",
+  "updatedAt": "2026-02-07T13:55:46.869Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "frV06UcbVL8",
-        "title": "#2【龍が如く0】完全初見！立華不動産えげつないよぉ。。第二章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/frV06UcbVL8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=frV06UcbVL8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-07T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "OeRacowxkQQ",
-        "title": "【ELDEN RING/エルデンリング】#29 完全初見！レベルUP＆武器強化の旅！霊灰をもっと見つけたい。※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/OeRacowxkQQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OeRacowxkQQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-07T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": []
   }
 }
