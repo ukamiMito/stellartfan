@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-07T15:52:08.630Z",
+  "updatedAt": "2026-02-07T17:01:23.916Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "OeRacowxkQQ",
-        "title": "【ELDEN RING/エルデンリング】#29 完全初見！レベルUP＆武器強化の旅！霊灰をもっと見つけたい。※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/OeRacowxkQQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OeRacowxkQQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-07T12:57:41Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
