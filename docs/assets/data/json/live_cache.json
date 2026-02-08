@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-02-08T14:58:34.928Z",
+  "updatedAt": "2026-02-08T15:53:25.970Z",
   "channels": {
     "channelA": [],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "Ve4MVp7t0xw",
+        "title": "【グランツーリスモ7】初めてのGT7🔰ライセンス沼『国際B級』のオールゴールドに挑戦する！！！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/Ve4MVp7t0xw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ve4MVp7t0xw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-10T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "dFinZcnuYSs",
+        "title": "【 #アークナイツエンドフィールド 】#4 泣き怒りながら工業を進める様をお届けします。【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/dFinZcnuYSs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dFinZcnuYSs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-09T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
