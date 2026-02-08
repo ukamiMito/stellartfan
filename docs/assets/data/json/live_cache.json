@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-08T00:01:08.340Z",
+  "updatedAt": "2026-02-08T05:42:26.935Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【グランツーリスモ7】初挑戦🔥何が何でもドリフトがしたああああい！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/PEQxFDpidaM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PEQxFDpidaM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-08T05:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-08T05:07:42Z",
         "actualEndTime": null
       }
     ],
