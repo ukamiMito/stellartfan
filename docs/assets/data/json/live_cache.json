@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-09T11:13:57.101Z",
+  "updatedAt": "2026-02-09T14:41:50.506Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -28,9 +28,9 @@
         "title": "【 #アークナイツエンドフィールド 】#4 泣き怒りながら工業を進める様をお届けします。【華鉈イオ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/dFinZcnuYSs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=dFinZcnuYSs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-09T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-09T12:57:47Z",
         "actualEndTime": null
       }
     ]
