@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-02-09T18:02:41.143Z",
+  "updatedAt": "2026-02-09T20:08:28.781Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "4k_wra_-58E",
+        "title": "#3【龍が如く0】完全初見！あなたがあの真島の兄さん！？え？！？第四章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/4k_wra_-58E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4k_wra_-58E",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-10T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "XvKEyvbsG3M",
