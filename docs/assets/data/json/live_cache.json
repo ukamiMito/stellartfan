@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-10T05:55:55.028Z",
+  "updatedAt": "2026-02-10T08:08:48.960Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "koDOl2J4uvI",
+        "title": "【 #アークナイツエンドフィールド 】#5 メインストーリー進める！探索レベルを上げたいいい【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/koDOl2J4uvI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=koDOl2J4uvI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-12T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "XvKEyvbsG3M",
         "title": "【ELDEN RING/エルデンリング】#30 完全初見！『巨人たちの山嶺』霊喚びの洞窟に挑戦する！～霊灰探しの旅～※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
