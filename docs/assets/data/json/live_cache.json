@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-02-10T19:44:52.959Z",
+  "updatedAt": "2026-02-10T22:06:47.747Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "e6AixMiItJ8",
+        "title": "#3【Quarantine Zone】DAY17から！拳銃で自分の身を守れってこと！？検査しながら！？【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/e6AixMiItJ8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=e6AixMiItJ8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-11T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "koDOl2J4uvI",
