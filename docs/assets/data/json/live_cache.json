@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-11T14:42:42.716Z",
+  "updatedAt": "2026-02-11T18:10:40.399Z",
   "channels": {
     "channelA": [
       {
@@ -22,16 +22,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-02-12T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "XvKEyvbsG3M",
-        "title": "【ELDEN RING/エルデンリング】#30 完全初見！『巨人たちの山嶺』霊喚びの洞窟に挑戦する！～霊灰探しの旅～※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/XvKEyvbsG3M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XvKEyvbsG3M",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-11T12:57:49Z",
         "actualEndTime": null
       }
     ]
