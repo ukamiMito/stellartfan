@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-02-11T18:10:40.399Z",
+  "updatedAt": "2026-02-11T20:04:09.064Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "e6AixMiItJ8",
-        "title": "#3【Quarantine Zone】DAY17から！拳銃で自分の身を守れってこと！？検査しながら！？【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/e6AixMiItJ8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=e6AixMiItJ8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-11T12:59:32Z",
+        "videoId": "_Zdk03k-Nos",
+        "title": "#4【龍が如く0】完全初見！マコトはどうなったの！？桐生ちゃんもこれからどうするよ！？第六章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/_Zdk03k-Nos/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_Zdk03k-Nos",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-12T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
