@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T12:04:21.574Z",
+  "updatedAt": "2026-02-12T15:12:10.759Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#4【龍が如く0】完全初見！マコトはどうなったの！？桐生ちゃんもこれからどうするよ！？第六章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/_Zdk03k-Nos/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=_Zdk03k-Nos",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-12T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-12T12:58:11Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【 #アークナイツエンドフィールド 】#5 メインストーリー進める！探索レベルを上げたいいい【華鉈イオ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/koDOl2J4uvI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=koDOl2J4uvI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-12T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-12T12:58:27Z",
         "actualEndTime": null
       }
     ]
