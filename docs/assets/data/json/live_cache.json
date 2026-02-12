@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-02-12T17:56:41.120Z",
+  "updatedAt": "2026-02-12T19:08:44.324Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "_Zdk03k-Nos",
-        "title": "#4【龍が如く0】完全初見！マコトはどうなったの！？桐生ちゃんもこれからどうするよ！？第六章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/_Zdk03k-Nos/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_Zdk03k-Nos",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-12T12:58:11Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
