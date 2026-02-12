@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-12T16:30:57.663Z",
+  "updatedAt": "2026-02-12T17:56:41.120Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "koDOl2J4uvI",
-        "title": "【 #アークナイツエンドフィールド 】#5 メインストーリー進める！探索レベルを上げたいいい【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/koDOl2J4uvI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=koDOl2J4uvI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-12T12:58:27Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
