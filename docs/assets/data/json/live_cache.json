@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-02-13T18:03:14.576Z",
+  "updatedAt": "2026-02-13T19:23:16.040Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "-WsZ9hVCi20",
+        "title": "【同時視聴】映画『ワイルド・スピードMAX』を完全初見で観る！チョコレートよりも車。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/-WsZ9hVCi20/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-WsZ9hVCi20",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-14T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
