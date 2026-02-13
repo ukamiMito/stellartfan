@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-02-13T16:07:44.222Z",
+  "updatedAt": "2026-02-13T17:23:19.034Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "khiJ98c2uzY",
-        "title": "#33【ペルソナ4 ザ・ゴールデン / P4G 】シリーズ完全初見！マリーはどこに行ったんだあああ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/khiJ98c2uzY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=khiJ98c2uzY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-13T12:59:03Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
