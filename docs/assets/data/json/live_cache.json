@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-13T22:34:03.776Z",
+  "updatedAt": "2026-02-13T23:30:55.511Z",
   "channels": {
     "channelA": [
       {
@@ -13,6 +13,17 @@
         "actualEndTime": null
       }
     ],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "4jy61kFeY3Q",
+        "title": "【 メン限/ASMR 】ハッピーバレンタイン♡いろんなチョコ食べるよ🍫咀嚼音/Mukbang/Eating sounds【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/4jy61kFeY3Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4jy61kFeY3Q",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-14T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
