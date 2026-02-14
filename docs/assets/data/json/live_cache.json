@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-02-14T17:33:20.357Z",
+  "updatedAt": "2026-02-14T18:35:34.515Z",
   "channels": {
     "channelA": [],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "2DYFoxn0GCc",
+        "title": "【#ロケットリーグ 】ロケリ初心者🔰大会に向けて練習します！YMTOさん直伝講座に参加！！【華鉈イオ/StellArt.】#ねくすとげーむふぇす",
+        "thumbnail": "https://i.ytimg.com/vi/2DYFoxn0GCc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2DYFoxn0GCc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-15T08:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
