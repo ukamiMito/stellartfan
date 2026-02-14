@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-02-14T19:45:16.827Z",
+  "updatedAt": "2026-02-14T20:27:08.918Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "kWZZBaKJJGA",
+        "title": "【ロケットリーグ】本番に向けてYMTOさんにロケリを教えてもらう会！【天硝路ろまん / StellArt.】#ねくすとげーむふぇす",
+        "thumbnail": "https://i.ytimg.com/vi/kWZZBaKJJGA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kWZZBaKJJGA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-15T08:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "2DYFoxn0GCc",
