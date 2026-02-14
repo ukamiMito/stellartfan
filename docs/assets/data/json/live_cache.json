@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-14T12:49:55.584Z",
+  "updatedAt": "2026-02-14T13:44:26.818Z",
   "channels": {
     "channelA": [
       {
@@ -7,23 +7,12 @@
         "title": "【同時視聴】映画『ワイルド・スピードMAX』を完全初見で観る！チョコレートよりも車。【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/-WsZ9hVCi20/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-WsZ9hVCi20",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-14T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-14T12:59:17Z",
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "4jy61kFeY3Q",
-        "title": "【 メン限/ASMR 】ハッピーバレンタイン♡いろんなチョコ食べるよ🍫咀嚼音/Mukbang/Eating sounds【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/4jy61kFeY3Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4jy61kFeY3Q",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-14T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
