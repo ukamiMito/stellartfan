@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-15T07:39:31.333Z",
+  "updatedAt": "2026-02-15T08:34:09.619Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【ロケットリーグ】本番に向けてYMTOさんにロケリを教えてもらう会！【天硝路ろまん / StellArt.】#ねくすとげーむふぇす",
         "thumbnail": "https://i.ytimg.com/vi/kWZZBaKJJGA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=kWZZBaKJJGA",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-15T08:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-15T07:59:42Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【#ロケットリーグ 】ロケリ初心者🔰大会に向けて練習します！YMTOさん直伝講座に参加！！【華鉈イオ/StellArt.】#ねくすとげーむふぇす",
         "thumbnail": "https://i.ytimg.com/vi/2DYFoxn0GCc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2DYFoxn0GCc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-15T08:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-15T07:59:27Z",
         "actualEndTime": null
       }
     ]
