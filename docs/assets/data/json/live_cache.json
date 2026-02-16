@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-16T11:40:21.447Z",
+  "updatedAt": "2026-02-16T13:04:18.634Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -8,9 +8,9 @@
         "title": "【 勝利の女神 : #nikke 】新イベ✨NIKKExリコリス・リコイル『Lie cause Recoil』初見リコリコ！#141【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/AZyux1AFLe0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=AZyux1AFLe0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-16T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-16T12:57:39Z",
         "actualEndTime": null
       }
     ]
