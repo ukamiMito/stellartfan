@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-17T14:28:02.467Z",
+  "updatedAt": "2026-02-17T17:55:18.222Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "CVUlzNfZe8c",
-        "title": "【#ロケットリーグ 】ロケリ初心者🔰視聴者参加型！大会練習に付き合ってくれえええい【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/CVUlzNfZe8c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CVUlzNfZe8c",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-17T12:57:34Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
