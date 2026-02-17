@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-02-17T11:59:52.309Z",
+  "updatedAt": "2026-02-17T13:24:19.450Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "R2YoagY0D4o",
-        "title": "#5【龍が如く0】完全初見！一旦キャバクラで天下を獲ったっていい。第七章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/R2YoagY0D4o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R2YoagY0D4o",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-17T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "CVUlzNfZe8c",
-        "title": "【#ロケットリーグ 】ロケリ初心者🔰視聴者参加型！大会練習に付き合ってくれえええい【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/CVUlzNfZe8c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CVUlzNfZe8c",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-17T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": []
   }
 }
