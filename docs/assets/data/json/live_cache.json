@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-02-17T17:55:18.222Z",
+  "updatedAt": "2026-02-17T18:58:08.332Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "R2YoagY0D4o",
-        "title": "#5【龍が如く0】完全初見！一旦キャバクラで天下を獲ったっていい。第七章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/R2YoagY0D4o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R2YoagY0D4o",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-17T12:58:31Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
