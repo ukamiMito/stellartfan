@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-02-18T20:39:44.787Z",
+  "updatedAt": "2026-02-18T21:35:09.579Z",
   "channels": {
-    "channelA": [],
-    "channelB": []
+    "channelA": [
+      {
+        "videoId": "gYXDBGNOwWo",
+        "title": "【同時視聴】映画『ワイルド・スピードMEGA MAX』を完全初見でみんなと観る♪【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/gYXDBGNOwWo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gYXDBGNOwWo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-19T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "ZnQS6PafVqc",
+        "title": "【イオモニ/朝活】朝のまったりおはなし。初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
+        "thumbnail": "https://i.ytimg.com/vi/ZnQS6PafVqc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZnQS6PafVqc",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-18T20:58:33Z",
+        "actualEndTime": null
+      }
+    ]
   }
 }
