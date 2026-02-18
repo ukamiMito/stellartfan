@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-18T11:38:08.251Z",
+  "updatedAt": "2026-02-18T13:05:07.973Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#4【Quarantine Zone】DAY24から！果たしてクリアできるのか、そもそもこの世界にハッピーなクリアがあるのか。【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/Nwc6pbCuwTw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Nwc6pbCuwTw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-18T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-18T12:58:25Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【 #アークナイツエンドフィールド 】#6 メインストーリー進める！電柱建てるの楽しい！！【華鉈イオ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/YZY5ZByjZ9Y/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YZY5ZByjZ9Y",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-18T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-18T12:57:57Z",
         "actualEndTime": null
       }
     ]
