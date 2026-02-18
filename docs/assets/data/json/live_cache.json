@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-02-18T15:26:42.228Z",
+  "updatedAt": "2026-02-18T16:33:47.351Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "Nwc6pbCuwTw",
-        "title": "#4【Quarantine Zone】DAY24から！果たしてクリアできるのか、そもそもこの世界にハッピーなクリアがあるのか。【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Nwc6pbCuwTw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Nwc6pbCuwTw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-18T12:58:25Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "YZY5ZByjZ9Y",
