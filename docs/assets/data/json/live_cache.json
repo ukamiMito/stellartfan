@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-02-18T16:33:47.351Z",
+  "updatedAt": "2026-02-18T17:51:48.930Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "YZY5ZByjZ9Y",
-        "title": "【 #アークナイツエンドフィールド 】#6 メインストーリー進める！電柱建てるの楽しい！！【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/YZY5ZByjZ9Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YZY5ZByjZ9Y",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-18T12:57:57Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
