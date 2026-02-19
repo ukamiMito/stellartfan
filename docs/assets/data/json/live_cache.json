@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-19T12:00:14.789Z",
+  "updatedAt": "2026-02-19T13:38:29.939Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【同時視聴】映画『ワイルド・スピードMEGA MAX』を完全初見でみんなと観る♪【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/gYXDBGNOwWo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=gYXDBGNOwWo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-19T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-19T12:58:57Z",
         "actualEndTime": null
       }
     ],
