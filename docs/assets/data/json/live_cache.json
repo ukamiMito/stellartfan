@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-02-20T16:00:11.413Z",
+  "updatedAt": "2026-02-20T16:53:45.920Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "TqV3gWgDItk",
-        "title": "【#ロケットリーグ 】ロケリ初心者🔰視聴者参加型！フリップ練習頑張ります！！！【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/TqV3gWgDItk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TqV3gWgDItk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-20T12:56:52Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
