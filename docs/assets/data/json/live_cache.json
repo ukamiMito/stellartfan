@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-02-19T23:56:19.857Z",
+  "updatedAt": "2026-02-20T02:25:32.418Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "R_TnAMoTifY",
-        "title": "【ロケットリーグ】ぶっ飛べ！けろまる号のみんなでチーム練習✨【天硝路ろまん / StellArt.】#ねくすとげーむふぇす",
-        "thumbnail": "https://i.ytimg.com/vi/R_TnAMoTifY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R_TnAMoTifY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-20T09:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "TqV3gWgDItk",
-        "title": "【#ロケットリーグ 】ロケリ初心者🔰視聴者参加型！フリップ練習頑張ります！！！【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/TqV3gWgDItk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TqV3gWgDItk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-20T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": []
   }
 }
