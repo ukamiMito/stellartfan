@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-02-20T16:53:45.920Z",
+  "updatedAt": "2026-02-20T17:37:45.032Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "04k9C0b_Jjw",
+        "title": "【ロケットリーグ】明日は本番！自主練習やるぞ～✨視聴者参加型もするかも！【天硝路ろまん / StellArt.】#ねくすとげーむふぇす",
+        "thumbnail": "https://i.ytimg.com/vi/04k9C0b_Jjw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=04k9C0b_Jjw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-21T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
