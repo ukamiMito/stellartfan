@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-20T08:40:59.750Z",
+  "updatedAt": "2026-02-20T09:41:02.787Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【ロケットリーグ】ぶっ飛べ！けろまる号のみんなでチーム練習✨【天硝路ろまん / StellArt.】#ねくすとげーむふぇす",
         "thumbnail": "https://i.ytimg.com/vi/R_TnAMoTifY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=R_TnAMoTifY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-20T09:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-20T09:00:22Z",
         "actualEndTime": null
       }
     ],
