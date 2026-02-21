@@ -1,7 +1,39 @@
 {
-  "updatedAt": "2026-02-21T09:30:15.524Z",
+  "updatedAt": "2026-02-21T09:54:14.034Z",
   "channels": {
-    "channelA": [],
-    "channelB": []
+    "channelA": [
+      {
+        "videoId": "04k9C0b_Jjw",
+        "title": "【ロケットリーグ】明日は本番！自主練習やるぞ～！！BOOM💥【天硝路ろまん / StellArt.】#ねくすとげーむふぇす",
+        "thumbnail": "https://i.ytimg.com/vi/04k9C0b_Jjw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=04k9C0b_Jjw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-21T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "iKtEeXMlRzg",
+        "title": "【#ロケットリーグ】大会本番🔥ついにやってきた！絶対勝つぞ！賞金持って帰るぞ～！！！【華鉈イオ/StellArt.】#ねくすとげーむふぇす",
+        "thumbnail": "https://i.ytimg.com/vi/iKtEeXMlRzg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iKtEeXMlRzg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-22T08:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "Oar62uJnG4Y",
+        "title": "【#ロケットリーグ 】ロケリ初心者🔰視聴者参加型！セーブ練習するぞ！カバーカバーカバー！！！【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Oar62uJnG4Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Oar62uJnG4Y",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-21T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
