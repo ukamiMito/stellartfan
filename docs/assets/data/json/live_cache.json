@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T12:48:48.541Z",
+  "updatedAt": "2026-02-21T13:42:19.408Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【ロケットリーグ】明日は本番！自主練習やるぞ～！！BOOM💥【天硝路ろまん / StellArt.】#ねくすとげーむふぇす",
         "thumbnail": "https://i.ytimg.com/vi/04k9C0b_Jjw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=04k9C0b_Jjw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-21T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-21T12:57:21Z",
         "actualEndTime": null
       }
     ],
@@ -39,9 +39,9 @@
         "title": "【#ロケットリーグ 】ロケリ初心者🔰明日の大会に向けてセーブ練習するぞ！カバーカバーカバー！！！【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/Oar62uJnG4Y/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Oar62uJnG4Y",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-21T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-21T12:58:14Z",
         "actualEndTime": null
       }
     ]
