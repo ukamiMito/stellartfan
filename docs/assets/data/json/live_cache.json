@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T11:22:16.128Z",
+  "updatedAt": "2026-02-21T11:45:22.342Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "6HnMB5nCilM",
+        "title": "【 勝利の女神 : #nikke 】新イベ✨NIKKExリコリス・リコイル『Lie cause Recoil』ストーリー2読み！#142【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/6HnMB5nCilM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6HnMB5nCilM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-23T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "iKtEeXMlRzg",
         "title": "【#ロケットリーグ】大会本番🔥ついにやってきた！絶対勝つぞ！賞金持って帰るぞ～！！！【華鉈イオ/StellArt.】#ねくすとげーむふぇす",
