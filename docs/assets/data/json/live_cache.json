@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-21T18:35:51.330Z",
+  "updatedAt": "2026-02-21T19:24:32.832Z",
   "channels": {
     "channelA": [
       {
@@ -32,16 +32,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-02-22T08:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "Oar62uJnG4Y",
-        "title": "【#ロケットリーグ 】ロケリ初心者🔰明日の大会に向けてセーブ練習するぞ！カバーカバーカバー！！！【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Oar62uJnG4Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Oar62uJnG4Y",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-21T12:58:14Z",
         "actualEndTime": null
       }
     ]
