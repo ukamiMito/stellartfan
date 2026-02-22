@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-02-22T11:21:26.407Z",
+  "updatedAt": "2026-02-22T11:45:10.740Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "CD8LuZdTwTw",
-        "title": "【ロケットリーグ】本番当日✨ぶっ飛べ！けろまる号の最高のチームワークで勝つぞ！！🔥【天硝路ろまん / StellArt.】#ねくすとげーむふぇす",
-        "thumbnail": "https://i.ytimg.com/vi/CD8LuZdTwTw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CD8LuZdTwTw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-22T07:48:50Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "6HnMB5nCilM",
@@ -22,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-02-23T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "iKtEeXMlRzg",
-        "title": "【#ロケットリーグ】大会本番🔥ついにやってきた！絶対勝つぞ！賞金持って帰るぞ～！！！【華鉈イオ/StellArt.】#ねくすとげーむふぇす",
-        "thumbnail": "https://i.ytimg.com/vi/iKtEeXMlRzg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iKtEeXMlRzg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-22T07:59:50Z",
         "actualEndTime": null
       }
     ]
