@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-02-23T19:03:15.183Z",
+  "updatedAt": "2026-02-23T20:06:22.946Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "z95rYEDqi08",
-        "title": "#6【龍が如く0】完全初見！キャバクラバトルした後メインストーリー進める！第七章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/z95rYEDqi08/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=z95rYEDqi08",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-24T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
