@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-02-25T17:34:46.272Z",
+  "updatedAt": "2026-02-25T19:06:37.113Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "xUky0JoqD6s",
+        "title": "#7【龍が如く0】完全初見！蝙蝠の入れ墨、私の見間違いであれ！！第十章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/xUky0JoqD6s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xUky0JoqD6s",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-26T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
