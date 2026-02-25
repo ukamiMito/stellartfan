@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-02-25T14:31:18.242Z",
+  "updatedAt": "2026-02-25T16:03:07.889Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "3OmH4CFZLYw",
-        "title": "【クトゥルフ神話TRPG】TRPG初心者たちによる『イグ・ノーベルに祝福を』【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
-        "thumbnail": "https://i.ytimg.com/vi/3OmH4CFZLYw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3OmH4CFZLYw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-25T13:02:43Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
