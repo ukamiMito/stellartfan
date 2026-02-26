@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-02-26T16:59:00.018Z",
+  "updatedAt": "2026-02-26T18:02:06.890Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "Uv_FS0IQJXs",
-        "title": "【 #アークナイツエンドフィールド 】#7 メインストーリー第1章・プロセスⅣ『余波の凪』進める！！【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Uv_FS0IQJXs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Uv_FS0IQJXs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-26T12:57:04Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
