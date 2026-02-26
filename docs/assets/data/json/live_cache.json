@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-02-26T19:23:58.886Z",
+  "updatedAt": "2026-02-26T20:00:16.786Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "Y-ogNH1Udg4",
+        "title": "【同時視聴】映画『ワイルド・スピードEURO MISSION』を完全初見で観るぞー！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Y-ogNH1Udg4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Y-ogNH1Udg4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-27T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "IQeQ3_QeXbQ",
