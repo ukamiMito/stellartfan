@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-02-26T18:02:06.890Z",
+  "updatedAt": "2026-02-26T19:23:58.886Z",
   "channels": {
     "channelA": [],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "IQeQ3_QeXbQ",
+        "title": "【華鉈イオの深夜喫茶】第4回✨甘くて酸っぱい初恋の味って？【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
+        "thumbnail": "https://i.ytimg.com/vi/IQeQ3_QeXbQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IQeQ3_QeXbQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-28T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "6DS-nD0GQbg",
+        "title": "【グランツーリスモ7】初めてのGT7🔰ライセンス沼『国際B級』卒業試験までオールゴールドに挑戦だ！！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/6DS-nD0GQbg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6DS-nD0GQbg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-27T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
