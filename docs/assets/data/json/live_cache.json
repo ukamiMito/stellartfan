@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-02-27T18:43:09.571Z",
+  "updatedAt": "2026-02-27T19:33:44.417Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "z9P1Gejz0xQ",
+        "title": "#6【スナック浪漫】ろまんママによるお悩み恋愛相談！みんなからの相談と質問に答えるわよん💕【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/z9P1Gejz0xQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z9P1Gejz0xQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-02-28T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "IQeQ3_QeXbQ",
