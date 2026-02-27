@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-27T11:32:37.405Z",
+  "updatedAt": "2026-02-27T12:59:43.667Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【同時視聴】映画『ワイルド・スピードEURO MISSION』を完全初見で観るぞー！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/Y-ogNH1Udg4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Y-ogNH1Udg4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-27T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-27T12:59:28Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【グランツーリスモ7】初めてのGT7🔰ライセンス沼『国際B級』卒業試験までオールゴールドに挑戦だ！！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/6DS-nD0GQbg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6DS-nD0GQbg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-02-27T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-02-27T12:58:23Z",
         "actualEndTime": null
       }
     ]
