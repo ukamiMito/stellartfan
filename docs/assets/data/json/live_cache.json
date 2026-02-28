@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-02-28T16:27:10.315Z",
+  "updatedAt": "2026-02-28T16:50:38.260Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "IQeQ3_QeXbQ",
-        "title": "【華鉈イオの深夜喫茶】第4回✨甘くて酸っぱい初恋の味って？【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
-        "thumbnail": "https://i.ytimg.com/vi/IQeQ3_QeXbQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IQeQ3_QeXbQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-02-28T13:57:39Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
