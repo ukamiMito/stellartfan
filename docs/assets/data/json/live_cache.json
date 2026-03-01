@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-01T04:33:40.161Z",
+  "updatedAt": "2026-03-01T05:52:21.254Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#34【ペルソナ4 ザ・ゴールデン / P4G 】シリーズ完全初見！マリーを迎えに行くぞ！一緒に帰ろう！！※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/64_ztkURVa4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=64_ztkURVa4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-01T05:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-01T04:59:46Z",
         "actualEndTime": null
       }
     ],
