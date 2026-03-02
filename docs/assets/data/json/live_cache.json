@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-01T23:46:22.089Z",
+  "updatedAt": "2026-03-02T02:07:24.454Z",
   "channels": {
     "channelA": [],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "MkVnZ3D4CGI",
+        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.43『鍵』メインストーリー攻略！最新エピ目指して進める！#143【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/MkVnZ3D4CGI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MkVnZ3D4CGI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-02T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
