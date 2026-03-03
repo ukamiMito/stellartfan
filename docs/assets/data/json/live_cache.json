@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-03T12:58:07.914Z",
+  "updatedAt": "2026-03-03T14:02:28.857Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#8【龍が如く0】完全初見！佐川さんと椿園へ！2人きりなんめっちゃ怖い。第十二章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/-HvLt1B3kUE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-HvLt1B3kUE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-03T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-03T12:59:08Z",
         "actualEndTime": null
       }
     ],
