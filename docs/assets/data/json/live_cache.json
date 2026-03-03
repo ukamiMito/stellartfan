@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-03T19:22:52.324Z",
+  "updatedAt": "2026-03-03T19:57:13.267Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "If1rpmgYJMA",
+        "title": "#9【龍が如く0】完全初見！辛すぎる別れ。娘は絶対に守り切る、、！第十五章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/If1rpmgYJMA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=If1rpmgYJMA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-04T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
