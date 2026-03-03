@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-03T17:11:34.175Z",
+  "updatedAt": "2026-03-03T18:05:26.822Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "8aGaczX7-Uo",
-        "title": "【 #アークナイツエンドフィールド 】#8 メインストーリー第2章突入！！電力が足りねぇええええ【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/8aGaczX7-Uo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8aGaczX7-Uo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-03T12:57:39Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
