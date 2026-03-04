@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-04T16:04:10.055Z",
+  "updatedAt": "2026-03-04T17:08:07.184Z",
   "channels": {
     "channelA": [
       {
@@ -32,16 +32,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-03-05T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "uPaNp8Jj9uM",
-        "title": "【グランツーリスモ7】初めてのGT7🔰メニューブック進める！ライセンスで磨いた腕前の魅せ時だ！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/uPaNp8Jj9uM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uPaNp8Jj9uM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-04T12:57:13Z",
         "actualEndTime": null
       }
     ]
