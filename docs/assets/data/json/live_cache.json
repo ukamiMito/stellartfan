@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-04T20:37:18.728Z",
+  "updatedAt": "2026-03-04T21:35:06.231Z",
   "channels": {
     "channelA": [
       {
@@ -19,9 +19,9 @@
         "title": "【イオモニ/朝活】花粉に負けるな！雑談会🌸初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
         "thumbnail": "https://i.ytimg.com/vi/RdzToJmufnk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RdzToJmufnk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-04T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-04T20:58:06Z",
         "actualEndTime": null
       },
       {
