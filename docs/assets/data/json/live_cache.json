@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-04T06:06:24.706Z",
+  "updatedAt": "2026-03-04T07:11:36.789Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,26 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "RdzToJmufnk",
+        "title": "【イオモニ/朝活】花粉に負けるな！雑談会🌸初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
+        "thumbnail": "https://i.ytimg.com/vi/RdzToJmufnk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RdzToJmufnk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-04T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "F9c8lbvPpcA",
+        "title": "【ELDEN RING/エルデンリング】#31 完全初見！強敵『神肌のふたり』撃退を目指す！強すぎて涙。※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/F9c8lbvPpcA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F9c8lbvPpcA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-05T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "uPaNp8Jj9uM",
         "title": "【グランツーリスモ7】初めてのGT7🔰メニューブック進める！ライセンスで磨いた腕前の魅せ時だ！【華鉈イオ/StellArt.】#gt7",
