@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-04T19:11:20.583Z",
+  "updatedAt": "2026-03-04T19:57:10.930Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "YiQz_esKdhs",
+        "title": "【MyVoiceZoo】鳴き声全部自分な動物園。かわいい鳴き声の動物たちがいっぱいだよ💕【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/YiQz_esKdhs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YiQz_esKdhs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-05T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "RdzToJmufnk",
