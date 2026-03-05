@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-05T11:34:16.487Z",
+  "updatedAt": "2026-03-05T13:01:05.256Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【MyVoiceZoo】鳴き声全部自分な動物園。かわいい鳴き声の動物たちがいっぱいだよ💕【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/YiQz_esKdhs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YiQz_esKdhs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-05T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-05T12:59:10Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【ELDEN RING/エルデンリング】#31 完全初見！強敵『神肌のふたり』撃退を目指す！強すぎて涙。※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/F9c8lbvPpcA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=F9c8lbvPpcA",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-05T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-05T12:57:55Z",
         "actualEndTime": null
       }
     ]
