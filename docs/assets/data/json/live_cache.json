@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-05T18:26:33.757Z",
+  "updatedAt": "2026-03-05T19:43:16.749Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "HOe4XXh12ao",
+        "title": "【同時視聴】映画『ワイルド・スピードSKY MISSION』を完全初見で観る！今回は空なの！？【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/HOe4XXh12ao/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HOe4XXh12ao",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "T8hw-L_q8WI",
