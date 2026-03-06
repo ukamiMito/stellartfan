@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-06T16:41:25.497Z",
+  "updatedAt": "2026-03-06T17:35:22.348Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "HOe4XXh12ao",
-        "title": "【同時視聴】映画『ワイルド・スピードSKY MISSION』を完全初見で観る！今回は空なの！？【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/HOe4XXh12ao/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HOe4XXh12ao",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-06T12:58:02Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "T8hw-L_q8WI",
@@ -22,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-03-07T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "SQCTQcPfw3I",
-        "title": "【ELDEN RING/エルデンリング】#32 完全初見！ファルムアズラ攻略！雑魚が強すぎる！！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/SQCTQcPfw3I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SQCTQcPfw3I",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-06T12:58:07Z",
         "actualEndTime": null
       }
     ]
