@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-07T17:46:04.001Z",
+  "updatedAt": "2026-03-07T18:34:27.374Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "TvRno8ATxB8",
+        "title": "【F1 2026/生放送同時視聴】「オーストラリアGP　決勝:ライブ」を一緒に観よう！人生初のF1観戦楽しみ✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/TvRno8ATxB8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TvRno8ATxB8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-08T03:15:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
