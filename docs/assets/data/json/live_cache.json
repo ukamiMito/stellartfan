@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-07T14:49:38.302Z",
+  "updatedAt": "2026-03-07T15:23:39.083Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "T8hw-L_q8WI",
-        "title": "【 食レポ/#マクドナルド 】マックの復刻🌸てりたまメニューを食べる！瀬戸内レモンタルタルベーコンてりたま【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/T8hw-L_q8WI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=T8hw-L_q8WI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-07T12:57:24Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
