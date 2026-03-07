@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-07T06:54:23.488Z",
+  "updatedAt": "2026-03-07T07:28:28.329Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "yP8-gpRsYEI",
-        "title": "【F1 2026/同時視聴】「オーストラリアGP　FP3/予選」を一緒に観よう！人生初のF1観戦楽しみ✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/yP8-gpRsYEI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yP8-gpRsYEI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-07T01:08:29Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "T8hw-L_q8WI",
