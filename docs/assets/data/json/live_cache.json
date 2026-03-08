@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-08T14:25:25.373Z",
+  "updatedAt": "2026-03-08T14:50:30.203Z",
   "channels": {
     "channelA": [],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "_Phi2DYAhYs",
+        "title": "【 #アークナイツエンドフィールド 】#9 第2章 メインストーリー駆け抜ける！推しのリーフォンが居る...?!?!【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/_Phi2DYAhYs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_Phi2DYAhYs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-09T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
