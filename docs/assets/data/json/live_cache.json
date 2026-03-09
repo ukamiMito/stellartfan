@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-03-09T17:49:57.486Z",
+  "updatedAt": "2026-03-09T18:53:40.995Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "_Phi2DYAhYs",
-        "title": "【 #アークナイツエンドフィールド 】#9 第2章 メインストーリー駆け抜ける！推しのリーフォンが居る...?!?!【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/_Phi2DYAhYs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_Phi2DYAhYs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-09T12:57:53Z",
+        "videoId": "FpQ5-h65gN0",
+        "title": "【雀魂】ぶっ飛べ！けろまる号で打ち上げ三麻コラボ🎶【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/FpQ5-h65gN0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FpQ5-h65gN0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-10T11:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelB": []
   }
 }
