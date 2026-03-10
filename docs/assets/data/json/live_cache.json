@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-10T13:01:15.948Z",
+  "updatedAt": "2026-03-10T14:12:06.220Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "FpQ5-h65gN0",
-        "title": "【雀魂】ぶっ飛べ！けろまる号で打ち上げ三麻コラボ🎶【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/FpQ5-h65gN0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FpQ5-h65gN0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-10T10:59:53Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "6nvUe74I71E",
