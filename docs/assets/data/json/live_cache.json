@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-10T11:33:05.290Z",
+  "updatedAt": "2026-03-10T13:01:15.948Z",
   "channels": {
     "channelA": [
       {
@@ -29,9 +29,9 @@
         "title": "【 勝利の女神 : #nikke 】完全初見🔰新イベ『ENTER HEAVEN』E.H.の過去と現在とは・・・#144【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/Khx0GBLf5hs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Khx0GBLf5hs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-10T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-10T12:58:46Z",
         "actualEndTime": null
       }
     ]
