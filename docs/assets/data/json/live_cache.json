@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-03-10T16:56:00.059Z",
+  "updatedAt": "2026-03-10T17:47:37.268Z",
   "channels": {
     "channelA": [],
     "channelB": [
+      {
+        "videoId": "FjqIRwpzdk8",
+        "title": "【イオモニ/朝活】春で一番うまい食べ物なーんだ🌸初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
+        "thumbnail": "https://i.ytimg.com/vi/FjqIRwpzdk8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FjqIRwpzdk8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-11T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "6nvUe74I71E",
         "title": "【#logriders】鬼の協力プレイ🔥丸太を転がせえええええええええええ！！ ！！w/天硝路ろまん【華鉈イオ/StellArt.】#紅白天華",
