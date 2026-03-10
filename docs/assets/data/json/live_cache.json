@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-10T20:34:36.336Z",
+  "updatedAt": "2026-03-10T21:29:08.031Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "VWWz-e0o5t4",
+        "title": "【Log Riders】みんな丸太は持ったな！いや、丸太に乗ったな！行くぞォ！！【天硝路ろまん / StellArt.】#紅白天華",
+        "thumbnail": "https://i.ytimg.com/vi/VWWz-e0o5t4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VWWz-e0o5t4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-11T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "FjqIRwpzdk8",
