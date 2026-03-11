@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-11T19:24:18.642Z",
+  "updatedAt": "2026-03-11T19:57:36.045Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "TPNtEQA_iI4",
+        "title": "【F1® 25】F1に初挑戦🔰中国GPに向けてサーキットを走って予習するぞー！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/TPNtEQA_iI4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TPNtEQA_iI4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-12T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "FjqIRwpzdk8",
