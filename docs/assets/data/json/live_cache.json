@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-11T15:12:55.882Z",
+  "updatedAt": "2026-03-11T16:11:00.864Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "VWWz-e0o5t4",
-        "title": "【Log Riders】みんな丸太は持ったな！いや、丸太に乗ったな！行くぞォ！！【天硝路ろまん / StellArt.】#紅白天華",
-        "thumbnail": "https://i.ytimg.com/vi/VWWz-e0o5t4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VWWz-e0o5t4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-11T13:27:22Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "FjqIRwpzdk8",
@@ -22,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-03-11T21:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "6nvUe74I71E",
-        "title": "【#logriders】鬼の協力プレイ🔥丸太を転がせえええええええええええ！！ ！！w/天硝路ろまん【華鉈イオ/StellArt.】#紅白天華",
-        "thumbnail": "https://i.ytimg.com/vi/6nvUe74I71E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6nvUe74I71E",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-11T13:27:23Z",
         "actualEndTime": null
       }
     ]
