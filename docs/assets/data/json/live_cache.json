@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-11T23:50:34.172Z",
+  "updatedAt": "2026-03-12T02:07:19.774Z",
   "channels": {
     "channelA": [
       {
@@ -15,13 +15,13 @@
     ],
     "channelB": [
       {
-        "videoId": "FjqIRwpzdk8",
-        "title": "【イオモニ/朝活】春で一番うまい食べ物なーんだ🌸初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
-        "thumbnail": "https://i.ytimg.com/vi/FjqIRwpzdk8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FjqIRwpzdk8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-11T20:58:19Z",
+        "videoId": "ShwVGEr9ylw",
+        "title": "【 #アークナイツエンドフィールド 】#10  新Ver.「潮起ち、故淵離る」リリース初日プレイ！タンタンとロッシがくる！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
+        "thumbnail": "https://i.ytimg.com/vi/ShwVGEr9ylw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ShwVGEr9ylw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-12T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ]
