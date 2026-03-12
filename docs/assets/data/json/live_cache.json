@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-12T11:31:47.392Z",
+  "updatedAt": "2026-03-12T13:00:32.285Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【F1® 25】F1に初挑戦🔰中国GPに向けてサーキットを走って予習するぞー！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/TPNtEQA_iI4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=TPNtEQA_iI4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-12T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-12T12:58:58Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【 #アークナイツエンドフィールド 】#10  新Ver.「潮起ち、故淵離る」リリース初日プレイ！タンタンとロッシがくる！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
         "thumbnail": "https://i.ytimg.com/vi/ShwVGEr9ylw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ShwVGEr9ylw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-12T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-12T12:57:26Z",
         "actualEndTime": null
       }
     ]
