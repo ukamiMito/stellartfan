@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-03-12T17:49:32.760Z",
+  "updatedAt": "2026-03-12T18:54:40.032Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [
       {
-        "videoId": "TPNtEQA_iI4",
-        "title": "【F1® 25】F1に初挑戦🔰中国GPに向けてサーキットを走って予習するぞー！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/TPNtEQA_iI4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TPNtEQA_iI4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-12T12:58:58Z",
+        "videoId": "wL5EhTnVb90",
+        "title": "【 #アークナイツエンドフィールド 】#11  Ver.1.1新ストーリー「凪ぐ風、騒ぐ波」メイン進める！工業も頑張る！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
+        "thumbnail": "https://i.ytimg.com/vi/wL5EhTnVb90/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wL5EhTnVb90",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-13T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ],
-    "channelB": []
+    ]
   }
 }
