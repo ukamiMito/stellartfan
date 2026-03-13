@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-13T16:02:09.538Z",
+  "updatedAt": "2026-03-13T17:05:54.048Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "wL5EhTnVb90",
-        "title": "【 #アークナイツエンドフィールド 】#11  Ver.1.1新ストーリー「凪ぐ風、騒ぐ波」メイン進める！工業も頑張る！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
-        "thumbnail": "https://i.ytimg.com/vi/wL5EhTnVb90/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wL5EhTnVb90",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-13T12:57:11Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
