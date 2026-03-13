@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-13T17:59:38.576Z",
+  "updatedAt": "2026-03-13T18:56:39.869Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "STbIZgpFJj8",
-        "title": "#35【ペルソナ4 ザ・ゴールデン / P4G 】シリーズ完全初見！絶対にマリーを救出する！頼んだぞヨシツネ！！※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/STbIZgpFJj8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=STbIZgpFJj8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-13T12:58:52Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
