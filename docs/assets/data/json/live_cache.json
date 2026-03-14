@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T12:52:34.688Z",
+  "updatedAt": "2026-03-14T13:46:09.578Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -8,9 +8,9 @@
         "title": "【 #アークナイツエンドフィールド 】#12  武陵工業やりまくる！電柱建てる！うおおおおお！！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
         "thumbnail": "https://i.ytimg.com/vi/9gJCgYPqHsw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9gJCgYPqHsw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-14T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-14T12:57:38Z",
         "actualEndTime": null
       }
     ]
