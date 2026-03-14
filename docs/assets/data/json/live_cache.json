@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-03-14T16:32:11.642Z",
+  "updatedAt": "2026-03-14T17:27:10.172Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "9gJCgYPqHsw",
-        "title": "【 #アークナイツエンドフィールド 】#12  武陵工業やりまくる！電柱建てる！うおおおおお！！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
-        "thumbnail": "https://i.ytimg.com/vi/9gJCgYPqHsw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9gJCgYPqHsw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-14T12:57:38Z",
+        "videoId": "cwAA_2CT2QU",
+        "title": "【F1 2026/生放送同時視聴】「中国GP　決勝:ライブ」を一緒に観よう！人生初のF1観戦✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/cwAA_2CT2QU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cwAA_2CT2QU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-15T06:30:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelB": []
   }
 }
