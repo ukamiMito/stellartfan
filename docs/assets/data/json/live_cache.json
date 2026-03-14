@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-14T02:02:18.648Z",
+  "updatedAt": "2026-03-14T04:21:17.168Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【F1 2026/生放送同時視聴】「中国GP　SR/予選:ライブ」を一緒に観よう！人生初のF1観戦✨【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/XwqjFERN0a8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=XwqjFERN0a8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-14T02:30:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-14T02:27:16Z",
         "actualEndTime": null
       }
     ],
