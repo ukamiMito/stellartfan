@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-15T11:26:05.829Z",
+  "updatedAt": "2026-03-15T11:49:15.914Z",
   "channels": {
     "channelA": [],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "Gi9yzvFUidg",
+        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.44『歩み』前篇！メインストーリー攻略がんばるぞおお#145【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Gi9yzvFUidg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Gi9yzvFUidg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-16T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
