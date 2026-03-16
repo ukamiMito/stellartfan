@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-03-16T16:05:42.932Z",
+  "updatedAt": "2026-03-16T17:34:15.603Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "Gi9yzvFUidg",
-        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.44『歩み』前篇！メインストーリー攻略がんばるぞおお#145【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Gi9yzvFUidg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Gi9yzvFUidg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-16T12:58:10Z",
+        "videoId": "CkFhy2_xBJ0",
+        "title": "#36【ペルソナ4 ザ・ゴールデン / P4G 】シリーズ完全初見！まさかの妻！？最終決戦いくぞおおお※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/CkFhy2_xBJ0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CkFhy2_xBJ0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-17T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelB": []
   }
 }
