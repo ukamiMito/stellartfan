@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-17T21:04:19.207Z",
+  "updatedAt": "2026-03-17T22:02:03.847Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "p07jmOcun-0",
+        "title": "#キャバクラ編【龍が如く0】キャバクラで天下を獲る！かわいい子たち揃ってるわよ～💕 ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/p07jmOcun-0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=p07jmOcun-0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
