@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-17T16:12:46.805Z",
+  "updatedAt": "2026-03-17T17:35:15.711Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "dzwKljZwToY",
-        "title": "【 #アークナイツエンドフィールド 】#13  武陵工業進めていく！お金増やして領地を広げるのだ！！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
-        "thumbnail": "https://i.ytimg.com/vi/dzwKljZwToY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dzwKljZwToY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-17T12:57:41Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
