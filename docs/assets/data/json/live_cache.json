@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-03-18T17:35:39.692Z",
+  "updatedAt": "2026-03-18T18:59:35.742Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "p07jmOcun-0",
-        "title": "#キャバクラ編【龍が如く0】キャバクラで天下を獲る！かわいい子たち揃ってるわよ～💕 ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/p07jmOcun-0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=p07jmOcun-0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-18T12:57:58Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "WrRHK1lSdXQ",
-        "title": "【 #アークナイツエンドフィールド 】#14  イベ最終日！武陵工業やりまくる！映えスポットで写真も撮るよ～📷【華鉈イオ/StellArt.】#ぶいきゃす #PR",
-        "thumbnail": "https://i.ytimg.com/vi/WrRHK1lSdXQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WrRHK1lSdXQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-18T12:58:35Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": []
   }
 }
