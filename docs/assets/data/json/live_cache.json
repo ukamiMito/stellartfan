@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-18T02:11:51.335Z",
+  "updatedAt": "2026-03-18T04:34:32.076Z",
   "channels": {
     "channelA": [
       {
@@ -13,6 +13,17 @@
         "actualEndTime": null
       }
     ],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "WrRHK1lSdXQ",
+        "title": "【 #アークナイツエンドフィールド 】#14  イベ最終日！武陵工業やりまくる！映えスポットで写真も撮るよ～📷【華鉈イオ/StellArt.】#ぶいきゃす #PR",
+        "thumbnail": "https://i.ytimg.com/vi/WrRHK1lSdXQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WrRHK1lSdXQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
