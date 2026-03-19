@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-19T18:59:21.794Z",
+  "updatedAt": "2026-03-19T19:49:54.361Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "e9tPROBULkE",
-        "title": "【F1® 25】F1初心者🔰ストーリーモード「ブレーキングポイント」をやってみる！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/e9tPROBULkE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=e9tPROBULkE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-19T12:59:17Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
