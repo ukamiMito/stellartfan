@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-19T20:38:09.743Z",
+  "updatedAt": "2026-03-19T21:35:38.011Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "Q66LbFNDfkY",
+        "title": "【Minecraft】死んだらワールド即リセット！？初のハードコア耐久コラボ！！【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
+        "thumbnail": "https://i.ytimg.com/vi/Q66LbFNDfkY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Q66LbFNDfkY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-20T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "EMRWWNwZxwg",
