@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-18T23:30:57.095Z",
+  "updatedAt": "2026-03-19T02:12:29.414Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "EgauXo1rJpU",
-        "title": "【イオモニ/朝活】エナドリカチ込み早朝雑談！初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
-        "thumbnail": "https://i.ytimg.com/vi/EgauXo1rJpU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EgauXo1rJpU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-18T20:58:04Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
