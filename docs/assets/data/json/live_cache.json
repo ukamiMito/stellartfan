@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-03-20T20:33:35.237Z",
+  "updatedAt": "2026-03-20T21:30:39.641Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "Q66LbFNDfkY",
-        "title": "【Minecraft】死んだらワールド即リセット！？初のハードコア耐久コラボ！！【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
-        "thumbnail": "https://i.ytimg.com/vi/Q66LbFNDfkY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q66LbFNDfkY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-20T12:00:27Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "EMRWWNwZxwg",
-        "title": "【 #Minecraft💔ハードコア 】初めてのマイクラハードコア耐久！3人でエンドラ討伐目指すぞ～！！【華鉈イオ/StellArt.】#くれよんどおり三番地",
-        "thumbnail": "https://i.ytimg.com/vi/EMRWWNwZxwg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EMRWWNwZxwg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-20T11:59:00Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": []
   }
 }
