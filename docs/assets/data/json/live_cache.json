@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-21T16:30:26.491Z",
+  "updatedAt": "2026-03-21T17:25:27.758Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "6Q3Joo5YF6c",
-        "title": "【F1 2021】完全初見！ストーリーモード「ブレーキングポイント」F1のドラマ、ここから始まる✨※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/6Q3Joo5YF6c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6Q3Joo5YF6c",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-21T12:58:26Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
