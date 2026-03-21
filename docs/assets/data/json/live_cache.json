@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T15:48:59.725Z",
+  "updatedAt": "2026-03-21T16:30:26.491Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "Yf9va0t2r8k",
-        "title": "【グランツーリスモ7】初めてのGT7🔰メニューブック進める！FR車に慣れたいぞ～～【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/Yf9va0t2r8k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Yf9va0t2r8k",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-21T12:57:19Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
