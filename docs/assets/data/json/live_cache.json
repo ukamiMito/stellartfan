@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-21T12:50:15.260Z",
+  "updatedAt": "2026-03-21T13:42:08.327Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【F1 2021】完全初見！ストーリーモード「ブレーキングポイント」F1のドラマ、ここから始まる✨※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/6Q3Joo5YF6c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6Q3Joo5YF6c",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-21T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-21T12:58:26Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【グランツーリスモ7】初めてのGT7🔰メニューブック進める！FR車に慣れたいぞ～～【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/Yf9va0t2r8k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Yf9va0t2r8k",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-21T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-21T12:57:19Z",
         "actualEndTime": null
       }
     ]
