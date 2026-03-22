@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-22T08:35:15.767Z",
+  "updatedAt": "2026-03-22T09:32:45.694Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "AKFowXzvpbo",
-        "title": "【グランツーリスモ7】リバリー鑑賞会！リスナーさんたちが作ってくれた私のリバリーを見ていくよ～🎶【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/AKFowXzvpbo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AKFowXzvpbo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-22T04:59:12Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
