@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-23T12:02:06.734Z",
+  "updatedAt": "2026-03-23T13:54:34.120Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -28,9 +28,9 @@
         "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.44『歩み』後篇！展開ヤバすぎて言葉にならない、、、#146【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/awlWgYwmIT8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=awlWgYwmIT8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-23T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-23T12:57:47Z",
         "actualEndTime": null
       }
     ]
