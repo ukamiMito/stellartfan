@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-23T16:00:16.272Z",
+  "updatedAt": "2026-03-23T17:04:31.552Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "nLy6YkuBcuo",
+        "title": "【Minecraft】リベンジ！死んだらワールド即リセットのハードコアコラボ！！【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
+        "thumbnail": "https://i.ytimg.com/vi/nLy6YkuBcuo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nLy6YkuBcuo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-24T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "hwlw1XL19N8",
@@ -21,16 +32,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-03-24T12:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "awlWgYwmIT8",
-        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.44『歩み』後篇！展開ヤバすぎて言葉にならない、、、#146【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/awlWgYwmIT8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=awlWgYwmIT8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-23T12:57:47Z",
         "actualEndTime": null
       }
     ]
