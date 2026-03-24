@@ -1,7 +1,49 @@
 {
-  "updatedAt": "2026-03-24T05:59:46.635Z",
+  "updatedAt": "2026-03-24T07:16:35.629Z",
   "channels": {
-    "channelA": [],
-    "channelB": []
+    "channelA": [
+      {
+        "videoId": "nLy6YkuBcuo",
+        "title": "【Minecraft】リベンジ！死んだらワールド即リセットのハードコアコラボ！！【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
+        "thumbnail": "https://i.ytimg.com/vi/nLy6YkuBcuo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nLy6YkuBcuo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-24T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "T9eFpgipY9w",
+        "title": "【イオモニ/朝活】🍓イチゴの季節きた！果物界のNo.1決める！初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
+        "thumbnail": "https://i.ytimg.com/vi/T9eFpgipY9w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=T9eFpgipY9w",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-25T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "hwlw1XL19N8",
+        "title": "【Steamスプリングセール】皆のおすすめゲーム教えて！神ゲー発掘するぞ～～！！✨【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/hwlw1XL19N8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hwlw1XL19N8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-25T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "mE2jxjKNx74",
+        "title": "【 #Minecraft💔ハードコア 】リベンジ🔥マイクラハードコア耐久！今度こそクリアする！！！【華鉈イオ/StellArt.】#くれよんどおり三番地",
+        "thumbnail": "https://i.ytimg.com/vi/mE2jxjKNx74/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mE2jxjKNx74",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-24T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
