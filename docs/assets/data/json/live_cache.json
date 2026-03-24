@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-24T21:04:02.767Z",
+  "updatedAt": "2026-03-24T22:00:27.265Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "nLy6YkuBcuo",
-        "title": "【Minecraft】リベンジ！死んだらワールド即リセットのハードコアコラボ！！【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
-        "thumbnail": "https://i.ytimg.com/vi/nLy6YkuBcuo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nLy6YkuBcuo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-24T11:58:35Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "T9eFpgipY9w",
@@ -32,16 +21,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-03-25T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "mE2jxjKNx74",
-        "title": "【 #Minecraft💔ハードコア 】リベンジ🔥マイクラハードコア耐久！今度こそクリアする！！！【華鉈イオ/StellArt.】#くれよんどおり三番地",
-        "thumbnail": "https://i.ytimg.com/vi/mE2jxjKNx74/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mE2jxjKNx74",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-24T11:58:30Z",
         "actualEndTime": null
       }
     ]
