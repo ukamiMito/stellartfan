@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T11:41:18.659Z",
+  "updatedAt": "2026-03-25T13:11:14.057Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#キャバクラ編【龍が如く0】残るはVENUSとMOONだけ！いざキャバクラバトル🔥後編 ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/c0_xmdisMYs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=c0_xmdisMYs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-25T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-25T12:58:22Z",
         "actualEndTime": null
       }
     ],
