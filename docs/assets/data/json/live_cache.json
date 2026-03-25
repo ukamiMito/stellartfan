@@ -1,39 +1,7 @@
 {
-  "updatedAt": "2026-03-25T16:10:19.612Z",
+  "updatedAt": "2026-03-25T17:34:21.997Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "c0_xmdisMYs",
-        "title": "#キャバクラ編【龍が如く0】残るはVENUSとMOONだけ！いざキャバクラバトル🔥後編 ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/c0_xmdisMYs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=c0_xmdisMYs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-25T12:58:22Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "T9eFpgipY9w",
-        "title": "【イオモニ/朝活】🍓イチゴの季節きた！果物界のNo.1決める！初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
-        "thumbnail": "https://i.ytimg.com/vi/T9eFpgipY9w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=T9eFpgipY9w",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-25T21:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "hwlw1XL19N8",
-        "title": "【Steamスプリングセール】皆のおすすめゲーム教えて！神ゲー発掘するぞ～～！！✨【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/hwlw1XL19N8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hwlw1XL19N8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-25T13:44:58Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": []
   }
 }
