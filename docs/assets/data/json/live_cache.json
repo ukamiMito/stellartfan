@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T13:11:14.057Z",
+  "updatedAt": "2026-03-25T14:40:41.244Z",
   "channels": {
     "channelA": [
       {
@@ -29,9 +29,9 @@
         "title": "【Steamスプリングセール】皆のおすすめゲーム教えて！神ゲー発掘するぞ～～！！✨【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/hwlw1XL19N8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hwlw1XL19N8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-25T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-25T13:44:58Z",
         "actualEndTime": null
       }
     ]
