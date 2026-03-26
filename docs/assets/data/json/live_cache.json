@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-25T23:35:19.597Z",
+  "updatedAt": "2026-03-26T02:25:15.274Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "T9eFpgipY9w",
-        "title": "【イオモニ/朝活】🍓イチゴの季節きた！果物界のNo.1決める！初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
-        "thumbnail": "https://i.ytimg.com/vi/T9eFpgipY9w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=T9eFpgipY9w",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-25T20:57:49Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
