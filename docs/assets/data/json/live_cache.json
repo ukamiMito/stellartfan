@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T07:42:04.658Z",
+  "updatedAt": "2026-03-26T08:57:04.897Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "Hei-08owCwY",
+        "title": "【ELDEN RING/エルデンリング】#33 完全初見！ファルムアズラの強敵『黒き剣のマリケス』絶対倒すぞ！！！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Hei-08owCwY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Hei-08owCwY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-27T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "FBieeeHJGIE",
         "title": "【 勝利の女神 : #nikke 】💕新イベ『2X2 Love』いろんな分岐見ていく！新アルカナが可愛すぎる。#147【華鉈イオ/StellArt.】#新人vtuber",
