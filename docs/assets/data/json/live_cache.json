@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-26T15:50:39.764Z",
+  "updatedAt": "2026-03-26T17:01:55.552Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "2NzgWoQtds4",
-        "title": "#2【F1 2021】完全初見！ブレーキングポイント攻略！チャプター5～※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/2NzgWoQtds4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2NzgWoQtds4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-26T12:58:48Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "Hei-08owCwY",
