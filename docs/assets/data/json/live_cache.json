@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T12:08:07.528Z",
+  "updatedAt": "2026-03-26T14:04:40.679Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#2【F1 2021】完全初見！ブレーキングポイント攻略！チャプター5～※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/2NzgWoQtds4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2NzgWoQtds4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-26T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-26T12:58:48Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【 勝利の女神 : #nikke 】💕新イベ『2X2 Love』いろんな分岐見ていく！新アルカナが可愛すぎる。#147【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/FBieeeHJGIE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=FBieeeHJGIE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-26T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-26T12:57:25Z",
         "actualEndTime": null
       }
     ]
