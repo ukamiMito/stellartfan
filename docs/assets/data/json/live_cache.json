@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-26T14:04:40.679Z",
+  "updatedAt": "2026-03-26T15:50:39.764Z",
   "channels": {
     "channelA": [
       {
@@ -22,16 +22,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-03-27T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "FBieeeHJGIE",
-        "title": "【 勝利の女神 : #nikke 】💕新イベ『2X2 Love』いろんな分岐見ていく！新アルカナが可愛すぎる。#147【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/FBieeeHJGIE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FBieeeHJGIE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-26T12:57:25Z",
         "actualEndTime": null
       }
     ]
