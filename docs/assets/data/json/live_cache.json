@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-27T17:50:39.753Z",
+  "updatedAt": "2026-03-27T18:56:21.417Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "ceUhuiY3XcE",
+        "title": "【F1 2026/生放送同時視聴】「日本GP　予選:ライブ」を一緒に観よう！人生初のF1観戦✨鈴鹿だあああ【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/ceUhuiY3XcE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ceUhuiY3XcE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-28T05:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "OG5Y0x5DLM4",
