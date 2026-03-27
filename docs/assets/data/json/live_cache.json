@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T16:55:30.667Z",
+  "updatedAt": "2026-03-27T17:50:39.753Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -11,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-03-28T14:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "Hei-08owCwY",
-        "title": "【ELDEN RING/エルデンリング】#33 完全初見！ファルムアズラの強敵『黒き剣のマリケス』絶対倒すぞ！！！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Hei-08owCwY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Hei-08owCwY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-27T12:57:34Z",
         "actualEndTime": null
       }
     ]
