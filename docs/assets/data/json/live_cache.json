@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-27T13:07:16.138Z",
+  "updatedAt": "2026-03-27T14:31:06.040Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "0Qn9nIsw20w",
-        "title": "【マーダーミステリー】たしかにヒロインを虐めてましたがヒロインを殺したのはわたくしではなくってよ！ / 男爵令嬢視点 ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/0Qn9nIsw20w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0Qn9nIsw20w",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-27T10:03:26Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "OG5Y0x5DLM4",
