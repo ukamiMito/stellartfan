@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-27T07:41:20.161Z",
+  "updatedAt": "2026-03-27T08:54:11.753Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "OG5Y0x5DLM4",
+        "title": "【華鉈イオの深夜喫茶】第5回✨視聴者おススメの冷凍唐揚げを食らう！！【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
+        "thumbnail": "https://i.ytimg.com/vi/OG5Y0x5DLM4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OG5Y0x5DLM4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-28T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "Hei-08owCwY",
         "title": "【ELDEN RING/エルデンリング】#33 完全初見！ファルムアズラの強敵『黒き剣のマリケス』絶対倒すぞ！！！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
