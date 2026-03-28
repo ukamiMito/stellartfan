@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-28T16:34:22.698Z",
+  "updatedAt": "2026-03-28T17:29:08.229Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "OG5Y0x5DLM4",
-        "title": "【華鉈イオの深夜喫茶】第5回✨視聴者おススメの冷凍唐揚げを食らう！！【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
-        "thumbnail": "https://i.ytimg.com/vi/OG5Y0x5DLM4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OG5Y0x5DLM4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-28T13:57:53Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
