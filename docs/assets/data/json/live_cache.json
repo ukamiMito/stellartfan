@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-03-30T10:17:03.509Z",
+  "updatedAt": "2026-03-30T11:33:12.250Z",
   "channels": {
     "channelA": [],
     "channelB": [
+      {
+        "videoId": "DgvdsrNjHhQ",
+        "title": "【グランツーリスモ7】初めてのGT7🔰メニューブック進める！超難関と言われてるフェラーリに挑戦だ！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/DgvdsrNjHhQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DgvdsrNjHhQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-31T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "UyBt8gNPsik",
         "title": "【 #アークナイツエンドフィールド 】#15  いざ未開拓地へ！景玉谷・迷踪林のマップ攻略します！【華鉈イオ/StellArt.】",
