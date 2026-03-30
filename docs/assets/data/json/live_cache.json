@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-03-30T07:06:36.350Z",
+  "updatedAt": "2026-03-30T08:54:45.823Z",
   "channels": {
     "channelA": [],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "UyBt8gNPsik",
+        "title": "【 #アークナイツエンドフィールド 】#15  いざ未開拓地へ！景玉谷・迷踪林のマップ攻略します！【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/UyBt8gNPsik/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UyBt8gNPsik",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-03-30T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
