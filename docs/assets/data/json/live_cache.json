@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-03-31T13:19:12.418Z",
+  "updatedAt": "2026-03-31T14:46:09.698Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "IeTqLTvp_8k",
-        "title": "【R.E.P.O.】V1GPブルーチームのみんなで打ち上げれぽコラボだあああ✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/IeTqLTvp_8k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IeTqLTvp_8k",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-31T12:05:46Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "UrpFTccuG58",
