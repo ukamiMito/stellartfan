@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T11:50:06.257Z",
+  "updatedAt": "2026-03-31T13:19:12.418Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【R.E.P.O.】V1GPブルーチームのみんなで打ち上げれぽコラボだあああ✨【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/IeTqLTvp_8k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=IeTqLTvp_8k",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-31T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-31T12:05:46Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【グランツーリスモ7】初めてのGT7🔰メニューブック進める！超難関と言われてるポルシェに挑戦だ！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/DgvdsrNjHhQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DgvdsrNjHhQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-03-31T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-03-31T12:57:49Z",
         "actualEndTime": null
       }
     ]
