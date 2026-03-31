@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-03-31T16:05:06.663Z",
+  "updatedAt": "2026-03-31T17:30:57.295Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -11,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-04-01T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "DgvdsrNjHhQ",
-        "title": "【グランツーリスモ7】初めてのGT7🔰メニューブック進める！超難関と言われてるポルシェに挑戦だ！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/DgvdsrNjHhQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DgvdsrNjHhQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-03-31T12:57:49Z",
         "actualEndTime": null
       }
     ]
