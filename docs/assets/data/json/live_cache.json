@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-01T16:06:11.497Z",
+  "updatedAt": "2026-04-01T17:28:31.947Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "6nDRqJhcRuo",
-        "title": "#1【BIOHAZARD RE:2】完全初見！人生はじめてのバイオハザードに挑戦！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/6nDRqJhcRuo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6nDRqJhcRuo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-01T12:58:22Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "eseHv5S9nZU",
@@ -32,16 +21,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-04-01T21:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "UrpFTccuG58",
-        "title": "【 Slay the Spire 】話題の神ゲー✨スレスパ完全初見でやっていく！事前知識ゼロでスタートだ！！【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/UrpFTccuG58/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UrpFTccuG58",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-01T12:58:47Z",
         "actualEndTime": null
       }
     ]
