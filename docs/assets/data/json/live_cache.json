@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T06:58:58.410Z",
+  "updatedAt": "2026-04-01T08:19:42.979Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,26 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "eseHv5S9nZU",
+        "title": "【ELDEN RING/エルデンリング】#34 完全初見！ボス戦『エルデの獣』と闘う！なんだこのでっけえ生き物？！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/eseHv5S9nZU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eseHv5S9nZU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-02T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "51yUMNyGzbY",
+        "title": "【イオモニ/朝活】🌸お花見ってなにするの？？初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
+        "thumbnail": "https://i.ytimg.com/vi/51yUMNyGzbY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=51yUMNyGzbY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-01T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "UrpFTccuG58",
         "title": "【 Slay the Spire 】話題の神ゲー✨スレスパ完全初見でやっていく！事前知識ゼロでスタートだ！！【華鉈イオ/StellArt.】",
