@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-01T23:36:17.849Z",
+  "updatedAt": "2026-04-02T02:23:45.743Z",
   "channels": {
     "channelA": [
       {
@@ -22,16 +22,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-04-02T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "51yUMNyGzbY",
-        "title": "【イオモニ/朝活】🌸お花見ってなにするの？？初見さん大歓迎◎【華鉈イオ/StellArt.】#shorts #新人vtuber #縦型配信",
-        "thumbnail": "https://i.ytimg.com/vi/51yUMNyGzbY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=51yUMNyGzbY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-01T20:57:21Z",
         "actualEndTime": null
       }
     ]
