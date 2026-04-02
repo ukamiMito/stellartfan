@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-04-02T17:52:19.485Z",
+  "updatedAt": "2026-04-02T18:57:09.004Z",
   "channels": {
     "channelA": [],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "tAzXwVC0ukQ",
+        "title": "【 #Minecraft💔ハードコア 】3度目の正直！今回こそエンドラ討伐いくぞおおおおお【華鉈イオ/StellArt.】#くれよんどおり三番地",
+        "thumbnail": "https://i.ytimg.com/vi/tAzXwVC0ukQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tAzXwVC0ukQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-04T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "bUHLZYojWa8",
+        "title": "【ELDEN RING/エルデンリング】#35 完全初見！ラスボス戦に向けてレベリングの旅！！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/bUHLZYojWa8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bUHLZYojWa8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-03T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
