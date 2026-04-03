@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-03T16:00:57.662Z",
+  "updatedAt": "2026-04-03T17:03:18.231Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "BSAoK4WloR4",
-        "title": "#3【F1 2021】完全初見！ブレーキングポイント攻略！引退の話切ないってば、、チャプター9～※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/BSAoK4WloR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BSAoK4WloR4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-03T12:58:41Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "tAzXwVC0ukQ",
