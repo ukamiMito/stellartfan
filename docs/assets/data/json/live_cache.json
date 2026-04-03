@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-03T18:00:43.235Z",
+  "updatedAt": "2026-04-03T19:11:18.617Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "sLXr5rYt-qQ",
+        "title": "【Minecraft】死んだらワールド即リセットのハードコア！今日こそクリアしたい！！！Part3【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
+        "thumbnail": "https://i.ytimg.com/vi/sLXr5rYt-qQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sLXr5rYt-qQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-04T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "tAzXwVC0ukQ",
