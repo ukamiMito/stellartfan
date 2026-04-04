@@ -1,29 +1,18 @@
 {
-  "updatedAt": "2026-04-04T21:31:34.916Z",
+  "updatedAt": "2026-04-04T22:29:52.594Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "sLXr5rYt-qQ",
-        "title": "【Minecraft】死んだらワールド即リセットのハードコア！今日こそクリアしたい！！！Part3【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
-        "thumbnail": "https://i.ytimg.com/vi/sLXr5rYt-qQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sLXr5rYt-qQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-04T11:57:27Z",
+        "videoId": "kbVJJKTq_FI",
+        "title": "【グランツーリスモ7】勝手にJDSチャレンジに挑戦する！！今日はレギュ確認して軽く走ってみる🔥【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/kbVJJKTq_FI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kbVJJKTq_FI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-05T05:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "tAzXwVC0ukQ",
-        "title": "【 #Minecraft💔ハードコア 】3度目の正直！今回こそエンドラ討伐いくぞおおおおお【華鉈イオ/StellArt.】#くれよんどおり三番地",
-        "thumbnail": "https://i.ytimg.com/vi/tAzXwVC0ukQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tAzXwVC0ukQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-04T11:57:25Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
