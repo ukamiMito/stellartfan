@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-05T07:54:35.033Z",
+  "updatedAt": "2026-04-05T08:42:55.907Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "kbVJJKTq_FI",
-        "title": "【グランツーリスモ7】JDSのタイムに挑戦する！！レギュ確認して試しに走ってみる🔥【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/kbVJJKTq_FI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kbVJJKTq_FI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-05T05:00:55Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
