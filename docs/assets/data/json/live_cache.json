@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-05T16:36:50.868Z",
+  "updatedAt": "2026-04-05T17:30:46.170Z",
   "channels": {
     "channelA": [],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "HMynwKc3g6U",
+        "title": "【 #アークナイツエンドフィールド 】#16  ロッシイベント『赤騎士』攻略する！可愛さレベルMAX【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/HMynwKc3g6U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HMynwKc3g6U",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
