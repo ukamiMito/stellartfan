@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-06T17:44:10.549Z",
+  "updatedAt": "2026-04-06T19:00:02.098Z",
   "channels": {
     "channelA": [
       {
@@ -13,6 +13,27 @@
         "actualEndTime": null
       }
     ],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "s0fD9OHARhE",
+        "title": "【グランツーリスモ7】初めてのGT7🔰メニューブック＆ライセンス進めていくぞー！丁寧な走りを心がけますわ【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/s0fD9OHARhE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=s0fD9OHARhE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-08T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "CE3mXiF87-8",
+        "title": "【 #アークナイツエンドフィールド 】#17  PUガチャ『ロッシ』GET✨女子パ育成していく！！！【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/CE3mXiF87-8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CE3mXiF87-8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
