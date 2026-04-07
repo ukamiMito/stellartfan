@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-07T11:54:25.479Z",
+  "updatedAt": "2026-04-07T13:19:48.977Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#3【BIOHAZARD RE:2】完全初見！人生はじめてのバイオハザードに挑戦！！エイダさん好きだあああ💕 / レオン編【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/CBqjERXTA94/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=CBqjERXTA94",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-07T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-07T12:59:26Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【 #アークナイツエンドフィールド 】#17  PUガチャ『ロッシ』GET✨女子パ育成していく！！！【華鉈イオ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/CE3mXiF87-8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=CE3mXiF87-8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-07T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-07T12:57:13Z",
         "actualEndTime": null
       }
     ]
