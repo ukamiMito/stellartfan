@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-07T22:04:01.961Z",
+  "updatedAt": "2026-04-07T23:06:20.427Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "kvmlKy4S4tw",
+        "title": "#4【BIOHAZARD RE:2】完全初見！人生はじめてのバイオハザードに挑戦！！ウェストエリアへGO！ / レオン編【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/kvmlKy4S4tw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kvmlKy4S4tw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-08T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "s0fD9OHARhE",
