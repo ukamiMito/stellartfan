@@ -1,16 +1,26 @@
 {
-  "updatedAt": "2026-04-08T15:56:20.246Z",
+  "updatedAt": "2026-04-08T17:06:33.136Z",
   "channels": {
     "channelA": [],
     "channelB": [
       {
-        "videoId": "s0fD9OHARhE",
-        "title": "【グランツーリスモ7】初めてのGT7🔰メニューブック＆ライセンス進めていくぞー！丁寧な走りを心がけますわ【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/s0fD9OHARhE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=s0fD9OHARhE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-08T12:58:29Z",
+        "videoId": "ZxsVQhlHM3I",
+        "title": "【 Slay the Spire 】スレスパ初心者🔰サイレント完全攻略するぞー！！【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/ZxsVQhlHM3I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZxsVQhlHM3I",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-09T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "WDjxg0eGvP0",
+        "title": "【イオモニ/朝活】この世は旨いものが多すぎる。初見さん大歓迎◎【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/WDjxg0eGvP0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WDjxg0eGvP0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-08T21:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ]
