@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-04-08T18:46:27.229Z",
+  "updatedAt": "2026-04-08T19:58:45.186Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "7qkLQd_IC2A",
+        "title": "#4【F1 2021】完全初見！ブレーキングポイント攻略！チーム一丸となってライバルを倒す！！チャプター14～※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/7qkLQd_IC2A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7qkLQd_IC2A",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-09T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
+      {
+        "videoId": "p8N4Ahempis",
+        "title": "【ELDEN RING/エルデンリング】#36 完全初見！ラスボスが強敵すぎて永遠にレベリングの旅※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/p8N4Ahempis/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=p8N4Ahempis",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-10T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "ZxsVQhlHM3I",
         "title": "【 Slay the Spire 】スレスパ初心者🔰サイレント完全攻略するぞー！！【華鉈イオ/StellArt.】",
