@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-08T20:56:04.365Z",
+  "updatedAt": "2026-04-08T21:42:44.874Z",
   "channels": {
     "channelA": [
       {
@@ -39,9 +39,9 @@
         "title": "【イオモニ/朝活】この世は旨いものが多すぎる。初見さん大歓迎◎【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/WDjxg0eGvP0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=WDjxg0eGvP0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-08T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-08T20:57:44Z",
         "actualEndTime": null
       }
     ]
