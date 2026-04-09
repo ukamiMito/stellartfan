@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T11:59:05.266Z",
+  "updatedAt": "2026-04-09T14:05:05.759Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#4【F1 2021】完全初見！ブレーキングポイント攻略！チーム一丸となってライバルを倒す！！チャプター14～※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/7qkLQd_IC2A/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=7qkLQd_IC2A",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-09T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-09T12:59:18Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【 Slay the Spire 】スレスパ初心者🔰サイレント完全攻略するぞー！！【華鉈イオ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/ZxsVQhlHM3I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZxsVQhlHM3I",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-09T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-09T12:57:49Z",
         "actualEndTime": null
       }
     ]
