@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-04-09T17:36:32.207Z",
+  "updatedAt": "2026-04-09T19:07:03.930Z",
   "channels": {
     "channelA": [],
     "channelB": [
+      {
+        "videoId": "9SC7tIahKhI",
+        "title": "【 #アークナイツエンドフィールド 】✨新バージョン解禁「春の暁、訪れし時」皆で同時視聴しよう！！【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/9SC7tIahKhI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9SC7tIahKhI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-11T11:20:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "p8N4Ahempis",
         "title": "【ELDEN RING/エルデンリング】#36 完全初見！ラスボスが強敵すぎて永遠にレベリングの旅※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
