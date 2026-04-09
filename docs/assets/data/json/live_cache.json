@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-09T16:01:06.349Z",
+  "updatedAt": "2026-04-09T17:36:32.207Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -11,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-04-10T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "ZxsVQhlHM3I",
-        "title": "【 Slay the Spire 】スレスパ初心者🔰サイレント完全攻略するぞー！！【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ZxsVQhlHM3I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZxsVQhlHM3I",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-09T12:57:49Z",
         "actualEndTime": null
       }
     ]
