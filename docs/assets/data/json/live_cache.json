@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-10T16:51:29.277Z",
+  "updatedAt": "2026-04-10T17:48:42.199Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -11,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-04-11T11:20:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "p8N4Ahempis",
-        "title": "【ELDEN RING/エルデンリング】#36 完全初見！ラスボスが強敵すぎて永遠にレベリングの旅※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/p8N4Ahempis/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=p8N4Ahempis",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-10T12:59:23Z",
         "actualEndTime": null
       }
     ]
