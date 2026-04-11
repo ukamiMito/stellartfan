@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-11T14:06:07.761Z",
+  "updatedAt": "2026-04-11T15:01:59.638Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "9SC7tIahKhI",
-        "title": "【 #アークナイツエンドフィールド 】✨新バージョン解禁「春の暁、訪れし時」皆で同時視聴しよう！！【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/9SC7tIahKhI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9SC7tIahKhI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-11T11:17:50Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
