@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-11T15:55:16.399Z",
+  "updatedAt": "2026-04-11T16:37:21.709Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "VdzmDXuMiYQ",
-        "title": "#5【BIOHAZARD RE:2】完全初見！人生はじめてのバイオハザードに挑戦！！ / クレア編【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/VdzmDXuMiYQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VdzmDXuMiYQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-11T12:59:14Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
