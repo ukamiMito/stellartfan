@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-12T06:52:59.941Z",
+  "updatedAt": "2026-04-12T08:02:40.899Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "FL8reR8JggQ",
-        "title": "【グランツーリスモ7】JDSチャレンジ2日目！タイムを縮めるぞーー！！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/FL8reR8JggQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FL8reR8JggQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-12T05:00:44Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
