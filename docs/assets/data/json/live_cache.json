@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-13T11:49:30.482Z",
+  "updatedAt": "2026-04-13T13:26:23.932Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -8,9 +8,9 @@
         "title": "【 勝利の女神 : #nikke 】新イベスト『GOOD WORLD』新キャラ✨シラツルが超気になる！！#145【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/zoD-gcgedms/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zoD-gcgedms",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-13T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-13T12:58:08Z",
         "actualEndTime": null
       }
     ]
