@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-04-13T15:01:28.161Z",
+  "updatedAt": "2026-04-13T16:42:10.137Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "zoD-gcgedms",
-        "title": "【 勝利の女神 : #nikke 】新イベスト『GOOD WORLD』新キャラ✨シラツルが超気になる！！#145【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/zoD-gcgedms/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zoD-gcgedms",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-13T12:58:08Z",
+        "videoId": "CQuqJexpVn0",
+        "title": "#6【BIOHAZARD RE:2】完全初見！人生はじめてのバイオハザードに挑戦！！署長許すまじ、シェリーたんを返せ。 / クレア編【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/CQuqJexpVn0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CQuqJexpVn0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-14T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelB": []
   }
 }
