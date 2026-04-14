@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T15:13:25.739Z",
+  "updatedAt": "2026-04-14T16:40:08.136Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "rQ9rY9S3xcI",
-        "title": "【 勝利の女神 : #nikke 】新サイドストーリー『PRETTY STAR』観ていく！アニスの過去とは・・・#146【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/rQ9rY9S3xcI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rQ9rY9S3xcI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-14T11:57:52Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
