@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-14T11:56:30.205Z",
+  "updatedAt": "2026-04-14T13:51:56.727Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#6【BIOHAZARD RE:2】完全初見！人生はじめてのバイオハザードに挑戦！！署長許すまじ、シェリーたんを返せ。 / クレア編【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/CQuqJexpVn0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=CQuqJexpVn0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-14T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-14T12:58:51Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【 勝利の女神 : #nikke 】新サイドストーリー『PRETTY STAR』観ていく！アニスの過去とは・・・#146【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/rQ9rY9S3xcI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rQ9rY9S3xcI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-14T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-14T11:57:52Z",
         "actualEndTime": null
       }
     ]
