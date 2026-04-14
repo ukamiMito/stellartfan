@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-04-14T18:05:08.367Z",
+  "updatedAt": "2026-04-14T19:48:16.176Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [
       {
-        "videoId": "CQuqJexpVn0",
-        "title": "#6【BIOHAZARD RE:2】完全初見！人生はじめてのバイオハザードに挑戦！！署長許すまじ、シェリーたんを返せ。 / クレア編【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/CQuqJexpVn0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CQuqJexpVn0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-14T12:58:51Z",
+        "videoId": "Nm4zt1wKIq0",
+        "title": "【グランツーリスモ7】初めて🔰ハンコンデビュー！！ついにハンドルの振動を感じるぞおおおお【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/Nm4zt1wKIq0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Nm4zt1wKIq0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-15T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ],
-    "channelB": []
+    ]
   }
 }
