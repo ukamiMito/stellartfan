@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T07:07:56.796Z",
+  "updatedAt": "2026-04-15T09:02:40.885Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "cUPY8ZEjuRw",
+        "title": "【イオモニ/朝活】🎉イオモニ2周年記念日！楽しい朝雑談いつもありがとううう！初見さん大歓迎◎【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/cUPY8ZEjuRw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cUPY8ZEjuRw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-15T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "Nm4zt1wKIq0",
         "title": "【グランツーリスモ7】初めて🔰ハンコンデビュー！！ついにハンドルの振動を感じるぞおおおお【華鉈イオ/StellArt.】#gt7",
