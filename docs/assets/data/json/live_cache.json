@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-15T14:53:25.279Z",
+  "updatedAt": "2026-04-15T16:05:25.261Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "ak_-G0FeHBk",
-        "title": "#最終回【BIOHAZARD RE:2】完全初見！人生はじめてのバイオハザードに挑戦！！絶対に助けるからねシェリー、、！ / クレア編【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ak_-G0FeHBk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ak_-G0FeHBk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-15T12:58:01Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "cUPY8ZEjuRw",
