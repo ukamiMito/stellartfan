@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T16:05:25.261Z",
+  "updatedAt": "2026-04-15T17:39:00.466Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -11,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-04-15T21:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "Nm4zt1wKIq0",
-        "title": "【グランツーリスモ7】初めて🔰ハンコンデビュー！！ついにハンドルの振動を感じるぞおおおお【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/Nm4zt1wKIq0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Nm4zt1wKIq0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-15T12:57:46Z",
         "actualEndTime": null
       }
     ]
