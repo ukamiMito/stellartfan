@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-15T19:18:24.515Z",
+  "updatedAt": "2026-04-15T20:26:05.967Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "q2pSMkRwIzs",
+        "title": "#1【BIOHAZARD RE:3】完全初見！もう一度ラクーンシティへ！RE2の別視点の物語！？【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/q2pSMkRwIzs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q2pSMkRwIzs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-16T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "cUPY8ZEjuRw",
