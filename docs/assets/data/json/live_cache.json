@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T11:55:43.430Z",
+  "updatedAt": "2026-04-15T13:27:20.679Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#最終回【BIOHAZARD RE:2】完全初見！人生はじめてのバイオハザードに挑戦！！絶対に助けるからねシェリー、、！ / クレア編【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/ak_-G0FeHBk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ak_-G0FeHBk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-15T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-15T12:58:01Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【グランツーリスモ7】初めて🔰ハンコンデビュー！！ついにハンドルの振動を感じるぞおおおお【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/Nm4zt1wKIq0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Nm4zt1wKIq0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-15T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-15T12:57:46Z",
         "actualEndTime": null
       }
     ]
