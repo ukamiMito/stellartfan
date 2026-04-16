@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-15T23:10:04.937Z",
+  "updatedAt": "2026-04-16T00:06:26.011Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "cUPY8ZEjuRw",
-        "title": "【イオモニ/朝活】🎉イオモニ2周年記念日！楽しい朝雑談いつもありがとううう！初見さん大歓迎◎【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/cUPY8ZEjuRw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cUPY8ZEjuRw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-15T20:57:51Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
