@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-17T21:41:14.614Z",
+  "updatedAt": "2026-04-17T22:38:57.767Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "2SAN_-czwgs",
+        "title": "#1【F1® 23】完全初見！ストーリーモード「ブレーキングポイント2」シーズン1を経て2へ！※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/2SAN_-czwgs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2SAN_-czwgs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "ONL0DoYCd-I",
