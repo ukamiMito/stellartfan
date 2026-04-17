@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T11:53:02.827Z",
+  "updatedAt": "2026-04-17T13:20:24.682Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【夜勤清掃】“何か”が潜むビルで清掃するお仕事。掃除に集中、掃除に集中…！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/EWomc6k8kt0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=EWomc6k8kt0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-17T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-17T12:58:59Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【グランツーリスモ7】ハンコン練習中！A級ライセンス最後までやり切りたい！！！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/ehDZhw57sAA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ehDZhw57sAA",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-17T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-17T12:57:43Z",
         "actualEndTime": null
       }
     ]
