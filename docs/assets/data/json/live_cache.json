@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-17T14:40:29.185Z",
+  "updatedAt": "2026-04-17T16:01:14.880Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "EWomc6k8kt0",
-        "title": "【夜勤清掃】“何か”が潜むビルで清掃するお仕事。掃除に集中、掃除に集中…！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/EWomc6k8kt0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EWomc6k8kt0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-17T12:58:59Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "ONL0DoYCd-I",
