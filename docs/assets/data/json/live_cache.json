@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-17T17:13:25.089Z",
+  "updatedAt": "2026-04-17T18:11:23.642Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -11,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-04-18T07:15:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "ehDZhw57sAA",
-        "title": "【グランツーリスモ7】ハンコン練習中！A級ライセンス最後までやり切りたい！！！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/ehDZhw57sAA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ehDZhw57sAA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-17T12:57:43Z",
         "actualEndTime": null
       }
     ]
