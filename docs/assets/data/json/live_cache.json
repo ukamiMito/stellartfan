@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T13:03:06.353Z",
+  "updatedAt": "2026-04-18T14:09:38.807Z",
   "channels": {
     "channelA": [
       {
@@ -32,16 +32,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-04-19T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "ONL0DoYCd-I",
-        "title": "【 勝利の女神 : #nikke 】🎉ニケ3.5周年記念生放送『希望の星が再び輝く刻』ミラー同時視聴しよう！！※スパチャ禁止#147【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/ONL0DoYCd-I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ONL0DoYCd-I",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-18T07:16:22Z",
         "actualEndTime": null
       }
     ]
