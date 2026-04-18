@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-18T11:34:37.735Z",
+  "updatedAt": "2026-04-18T13:03:06.353Z",
   "channels": {
     "channelA": [
       {
@@ -7,13 +7,33 @@
         "title": "#1【F1® 23】完全初見！ストーリーモード「ブレーキングポイント2」シーズン1を経て2へ！※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/2SAN_-czwgs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2SAN_-czwgs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-18T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-18T12:59:20Z",
         "actualEndTime": null
       }
     ],
     "channelB": [
+      {
+        "videoId": "pnZ9_alZGec",
+        "title": "【歌ってみた】『超かぐや姫！』ワールドイズマイン CPK! Remix / 華鉈イオ Cover",
+        "thumbnail": "https://i.ytimg.com/vi/pnZ9_alZGec/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pnZ9_alZGec",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-19T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "qbxSiCHWQnc",
+        "title": "【記念配信】28ヶ月＆イオモニ2年記念配信✨歌みた裏話とかケーキ食べたりとか【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/qbxSiCHWQnc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qbxSiCHWQnc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-19T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "ONL0DoYCd-I",
         "title": "【 勝利の女神 : #nikke 】🎉ニケ3.5周年記念生放送『希望の星が再び輝く刻』ミラー同時視聴しよう！！※スパチャ禁止#147【華鉈イオ/StellArt.】#新人vtuber",
