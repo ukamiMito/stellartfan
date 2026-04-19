@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-19T08:10:46.661Z",
+  "updatedAt": "2026-04-19T09:13:29.929Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "sRFGq4RgkW4",
-        "title": "【#縦型配信/#雑談】初見さん大歓迎☆化石集めるの最近の趣味なんですけど、みんなは好きな恐竜とかいる？？【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/sRFGq4RgkW4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sRFGq4RgkW4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-19T06:01:22Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "pnZ9_alZGec",
