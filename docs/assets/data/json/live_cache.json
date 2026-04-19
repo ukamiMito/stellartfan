@@ -1,18 +1,8 @@
 {
-  "updatedAt": "2026-04-19T10:07:33.899Z",
+  "updatedAt": "2026-04-19T11:07:20.417Z",
   "channels": {
     "channelA": [],
     "channelB": [
-      {
-        "videoId": "pnZ9_alZGec",
-        "title": "【歌ってみた】『超かぐや姫！』ワールドイズマイン CPK! Remix / 華鉈イオ Cover",
-        "thumbnail": "https://i.ytimg.com/vi/pnZ9_alZGec/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pnZ9_alZGec",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-19T11:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
       {
         "videoId": "qbxSiCHWQnc",
         "title": "【記念配信】28ヶ月＆イオモニ2年記念配信✨歌みた裏話とかケーキ食べたりとか【華鉈イオ/StellArt.】#新人vtuber",
