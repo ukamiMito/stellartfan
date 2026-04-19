@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-19T15:06:00.350Z",
+  "updatedAt": "2026-04-19T16:01:27.594Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "qbxSiCHWQnc",
-        "title": "【記念配信】28ヶ月＆イオモニ2年記念配信✨歌みた裏話とかケーキ食べたりとか【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/qbxSiCHWQnc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qbxSiCHWQnc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-19T12:57:54Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
