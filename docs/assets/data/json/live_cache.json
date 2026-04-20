@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-20T11:51:11.821Z",
+  "updatedAt": "2026-04-20T13:43:07.676Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -8,9 +8,9 @@
         "title": "【 #エンドフィールド 】#18  新ストーリー攻略「春の暁、訪れし時」ゾアン・ファンイがきた！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
         "thumbnail": "https://i.ytimg.com/vi/vL80D_PUtjc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vL80D_PUtjc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-20T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-20T12:58:35Z",
         "actualEndTime": null
       }
     ]
