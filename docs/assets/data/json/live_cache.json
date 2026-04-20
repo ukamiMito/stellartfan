@@ -1,7 +1,29 @@
 {
-  "updatedAt": "2026-04-20T17:57:21.682Z",
+  "updatedAt": "2026-04-20T19:15:29.921Z",
   "channels": {
-    "channelA": [],
-    "channelB": []
+    "channelA": [
+      {
+        "videoId": "tlHAh7ach84",
+        "title": "#1【龍が如く極2】完全初見！2人の龍が激突！？あの事件から1年後のお話らしい… ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/tlHAh7ach84/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tlHAh7ach84",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-21T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "1GSeJbPBjUU",
+        "title": "【 #エンドフィールド 】#19  新ストーリー攻略＆武陵工業に触れていく！新マップ拡大うれしいぞ～【華鉈イオ/StellArt.】#ぶいきゃす #PR",
+        "thumbnail": "https://i.ytimg.com/vi/1GSeJbPBjUU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1GSeJbPBjUU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-21T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
