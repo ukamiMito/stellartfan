@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-21T20:02:51.536Z",
+  "updatedAt": "2026-04-21T21:11:05.587Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "SH1rmIC1EN0",
+        "title": "#2【龍が如く極2】完全初見！4章～　龍司君やんちゃにも程があるって… ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/SH1rmIC1EN0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SH1rmIC1EN0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-22T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "UiCg_Tqed-8",
