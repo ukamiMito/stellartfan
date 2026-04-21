@@ -1,27 +1,16 @@
 {
-  "updatedAt": "2026-04-21T15:51:48.324Z",
+  "updatedAt": "2026-04-21T17:02:10.279Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "tlHAh7ach84",
-        "title": "#1【龍が如く極2】完全初見！2人の龍が激突！？あの事件から1年後のお話らしい… ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/tlHAh7ach84/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tlHAh7ach84",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-21T12:58:57Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
-        "videoId": "1GSeJbPBjUU",
-        "title": "【 #エンドフィールド 】#19  新ストーリー攻略＆武陵工業に触れていく！新マップ拡大うれしいぞ～【華鉈イオ/StellArt.】#ぶいきゃす #PR",
-        "thumbnail": "https://i.ytimg.com/vi/1GSeJbPBjUU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1GSeJbPBjUU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-21T12:57:30Z",
+        "videoId": "UiCg_Tqed-8",
+        "title": "【グランツーリスモ7】ハンコン練習中！A級ライセンスでゴールドを目指す旅。。。【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/UiCg_Tqed-8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UiCg_Tqed-8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-22T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ]
