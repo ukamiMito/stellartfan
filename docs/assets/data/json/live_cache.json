@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T20:04:57.339Z",
+  "updatedAt": "2026-04-22T21:25:55.703Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -8,9 +8,9 @@
         "title": "【イオモニ/朝活】2周年を迎えて初心に還るゆっくり雑談。初見さん大歓迎◎【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/buh0jVrOsF8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=buh0jVrOsF8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-22T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-22T20:58:02Z",
         "actualEndTime": null
       }
     ]
