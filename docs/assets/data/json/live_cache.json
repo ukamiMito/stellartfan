@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-22T12:12:54.345Z",
+  "updatedAt": "2026-04-22T14:15:19.830Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#2【龍が如く極2】完全初見！4章～　龍司君やんちゃにも程があるって… ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/SH1rmIC1EN0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SH1rmIC1EN0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-22T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-22T12:59:03Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【グランツーリスモ7】ハンコン練習中！A級ライセンスでゴールドを目指す旅。。。【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/UiCg_Tqed-8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=UiCg_Tqed-8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-22T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-22T12:58:21Z",
         "actualEndTime": null
       }
     ]
