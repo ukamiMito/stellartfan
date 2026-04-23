@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-23T18:41:20.667Z",
+  "updatedAt": "2026-04-23T20:05:48.426Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "BwGpAEgcj4s",
+        "title": "【MIMESIS】初めてのミメシスをこの4人でやってみる！偽物に騙されるなー！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/BwGpAEgcj4s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BwGpAEgcj4s",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-24T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "lP5ppXj4EoI",
