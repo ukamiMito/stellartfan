@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T15:53:12.429Z",
+  "updatedAt": "2026-04-23T17:20:11.592Z",
   "channels": {
     "channelA": [
       {
@@ -32,16 +32,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-04-24T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "QC5BcqTjd5M",
-        "title": "【 #エンドフィールド 】#20  新ストーリー攻略＆新工業がっつりやる！！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
-        "thumbnail": "https://i.ytimg.com/vi/QC5BcqTjd5M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QC5BcqTjd5M",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-23T12:57:55Z",
         "actualEndTime": null
       }
     ]
