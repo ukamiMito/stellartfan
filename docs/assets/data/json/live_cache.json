@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T03:53:39.074Z",
+  "updatedAt": "2026-04-23T06:05:45.902Z",
   "channels": {
     "channelA": [
       {
@@ -13,6 +13,27 @@
         "actualEndTime": null
       }
     ],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "J3JnK_Ena8M",
+        "title": "【 MIMESIS 】初ミメシス！偽物も本物もぶっ倒せばいいってことだよね？？？【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/J3JnK_Ena8M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J3JnK_Ena8M",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-24T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "QC5BcqTjd5M",
+        "title": "【 #エンドフィールド 】#20  新ストーリー攻略＆新工業がっつりやる！！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
+        "thumbnail": "https://i.ytimg.com/vi/QC5BcqTjd5M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QC5BcqTjd5M",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-23T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
