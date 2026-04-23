@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-23T17:20:11.592Z",
+  "updatedAt": "2026-04-23T18:41:20.667Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "oclLQMLD81g",
-        "title": "#2【BIOHAZARD RE:3】完全初見！カルロス視点から進める！仲間を見捨てて一人で逃げるとか言語道断ですよ。【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/oclLQMLD81g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oclLQMLD81g",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-23T12:58:04Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "lP5ppXj4EoI",
