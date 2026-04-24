@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-24T21:13:09.623Z",
+  "updatedAt": "2026-04-24T22:08:45.459Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "oTj6PUTdQbw",
+        "title": "#7【スナック浪漫】みんなのフェチとか癖が知りたい！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/oTj6PUTdQbw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oTj6PUTdQbw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-25T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "lP5ppXj4EoI",
