@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-24T17:29:26.725Z",
+  "updatedAt": "2026-04-24T18:07:38.093Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "BwGpAEgcj4s",
-        "title": "【MIMESIS】初めてのミメシスをこの4人でやってみる！偽物に騙されるなー！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/BwGpAEgcj4s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BwGpAEgcj4s",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-24T12:58:49Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "lP5ppXj4EoI",
@@ -22,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-04-25T14:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "J3JnK_Ena8M",
-        "title": "【 MIMESIS 】初ミメシス！偽物も本物もぶっ倒せばいいってことだよね？？？【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/J3JnK_Ena8M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=J3JnK_Ena8M",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-24T12:57:31Z",
         "actualEndTime": null
       }
     ]
