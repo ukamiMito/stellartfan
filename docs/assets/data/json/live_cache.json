@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-25T18:04:31.217Z",
+  "updatedAt": "2026-04-25T19:25:40.505Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "obSdBENTx30",
+        "title": "【グランツーリスモ7】JDSチャレンジ3日目！速いドライバーの腕喰いたい。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/obSdBENTx30/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=obSdBENTx30",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-26T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
