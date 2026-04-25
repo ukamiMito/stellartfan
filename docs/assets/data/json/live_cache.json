@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-25T17:09:01.501Z",
+  "updatedAt": "2026-04-25T18:04:31.217Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "lP5ppXj4EoI",
-        "title": "【華鉈イオの深夜喫茶】第6回✨視聴者おススメの○○○刺身を食べながらヤバ癖暴露大会【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
-        "thumbnail": "https://i.ytimg.com/vi/lP5ppXj4EoI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lP5ppXj4EoI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-25T13:58:20Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
