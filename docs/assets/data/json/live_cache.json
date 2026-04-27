@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-04-27T14:33:50.893Z",
+  "updatedAt": "2026-04-27T16:25:56.874Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "XJJ6R5h7lTo",
-        "title": "【 #エンドフィールド 】#21  🔴『緋銅装備』作り！工業ライン作って新装備制作だ～～！！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
-        "thumbnail": "https://i.ytimg.com/vi/XJJ6R5h7lTo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XJJ6R5h7lTo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-27T13:01:11Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
