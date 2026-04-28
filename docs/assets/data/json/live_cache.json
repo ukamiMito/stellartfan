@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T08:42:35.923Z",
+  "updatedAt": "2026-04-28T11:04:57.501Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,26 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "zyuXNHciehs",
+        "title": "【イオモニ/朝活】名作アニメを観まくっているお話。初見さん大歓迎◎【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/zyuXNHciehs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zyuXNHciehs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-29T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "5N0Gw0LYtgQ",
+        "title": "【 #エンドフィールド 】#22  集成工業システム＆首礎で素敵写真を撮りまくる！！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
+        "thumbnail": "https://i.ytimg.com/vi/5N0Gw0LYtgQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5N0Gw0LYtgQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "D5IZWgbvvGQ",
         "title": "【powerwash simulator】初めてのお掃除体験！のんびりお掃除雑談会です　w/天硝路ろまん【華鉈イオ/StellArt.】#紅白天華",
