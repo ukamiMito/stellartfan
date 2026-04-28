@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-28T17:46:34.358Z",
+  "updatedAt": "2026-04-28T19:41:34.957Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "b9uuUWjn5Uw",
+        "title": "#3【龍が如く極2】完全初見！6章～　怪しいけど、けど嘘だと言ってくれ一輝いいい！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/b9uuUWjn5Uw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=b9uuUWjn5Uw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "zyuXNHciehs",
