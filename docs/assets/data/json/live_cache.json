@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T11:04:57.501Z",
+  "updatedAt": "2026-04-28T13:12:01.864Z",
   "channels": {
     "channelA": [
       {
@@ -40,7 +40,7 @@
         "thumbnail": "https://i.ytimg.com/vi/D5IZWgbvvGQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=D5IZWgbvvGQ",
         "status": "upcoming",
-        "scheduledStartTime": "2026-04-28T13:15:00Z",
+        "scheduledStartTime": "2026-04-28T13:30:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
