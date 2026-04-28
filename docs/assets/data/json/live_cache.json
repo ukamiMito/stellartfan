@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T02:54:35.467Z",
+  "updatedAt": "2026-04-28T06:07:22.085Z",
   "channels": {
     "channelA": [
       {
@@ -13,6 +13,17 @@
         "actualEndTime": null
       }
     ],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "D5IZWgbvvGQ",
+        "title": "【powerwash simulator】初めてのお掃除体験！のんびりお掃除雑談会です　w/天硝路ろまん【華鉈イオ/StellArt.】#紅白天華",
+        "thumbnail": "https://i.ytimg.com/vi/D5IZWgbvvGQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=D5IZWgbvvGQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-28T13:15:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
