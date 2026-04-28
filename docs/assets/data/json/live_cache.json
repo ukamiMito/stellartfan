@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-28T13:12:01.864Z",
+  "updatedAt": "2026-04-28T15:43:09.741Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【PowerWash Simulator】まったり雑談しながら2人でお掃除🎵【天硝路ろまん / StellArt.】#紅白天華",
         "thumbnail": "https://i.ytimg.com/vi/0cFvHLWGTMg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=0cFvHLWGTMg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-28T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-28T13:28:38Z",
         "actualEndTime": null
       }
     ],
@@ -39,9 +39,9 @@
         "title": "【powerwash simulator】初めてのお掃除体験！のんびりお掃除雑談会です　w/天硝路ろまん【華鉈イオ/StellArt.】#紅白天華",
         "thumbnail": "https://i.ytimg.com/vi/D5IZWgbvvGQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=D5IZWgbvvGQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-28T13:30:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-28T13:28:39Z",
         "actualEndTime": null
       }
     ]
