@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-04-29T19:44:46.698Z",
+  "updatedAt": "2026-04-29T21:05:12.338Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "Ek95h44ZfXY",
+        "title": "#4【龍が如く極2】完全初見！10章～　なんだこの甘い雰囲気は！ずっと2人でデートしててくれー！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Ek95h44ZfXY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ek95h44ZfXY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-30T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "zvkjkUfR4tg",
@@ -18,9 +29,9 @@
         "title": "【イオモニ/朝活】名作アニメを観まくっているお話。初見さん大歓迎◎【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/zyuXNHciehs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zyuXNHciehs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-29T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-29T20:57:21Z",
         "actualEndTime": null
       }
     ]
