@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T12:01:23.174Z",
+  "updatedAt": "2026-04-29T14:37:05.960Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#3【龍が如く極2】完全初見！6章～　怪しいけど、けど嘘だと言ってくれ一輝いいい！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/b9uuUWjn5Uw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=b9uuUWjn5Uw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-29T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-29T12:59:23Z",
         "actualEndTime": null
       }
     ],
@@ -39,9 +39,9 @@
         "title": "【 #エンドフィールド 】#22  集成工業システム＆首礎で素敵写真を撮りまくる！！【華鉈イオ/StellArt.】#ぶいきゃす #PR",
         "thumbnail": "https://i.ytimg.com/vi/5N0Gw0LYtgQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5N0Gw0LYtgQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-04-29T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-04-29T12:57:10Z",
         "actualEndTime": null
       }
     ]
