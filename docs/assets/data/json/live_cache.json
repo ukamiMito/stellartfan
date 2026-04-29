@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T08:19:40.941Z",
+  "updatedAt": "2026-04-29T10:24:41.552Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "zvkjkUfR4tg",
+        "title": "【 勝利の女神 : #nikke 】🎉ニケ3.5周年イベント『STAR ANIS』STORYⅠ観る！T.T. STAR愛が止まらない！#148【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/zvkjkUfR4tg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zvkjkUfR4tg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-04-30T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "zyuXNHciehs",
         "title": "【イオモニ/朝活】名作アニメを観まくっているお話。初見さん大歓迎◎【華鉈イオ/StellArt.】#新人vtuber",
