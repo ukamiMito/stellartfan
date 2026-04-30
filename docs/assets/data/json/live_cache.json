@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-29T23:54:50.826Z",
+  "updatedAt": "2026-04-30T02:54:53.910Z",
   "channels": {
     "channelA": [
       {
@@ -22,16 +22,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-04-30T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "zyuXNHciehs",
-        "title": "【イオモニ/朝活】名作アニメを観まくっているお話。初見さん大歓迎◎【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/zyuXNHciehs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zyuXNHciehs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-04-29T20:57:21Z",
         "actualEndTime": null
       }
     ]
