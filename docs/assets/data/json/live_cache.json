@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-01T17:04:09.858Z",
+  "updatedAt": "2026-05-01T18:37:54.244Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "lKrgyAqkd48",
-        "title": "【グランツーリスモ7 / #STLA杯】大会練習1日目🔥鈴木コーチよろしくお願いしますみょん！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/lKrgyAqkd48/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lKrgyAqkd48",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-01T13:00:10Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
