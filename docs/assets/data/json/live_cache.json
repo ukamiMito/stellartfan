@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-01T15:57:52.957Z",
+  "updatedAt": "2026-05-01T17:04:09.858Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "MftFQ-1FFbU",
-        "title": "【グランツーリスモ7】STLA杯⭐個人練習1日目！山中智瑛コーチと戦略考えるぞ～！！！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/MftFQ-1FFbU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MftFQ-1FFbU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-01T12:59:52Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
