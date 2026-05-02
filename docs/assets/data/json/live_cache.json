@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-02T16:09:44.407Z",
+  "updatedAt": "2026-05-02T17:22:54.509Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "rB-FFUtn-iU",
-        "title": "【グランツーリスモ7 / #STLA杯】大会練習2日目🔥今日はライセンス対決練習からのレース練習！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/rB-FFUtn-iU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rB-FFUtn-iU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-02T11:58:41Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
