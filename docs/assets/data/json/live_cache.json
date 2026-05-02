@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T11:52:59.607Z",
+  "updatedAt": "2026-05-02T13:12:17.690Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【グランツーリスモ7 / #STLA杯】大会練習2日目🔥今日はライセンス対決練習からのレース練習！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/rB-FFUtn-iU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rB-FFUtn-iU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-02T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-02T11:58:41Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【グランツーリスモ7】STLA杯⭐大会練習2日目！山中コーチ流特訓開始！！基礎固めしっかりやっていくぞ～【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/SBvPiteafTo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SBvPiteafTo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-02T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-02T11:58:01Z",
         "actualEndTime": null
       }
     ]
