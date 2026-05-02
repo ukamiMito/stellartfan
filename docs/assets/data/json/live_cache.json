@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T15:25:26.598Z",
+  "updatedAt": "2026-05-02T16:09:44.407Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "SBvPiteafTo",
-        "title": "【グランツーリスモ7】STLA杯⭐大会練習2日目！山中コーチ流特訓開始！！基礎固めしっかりやっていくぞ～【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/SBvPiteafTo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SBvPiteafTo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-02T11:58:01Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
