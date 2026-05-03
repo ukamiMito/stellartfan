@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-03T11:42:01.641Z",
+  "updatedAt": "2026-05-03T13:10:42.737Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【グランツーリスモ7 / #STLA杯】大会練習3日目🔥世界最速のみょんコーチに今日も走りを教わっていくみょん！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/NpnfXZOGU3A/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=NpnfXZOGU3A",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-03T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-03T12:00:41Z",
         "actualEndTime": null
       }
     ],
