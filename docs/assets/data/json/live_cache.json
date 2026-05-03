@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-03T18:10:40.535Z",
+  "updatedAt": "2026-05-03T19:33:10.310Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "JqZr5qYE2DQ",
+        "title": "【グランツーリスモ7 / #STLA杯】大会練習4日目🔥今日は相手チームと練習試合するぞー！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/JqZr5qYE2DQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JqZr5qYE2DQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-04T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
