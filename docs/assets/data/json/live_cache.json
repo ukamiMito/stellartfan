@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-04T13:07:12.361Z",
+  "updatedAt": "2026-05-04T15:29:37.205Z",
   "channels": {
     "channelA": [
       {
@@ -13,17 +13,6 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "TnSiu4BteYg",
-        "title": "【グランツーリスモ7】STLA杯⭐合同練習！大会に向けて4人で走りまくります！！w/天硝路ろまん,山中智瑛,鈴木聖弥【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/TnSiu4BteYg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TnSiu4BteYg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-04T10:59:29Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
