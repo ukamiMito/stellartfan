@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T21:34:56.607Z",
+  "updatedAt": "2026-05-05T22:55:19.560Z",
   "channels": {
     "channelA": [
       {
@@ -13,6 +13,17 @@
         "actualEndTime": null
       }
     ],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "7cgGyugP-24",
+        "title": "【グランツーリスモ7】STLA杯⭐完全攻略！鈴鹿＆富士スピードウェイのコースライン覚える！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/7cgGyugP-24/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7cgGyugP-24",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
