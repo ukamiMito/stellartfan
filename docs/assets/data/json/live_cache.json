@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-05T12:46:17.185Z",
+  "updatedAt": "2026-05-05T17:04:18.495Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "gDjitkMr-3Q",
-        "title": "【グランツーリスモ7】STLA杯⭐初ソロ練習！ライセンス＆レース練習やっていきます！！焦らない！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/gDjitkMr-3Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gDjitkMr-3Q",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-05T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelB": []
   }
 }
