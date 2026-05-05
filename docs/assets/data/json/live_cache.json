@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-05T11:01:59.324Z",
+  "updatedAt": "2026-05-05T12:46:17.185Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "kJdFhAdsSGw",
-        "title": "【歌ってみた】あられやこんこん - 弌誠 / 天硝路ろまん(Cover)",
-        "thumbnail": "https://i.ytimg.com/vi/kJdFhAdsSGw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kJdFhAdsSGw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-05T11:00:06Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "gDjitkMr-3Q",
