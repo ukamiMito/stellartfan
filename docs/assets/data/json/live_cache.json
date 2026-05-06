@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-06T15:40:17.360Z",
+  "updatedAt": "2026-05-06T17:40:46.492Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "2C16py3ytv4",
-        "title": "【グランツーリスモ7 / #STLA杯】大会練習5日目🔥コーチングしてもらうのは今日でラスト！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/2C16py3ytv4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2C16py3ytv4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-06T11:58:38Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "7cgGyugP-24",
