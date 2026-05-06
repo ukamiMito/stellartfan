@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-06T22:13:11.754Z",
+  "updatedAt": "2026-05-06T23:26:01.853Z",
   "channels": {
     "channelA": [],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "WbLXYLeIurs",
+        "title": "【グランツーリスモ7】STLA杯⭐大会練習ついに最終日！最後の仕上げにかかります！頑張れ自分！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/WbLXYLeIurs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WbLXYLeIurs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
