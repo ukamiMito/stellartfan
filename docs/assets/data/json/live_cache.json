@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-05-08T08:07:56.773Z",
+  "updatedAt": "2026-05-08T10:02:33.206Z",
   "channels": {
     "channelA": [
+      {
+        "videoId": "EwtTTC1-D10",
+        "title": "【グランツーリスモ7 / #STLA杯】少しだけれんしゅう【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/EwtTTC1-D10/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EwtTTC1-D10",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-08T09:33:46Z",
+        "actualEndTime": null
+      },
       {
         "videoId": "ZKBXC1742zo",
         "title": "【グランツーリスモ7 / #STLA杯】大会本番🔥全力でレースして全力で楽しむ！！！【天硝路ろまん / StellArt.】",
