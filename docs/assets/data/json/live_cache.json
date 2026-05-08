@@ -1,29 +1,7 @@
 {
-  "updatedAt": "2026-05-08T13:47:57.231Z",
+  "updatedAt": "2026-05-08T15:21:34.067Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "ZKBXC1742zo",
-        "title": "【グランツーリスモ7 / #STLA杯】大会本番🔥全力でレースして全力で楽しむ！！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ZKBXC1742zo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZKBXC1742zo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-08T11:58:35Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "F8cOKjvULwo",
-        "title": "【グランツーリスモ7】STLA杯⭐大会本番！練習の成果をここで全部出す！楽しむぞ～！！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/F8cOKjvULwo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F8cOKjvULwo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-08T12:01:37Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": []
   }
 }
