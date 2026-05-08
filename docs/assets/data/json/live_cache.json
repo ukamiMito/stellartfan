@@ -1,17 +1,7 @@
 {
-  "updatedAt": "2026-05-08T10:02:33.206Z",
+  "updatedAt": "2026-05-08T11:53:06.010Z",
   "channels": {
     "channelA": [
-      {
-        "videoId": "EwtTTC1-D10",
-        "title": "【グランツーリスモ7 / #STLA杯】少しだけれんしゅう【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/EwtTTC1-D10/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EwtTTC1-D10",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-08T09:33:46Z",
-        "actualEndTime": null
-      },
       {
         "videoId": "ZKBXC1742zo",
         "title": "【グランツーリスモ7 / #STLA杯】大会本番🔥全力でレースして全力で楽しむ！！！【天硝路ろまん / StellArt.】",
@@ -24,16 +14,6 @@
       }
     ],
     "channelB": [
-      {
-        "videoId": "Q5M1v50KAeA",
-        "title": "【グランツーリスモ7】STLA杯⭐大会練習！泣いても笑っても最後のソロ練習【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/Q5M1v50KAeA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q5M1v50KAeA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-08T07:59:05Z",
-        "actualEndTime": null
-      },
       {
         "videoId": "F8cOKjvULwo",
         "title": "【グランツーリスモ7】STLA杯⭐大会本番！練習の成果をここで全部出す！楽しむぞ～！！【華鉈イオ/StellArt.】#gt7",
