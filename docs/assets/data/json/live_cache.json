@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-07T23:03:54.227Z",
+  "updatedAt": "2026-05-08T00:13:03.984Z",
   "channels": {
     "channelA": [
       {
@@ -13,6 +13,17 @@
         "actualEndTime": null
       }
     ],
-    "channelB": []
+    "channelB": [
+      {
+        "videoId": "F8cOKjvULwo",
+        "title": "【グランツーリスモ7】STLA杯⭐大会本番！練習の成果をここで全部出す！楽しむぞ～！！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/F8cOKjvULwo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F8cOKjvULwo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-08T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
