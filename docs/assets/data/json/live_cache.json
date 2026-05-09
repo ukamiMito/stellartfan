@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-09T17:29:11.317Z",
+  "updatedAt": "2026-05-09T18:33:29.815Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "ngIAo1cKoRQ",
-        "title": "#5【龍が如く極2】完全初見！13章～　遥が芸能界スカウト！？まあ宇宙一かわいいからトップアイドルになれる ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ngIAo1cKoRQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ngIAo1cKoRQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-09T12:58:41Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": []
   }
 }
