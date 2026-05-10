@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-10T19:03:55.006Z",
+  "updatedAt": "2026-05-10T20:09:34.559Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "0UIcdmW212Q",
+        "title": "#1【龍が如く極3】完全初見！1章～　今回の舞台は沖縄！？なんだか新しい素敵な出会いもありそうな予感💕 ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/0UIcdmW212Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0UIcdmW212Q",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-11T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "QJk2gsBJUTg",
