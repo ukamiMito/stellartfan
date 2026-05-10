@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-09T23:50:19.169Z",
+  "updatedAt": "2026-05-10T02:56:27.862Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "XgZEjb0rKcc",
+        "title": "#真島編【龍が如く極2】完全初見！真島の兄さんがメインのお話！？気になりすぎる！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/XgZEjb0rKcc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XgZEjb0rKcc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-10T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": []
   }
 }
