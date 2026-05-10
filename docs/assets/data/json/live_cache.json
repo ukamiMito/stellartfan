@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-05-10T06:14:18.668Z",
+  "updatedAt": "2026-05-10T08:26:21.698Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [
       {
-        "videoId": "XgZEjb0rKcc",
-        "title": "#真島編【龍が如く極2】完全初見！真島の兄さんがメインのお話！？気になりすぎる！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/XgZEjb0rKcc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XgZEjb0rKcc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-10T04:59:30Z",
+        "videoId": "QJk2gsBJUTg",
+        "title": "【 勝利の女神 : #nikke 】🎉ニケ3.5周年イベント『STAR ANIS』STORYⅡ観る！報われてくれ！！#149【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/QJk2gsBJUTg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QJk2gsBJUTg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-11T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ],
-    "channelB": []
+    ]
   }
 }
