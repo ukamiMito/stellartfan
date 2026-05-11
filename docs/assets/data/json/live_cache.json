@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T05:32:06.574Z",
+  "updatedAt": "2026-05-11T09:39:08.070Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,26 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "q4LabwleTiw",
+        "title": "【グランツーリスモ7】STLA杯振り返りの会。感想話しつつ走りなおして挽回したい【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/q4LabwleTiw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q4LabwleTiw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-13T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "Zy4VidmPF3M",
+        "title": "【 勝利の女神 : #nikke 】3.5周年ガチャ400連！！初課金🔥アニス＆ネオン＆リバーレリオお迎えします！#150【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Zy4VidmPF3M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Zy4VidmPF3M",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-12T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "QJk2gsBJUTg",
         "title": "【 勝利の女神 : #nikke 】🎉ニケ3.5周年イベント『STAR ANIS』STORYⅡ観る！報われてくれ！！#149【華鉈イオ/StellArt.】#新人vtuber",
