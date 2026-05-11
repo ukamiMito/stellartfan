@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T12:38:15.728Z",
+  "updatedAt": "2026-05-11T15:54:45.991Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#1【龍が如く極3】完全初見！1章～　今回の舞台は沖縄！？なんだか新しい素敵な出会いもありそうな予感💕 ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/0UIcdmW212Q/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=0UIcdmW212Q",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-11T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-11T13:00:11Z",
         "actualEndTime": null
       }
     ],
@@ -39,9 +39,9 @@
         "title": "【 勝利の女神 : #nikke 】🎉ニケ3.5周年イベント『STAR ANIS』STORYⅡ観る！報われてくれ！！#149【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/QJk2gsBJUTg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=QJk2gsBJUTg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-11T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-11T12:58:24Z",
         "actualEndTime": null
       }
     ]
