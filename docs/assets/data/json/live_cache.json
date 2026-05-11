@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T15:54:45.991Z",
+  "updatedAt": "2026-05-11T17:54:10.327Z",
   "channels": {
     "channelA": [
       {
@@ -32,16 +32,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-05-12T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "QJk2gsBJUTg",
-        "title": "【 勝利の女神 : #nikke 】🎉ニケ3.5周年イベント『STAR ANIS』STORYⅡ観る！報われてくれ！！#149【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/QJk2gsBJUTg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QJk2gsBJUTg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-11T12:58:24Z",
         "actualEndTime": null
       }
     ]
