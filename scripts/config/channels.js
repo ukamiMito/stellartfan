@@ -21,5 +21,17 @@ export const CHANNELS = {
     excludeVideoIds: [
       'BlrvT6-EnRs'
     ]
+  },
+  channelC: {
+    channelId: 'UCQp7x7j2luIdUscWmJ3nTNg',
+    channelName: 'にうふぁ',
+    freechatVideoId: '',
+    excludeVideoIds: []
+  },
+  channelD: {
+    channelId: 'UCKB9sNaOhnkx4jtsYeWEd4g',
+    channelName: 'アイリナ・ゼファリオ',
+    freechatVideoId: '',
+    excludeVideoIds: []
   }
 };
