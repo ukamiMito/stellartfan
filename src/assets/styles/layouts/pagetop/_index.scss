@@ -1,0 +1,28 @@
+.l-pagetop {
+  position: sticky;
+  bottom: 20px;
+  left: 0;
+}
+
+.link-pagetop {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+@keyframes pagetop-animation {
+  0% { transform: translateY(0); }
+  25% { transform: translateY(2px); }
+  50% { transform: translateY(0); }
+  75% { transform: translateY(2px); }
+  100% { transform: translateY(0); }
+}
+
+.link-pagetop__image {
+  will-change: transform;
+  animation-name: pagetop-animation;
+  animation-duration: 2.5s;
+  animation-iteration-count:infinite;
+  animation-timing-function: ease-in-out;
+  filter: drop-shadow(2px 2px 0 white) drop-shadow(-2px -2px 0 white) drop-shadow(-2px 2px 0 white) drop-shadow(2px -2px 0 white);;
+}
