@@ -3,7 +3,9 @@
  */
 const CHANNEL_NAME_MAP = {
   channelA: '天硝路ろまん',
-  channelB: '華鉈イオ'
+  channelB: '華鉈イオ',
+  channelC: 'にうふぁ',
+  channelD: 'アイリナ・ゼファリオ'
 };
 
 /**
