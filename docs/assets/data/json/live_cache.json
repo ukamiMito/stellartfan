@@ -1,28 +1,20 @@
 {
-  "updatedAt": "2026-05-12T09:39:35.554Z",
+  "updatedAt": "2026-05-12T11:55:04.580Z",
   "channels": {
     "channelA": [],
-    "channelB": [
+    "channelB": [],
+    "channelC": [
       {
-        "videoId": "q4LabwleTiw",
-        "title": "【グランツーリスモ7】STLA杯振り返りの会。感想話しつつ走りなおして挽回したい【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/q4LabwleTiw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=q4LabwleTiw",
+        "videoId": "E_BTC5gqPl4",
+        "title": "【初配信】にうふぁのはじめてのふぁいしんです！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/E_BTC5gqPl4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=E_BTC5gqPl4",
         "status": "upcoming",
-        "scheduledStartTime": "2026-05-13T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "Zy4VidmPF3M",
-        "title": "【 勝利の女神 : #nikke 】3.5周年ガチャ400連！！初課金🔥アニス＆ネオン＆リバーレリオお迎えします！#150【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Zy4VidmPF3M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Zy4VidmPF3M",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-12T13:00:00Z",
+        "scheduledStartTime": "2026-05-21T12:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelD": []
   }
 }
