@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-13T13:35:24.926Z",
+  "updatedAt": "2026-05-13T16:18:56.624Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "0IoSl29fIAo",
-        "title": "【ワンワンバトル】StellArt.の狂犬であるこの私が負けるわけない【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/0IoSl29fIAo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0IoSl29fIAo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-13T13:02:17Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [
       {
