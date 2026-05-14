@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-14T20:52:15.639Z",
+  "updatedAt": "2026-05-14T22:11:27.227Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "5_fDOkYQOeg",
+        "title": "#サブクエ回収【龍が如く極2】完全初見！みなさんお待ちかねの地上げ三銃士のサブクエだ！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/5_fDOkYQOeg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5_fDOkYQOeg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [
       {
