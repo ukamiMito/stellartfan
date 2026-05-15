@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T10:57:27.335Z",
+  "updatedAt": "2026-05-15T12:58:06.754Z",
   "channels": {
     "channelA": [
       {
@@ -37,6 +37,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "HzyElSi4cGU",
+        "title": "【初配信】⏳はじめまして🎼〖アイリナ・ゼファリオ┊StellArt.〗",
+        "thumbnail": "https://i.ytimg.com/vi/HzyElSi4cGU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HzyElSi4cGU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-21T12:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
