@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-05-15T17:08:40.627Z",
+  "updatedAt": "2026-05-15T19:05:10.363Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "5_fDOkYQOeg",
-        "title": "#サブクエ回収【龍が如く極2】完全初見！みなさんお待ちかねの地上げ三銃士のサブクエだ！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/5_fDOkYQOeg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5_fDOkYQOeg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-15T12:59:41Z",
+        "videoId": "eAPi1kjTtOE",
+        "title": "#2【F1® 23】完全初見！「ブレーキングポイント2」チャプター5～　F1に女性ドライバー参戦！？めっちゃ強そうだ...！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/eAPi1kjTtOE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eAPi1kjTtOE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-16T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
