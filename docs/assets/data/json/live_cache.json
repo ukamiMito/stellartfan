@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T05:12:58.288Z",
+  "updatedAt": "2026-05-15T08:21:39.959Z",
   "channels": {
     "channelA": [
       {
@@ -13,7 +13,18 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "Zy4VidmPF3M",
+        "title": "【 勝利の女神 : #nikke 】ガチャ400連勝負🔥ネオン＆ミントお迎えします！#150【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Zy4VidmPF3M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Zy4VidmPF3M",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [
       {
         "videoId": "E_BTC5gqPl4",
