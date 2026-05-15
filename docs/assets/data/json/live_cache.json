@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T15:21:22.644Z",
+  "updatedAt": "2026-05-15T17:08:40.627Z",
   "channels": {
     "channelA": [
       {
@@ -15,13 +15,13 @@
     ],
     "channelB": [
       {
-        "videoId": "Zy4VidmPF3M",
-        "title": "【 勝利の女神 : #nikke 】ガチャ400連勝負🔥ネオン＆ミントお迎えします！#150【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Zy4VidmPF3M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Zy4VidmPF3M",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-15T13:57:23Z",
+        "videoId": "q4LabwleTiw",
+        "title": "【グランツーリスモ7】STLA杯振り返りの会。感想話しつつ走りなおして挽回したい【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/q4LabwleTiw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q4LabwleTiw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-16T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
