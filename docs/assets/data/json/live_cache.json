@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-16T11:51:11.601Z",
+  "updatedAt": "2026-05-16T13:22:05.776Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#2【F1® 23】完全初見！「ブレーキングポイント2」チャプター5～　F1に女性ドライバー参戦！？めっちゃ強そうだ...！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/eAPi1kjTtOE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=eAPi1kjTtOE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-16T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-16T12:58:54Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【グランツーリスモ7】STLA杯振り返りの会。感想話しつつ走りなおして挽回したい【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/q4LabwleTiw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=q4LabwleTiw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-16T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-16T12:57:46Z",
         "actualEndTime": null
       }
     ],
