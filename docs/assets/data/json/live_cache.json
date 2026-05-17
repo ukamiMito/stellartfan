@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-17T06:35:40.582Z",
+  "updatedAt": "2026-05-17T09:05:11.067Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "CTmHAx94hfE",
-        "title": "【#縦型配信/#雑談】みんなでいろんな化石を観よう！☆初見さん大歓迎☆【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/CTmHAx94hfE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CTmHAx94hfE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-17T05:01:15Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "HiDBrXybEFM",
@@ -25,18 +14,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "E_BTC5gqPl4",
-        "title": "【初配信】にうふぁのはじめてのふぁいしんです！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/E_BTC5gqPl4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=E_BTC5gqPl4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-21T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "HzyElSi4cGU",
