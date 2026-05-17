@@ -1,19 +1,8 @@
 {
-  "updatedAt": "2026-05-17T14:56:08.190Z",
+  "updatedAt": "2026-05-17T16:00:14.559Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "HiDBrXybEFM",
-        "title": "【ELDEN RING/エルデンリング】#37 完全初見！ボス攻略の為『名刀月隠』を強化していくぞ～！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/HiDBrXybEFM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HiDBrXybEFM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-17T12:57:27Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": [
       {
