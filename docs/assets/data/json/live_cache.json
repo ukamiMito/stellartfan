@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-17T03:27:44.482Z",
+  "updatedAt": "2026-05-17T06:35:40.582Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "CTmHAx94hfE",
+        "title": "【#縦型配信/#雑談】みんなでいろんな化石を観よう！☆初見さん大歓迎☆【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/CTmHAx94hfE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CTmHAx94hfE",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-17T05:01:15Z",
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "HiDBrXybEFM",
