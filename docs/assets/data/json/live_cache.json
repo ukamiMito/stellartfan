@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-18T18:00:16.970Z",
+  "updatedAt": "2026-05-18T19:57:00.860Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "IfgJrf0_ZrU",
+        "title": "【グランツーリスモ7】STLA杯お疲れ様会！参加型で夢のアルファード16台レースすっぞ！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/IfgJrf0_ZrU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IfgJrf0_ZrU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-19T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "hXE8JkOtnxg",
