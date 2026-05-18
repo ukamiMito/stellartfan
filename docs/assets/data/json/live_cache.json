@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-18T11:58:31.615Z",
+  "updatedAt": "2026-05-18T15:51:21.241Z",
   "channels": {
     "channelA": [],
     "channelB": [
       {
         "videoId": "hXE8JkOtnxg",
-        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.45『代償』前篇！新メインストーリー攻略！#152【華鉈イオ/StellArt.】#新人vtuber",
+        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.45『代償』新メインストーリー攻略！#152【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/hXE8JkOtnxg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hXE8JkOtnxg",
         "status": "upcoming",
@@ -20,16 +20,6 @@
         "url": "https://www.youtube.com/watch?v=Ab2zsgSEO4M",
         "status": "upcoming",
         "scheduledStartTime": "2026-05-19T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "xazDafQA_Gg",
-        "title": "【 勝利の女神 : #nikke 】新イベ『B-SIDE IDOL』T.T. STAR✨ミントがきたぞー！！！#151【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/xazDafQA_Gg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xazDafQA_Gg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-18T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
