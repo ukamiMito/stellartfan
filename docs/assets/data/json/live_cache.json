@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-05-19T15:21:17.536Z",
+  "updatedAt": "2026-05-19T17:43:16.193Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "IfgJrf0_ZrU",
-        "title": "【グランツーリスモ7】STLA杯お疲れ様会！参加型で夢のアルファード16台レースすっぞ！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/IfgJrf0_ZrU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IfgJrf0_ZrU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-19T12:06:28Z",
+        "videoId": "VUcbCFdPkrw",
+        "title": "#3【龍が如く極3】完全初見！4章～　もう一度神室町に戻ってくることになるとは ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/VUcbCFdPkrw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VUcbCFdPkrw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-20T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
@@ -22,16 +22,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-05-20T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "Ab2zsgSEO4M",
-        "title": "【グランツーリスモ7】STLA杯の二次会！参加型アルファード準備しろください！！w/天硝路ろまん,山中智瑛,鈴木聖弥【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/Ab2zsgSEO4M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ab2zsgSEO4M",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-19T12:09:24Z",
         "actualEndTime": null
       }
     ],
