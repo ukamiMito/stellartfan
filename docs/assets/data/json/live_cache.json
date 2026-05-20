@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-20T17:39:08.596Z",
+  "updatedAt": "2026-05-20T20:14:40.075Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "CwCTKtlhrXI",
+        "title": "【雑談】ついにStellArt.の新人がデビュー✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/CwCTKtlhrXI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CwCTKtlhrXI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-21T11:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "PHT-GAWzb7M",
