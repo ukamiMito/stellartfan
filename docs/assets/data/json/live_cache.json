@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T04:45:47.221Z",
+  "updatedAt": "2026-05-20T08:25:09.961Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,26 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "PHT-GAWzb7M",
+        "title": "【雑談】StellArt.の新人ってどんな人？！w/天硝路ろまん【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/PHT-GAWzb7M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PHT-GAWzb7M",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-21T11:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "apzVtGaKCLk",
+        "title": "【イオモニ/朝活】久しぶりの朝活雑談！5月病治った？？初見さん大歓迎◎【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/apzVtGaKCLk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=apzVtGaKCLk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-20T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "hXE8JkOtnxg",
         "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.45『代償』新メインストーリー攻略！#152【華鉈イオ/StellArt.】#新人vtuber",
