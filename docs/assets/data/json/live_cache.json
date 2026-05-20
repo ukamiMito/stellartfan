@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-20T20:14:40.075Z",
+  "updatedAt": "2026-05-20T22:09:54.078Z",
   "channels": {
     "channelA": [
       {
@@ -29,9 +29,9 @@
         "title": "【イオモニ/朝活】久しぶりの朝活雑談！5月病治った？？初見さん大歓迎◎【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/apzVtGaKCLk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=apzVtGaKCLk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-20T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-20T20:58:20Z",
         "actualEndTime": null
       }
     ],
