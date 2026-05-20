@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-20T14:05:15.705Z",
+  "updatedAt": "2026-05-20T17:39:08.596Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "VUcbCFdPkrw",
-        "title": "#3【龍が如く極3】完全初見！4章～　もう一度神室町に戻ってくることになるとは ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/VUcbCFdPkrw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VUcbCFdPkrw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-20T12:59:18Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "PHT-GAWzb7M",
@@ -32,16 +21,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-05-20T21:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "hXE8JkOtnxg",
-        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.45『代償』新メインストーリー攻略！#152【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/hXE8JkOtnxg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hXE8JkOtnxg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-20T12:57:38Z",
         "actualEndTime": null
       }
     ],
