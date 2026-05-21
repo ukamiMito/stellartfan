@@ -1,42 +1,9 @@
 {
-  "updatedAt": "2026-05-21T11:24:40.802Z",
+  "updatedAt": "2026-05-21T14:20:19.006Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "CwCTKtlhrXI",
-        "title": "【雑談】ついにStellArt.の新人がデビュー✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/CwCTKtlhrXI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CwCTKtlhrXI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-21T11:30:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "PHT-GAWzb7M",
-        "title": "【雑談】StellArt.の新人ってどんな人？！w/天硝路ろまん【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/PHT-GAWzb7M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PHT-GAWzb7M",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-21T11:30:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
+    "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "HzyElSi4cGU",
-        "title": "【初配信】⏳はじめまして🎼〖アイリナ・ゼファリオ┊StellArt.〗",
-        "thumbnail": "https://i.ytimg.com/vi/HzyElSi4cGU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HzyElSi4cGU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-21T12:30:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
