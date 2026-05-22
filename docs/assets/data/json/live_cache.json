@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T08:21:20.338Z",
+  "updatedAt": "2026-05-22T11:23:51.316Z",
   "channels": {
     "channelA": [
       {
@@ -38,6 +38,16 @@
       }
     ],
     "channelD": [
+      {
+        "videoId": "l8goIw1_BYg",
+        "title": "【歌枠】ピアノ弾き語り♬　思う存分弾き語りますっ⏳",
+        "thumbnail": "https://i.ytimg.com/vi/l8goIw1_BYg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=l8goIw1_BYg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-23T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "NMN_lzJ0X6k",
         "title": "【初配信振り返り】私のこと、もっと知って欲しい！【アイリナ・ゼファリオ / StellArt.】",
