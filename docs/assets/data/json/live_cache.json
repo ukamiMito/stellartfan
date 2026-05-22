@@ -1,30 +1,8 @@
 {
-  "updatedAt": "2026-05-22T16:25:56.558Z",
+  "updatedAt": "2026-05-22T18:15:42.704Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "Rnz1Q8Y3LaI",
-        "title": "#1【トモダチコレクション わくわく生活】StellArt.メンバー達が暮らす島にしたい！きっとわくわくでドキドキな生活になるはず💕【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Rnz1Q8Y3LaI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Rnz1Q8Y3LaI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-22T12:58:55Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "fb3M-YIMX70",
-        "title": "【ELDEN RING/エルデンリング】#38 ラスボス攻略『エルデの獣』絶対倒す！！！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/fb3M-YIMX70/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fb3M-YIMX70",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-22T12:57:36Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
+    "channelB": [],
     "channelC": [],
     "channelD": [
       {
