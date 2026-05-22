@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T13:43:09.439Z",
+  "updatedAt": "2026-05-22T16:25:56.558Z",
   "channels": {
     "channelA": [
       {
@@ -25,18 +25,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "Eh737jhZ9Mk",
-        "title": "【初配信振り返り雑談】みなさんおつふぁれさまでした～【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Eh737jhZ9Mk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Eh737jhZ9Mk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-22T11:57:38Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "l8goIw1_BYg",
@@ -46,16 +35,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-05-23T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "NMN_lzJ0X6k",
-        "title": "【初配信振り返り】私のこと、もっと知って欲しい！【アイリナ・ゼファリオ / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/NMN_lzJ0X6k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NMN_lzJ0X6k",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-22T12:00:26Z",
         "actualEndTime": null
       }
     ]
