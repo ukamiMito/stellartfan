@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T11:59:25.076Z",
+  "updatedAt": "2026-05-23T13:57:13.861Z",
   "channels": {
     "channelA": [
       {
@@ -63,9 +63,9 @@
         "title": "【 #歌枠  】ピアノ弾き語り♬ 思う存分弾き語りますっ⏳【アイリナ・ゼファリオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/l8goIw1_BYg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=l8goIw1_BYg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-23T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-23T13:00:12Z",
         "actualEndTime": null
       }
     ]
