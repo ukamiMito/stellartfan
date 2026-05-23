@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T07:15:18.962Z",
+  "updatedAt": "2026-05-23T09:19:55.086Z",
   "channels": {
     "channelA": [
       {
@@ -13,7 +13,18 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "fn1hGkaAgyQ",
+        "title": "【華鉈イオの深夜喫茶】第7回✨人生を変えたものや出来事ってなに？貯金は貯めておいた方がいい？【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
+        "thumbnail": "https://i.ytimg.com/vi/fn1hGkaAgyQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fn1hGkaAgyQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-23T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [
       {
         "videoId": "9PV2oa0z-IE",
@@ -27,6 +38,16 @@
       }
     ],
     "channelD": [
+      {
+        "videoId": "UQsTKJkVSgk",
+        "title": "【 #歌枠 】始めての昼活☀　日曜のお昼一緒に過ごそう⏳　歌・雑談【アイリナ・ゼファリオ / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/UQsTKJkVSgk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UQsTKJkVSgk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-24T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "NTwDXP4vOZI",
         "title": "【 悪意 Dread Neighbor 】今年1番怖いと噂のホラゲー、ゼファ行きます。【アイリナ・ゼファリオ / StellArt.】",
