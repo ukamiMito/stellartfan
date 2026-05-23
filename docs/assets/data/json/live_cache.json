@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T13:57:13.861Z",
+  "updatedAt": "2026-05-23T15:05:21.174Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【ミラー配信】「GTWS 2026 ラウンド 1 - ミラノ」マニュファクチャラーズカップとネイションズカップをミラー観戦✨みんなで応援しよう！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/ekA-3UyrxWY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ekA-3UyrxWY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-23T15:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-23T14:44:09Z",
         "actualEndTime": null
       }
     ],
@@ -19,24 +19,13 @@
         "title": "【華鉈イオの深夜喫茶】第7回✨人生を変えたものや出来事ってなに？貯金は貯めておいた方がいい？【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
         "thumbnail": "https://i.ytimg.com/vi/fn1hGkaAgyQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fn1hGkaAgyQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-23T14:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "9PV2oa0z-IE",
-        "title": "【トモダチコレクション　わくわく生活】#1 StellArt.のみんなをかわいく作りたい！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/9PV2oa0z-IE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9PV2oa0z-IE",
         "status": "live",
         "scheduledStartTime": null,
-        "actualStartTime": "2026-05-23T11:58:38Z",
+        "actualStartTime": "2026-05-23T13:58:22Z",
         "actualEndTime": null
       }
     ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "UQsTKJkVSgk",
@@ -56,16 +45,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-05-24T12:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "l8goIw1_BYg",
-        "title": "【 #歌枠  】ピアノ弾き語り♬ 思う存分弾き語りますっ⏳【アイリナ・ゼファリオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/l8goIw1_BYg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=l8goIw1_BYg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-23T13:00:12Z",
         "actualEndTime": null
       }
     ]
