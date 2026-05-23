@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T04:24:13.897Z",
+  "updatedAt": "2026-05-23T07:15:18.962Z",
   "channels": {
     "channelA": [
       {
@@ -28,8 +28,18 @@
     ],
     "channelD": [
       {
+        "videoId": "NTwDXP4vOZI",
+        "title": "【 悪意 Dread Neighbor 】今年1番怖いと噂のホラゲー、ゼファ行きます。【アイリナ・ゼファリオ / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/NTwDXP4vOZI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NTwDXP4vOZI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-24T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
         "videoId": "l8goIw1_BYg",
-        "title": "【歌枠】ピアノ弾き語り♬　思う存分弾き語りますっ⏳【アイリナ・ゼファリオ/StellArt.】",
+        "title": "【 #歌枠  】ピアノ弾き語り♬ 思う存分弾き語りますっ⏳【アイリナ・ゼファリオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/l8goIw1_BYg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=l8goIw1_BYg",
         "status": "upcoming",
