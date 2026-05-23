@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-23T16:30:45.577Z",
+  "updatedAt": "2026-05-23T18:01:23.259Z",
   "channels": {
     "channelA": [
       {
@@ -13,18 +13,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "fn1hGkaAgyQ",
-        "title": "【華鉈イオの深夜喫茶】第7回✨人生を変えたものや出来事ってなに？貯金は貯めておいた方がいい？【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
-        "thumbnail": "https://i.ytimg.com/vi/fn1hGkaAgyQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fn1hGkaAgyQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-23T13:58:22Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": [
       {
