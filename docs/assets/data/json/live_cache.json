@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-22T22:58:35.901Z",
+  "updatedAt": "2026-05-23T00:12:51.222Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "9PV2oa0z-IE",
+        "title": "【トモダチコレクション　わくわく生活】#1 StellArt.のみんなをかわいく作りたい！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/9PV2oa0z-IE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9PV2oa0z-IE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-23T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "l8goIw1_BYg",
