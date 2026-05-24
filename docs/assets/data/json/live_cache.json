@@ -1,17 +1,27 @@
 {
-  "updatedAt": "2026-05-24T11:16:29.339Z",
+  "updatedAt": "2026-05-24T12:40:29.748Z",
   "channels": {
     "channelA": [],
     "channelB": [],
     "channelC": [
       {
+        "videoId": "uGdKIRnxEIU",
+        "title": "【初めての朝活🌞】にうふぁとお話ししながら朝活【にうふぁ/StellArt.】初見さん大歓迎✨",
+        "thumbnail": "https://i.ytimg.com/vi/uGdKIRnxEIU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uGdKIRnxEIU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-24T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
         "videoId": "hNg4VwnD7Ng",
         "title": "【日本事故物件監視協会２】少しの異変も見逃しません👀【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/hNg4VwnD7Ng/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hNg4VwnD7Ng",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-24T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-24T11:58:04Z",
         "actualEndTime": null
       }
     ],
@@ -21,9 +31,9 @@
         "title": "【 悪意 Dread Neighbor 】今年1番怖いと噂のホラゲー、ゼファ行きます。【アイリナ・ゼファリオ / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/NTwDXP4vOZI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=NTwDXP4vOZI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-24T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-24T11:59:57Z",
         "actualEndTime": null
       }
     ]
