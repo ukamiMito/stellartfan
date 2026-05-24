@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T22:31:29.955Z",
+  "updatedAt": "2026-05-24T23:58:49.735Z",
   "channels": {
     "channelA": [
       {
@@ -26,6 +26,27 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "nJG2T7QF7Og",
+        "title": "【 #歌枠  】1日の終わりに1曲どうですか？🎹【アイリナ・ゼファリオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/nJG2T7QF7Og/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nJG2T7QF7Og",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-26T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "oLGugf8dCSs",
+        "title": "【Forza Horizon 6】日本ドライブだぁぁぁぁあぁぁ🚙助手席どうぞ？【アイリナ・ゼファリオ / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/oLGugf8dCSs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oLGugf8dCSs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-25T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
