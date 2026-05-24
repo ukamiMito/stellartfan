@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T14:23:22.436Z",
+  "updatedAt": "2026-05-24T15:42:46.936Z",
   "channels": {
     "channelA": [],
     "channelB": [],
@@ -13,29 +13,8 @@
         "scheduledStartTime": "2026-05-24T21:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "hNg4VwnD7Ng",
-        "title": "【日本事故物件監視協会２】少しの異変も見逃しません👀【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/hNg4VwnD7Ng/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hNg4VwnD7Ng",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-24T11:58:04Z",
-        "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "NTwDXP4vOZI",
-        "title": "【 悪意 Dread Neighbor 】今年1番怖いと噂のホラゲー、ゼファ行きます。【アイリナ・ゼファリオ / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/NTwDXP4vOZI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NTwDXP4vOZI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-24T11:59:57Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
