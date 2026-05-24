@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-05-24T07:36:19.147Z",
+  "updatedAt": "2026-05-24T09:53:50.307Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [],
+    "channelC": [
       {
-        "videoId": "ckC9AMKwL8g",
-        "title": "#サブクエ回収【龍が如く極2】完全初見！水商売アイランド編🍸キャバクラでジャリンジャリン稼ぐぜ！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ckC9AMKwL8g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ckC9AMKwL8g",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-24T05:00:22Z",
+        "videoId": "hNg4VwnD7Ng",
+        "title": "【日本事故物件監視協会２】少しの異変も見逃しません👀【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/hNg4VwnD7Ng/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hNg4VwnD7Ng",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-24T12:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
     "channelD": [
       {
         "videoId": "NTwDXP4vOZI",
