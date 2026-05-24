@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T04:10:12.747Z",
+  "updatedAt": "2026-05-24T07:36:19.147Z",
   "channels": {
     "channelA": [
       {
@@ -7,25 +7,15 @@
         "title": "#サブクエ回収【龍が如く極2】完全初見！水商売アイランド編🍸キャバクラでジャリンジャリン稼ぐぜ！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/ckC9AMKwL8g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ckC9AMKwL8g",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-24T05:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-24T05:00:22Z",
         "actualEndTime": null
       }
     ],
     "channelB": [],
     "channelC": [],
     "channelD": [
-      {
-        "videoId": "UQsTKJkVSgk",
-        "title": "【 #歌枠 】始めての昼活☀　日曜のお昼一緒に過ごそう⏳　歌・雑談【アイリナ・ゼファリオ / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/UQsTKJkVSgk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UQsTKJkVSgk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-24T05:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
       {
         "videoId": "NTwDXP4vOZI",
         "title": "【 悪意 Dread Neighbor 】今年1番怖いと噂のホラゲー、ゼファ行きます。【アイリナ・ゼファリオ / StellArt.】",
