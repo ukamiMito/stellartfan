@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T20:05:04.994Z",
+  "updatedAt": "2026-05-24T21:28:03.958Z",
   "channels": {
     "channelA": [
       {
@@ -20,9 +20,9 @@
         "title": "【初めての朝活🌞】にうふぁとお話ししながら朝活【にうふぁ/StellArt.】初見さん大歓迎✨",
         "thumbnail": "https://i.ytimg.com/vi/uGdKIRnxEIU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=uGdKIRnxEIU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-24T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-24T21:00:31Z",
         "actualEndTime": null
       }
     ],
