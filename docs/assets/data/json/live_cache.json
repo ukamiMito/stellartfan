@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T15:50:22.093Z",
+  "updatedAt": "2026-05-25T17:43:10.908Z",
   "channels": {
     "channelA": [
       {
@@ -15,6 +15,16 @@
     ],
     "channelB": [
       {
+        "videoId": "H2R4xe3E8oc",
+        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.46『新生』後篇！ボス戦後のメイン攻略！やはりミラーは53だった。#154【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/H2R4xe3E8oc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H2R4xe3E8oc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-26T13:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
         "videoId": "BarSv_Y6Pos",
         "title": "【Forza Horizon 6】完全初見プレイ！ハンコン勢！楽しく日本を走りまくるぞおおお！！！！！【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/BarSv_Y6Pos/hqdefault.jpg",
@@ -22,16 +32,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-05-27T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "xwYjz4F0l7w",
-        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.46『新生』前篇！メイン攻略！新生カウンターズが強すぎる、、！！#153【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/xwYjz4F0l7w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xwYjz4F0l7w",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-25T12:58:13Z",
         "actualEndTime": null
       }
     ],
