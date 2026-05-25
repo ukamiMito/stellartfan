@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T23:58:49.735Z",
+  "updatedAt": "2026-05-25T04:44:04.798Z",
   "channels": {
     "channelA": [
       {
@@ -13,20 +13,40 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [
+    "channelB": [
       {
-        "videoId": "uGdKIRnxEIU",
-        "title": "【初めての朝活🌞】にうふぁとお話ししながら朝活【にうふぁ/StellArt.】初見さん大歓迎✨",
-        "thumbnail": "https://i.ytimg.com/vi/uGdKIRnxEIU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uGdKIRnxEIU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-24T21:00:31Z",
+        "videoId": "BarSv_Y6Pos",
+        "title": "【Forza Horizon 6】完全初見プレイ！ハンコン勢！楽しく日本を走りまくるぞおおお！！！！！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/BarSv_Y6Pos/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BarSv_Y6Pos",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-27T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "xwYjz4F0l7w",
+        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.46『新生』前篇！メイン攻略！新生カウンターズが強すぎる、、！！#153【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/xwYjz4F0l7w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xwYjz4F0l7w",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-25T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
+    "channelC": [],
     "channelD": [
+      {
+        "videoId": "B7dEe2uN7pk",
+        "title": "【 #雑談 】初！朝活☀  1日の始まり一緒にすごそう⏳【アイリナ・ゼファリオ / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/B7dEe2uN7pk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=B7dEe2uN7pk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-26T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "nJG2T7QF7Og",
         "title": "【 #歌枠  】1日の終わりに1曲どうですか？🎹【アイリナ・ゼファリオ/StellArt.】#vtuber",
