@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T08:56:22.687Z",
+  "updatedAt": "2026-05-25T12:15:03.529Z",
   "channels": {
     "channelA": [
       {
@@ -35,7 +35,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "iNyWPIlSewg",
+        "title": "【トモダチコレクション　わくわく生活】#２先輩たちをキャラクリ！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/iNyWPIlSewg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iNyWPIlSewg",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-25T11:59:16Z",
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "B7dEe2uN7pk",
@@ -62,9 +73,9 @@
         "title": "【Forza Horizon 6】日本ドライブだぁぁぁぁあぁぁ🚙助手席どうぞ？【アイリナ・ゼファリオ / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/oLGugf8dCSs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oLGugf8dCSs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-25T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-25T11:59:56Z",
         "actualEndTime": null
       }
     ]
