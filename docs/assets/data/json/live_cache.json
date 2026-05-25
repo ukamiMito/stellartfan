@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-25T17:43:10.908Z",
+  "updatedAt": "2026-05-25T19:39:33.760Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "Z7HK2q0OIAg",
-        "title": "#1【Forza Horizon 6】はじめてのFH6！日本を好きな車でドライブできるって！？ハンコン使って走るぞおおおお✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Z7HK2q0OIAg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Z7HK2q0OIAg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-25T12:58:58Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "H2R4xe3E8oc",
