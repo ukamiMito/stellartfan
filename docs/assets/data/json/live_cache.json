@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T00:05:31.538Z",
+  "updatedAt": "2026-05-26T04:43:03.499Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -24,7 +24,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "wcmpxz_qT4w",
+        "title": "【Forza Horizon 6】はじめてのうんてん🚙【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/wcmpxz_qT4w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wcmpxz_qT4w",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-26T13:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "XXPIhjzZ1AE",
