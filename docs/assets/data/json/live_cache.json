@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T22:33:48.148Z",
+  "updatedAt": "2026-05-26T00:05:31.538Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -26,6 +26,16 @@
     ],
     "channelC": [],
     "channelD": [
+      {
+        "videoId": "XXPIhjzZ1AE",
+        "title": "【Forza Horizon 6】#2 景色を見て癒しドライブ、レースでも優勝。それが私🚙あっ助手席どうぞ？【アイリナ・ゼファリオ  / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/XXPIhjzZ1AE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XXPIhjzZ1AE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-27T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "B7dEe2uN7pk",
         "title": "【 #雑談 】初！朝活☀  1日の始まり一緒にすごそう⏳【アイリナ・ゼファリオ / StellArt.】",
