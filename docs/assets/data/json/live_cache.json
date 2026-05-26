@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T20:52:37.371Z",
+  "updatedAt": "2026-05-26T22:18:54.573Z",
   "channels": {
     "channelA": [
       {
@@ -52,9 +52,9 @@
         "title": "【 #雑談 】初！朝活☀  1日の始まり一緒にすごそう⏳【アイリナ・ゼファリオ / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/B7dEe2uN7pk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=B7dEe2uN7pk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-26T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-26T20:59:52Z",
         "actualEndTime": null
       }
     ]
