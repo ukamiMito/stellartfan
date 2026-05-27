@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-27T20:33:13.842Z",
+  "updatedAt": "2026-05-27T23:59:47.528Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "LV-1ARjtAV4",
+        "title": "#4【龍が如く極3】完全初見！7章～　兄さんは犯人じゃないよね。ね？？？？ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/LV-1ARjtAV4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LV-1ARjtAV4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-28T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
