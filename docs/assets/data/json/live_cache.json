@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-27T03:50:36.524Z",
+  "updatedAt": "2026-05-27T08:04:07.503Z",
   "channels": {
     "channelA": [
       {
@@ -35,7 +35,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "c0VymBnzwxM",
+        "title": "【Forza Horizon 6】車可愛くしたい🚙【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/c0VymBnzwxM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=c0VymBnzwxM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-27T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "XXPIhjzZ1AE",
