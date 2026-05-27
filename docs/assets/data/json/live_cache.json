@@ -1,42 +1,9 @@
 {
-  "updatedAt": "2026-05-27T15:41:10.870Z",
+  "updatedAt": "2026-05-27T18:26:07.349Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "ZtuYbAMz5pk",
-        "title": "#2【Forza Horizon 6】はじめてのFH6！強い心を持ってレースに挑む🔥ドライブしたり、パッドも試してみたり。【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ZtuYbAMz5pk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZtuYbAMz5pk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-27T13:00:22Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "c0VymBnzwxM",
-        "title": "【Forza Horizon 6】デコった車でレースしたい🚙【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/c0VymBnzwxM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=c0VymBnzwxM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-27T11:57:26Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "XXPIhjzZ1AE",
-        "title": "【Forza Horizon 6】#2 景色を見て癒しドライブ、レースでも優勝。それが私🚙あっ助手席どうぞ？【アイリナ・ゼファリオ  / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/XXPIhjzZ1AE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XXPIhjzZ1AE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-27T11:59:01Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
