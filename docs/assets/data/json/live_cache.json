@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-28T19:10:33.114Z",
+  "updatedAt": "2026-05-28T21:30:33.745Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "B-HOcXtAqOE",
+        "title": "#2【トモダチコレクション わくわく生活】StellArt.メンバー達が暮らす島にしたい！今回は新人ちゃん2人を作りたーい✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/B-HOcXtAqOE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=B-HOcXtAqOE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
