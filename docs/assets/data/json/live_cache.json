@@ -1,42 +1,9 @@
 {
-  "updatedAt": "2026-05-28T11:57:16.706Z",
+  "updatedAt": "2026-05-28T16:11:30.704Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "LV-1ARjtAV4",
-        "title": "#4【龍が如く極3】完全初見！7章～　兄さんは犯人じゃないよね。ね？？？？ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/LV-1ARjtAV4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LV-1ARjtAV4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-28T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "haNkZcYdrNs",
-        "title": "【お絵描き雑談】初！みなさんの前でお絵描き！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/haNkZcYdrNs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=haNkZcYdrNs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-28T12:30:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "PQ9uSeQb3PU",
-        "title": "【 #歌枠┊弾き語り】癒される歌枠1曲どうですか？ピアノ弾き語り【アイリナ・ゼファリオ / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/PQ9uSeQb3PU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PQ9uSeQb3PU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-28T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
