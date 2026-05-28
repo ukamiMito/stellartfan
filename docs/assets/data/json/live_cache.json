@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T04:22:47.465Z",
+  "updatedAt": "2026-05-28T08:26:24.593Z",
   "channels": {
     "channelA": [
       {
@@ -26,6 +26,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "PQ9uSeQb3PU",
+        "title": "【 #歌枠┊弾き語り】癒される歌枠1曲どうですか？ピアノ弾き語り【アイリナ・ゼファリオ / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/PQ9uSeQb3PU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PQ9uSeQb3PU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-28T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
