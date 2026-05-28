@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T08:26:24.593Z",
+  "updatedAt": "2026-05-28T11:57:16.706Z",
   "channels": {
     "channelA": [
       {
@@ -16,13 +16,13 @@
     "channelB": [],
     "channelC": [
       {
-        "videoId": "mHCse1z_XYg",
-        "title": "【Forza Horizon 6】ゲリラ！雑談しながら図形をぺたぺた【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/mHCse1z_XYg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mHCse1z_XYg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-28T04:13:42Z",
+        "videoId": "haNkZcYdrNs",
+        "title": "【お絵描き雑談】初！みなさんの前でお絵描き！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/haNkZcYdrNs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=haNkZcYdrNs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-28T12:30:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
