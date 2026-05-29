@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T06:13:26.812Z",
+  "updatedAt": "2026-05-29T10:28:52.092Z",
   "channels": {
     "channelA": [
       {
@@ -24,19 +24,29 @@
         "scheduledStartTime": "2026-05-29T12:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "kM2ajmZIzpk",
-        "title": "【Forza Horizon 6】第二回！雑談しながら図形をぺたぺた【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/kM2ajmZIzpk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kM2ajmZIzpk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-29T03:59:36Z",
-        "actualEndTime": null
       }
     ],
     "channelD": [
+      {
+        "videoId": "CSN6m_wdZzQ",
+        "title": "【Forza Horizon 6】#3 上級にあげてレースに挑戦！掘り出し車も見るぞ∼👀あっ助手席どうぞ？【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/CSN6m_wdZzQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CSN6m_wdZzQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-30T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "vV4B_mY7ohk",
+        "title": "【 #歌枠┊弾き語り】ピアノ弾き語りで一緒に癒しのひと時を過ごそう⏳チャンネル登録1000人耐久！【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/vV4B_mY7ohk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vV4B_mY7ohk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-29T14:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "XcOfFjyV-hc",
         "title": "【Forza Horizon 6】初コラボ🎉ドライブデートでまったりするよ！with にうふぁ【アイリナ・ゼファリオ  / StellArt.】#vtuber",
