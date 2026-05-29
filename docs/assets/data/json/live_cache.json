@@ -1,21 +1,20 @@
 {
-  "updatedAt": "2026-05-29T17:32:50.823Z",
+  "updatedAt": "2026-05-29T20:25:11.520Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "B-HOcXtAqOE",
-        "title": "#2【トモダチコレクション わくわく生活】StellArt.メンバー達が暮らす島にしたい！今回は新人ちゃん2人を作りたーい✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/B-HOcXtAqOE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=B-HOcXtAqOE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-29T13:00:27Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [],
     "channelD": [
+      {
+        "videoId": "J9eOqi5Z7sg",
+        "title": "【 #歌枠┊弾き語り】#1 ヨルシカ縛り🦒心を込めて歌います⏳　【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/J9eOqi5Z7sg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J9eOqi5Z7sg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-30T07:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "CSN6m_wdZzQ",
         "title": "【Forza Horizon 6】#3 上級にあげてレースに挑戦！掘り出し車も見るぞ∼👀あっ助手席どうぞ？【アイリナ・ゼファリオ  / StellArt.】#vtuber",
