@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T13:45:03.539Z",
+  "updatedAt": "2026-05-29T17:32:50.823Z",
   "channels": {
     "channelA": [
       {
@@ -14,18 +14,7 @@
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "MoW9P06mA_Y",
-        "title": "【Forza Horizon 6】初コラボ✨二人でドライブデート🚙💚💜【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/MoW9P06mA_Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MoW9P06mA_Y",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-29T11:58:52Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "CSN6m_wdZzQ",
@@ -35,26 +24,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-05-30T12:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "vV4B_mY7ohk",
-        "title": "【 #歌枠┊弾き語り】ピアノ弾き語りで一緒に癒しのひと時を過ごそう⏳チャンネル登録1000人耐久！【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/vV4B_mY7ohk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vV4B_mY7ohk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-29T14:30:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "XcOfFjyV-hc",
-        "title": "【Forza Horizon 6】初コラボ🎉ドライブデートでまったりするよ！with にうふぁ【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/XcOfFjyV-hc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XcOfFjyV-hc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-29T11:59:52Z",
         "actualEndTime": null
       }
     ]
