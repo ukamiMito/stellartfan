@@ -1,32 +1,20 @@
 {
-  "updatedAt": "2026-05-30T15:45:48.804Z",
+  "updatedAt": "2026-05-30T17:04:01.933Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "WhcR0fdQuek",
-        "title": "#8【スナック浪漫】視聴者さんから届いたエピソードを紹介！私の幼少期のトラウマは木から飛び降りた時にでっけぇ蜘蛛の巣が顔面にへばり付いたこと。【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/WhcR0fdQuek/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WhcR0fdQuek",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-30T13:01:38Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "HT_qTvzqzgw",
-        "title": "【Forza Horizon 6】痛車で走る🚙リストバンド目指したい！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/HT_qTvzqzgw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HT_qTvzqzgw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-30T11:59:48Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
+      {
+        "videoId": "YNMvDX0IaY8",
+        "title": "【 #歌枠┊弾き語り】眠れるピアノ弾き語り🐑1曲どうですか？　【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/YNMvDX0IaY8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YNMvDX0IaY8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-31T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "BrNBKuOu90U",
         "title": "【 #雑談 】昼活☀一緒にご飯食べよー！！🍽️【アイリナ・ゼファリオ / StellArt.】#vtuber",
