@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-05-30T17:04:01.933Z",
+  "updatedAt": "2026-05-30T18:38:18.584Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "JcVJY0DQyE4",
+        "title": "#3【Forza Horizon 6】はじめてのFH6！お昼のドライブタイム✨雪山っぽい場所が気になる！お宝車も探すぞ！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/JcVJY0DQyE4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JcVJY0DQyE4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-31T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": [
