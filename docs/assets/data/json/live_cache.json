@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T23:48:45.329Z",
+  "updatedAt": "2026-05-30T03:25:24.496Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,28 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "HT_qTvzqzgw",
+        "title": "【Forza Horizon 6】痛車で走る🚙リストバンド目指したい！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/HT_qTvzqzgw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HT_qTvzqzgw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-30T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "t-h28vcTh_o",
+        "title": "【Forza Horizon 6】第３回！雑談しながら図形をぺたぺた【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/t-h28vcTh_o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t-h28vcTh_o",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-30T03:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "J9eOqi5Z7sg",
