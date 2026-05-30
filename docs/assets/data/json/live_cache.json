@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T14:12:45.934Z",
+  "updatedAt": "2026-05-30T15:45:48.804Z",
   "channels": {
     "channelA": [
       {
@@ -28,13 +28,13 @@
     ],
     "channelD": [
       {
-        "videoId": "CSN6m_wdZzQ",
-        "title": "【Forza Horizon 6】#3 上級にあげてレースに挑戦！掘り出し車も見るぞ∼👀あっ助手席どうぞ？【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/CSN6m_wdZzQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CSN6m_wdZzQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-30T12:00:46Z",
+        "videoId": "BrNBKuOu90U",
+        "title": "【 #雑談 】昼活☀一緒にご飯食べよー！！🍽️【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/BrNBKuOu90U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BrNBKuOu90U",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-31T03:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ]
