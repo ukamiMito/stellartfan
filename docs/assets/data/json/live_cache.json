@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T10:29:46.875Z",
+  "updatedAt": "2026-05-31T11:56:52.048Z",
   "channels": {
     "channelA": [],
     "channelB": [],
@@ -26,6 +26,16 @@
       }
     ],
     "channelD": [
+      {
+        "videoId": "dQ_WOuTpG4U",
+        "title": "【Detroit: Become Human】#1 完全初見👀超名作！ー正義とはなにかー【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/dQ_WOuTpG4U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dQ_WOuTpG4U",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-01T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "YNMvDX0IaY8",
         "title": "【 #歌枠┊弾き語り】眠れるピアノ弾き語り🐑1曲どうですか？　【アイリナ・ゼファリオ / StellArt.】#vtuber",
