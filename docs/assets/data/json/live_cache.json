@@ -1,20 +1,9 @@
 {
-  "updatedAt": "2026-05-31T15:48:18.054Z",
+  "updatedAt": "2026-05-31T17:05:45.046Z",
   "channels": {
     "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "sQOTo7mEaOA",
-        "title": "【Forza Horizon 6】痛車で走る🚙運転もうまくなりたい！！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/sQOTo7mEaOA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sQOTo7mEaOA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-31T11:57:20Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "dQ_WOuTpG4U",
