@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T00:04:38.436Z",
+  "updatedAt": "2026-05-31T05:00:31.717Z",
   "channels": {
     "channelA": [
       {
@@ -31,9 +31,9 @@
         "title": "【 #雑談 】昼活☀一緒にご飯食べよー！！🍽️【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/BrNBKuOu90U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BrNBKuOu90U",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-31T03:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-05-31T02:58:51Z",
         "actualEndTime": null
       }
     ]
