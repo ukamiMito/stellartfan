@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-05-31T05:00:31.717Z",
+  "updatedAt": "2026-05-31T08:25:06.173Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "JcVJY0DQyE4",
-        "title": "#3【Forza Horizon 6】はじめてのFH6！お昼のドライブタイム✨雪山っぽい場所が気になる！お宝車も探すぞ！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/JcVJY0DQyE4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JcVJY0DQyE4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-05-31T05:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [],
     "channelD": [
@@ -24,16 +13,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-05-31T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "BrNBKuOu90U",
-        "title": "【 #雑談 】昼活☀一緒にご飯食べよー！！🍽️【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/BrNBKuOu90U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BrNBKuOu90U",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-05-31T02:58:51Z",
         "actualEndTime": null
       }
     ]
