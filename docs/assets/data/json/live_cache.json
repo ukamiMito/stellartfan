@@ -1,9 +1,30 @@
 {
-  "updatedAt": "2026-05-31T08:25:06.173Z",
+  "updatedAt": "2026-05-31T10:29:46.875Z",
   "channels": {
     "channelA": [],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "sQOTo7mEaOA",
+        "title": "【Forza Horizon 6】痛車で走る🚙運転もうまくなりたい！！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/sQOTo7mEaOA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sQOTo7mEaOA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-05-31T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "Fib2BCqTQxY",
+        "title": "🪶フリーチャット・スケジュール📚",
+        "thumbnail": "https://i.ytimg.com/vi/Fib2BCqTQxY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Fib2BCqTQxY",
+        "status": "upcoming",
+        "scheduledStartTime": "2027-05-31T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "YNMvDX0IaY8",
