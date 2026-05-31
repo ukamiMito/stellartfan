@@ -34,7 +34,7 @@ const CHANNELS = {
   channelC: {
     channelId: 'UCQp7x7j2luIdUscWmJ3nTNg',
     channelName: 'にうふぁ',
-    freechatVideoId: ''
+    freechatVideoId: 'Fib2BCqTQxY'
   },
   channelD: {
     channelId: 'UCKB9sNaOhnkx4jtsYeWEd4g',
