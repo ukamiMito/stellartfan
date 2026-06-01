@@ -1,20 +1,9 @@
 {
-  "updatedAt": "2026-06-01T10:37:11.275Z",
+  "updatedAt": "2026-06-01T16:37:18.998Z",
   "channels": {
     "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "cwAssZ-cuWQ",
-        "title": "【日本事故物件監視協会/JSP】高難易度コンテンツ目指して事故物件を監視👁👁【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/cwAssZ-cuWQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cwAssZ-cuWQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-01T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "qUM9vSCscaM",
@@ -23,16 +12,6 @@
         "url": "https://www.youtube.com/watch?v=qUM9vSCscaM",
         "status": "upcoming",
         "scheduledStartTime": "2026-06-02T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "dQ_WOuTpG4U",
-        "title": "【Detroit: Become Human】#1 完全初見👀超名作！ー正義とはなにかー【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/dQ_WOuTpG4U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dQ_WOuTpG4U",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-01T12:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
