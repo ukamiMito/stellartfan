@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-06-02T15:40:37.614Z",
+  "updatedAt": "2026-06-02T19:40:22.110Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "lMDqLoeQyqk",
-        "title": "#4【Forza Horizon 6】「ろまんのカーレスキュー ～あの子を救いたい～」お宝車＆掘り出し物探索！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/lMDqLoeQyqk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lMDqLoeQyqk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-02T13:00:18Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [],
     "channelD": [
