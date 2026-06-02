@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T06:48:08.781Z",
+  "updatedAt": "2026-06-02T11:17:47.393Z",
   "channels": {
     "channelA": [
       {
@@ -27,6 +27,26 @@
       }
     ],
     "channelD": [
+      {
+        "videoId": "MqFg5iuozd0",
+        "title": "【 #歌枠┊弾き語り】2000年代縛りをピアノ弾き語りで🔥1曲どうですか？　【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/MqFg5iuozd0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MqFg5iuozd0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-03T08:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "1Q-Yd92xBDs",
+        "title": "【 #雑談 】朝活☀おはようください⏳【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/1Q-Yd92xBDs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1Q-Yd92xBDs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-02T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "qUM9vSCscaM",
         "title": "【 #歌枠┊弾き語り】いろんなお歌をピアノ弾き語りで🎹【アイリナ・ゼファリオ / StellArt.】#vtuber",
