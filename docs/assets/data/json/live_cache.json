@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T01:57:46.999Z",
+  "updatedAt": "2026-06-02T06:48:08.781Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "2V8U587eQJw",
+        "title": "【Forza Horizon 6】痛車で走る🚙リストバンド目指す！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/2V8U587eQJw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2V8U587eQJw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-02T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "qUM9vSCscaM",
