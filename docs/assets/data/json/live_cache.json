@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T11:17:47.393Z",
+  "updatedAt": "2026-06-02T15:40:37.614Z",
   "channels": {
     "channelA": [
       {
@@ -7,25 +7,14 @@
         "title": "#4【Forza Horizon 6】「ろまんのカーレスキュー ～あの子を救いたい～」お宝車＆掘り出し物探索！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/lMDqLoeQyqk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=lMDqLoeQyqk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-02T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-02T13:00:18Z",
         "actualEndTime": null
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "2V8U587eQJw",
-        "title": "【Forza Horizon 6】痛車で走る🚙リストバンド目指す！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/2V8U587eQJw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2V8U587eQJw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-02T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "MqFg5iuozd0",
@@ -44,16 +33,6 @@
         "url": "https://www.youtube.com/watch?v=1Q-Yd92xBDs",
         "status": "upcoming",
         "scheduledStartTime": "2026-06-02T21:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "qUM9vSCscaM",
-        "title": "【 #歌枠┊弾き語り】いろんなお歌をピアノ弾き語りで🎹【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/qUM9vSCscaM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qUM9vSCscaM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-02T12:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
