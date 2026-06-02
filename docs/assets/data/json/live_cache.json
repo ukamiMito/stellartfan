@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-02T19:40:22.110Z",
+  "updatedAt": "2026-06-02T22:22:26.813Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "IeJ8oVHUTws",
+        "title": "#最終回【龍が如く極3】完全初見！10章～　家族がいる沖縄に帰る！癒しは力ちゃんしかいない、、、 ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/IeJ8oVHUTws/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IeJ8oVHUTws",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-03T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": [
@@ -20,9 +31,9 @@
         "title": "【 #雑談 】朝活☀おはようください⏳【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/1Q-Yd92xBDs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=1Q-Yd92xBDs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-02T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-02T20:58:56Z",
         "actualEndTime": null
       }
     ]
