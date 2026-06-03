@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T10:19:14.710Z",
+  "updatedAt": "2026-06-03T15:15:02.241Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#最終回【龍が如く極3】完全初見！10章～　家族がいる沖縄に帰る！癒しは力ちゃんしかいない、、、 ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/IeJ8oVHUTws/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=IeJ8oVHUTws",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-03T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-03T12:59:30Z",
         "actualEndTime": null
       }
     ],
@@ -17,13 +17,13 @@
     "channelC": [],
     "channelD": [
       {
-        "videoId": "MqFg5iuozd0",
-        "title": "【 #歌枠┊弾き語り】2000年代縛りをピアノ弾き語りで🔥1曲どうですか？　【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/MqFg5iuozd0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MqFg5iuozd0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-03T07:58:56Z",
+        "videoId": "rgFZBASjheA",
+        "title": "【Detroit: Become Human】#2 私の選択で救う！絶対に！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/rgFZBASjheA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rgFZBASjheA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-04T12:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ]
