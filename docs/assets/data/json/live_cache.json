@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-03T19:05:27.054Z",
+  "updatedAt": "2026-06-03T22:10:05.041Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "tEdhpKEhJ9U",
+        "title": "#1【ゲーム・オブ・スローンズ：キングスロード】大好きなドラマがゲームに！？GOTの世界に飛び込む✨ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/tEdhpKEhJ9U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tEdhpKEhJ9U",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-04T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": [
