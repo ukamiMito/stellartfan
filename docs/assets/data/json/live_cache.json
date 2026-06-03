@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T22:22:26.813Z",
+  "updatedAt": "2026-06-03T00:10:45.002Z",
   "channels": {
     "channelA": [
       {
@@ -24,16 +24,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-06-03T08:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "1Q-Yd92xBDs",
-        "title": "【 #雑談 】朝活☀おはようください⏳【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/1Q-Yd92xBDs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1Q-Yd92xBDs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-02T20:58:56Z",
         "actualEndTime": null
       }
     ]
