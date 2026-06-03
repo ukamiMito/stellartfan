@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T00:10:45.002Z",
+  "updatedAt": "2026-06-03T05:25:37.196Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "64aD1qk52To",
+        "title": "【お歌練習枠】初！！みなさんの前で歌う！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/64aD1qk52To/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=64aD1qk52To",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-03T07:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "MqFg5iuozd0",
