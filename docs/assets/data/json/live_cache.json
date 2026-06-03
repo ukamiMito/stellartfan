@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T05:25:37.196Z",
+  "updatedAt": "2026-06-03T10:19:14.710Z",
   "channels": {
     "channelA": [
       {
@@ -14,27 +14,16 @@
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "64aD1qk52To",
-        "title": "【お歌練習枠】初！！みなさんの前で歌う！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/64aD1qk52To/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=64aD1qk52To",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-03T07:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "MqFg5iuozd0",
         "title": "【 #歌枠┊弾き語り】2000年代縛りをピアノ弾き語りで🔥1曲どうですか？　【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/MqFg5iuozd0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MqFg5iuozd0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-03T08:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-03T07:58:56Z",
         "actualEndTime": null
       }
     ]
