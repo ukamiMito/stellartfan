@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T12:26:53.465Z",
+  "updatedAt": "2026-06-04T15:59:51.287Z",
   "channels": {
     "channelA": [
       {
@@ -7,25 +7,14 @@
         "title": "#1【ゲーム・オブ・スローンズ：キングスロード】大好きなドラマがゲームに！？GOTの世界に飛び込む✨ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/tEdhpKEhJ9U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=tEdhpKEhJ9U",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-04T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-04T12:58:08Z",
         "actualEndTime": null
       }
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "rgFZBASjheA",
-        "title": "【Detroit: Become Human】#2 私の選択で救う！絶対に！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/rgFZBASjheA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rgFZBASjheA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-04T10:58:57Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
