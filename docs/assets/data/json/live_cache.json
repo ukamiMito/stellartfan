@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T09:10:37.610Z",
+  "updatedAt": "2026-06-04T12:26:53.465Z",
   "channels": {
     "channelA": [
       {
@@ -21,9 +21,9 @@
         "title": "【Detroit: Become Human】#2 私の選択で救う！絶対に！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/rgFZBASjheA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rgFZBASjheA",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-04T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-04T10:58:57Z",
         "actualEndTime": null
       }
     ]
