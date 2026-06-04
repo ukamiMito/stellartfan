@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T00:12:27.163Z",
+  "updatedAt": "2026-06-04T05:20:45.295Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "w6iJtu9ypIE",
+        "title": "【Forza Horizon 6】第4回！雑談しながら図形をぺたぺた【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/w6iJtu9ypIE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w6iJtu9ypIE",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-04T02:58:04Z",
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "rgFZBASjheA",
@@ -22,7 +33,7 @@
         "thumbnail": "https://i.ytimg.com/vi/rgFZBASjheA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rgFZBASjheA",
         "status": "upcoming",
-        "scheduledStartTime": "2026-06-04T12:00:00Z",
+        "scheduledStartTime": "2026-06-04T11:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
