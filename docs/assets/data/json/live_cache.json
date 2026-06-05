@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T11:41:30.289Z",
+  "updatedAt": "2026-06-05T14:50:45.249Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#5【Forza Horizon 6】車を集めながらピンクリストバンド獲得していく！はやくゴールドになりたい！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/9XEtQYGKa2g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9XEtQYGKa2g",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-05T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-05T13:00:00Z",
         "actualEndTime": null
       }
     ],
@@ -20,9 +20,9 @@
         "title": "【記念配信】祝💮１０００人＆収益化おめでとう配信～🙌【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/lwReWYYBHN8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=lwReWYYBHN8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-05T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-05T13:03:54Z",
         "actualEndTime": null
       }
     ],
@@ -32,9 +32,9 @@
         "title": "【 #歌枠┊弾き語り】眠れるピアノ弾き語り🐑1曲どうですか？　【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/PN3KpetrGSo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PN3KpetrGSo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-05T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-05T12:58:41Z",
         "actualEndTime": null
       }
     ]
