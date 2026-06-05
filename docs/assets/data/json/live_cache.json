@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T23:45:06.071Z",
+  "updatedAt": "2026-06-05T03:45:17.625Z",
   "channels": {
     "channelA": [
       {
@@ -15,6 +15,17 @@
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "PN3KpetrGSo",
+        "title": "【 #歌枠┊弾き語り】眠れるピアノ弾き語り🐑1曲どうですか？　【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/PN3KpetrGSo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PN3KpetrGSo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-05T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
