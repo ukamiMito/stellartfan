@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T08:06:13.475Z",
+  "updatedAt": "2026-06-05T11:41:30.289Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "lwReWYYBHN8",
+        "title": "【記念配信】祝💮１０００人＆収益化おめでとう配信～🙌【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/lwReWYYBHN8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lwReWYYBHN8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-05T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "PN3KpetrGSo",
