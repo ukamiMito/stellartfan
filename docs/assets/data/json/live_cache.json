@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T14:50:45.249Z",
+  "updatedAt": "2026-06-05T17:17:29.009Z",
   "channels": {
     "channelA": [
       {
@@ -14,29 +14,7 @@
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "lwReWYYBHN8",
-        "title": "【記念配信】祝💮１０００人＆収益化おめでとう配信～🙌【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/lwReWYYBHN8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lwReWYYBHN8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-05T13:03:54Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "PN3KpetrGSo",
-        "title": "【 #歌枠┊弾き語り】眠れるピアノ弾き語り🐑1曲どうですか？　【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/PN3KpetrGSo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PN3KpetrGSo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-05T12:58:41Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
