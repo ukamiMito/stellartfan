@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-06-05T17:17:29.009Z",
+  "updatedAt": "2026-06-05T19:16:46.090Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "9XEtQYGKa2g",
-        "title": "#5【Forza Horizon 6】車を集めながらピンクリストバンド獲得していく！はやくゴールドになりたい！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/9XEtQYGKa2g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9XEtQYGKa2g",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-05T13:00:00Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [],
     "channelD": []
