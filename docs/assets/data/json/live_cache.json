@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T04:36:10.356Z",
+  "updatedAt": "2026-06-06T07:45:33.608Z",
   "channels": {
     "channelA": [
       {
@@ -26,17 +26,37 @@
     "channelB": [],
     "channelC": [
       {
-        "videoId": "LOr8H-IGbUU",
-        "title": "【トモダチコレクション　わくわく生活】#3 島の発展を目指す！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/LOr8H-IGbUU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LOr8H-IGbUU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-06T02:56:52Z",
+        "videoId": "NhgRui0Gm18",
+        "title": "【Forza Horizon 6】痛車でリストバンド目指す！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/NhgRui0Gm18/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NhgRui0Gm18",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-06T12:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
     "channelD": [
+      {
+        "videoId": "3BvFFdpm9MA",
+        "title": "【 #歌枠┊弾き語り】泣ける曲でしっとりピアノ弾き語り🎹【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/3BvFFdpm9MA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3BvFFdpm9MA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "jLBi0YDgEEI",
+        "title": "【 #雑談 】昼活☀東・西・北でどん兵衛食べくらべ🍜【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/jLBi0YDgEEI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jLBi0YDgEEI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-07T03:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "dpMrsFYxK_0",
         "title": "🎉記念配信🎉みんさんのお陰で収益化！本当にありあとう⏳　【アイリナ・ゼファリオ / StellArt.】#vtuber",
