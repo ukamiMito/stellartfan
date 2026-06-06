@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T11:52:48.427Z",
+  "updatedAt": "2026-06-06T13:42:44.759Z",
   "channels": {
     "channelA": [
       {
@@ -17,9 +17,9 @@
         "title": "【F1 2026/生放送同時視聴】「モナコGP　予選:ライブ」を一緒に観よう！予選が特に重要だと聞きました！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/SD6NutBBDIY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SD6NutBBDIY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-06T13:30:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-06T13:28:49Z",
         "actualEndTime": null
       }
     ],
@@ -30,9 +30,9 @@
         "title": "【Forza Horizon 6】痛車でリストバンド目指す！！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/NhgRui0Gm18/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=NhgRui0Gm18",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-06T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-06T11:58:56Z",
         "actualEndTime": null
       }
     ],
@@ -58,23 +58,13 @@
         "actualEndTime": null
       },
       {
-        "videoId": "dpMrsFYxK_0",
-        "title": "🎉記念配信🎉みんさんのお陰で収益化！本当にありあとう⏳　【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/dpMrsFYxK_0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dpMrsFYxK_0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-06T10:59:27Z",
-        "actualEndTime": null
-      },
-      {
         "videoId": "rL6S9Ut4QS0",
         "title": "【Detroit: Become Human】#最終回 完全初見👀これが平和を貫く私の選択です【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/rL6S9Ut4QS0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rL6S9Ut4QS0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-06T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-06T12:10:47Z",
         "actualEndTime": null
       }
     ]
