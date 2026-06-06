@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T10:03:43.823Z",
+  "updatedAt": "2026-06-06T11:52:48.427Z",
   "channels": {
     "channelA": [
       {
@@ -62,9 +62,9 @@
         "title": "🎉記念配信🎉みんさんのお陰で収益化！本当にありあとう⏳　【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/dpMrsFYxK_0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=dpMrsFYxK_0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-06T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-06T10:59:27Z",
         "actualEndTime": null
       },
       {
