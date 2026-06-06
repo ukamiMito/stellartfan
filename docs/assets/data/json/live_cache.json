@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T15:15:22.839Z",
+  "updatedAt": "2026-06-06T16:38:41.580Z",
   "channels": {
     "channelA": [
       {
@@ -11,31 +11,10 @@
         "scheduledStartTime": "2026-06-07T12:30:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "SD6NutBBDIY",
-        "title": "【F1 2026/生放送同時視聴】「モナコGP　予選:ライブ」を一緒に観よう！予選が特に重要だと聞きました！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/SD6NutBBDIY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SD6NutBBDIY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-06T13:28:49Z",
-        "actualEndTime": null
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "NhgRui0Gm18",
-        "title": "【Forza Horizon 6】痛車でリストバンド目指す！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/NhgRui0Gm18/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NhgRui0Gm18",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-06T11:58:56Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "3BvFFdpm9MA",
@@ -55,16 +34,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-06-07T03:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "rL6S9Ut4QS0",
-        "title": "【Detroit: Become Human】#最終回 完全初見👀これが平和を貫く私の選択です【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/rL6S9Ut4QS0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rL6S9Ut4QS0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-06T12:10:47Z",
         "actualEndTime": null
       }
     ]
