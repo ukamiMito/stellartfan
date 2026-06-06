@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T00:05:51.091Z",
+  "updatedAt": "2026-06-06T04:36:10.356Z",
   "channels": {
     "channelA": [
       {
@@ -24,7 +24,39 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "LOr8H-IGbUU",
+        "title": "【トモダチコレクション　わくわく生活】#3 島の発展を目指す！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/LOr8H-IGbUU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LOr8H-IGbUU",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-06T02:56:52Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "dpMrsFYxK_0",
+        "title": "🎉記念配信🎉みんさんのお陰で収益化！本当にありあとう⏳　【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/dpMrsFYxK_0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dpMrsFYxK_0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-06T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "rL6S9Ut4QS0",
+        "title": "【Detroit: Become Human】#最終回 完全初見👀これが平和を貫く私の選択です【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/rL6S9Ut4QS0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rL6S9Ut4QS0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-06T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
