@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T00:03:08.411Z",
+  "updatedAt": "2026-06-07T05:06:18.796Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "ZZUOKtgTh7k",
+        "title": "【お絵描き雑談】メンシスタンプ制作会場はこちら！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/ZZUOKtgTh7k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZZUOKtgTh7k",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-07T06:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "3BvFFdpm9MA",
@@ -31,9 +42,9 @@
         "title": "【 #雑談 】昼活☀東・西・北でどん兵衛食べくらべ🍜【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/jLBi0YDgEEI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=jLBi0YDgEEI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-07T03:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-07T03:00:42Z",
         "actualEndTime": null
       }
     ]
