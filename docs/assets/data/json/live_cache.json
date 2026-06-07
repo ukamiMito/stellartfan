@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T13:02:12.120Z",
+  "updatedAt": "2026-06-07T15:10:10.949Z",
   "channels": {
     "channelA": [
       {
@@ -24,29 +24,8 @@
         "scheduledStartTime": "2026-06-07T22:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "nR-3K4OcYR0",
-        "title": "【Forza Horizon 6】痛車で上級レースにとどまりたい！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/nR-3K4OcYR0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nR-3K4OcYR0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-07T11:59:34Z",
-        "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "3BvFFdpm9MA",
-        "title": "【 #歌枠┊弾き語り】泣ける曲でしっとりピアノ弾き語り🎹【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/3BvFFdpm9MA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3BvFFdpm9MA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-07T12:59:41Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
