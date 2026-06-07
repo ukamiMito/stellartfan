@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T08:34:37.798Z",
+  "updatedAt": "2026-06-07T11:08:33.462Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "nR-3K4OcYR0",
+        "title": "【Forza Horizon 6】痛車で上級レースにとどまりたい！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/nR-3K4OcYR0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nR-3K4OcYR0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-07T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "3BvFFdpm9MA",
