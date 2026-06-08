@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T10:02:36.848Z",
+  "updatedAt": "2026-06-08T14:33:20.072Z",
   "channels": {
     "channelA": [],
     "channelB": [],
@@ -10,9 +10,9 @@
         "title": "【利用規約に同意したい】同意するだけですよね？【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/g0MsJazs4cg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=g0MsJazs4cg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-08T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-08T11:58:41Z",
         "actualEndTime": null
       }
     ]
