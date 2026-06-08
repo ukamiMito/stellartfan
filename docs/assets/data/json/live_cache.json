@@ -1,20 +1,9 @@
 {
-  "updatedAt": "2026-06-07T22:36:52.807Z",
+  "updatedAt": "2026-06-08T00:07:58.802Z",
   "channels": {
     "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "ZFBx4bm4Wk0",
-        "title": "【朝活🌞】にうふぁと月曜朝を乗り越えよう…💪【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ZFBx4bm4Wk0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZFBx4bm4Wk0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-07T21:59:12Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
