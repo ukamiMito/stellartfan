@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T11:14:44.788Z",
+  "updatedAt": "2026-06-09T13:58:43.611Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#3【F1® 23】完全初見！「ブレーキングポイント2」チャプター10～　ライバルが引退して寂しい天硝路。そして新たなドライバーとは… ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/rl5UDO94ypI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rl5UDO94ypI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-09T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-09T12:58:45Z",
         "actualEndTime": null
       }
     ],
@@ -20,9 +20,9 @@
         "title": "【NIKKE】完全初見🔰かわいい女の子がたくさんと聞いて…！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/yuHDFiD66Z0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yuHDFiD66Z0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-09T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-09T11:56:42Z",
         "actualEndTime": null
       }
     ],
@@ -32,9 +32,9 @@
         "title": "【 #歌枠┊弾き語り】ピアノ弾き語りで送る心を込めた歌🎹1曲どうですか？【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/2gyX86OmgSk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2gyX86OmgSk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-09T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-09T12:59:21Z",
         "actualEndTime": null
       }
     ]
