@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T07:49:10.993Z",
+  "updatedAt": "2026-06-09T11:14:44.788Z",
   "channels": {
     "channelA": [
       {
@@ -26,6 +26,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "2gyX86OmgSk",
+        "title": "【 #歌枠┊弾き語り】ピアノ弾き語りで送る心を込めた歌🎹1曲どうですか？【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/2gyX86OmgSk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2gyX86OmgSk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-09T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
