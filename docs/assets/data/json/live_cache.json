@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T03:31:03.707Z",
+  "updatedAt": "2026-06-09T07:49:10.993Z",
   "channels": {
     "channelA": [
       {
@@ -16,12 +16,12 @@
     "channelB": [],
     "channelC": [
       {
-        "videoId": "4AR8XXrnNfc",
-        "title": "【Forza Horizon 6】第5回！雑談しながら図形をぺたぺた【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/4AR8XXrnNfc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4AR8XXrnNfc",
+        "videoId": "yuHDFiD66Z0",
+        "title": "【NIKKE】完全初見🔰かわいい女の子がたくさんと聞いて…！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/yuHDFiD66Z0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yuHDFiD66Z0",
         "status": "upcoming",
-        "scheduledStartTime": "2026-06-09T05:00:00Z",
+        "scheduledStartTime": "2026-06-09T12:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
