@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-10T19:09:55.526Z",
+  "updatedAt": "2026-06-10T21:34:39.572Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "yjXvsepAuxo",
+        "title": "#3【トモダチコレクション わくわく生活】グループ内恋愛、はじまりました。モルモット君も作るぞ！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/yjXvsepAuxo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yjXvsepAuxo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-11T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
