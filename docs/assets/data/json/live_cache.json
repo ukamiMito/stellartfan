@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T12:20:40.046Z",
+  "updatedAt": "2026-06-10T16:20:33.895Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#6【Forza Horizon 6】次はオレンジのリストバンドをゲットするぞおおお！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/hp0WsB4WfKU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hp0WsB4WfKU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-10T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-10T13:00:38Z",
         "actualEndTime": null
       }
     ],
@@ -26,17 +26,6 @@
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "djpzWw7YxAs",
-        "title": "【 #歌枠┊弾き語り】しっとり、力強く弾くピアノ弾き語り【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/djpzWw7YxAs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=djpzWw7YxAs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-10T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
