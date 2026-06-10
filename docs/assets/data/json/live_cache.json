@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T22:57:42.978Z",
+  "updatedAt": "2026-06-10T00:19:31.255Z",
   "channels": {
     "channelA": [
       {
@@ -24,16 +24,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-06-10T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "vq0YdbArmyE",
-        "title": "【 #雑談 】朝活☀おはようください⏳眠気飛んでいけ～【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/vq0YdbArmyE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vq0YdbArmyE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-09T21:00:12Z",
         "actualEndTime": null
       }
     ]
