@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T08:52:08.304Z",
+  "updatedAt": "2026-06-10T12:20:40.046Z",
   "channels": {
     "channelA": [
       {
@@ -20,16 +20,16 @@
         "title": "【NIKKE】#2 完全初見🔰新人指揮官として頑張ります…！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/rIvSewsrpGE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rIvSewsrpGE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-10T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-10T11:57:28Z",
         "actualEndTime": null
       }
     ],
     "channelD": [
       {
         "videoId": "djpzWw7YxAs",
-        "title": "【 #歌枠┊弾き語り】しっとり、力強く弾くピアノ弾き語り【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "title": "【 #歌枠┊弾き語り】しっとり、力強く弾くピアノ弾き語り【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/djpzWw7YxAs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=djpzWw7YxAs",
         "status": "upcoming",
