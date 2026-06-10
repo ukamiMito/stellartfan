@@ -1,31 +1,9 @@
 {
-  "updatedAt": "2026-06-10T16:20:33.895Z",
+  "updatedAt": "2026-06-10T19:09:55.526Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "hp0WsB4WfKU",
-        "title": "#6【Forza Horizon 6】次はオレンジのリストバンドをゲットするぞおおお！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/hp0WsB4WfKU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hp0WsB4WfKU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-10T13:00:38Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "rIvSewsrpGE",
-        "title": "【NIKKE】#2 完全初見🔰新人指揮官として頑張ります…！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/rIvSewsrpGE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rIvSewsrpGE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-10T11:57:28Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
