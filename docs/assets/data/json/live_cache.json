@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T00:19:31.255Z",
+  "updatedAt": "2026-06-10T04:56:54.798Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "rIvSewsrpGE",
+        "title": "【NIKKE】#2 完全初見🔰新人指揮官として頑張ります…！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/rIvSewsrpGE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rIvSewsrpGE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-10T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "djpzWw7YxAs",
