@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T01:59:49.825Z",
+  "updatedAt": "2026-06-11T06:58:42.238Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "wiC8JkxwZwc",
+        "title": "【お絵描き雑談】アイちゃんとまったりお絵描き🖼【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/wiC8JkxwZwc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wiC8JkxwZwc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-11T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
