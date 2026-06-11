@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-06-11T16:00:35.750Z",
+  "updatedAt": "2026-06-11T19:17:43.241Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "yjXvsepAuxo",
-        "title": "#3【トモダチコレクション わくわく生活】グループ内恋愛、はじまりました。モルモット君も作るぞ！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/yjXvsepAuxo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yjXvsepAuxo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-11T13:00:11Z",
+        "videoId": "GKFGKPsG8lY",
+        "title": "#2【ゲーム・オブ・スローンズ：キングスロード】完全初見でストーリー攻略！ボルトンの兵士が音信不通！？はやく相続の許可ください… ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/GKFGKPsG8lY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GKFGKPsG8lY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-12T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
