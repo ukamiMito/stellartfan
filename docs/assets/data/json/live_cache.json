@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T06:58:42.238Z",
+  "updatedAt": "2026-06-11T11:42:10.242Z",
   "channels": {
     "channelA": [
       {
@@ -26,6 +26,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "y53mVGBFsBg",
+        "title": "【 お絵描きコラボ】🎨にうふぁちゃんとお絵描きコラボ！お話ししなが描くよ～🎨【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/y53mVGBFsBg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=y53mVGBFsBg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-11T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
