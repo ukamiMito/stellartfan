@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T11:42:10.242Z",
+  "updatedAt": "2026-06-11T16:00:35.750Z",
   "channels": {
     "channelA": [
       {
@@ -7,36 +7,14 @@
         "title": "#3【トモダチコレクション わくわく生活】グループ内恋愛、はじまりました。モルモット君も作るぞ！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/yjXvsepAuxo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yjXvsepAuxo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-11T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-11T13:00:11Z",
         "actualEndTime": null
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "wiC8JkxwZwc",
-        "title": "【お絵描き雑談】アイちゃんとまったりお絵描き🖼【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/wiC8JkxwZwc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wiC8JkxwZwc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-11T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "y53mVGBFsBg",
-        "title": "【 お絵描きコラボ】🎨にうふぁちゃんとお絵描きコラボ！お話ししなが描くよ～🎨【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/y53mVGBFsBg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=y53mVGBFsBg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-11T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
