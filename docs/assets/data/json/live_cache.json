@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-06-12T19:29:15.097Z",
+  "updatedAt": "2026-06-12T21:16:11.601Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "lKoMjFHlSE0",
+        "title": "【F1 2026/生放送同時視聴】「バルセロナ・カタロニアGP　決勝:ライブ」みんなで一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/lKoMjFHlSE0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lKoMjFHlSE0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-14T12:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "4dD9jQ-Q7VU",
+        "title": "【F1 2026/生放送同時視聴】「バルセロナ・カタロニアGP　予選:ライブ」みんなで一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/4dD9jQ-Q7VU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4dD9jQ-Q7VU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-13T13:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
