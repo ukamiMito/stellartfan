@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T11:00:46.380Z",
+  "updatedAt": "2026-06-12T14:19:12.663Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#2【ゲーム・オブ・スローンズ：キングスロード】完全初見でストーリー攻略！ボルトンの兵士が音信不通！？はやく相続の許可ください… ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/GKFGKPsG8lY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=GKFGKPsG8lY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-12T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-12T12:59:16Z",
         "actualEndTime": null
       }
     ],
@@ -17,12 +17,12 @@
     "channelC": [
       {
         "videoId": "UtflmTdI68I",
-        "title": "【NIKKE/CHAPTER.6 巡礼】#３ 完全初見🔰気になるあの子に出会いたい【にうふぁ/StellArt.】",
+        "title": "【NIKKE/CHAPTER.6 巡礼/CHAPTER.7 再会】#３ 完全初見🔰気になるあの子に出会いたい【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/UtflmTdI68I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=UtflmTdI68I",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-12T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-12T11:57:20Z",
         "actualEndTime": null
       }
     ],
@@ -32,9 +32,9 @@
         "title": "【 #歌枠┊弾き語り】身体に染みるピアノ弾き語り🎹【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/w_9ORZm_eQg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=w_9ORZm_eQg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-12T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-12T12:58:27Z",
         "actualEndTime": null
       }
     ]
