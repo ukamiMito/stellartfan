@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T05:01:45.281Z",
+  "updatedAt": "2026-06-13T08:36:11.862Z",
   "channels": {
     "channelA": [
       {
@@ -26,13 +26,13 @@
     "channelB": [],
     "channelC": [
       {
-        "videoId": "VP1ot7hN8fc",
-        "title": "【めっちゃカメレオン】お絵描きが好きならかくれんぼも強いはず！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/VP1ot7hN8fc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=VP1ot7hN8fc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-13T02:58:14Z",
+        "videoId": "R0NFet1Az9c",
+        "title": "【NIKKE/CHAPTER.8 葛藤】#4 完全初見🔰この先一体どうなるんだ…【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/R0NFet1Az9c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R0NFet1Az9c",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-13T12:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
