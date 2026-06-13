@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T00:20:58.004Z",
+  "updatedAt": "2026-06-13T05:01:45.281Z",
   "channels": {
     "channelA": [
       {
@@ -24,7 +24,29 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "VP1ot7hN8fc",
+        "title": "【めっちゃカメレオン】お絵描きが好きならかくれんぼも強いはず！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/VP1ot7hN8fc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VP1ot7hN8fc",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-13T02:58:14Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "J5D7V8MKNhk",
+        "title": "【Forza Horizon 6】#4 走るぞ～～～～～🔥！！🚙あっ助手席どうぞ？【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/J5D7V8MKNhk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J5D7V8MKNhk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-13T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
