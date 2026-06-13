@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T15:16:27.219Z",
+  "updatedAt": "2026-06-13T16:55:14.245Z",
   "channels": {
     "channelA": [
       {
@@ -11,42 +11,10 @@
         "scheduledStartTime": "2026-06-14T12:30:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "4dD9jQ-Q7VU",
-        "title": "【F1 2026/生放送同時視聴】「バルセロナ・カタロニアGP　予選:ライブ」みんなで一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/4dD9jQ-Q7VU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4dD9jQ-Q7VU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-13T13:29:09Z",
-        "actualEndTime": null
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "R0NFet1Az9c",
-        "title": "【NIKKE/CHAPTER.8 葛藤】#4 完全初見🔰この先一体どうなるんだ…【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/R0NFet1Az9c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R0NFet1Az9c",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-13T11:57:39Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "J5D7V8MKNhk",
-        "title": "【Forza Horizon 6】#4 走るぞ～～～～～🔥！！🚙あっ助手席どうぞ？【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/J5D7V8MKNhk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=J5D7V8MKNhk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-13T11:59:06Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
