@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T10:24:22.562Z",
+  "updatedAt": "2026-06-14T12:22:44.590Z",
   "channels": {
     "channelA": [
       {
@@ -13,16 +13,27 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "EKTbWCxl1zA",
+        "title": "【 復活配信 】ただいま！！！！！本日より復帰します！！！！！【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/EKTbWCxl1zA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EKTbWCxl1zA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [
       {
         "videoId": "0t4NXIBe60A",
         "title": "【Forza Horizon 6】痛車でドライブしながらお宝さがししたい！！！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/0t4NXIBe60A/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=0t4NXIBe60A",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-14T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-14T11:58:44Z",
         "actualEndTime": null
       }
     ],
