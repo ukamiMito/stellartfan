@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T01:43:00.759Z",
+  "updatedAt": "2026-06-14T06:40:48.868Z",
   "channels": {
     "channelA": [
       {
@@ -15,17 +15,6 @@
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "JBnJ2nT-to8",
-        "title": "【 #雑談 】昼活☀お昼ご飯とマシュマロをもぐもぐ☁！【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/JBnJ2nT-to8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JBnJ2nT-to8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-14T03:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
