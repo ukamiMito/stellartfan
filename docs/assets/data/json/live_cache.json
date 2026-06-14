@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T12:22:44.590Z",
+  "updatedAt": "2026-06-14T14:40:20.774Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【F1 2026/生放送同時視聴】「バルセロナ・カタロニアGP　決勝:ライブ」みんなで一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/lKoMjFHlSE0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=lKoMjFHlSE0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-14T12:30:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-14T12:24:18Z",
         "actualEndTime": null
       }
     ],
@@ -27,13 +27,13 @@
     ],
     "channelC": [
       {
-        "videoId": "0t4NXIBe60A",
-        "title": "【Forza Horizon 6】痛車でドライブしながらお宝さがししたい！！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/0t4NXIBe60A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0t4NXIBe60A",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-14T11:58:44Z",
+        "videoId": "WMtlXIIHbhc",
+        "title": "【朝活🌞】眠い目をこすりながら月曜日おふぁ活【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/WMtlXIIHbhc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WMtlXIIHbhc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-14T22:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
