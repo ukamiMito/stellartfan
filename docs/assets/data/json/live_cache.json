@@ -1,15 +1,26 @@
 {
-  "updatedAt": "2026-06-15T12:13:25.062Z",
+  "updatedAt": "2026-06-15T17:29:54.516Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "pFhIn9qp0cI",
+        "title": "#7【Forza Horizon 6】今回は紫リストバンドを獲得したい！レジェンドプレイヤーを目指すぞー！！✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/pFhIn9qp0cI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pFhIn9qp0cI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-16T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
-        "videoId": "EKTbWCxl1zA",
-        "title": "【 復活配信 】ただいま！！！！！本日より復帰します！！！！！【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/EKTbWCxl1zA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EKTbWCxl1zA",
+        "videoId": "H2R4xe3E8oc",
+        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.46『新生』後篇！ボス戦後のメイン攻略！やはりミラーは53だった。#154【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/H2R4xe3E8oc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H2R4xe3E8oc",
         "status": "upcoming",
-        "scheduledStartTime": "2026-06-15T13:00:00Z",
+        "scheduledStartTime": "2026-06-16T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
