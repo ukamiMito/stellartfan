@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T00:08:38.979Z",
+  "updatedAt": "2026-06-15T05:36:18.450Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -15,6 +15,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "wdn5V9tiXks",
+        "title": "【 #歌枠┊弾き語り】ゲリラ！お昼歌枠でチルしよう☕【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/wdn5V9tiXks/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wdn5V9tiXks",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-15T04:59:57Z",
+        "actualEndTime": null
+      }
+    ]
   }
 }
