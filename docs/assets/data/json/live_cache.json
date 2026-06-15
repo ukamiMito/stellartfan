@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T22:40:24.926Z",
+  "updatedAt": "2026-06-15T00:08:38.979Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,18 +14,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "WMtlXIIHbhc",
-        "title": "【朝活🌞】眠い目をこすりながら月曜日おふぁ活【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/WMtlXIIHbhc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WMtlXIIHbhc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-14T21:58:20Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
