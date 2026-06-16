@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-16T18:15:19.188Z",
+  "updatedAt": "2026-06-16T21:25:21.756Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "Ckdb7msWUjc",
+        "title": "#4【F1® 23】完全初見！「ブレーキングポイント2」チャプター14～　チーム存続の危機！なのにチームはバラバラだぁぁ… ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Ckdb7msWUjc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ckdb7msWUjc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-17T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "UR448lCnfww",
