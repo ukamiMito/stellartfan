@@ -1,27 +1,16 @@
 {
-  "updatedAt": "2026-06-16T13:11:47.904Z",
+  "updatedAt": "2026-06-16T18:15:19.188Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "pFhIn9qp0cI",
-        "title": "#7【Forza Horizon 6】今回は紫リストバンドを獲得したい！レジェンドプレイヤーを目指すぞー！！✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/pFhIn9qp0cI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pFhIn9qp0cI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-16T13:00:55Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
-        "videoId": "H2R4xe3E8oc",
-        "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.46『新生』後篇！ボス戦後のメイン攻略！やはりミラーは53だった。#154【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/H2R4xe3E8oc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=H2R4xe3E8oc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-16T12:57:18Z",
+        "videoId": "UR448lCnfww",
+        "title": "【イオモニ/朝活】ただいま～！イオモニ復活だ！最近のお話沢山しよう✨【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/UR448lCnfww/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UR448lCnfww",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-17T21:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       },
       {
@@ -35,29 +24,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "Oe2ZiIV7Njs",
-        "title": "【NIKKE/CHAPTER.10 仲間】#5 完全初見🔰後ろ盾を得たので大手を振っていきたい！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Oe2ZiIV7Njs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Oe2ZiIV7Njs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-16T11:56:11Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "De3U6L-glD8",
-        "title": "【 #歌枠┊弾き語り】cill night☕深夜のしっとり歌枠【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/De3U6L-glD8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=De3U6L-glD8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-16T12:59:06Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
