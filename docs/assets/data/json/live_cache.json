@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T23:02:28.661Z",
+  "updatedAt": "2026-06-16T02:06:34.503Z",
   "channels": {
     "channelA": [
       {
@@ -36,6 +36,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "De3U6L-glD8",
+        "title": "【 #歌枠┊弾き語り】cill night☕深夜のしっとり歌枠【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/De3U6L-glD8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=De3U6L-glD8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-16T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
