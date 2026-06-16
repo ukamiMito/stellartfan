@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T08:26:11.464Z",
+  "updatedAt": "2026-06-16T13:11:47.904Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#7【Forza Horizon 6】今回は紫リストバンドを獲得したい！レジェンドプレイヤーを目指すぞー！！✨【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/pFhIn9qp0cI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pFhIn9qp0cI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-16T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-16T13:00:55Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【 勝利の女神 : #nikke 】完全初見🔰chapter.46『新生』後篇！ボス戦後のメイン攻略！やはりミラーは53だった。#154【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/H2R4xe3E8oc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=H2R4xe3E8oc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-16T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-16T12:57:18Z",
         "actualEndTime": null
       },
       {
@@ -41,9 +41,9 @@
         "title": "【NIKKE/CHAPTER.10 仲間】#5 完全初見🔰後ろ盾を得たので大手を振っていきたい！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/Oe2ZiIV7Njs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Oe2ZiIV7Njs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-16T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-16T11:56:11Z",
         "actualEndTime": null
       }
     ],
@@ -53,9 +53,9 @@
         "title": "【 #歌枠┊弾き語り】cill night☕深夜のしっとり歌枠【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/De3U6L-glD8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=De3U6L-glD8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-16T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-16T12:59:06Z",
         "actualEndTime": null
       }
     ]
