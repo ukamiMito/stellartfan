@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T02:06:34.503Z",
+  "updatedAt": "2026-06-16T08:26:11.464Z",
   "channels": {
     "channelA": [
       {
@@ -35,7 +35,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "Oe2ZiIV7Njs",
+        "title": "【NIKKE/CHAPTER.10 仲間】#5 完全初見🔰後ろ盾を得たので大手を振っていきたい！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Oe2ZiIV7Njs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Oe2ZiIV7Njs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-16T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "De3U6L-glD8",
