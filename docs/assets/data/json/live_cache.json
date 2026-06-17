@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-17T21:05:28.350Z",
+  "updatedAt": "2026-06-17T22:57:06.248Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "l5E0Gci3i5U",
+        "title": "#4【トモダチコレクション わくわく生活】カップル成立！ただしろまんは失恋！！2人ともお幸せに…【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/l5E0Gci3i5U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=l5E0Gci3i5U",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "2H2pukfJOMg",
