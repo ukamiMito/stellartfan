@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T16:31:37.526Z",
+  "updatedAt": "2026-06-18T19:27:54.490Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -11,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-06-20T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "2H2pukfJOMg",
-        "title": "【Librarian: Tidy Up the Arcane Library!】司書のお仕事！魔導図書館を片付けるよ！チル＆睡眠導入配信🎶【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/2H2pukfJOMg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2H2pukfJOMg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-18T12:57:21Z",
         "actualEndTime": null
       }
     ],
