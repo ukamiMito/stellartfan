@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T00:18:09.841Z",
+  "updatedAt": "2026-06-18T05:16:26.981Z",
   "channels": {
     "channelA": [
       {
@@ -22,16 +22,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-06-18T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "UR448lCnfww",
-        "title": "【イオモニ/朝活】ただいま～！イオモニ復活だ！最近のお話沢山しよう✨【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/UR448lCnfww/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UR448lCnfww",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-17T20:58:43Z",
         "actualEndTime": null
       }
     ],
