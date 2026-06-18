@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-06-18T12:51:46.443Z",
+  "updatedAt": "2026-06-18T16:31:37.526Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "l5E0Gci3i5U",
-        "title": "#4【トモダチコレクション わくわく生活】カップル成立！ただしろまんは失恋！！2人ともお幸せに…【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/l5E0Gci3i5U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=l5E0Gci3i5U",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-18T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "vC1BLw0ftEA",
@@ -29,35 +18,14 @@
         "title": "【Librarian: Tidy Up the Arcane Library!】司書のお仕事！魔導図書館を片付けるよ！チル＆睡眠導入配信🎶【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/2H2pukfJOMg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2H2pukfJOMg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-18T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "DGN-ZJzjtPE",
-        "title": "【めっちゃカメレオン】お絵描きで壁に擬態！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/DGN-ZJzjtPE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DGN-ZJzjtPE",
         "status": "live",
         "scheduledStartTime": null,
-        "actualStartTime": "2026-06-18T11:57:14Z",
+        "actualStartTime": "2026-06-18T12:57:21Z",
         "actualEndTime": null
       }
     ],
+    "channelC": [],
     "channelD": [
-      {
-        "videoId": "Wpw616JYpxM",
-        "title": "【 #歌枠┊弾き語り】ピアノ弾き語りで奏でる歌枠🌷【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/Wpw616JYpxM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Wpw616JYpxM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-18T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
       {
         "videoId": "NO3p81om8Es",
         "title": "🕯 free chat 🕯",
