@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-18T21:33:54.719Z",
+  "updatedAt": "2026-06-18T23:45:24.832Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "oyIW_URAmSs",
+        "title": "#3【ゲーム・オブ・スローンズ：キングスロード】完全初見でストーリー攻略！タックル部族長にリベンジ🔥今日はサクサク進めたい…！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/oyIW_URAmSs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oyIW_URAmSs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "vC1BLw0ftEA",
