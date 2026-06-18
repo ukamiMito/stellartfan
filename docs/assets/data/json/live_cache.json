@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T09:53:16.963Z",
+  "updatedAt": "2026-06-18T12:51:46.443Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "vC1BLw0ftEA",
+        "title": "【Forza Horizon 6】完全初見！上級レース1位制覇しまくるぞ✨初めての愛車も買いたい！！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/vC1BLw0ftEA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vC1BLw0ftEA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "2H2pukfJOMg",
         "title": "【Librarian: Tidy Up the Arcane Library!】司書のお仕事！魔導図書館を片付けるよ！チル＆睡眠導入配信🎶【華鉈イオ/StellArt.】#vtuber",
@@ -31,9 +41,9 @@
         "title": "【めっちゃカメレオン】お絵描きで壁に擬態！！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/DGN-ZJzjtPE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DGN-ZJzjtPE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-18T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-18T11:57:14Z",
         "actualEndTime": null
       }
     ],
