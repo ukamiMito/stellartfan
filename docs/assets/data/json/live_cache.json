@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T05:16:26.981Z",
+  "updatedAt": "2026-06-18T09:53:16.963Z",
   "channels": {
     "channelA": [
       {
@@ -25,8 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "DGN-ZJzjtPE",
+        "title": "【めっちゃカメレオン】お絵描きで壁に擬態！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/DGN-ZJzjtPE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DGN-ZJzjtPE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-18T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
+      {
+        "videoId": "Wpw616JYpxM",
+        "title": "【 #歌枠┊弾き語り】ピアノ弾き語りで奏でる歌枠🌷【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/Wpw616JYpxM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Wpw616JYpxM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "NO3p81om8Es",
         "title": "🕯 free chat 🕯",
