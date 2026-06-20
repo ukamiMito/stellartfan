@@ -1,30 +1,8 @@
 {
-  "updatedAt": "2026-06-20T17:00:21.607Z",
+  "updatedAt": "2026-06-20T18:54:02.851Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "oyIW_URAmSs",
-        "title": "#3【ゲーム・オブ・スローンズ：キングスロード】完全初見でストーリー攻略！タックル部族長にリベンジ🔥今日はサクサク進めたい…！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/oyIW_URAmSs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oyIW_URAmSs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-20T12:59:07Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "vC1BLw0ftEA",
-        "title": "【Forza Horizon 6】完全初見！上級レース1位制覇しまくるぞ✨初めての愛車も買いたい！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/vC1BLw0ftEA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vC1BLw0ftEA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-20T12:58:04Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
+    "channelB": [],
     "channelC": [],
     "channelD": [
       {
