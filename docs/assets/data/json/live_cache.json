@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T04:51:15.404Z",
+  "updatedAt": "2026-06-20T08:21:06.567Z",
   "channels": {
     "channelA": [
       {
@@ -27,6 +27,16 @@
     ],
     "channelC": [],
     "channelD": [
+      {
+        "videoId": "cE-jZtSfPAs",
+        "title": "【漢字でGO！】さて、皆さんに私の実力見て頂きますかっと✎【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/cE-jZtSfPAs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cE-jZtSfPAs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-20T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "NO3p81om8Es",
         "title": "🕯 free chat 🕯",
