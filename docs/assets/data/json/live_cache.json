@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T08:21:06.567Z",
+  "updatedAt": "2026-06-20T10:57:22.370Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "vW92-bCqVN0",
+        "title": "【NIKKE/CHAPTER.12 故郷】#6 完全初見🔰メティス…なんておもろい女の子たちなのか【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/vW92-bCqVN0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vW92-bCqVN0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "cE-jZtSfPAs",
