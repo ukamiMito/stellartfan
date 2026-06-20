@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T12:53:10.989Z",
+  "updatedAt": "2026-06-20T15:02:25.362Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#3【ゲーム・オブ・スローンズ：キングスロード】完全初見でストーリー攻略！タックル部族長にリベンジ🔥今日はサクサク進めたい…！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/oyIW_URAmSs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oyIW_URAmSs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-20T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-20T12:59:07Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【Forza Horizon 6】完全初見！上級レース1位制覇しまくるぞ✨初めての愛車も買いたい！！【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/vC1BLw0ftEA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vC1BLw0ftEA",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-20T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-20T12:58:04Z",
         "actualEndTime": null
       }
     ],
@@ -31,9 +31,9 @@
         "title": "【NIKKE/CHAPTER.12 故郷】#6 完全初見🔰メティス…なんておもろい女の子たちなのか【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/vW92-bCqVN0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vW92-bCqVN0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-20T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-20T12:59:51Z",
         "actualEndTime": null
       }
     ],
