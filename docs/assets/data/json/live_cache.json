@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T15:02:25.362Z",
+  "updatedAt": "2026-06-20T17:00:21.607Z",
   "channels": {
     "channelA": [
       {
@@ -25,18 +25,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "vW92-bCqVN0",
-        "title": "【NIKKE/CHAPTER.12 故郷】#6 完全初見🔰メティス…なんておもろい女の子たちなのか【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/vW92-bCqVN0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vW92-bCqVN0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-20T12:59:51Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "wK1Tb7m0SZo",
@@ -46,16 +35,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-06-21T03:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "cE-jZtSfPAs",
-        "title": "【漢字でGO！】さて、皆さんに私の実力見て頂きますかっと✎【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/cE-jZtSfPAs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cE-jZtSfPAs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-20T12:02:42Z",
         "actualEndTime": null
       },
       {
