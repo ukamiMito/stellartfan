@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T10:57:22.370Z",
+  "updatedAt": "2026-06-20T12:53:10.989Z",
   "channels": {
     "channelA": [
       {
@@ -39,13 +39,23 @@
     ],
     "channelD": [
       {
+        "videoId": "wK1Tb7m0SZo",
+        "title": "【 #雑談/同時視聴 】お昼ご飯食べて⚽W杯応援しよう～⚽【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/wK1Tb7m0SZo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wK1Tb7m0SZo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-21T03:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
         "videoId": "cE-jZtSfPAs",
         "title": "【漢字でGO！】さて、皆さんに私の実力見て頂きますかっと✎【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/cE-jZtSfPAs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cE-jZtSfPAs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-20T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-20T12:02:42Z",
         "actualEndTime": null
       },
       {
