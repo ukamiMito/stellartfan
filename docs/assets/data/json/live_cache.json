@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-06-21T15:25:09.403Z",
+  "updatedAt": "2026-06-21T17:04:23.313Z",
   "channels": {
     "channelA": [],
     "channelB": [
+      {
+        "videoId": "Lhb9jeY9Wv8",
+        "title": "【 #amongus 】⚠日本語禁止⚡アモアス！！英語オンリー10人で騙し合いだ！！！！！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Lhb9jeY9Wv8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Lhb9jeY9Wv8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-23T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "BzMMelSVEwU",
         "title": "【 勝利の女神 : #nikke 】イベスト鑑賞『ARK RANGER』STORYⅠ同時視聴する！！ヒーロー誰？！#155【華鉈イオ/StellArt.】#新人vtuber",
@@ -26,17 +36,6 @@
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "yEnJq96hWK4",
-        "title": "【 #歌枠┊弾き語り】1曲どうですか？癒しを届ける歌枠🌷【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/yEnJq96hWK4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yEnJq96hWK4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-21T13:58:26Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
