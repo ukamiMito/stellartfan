@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-06-21T13:05:26.238Z",
+  "updatedAt": "2026-06-21T15:25:09.403Z",
   "channels": {
     "channelA": [],
     "channelB": [
       {
-        "videoId": "clT0YgIBKPk",
-        "title": "【Forza Horizon 6】完全初見！上級レース✨ピンクリストバンドGETするよ～！！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/clT0YgIBKPk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=clT0YgIBKPk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-21T12:58:24Z",
+        "videoId": "BzMMelSVEwU",
+        "title": "【 勝利の女神 : #nikke 】イベスト鑑賞『ARK RANGER』STORYⅠ同時視聴する！！ヒーロー誰？！#155【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/BzMMelSVEwU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BzMMelSVEwU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-22T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
     "channelC": [
       {
-        "videoId": "belFkYrLkPA",
-        "title": "【NIKKE/CHAPTER.13 回帰】#7 完全初見🔰モダニア説得する絶対！！！！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/belFkYrLkPA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=belFkYrLkPA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-21T11:58:45Z",
+        "videoId": "1CV-Ag-tL1k",
+        "title": "【朝活🌞】月曜朝だよ～！！週の始まりにおふぁ活～！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/1CV-Ag-tL1k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1CV-Ag-tL1k",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-21T22:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
@@ -32,9 +32,9 @@
         "title": "【 #歌枠┊弾き語り】1曲どうですか？癒しを届ける歌枠🌷【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/yEnJq96hWK4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yEnJq96hWK4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-21T14:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-21T13:58:26Z",
         "actualEndTime": null
       }
     ]
