@@ -39,7 +39,7 @@ const CHANNELS = {
   channelD: {
     channelId: 'UCKB9sNaOhnkx4jtsYeWEd4g',
     channelName: 'アイリナ・ゼファリオ',
-    freechatVideoId: ''
+    freechatVideoId: 'NO3p81om8Es'
   }
 };
 
