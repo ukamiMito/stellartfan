@@ -1,17 +1,28 @@
 {
-  "updatedAt": "2026-06-21T10:35:06.606Z",
+  "updatedAt": "2026-06-21T13:05:26.238Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "clT0YgIBKPk",
+        "title": "【Forza Horizon 6】完全初見！上級レース✨ピンクリストバンドGETするよ～！！！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/clT0YgIBKPk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=clT0YgIBKPk",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-21T12:58:24Z",
+        "actualEndTime": null
+      }
+    ],
     "channelC": [
       {
         "videoId": "belFkYrLkPA",
         "title": "【NIKKE/CHAPTER.13 回帰】#7 完全初見🔰モダニア説得する絶対！！！！！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/belFkYrLkPA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=belFkYrLkPA",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-21T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-21T11:58:45Z",
         "actualEndTime": null
       }
     ],
