@@ -1,20 +1,31 @@
 {
-  "updatedAt": "2026-06-21T06:57:35.186Z",
+  "updatedAt": "2026-06-21T10:35:06.606Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [],
+    "channelC": [
       {
-        "videoId": "IrR_4KnrOLk",
-        "title": "【#縦型配信/#雑談】練り切りを作るのにハマった女。新作も見せるよ✨☆初見さん大歓迎☆【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/IrR_4KnrOLk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IrR_4KnrOLk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-21T05:02:00Z",
+        "videoId": "belFkYrLkPA",
+        "title": "【NIKKE/CHAPTER.13 回帰】#7 完全初見🔰モダニア説得する絶対！！！！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/belFkYrLkPA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=belFkYrLkPA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-21T12:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "yEnJq96hWK4",
+        "title": "【 #歌枠┊弾き語り】1曲どうですか？癒しを届ける歌枠🌷【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/yEnJq96hWK4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yEnJq96hWK4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-21T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
