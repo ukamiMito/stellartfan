@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T23:50:35.374Z",
+  "updatedAt": "2026-06-22T04:14:37.661Z",
   "channels": {
     "channelA": [
       {
@@ -35,18 +35,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "1CV-Ag-tL1k",
-        "title": "【朝活🌞】月曜朝だよ～！！週の始まりにおふぁ活～！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/1CV-Ag-tL1k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1CV-Ag-tL1k",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-21T21:58:48Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
