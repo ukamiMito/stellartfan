@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T04:14:37.661Z",
+  "updatedAt": "2026-06-22T10:20:49.432Z",
   "channels": {
     "channelA": [
       {
@@ -36,6 +36,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "aAJo9C9swTQ",
+        "title": "【Forza Horizon 6】#6 玄人で爆走！レベルを上げるよ～🔥皆様助手席どうぞ？【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/aAJo9C9swTQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aAJo9C9swTQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-22T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
