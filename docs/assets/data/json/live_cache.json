@@ -1,19 +1,29 @@
 {
-  "updatedAt": "2026-06-22T15:34:52.513Z",
+  "updatedAt": "2026-06-22T19:27:10.991Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "zIMqvOlcZrU",
-        "title": "#8【Forza Horizon 6】残りのリストバンドは金のみ！！レースも危険標識大ジャンプも攻略してく！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/zIMqvOlcZrU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zIMqvOlcZrU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-22T13:01:05Z",
+        "videoId": "SOiGVMmvi6I",
+        "title": "【#AmongUs】英語苦手な女10人による、英語オンリーアモアス！はたして会話は成立するのか！？【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/SOiGVMmvi6I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SOiGVMmvi6I",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-23T12:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
     "channelB": [
+      {
+        "videoId": "jcxigA8Gqpg",
+        "title": "【 勝利の女神 : #nikke 】イベスト鑑賞『ARK RANGER』STORYⅡ同時視聴する！この世界を守る！！#156【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/jcxigA8Gqpg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jcxigA8Gqpg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-24T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "Lhb9jeY9Wv8",
         "title": "【 #amongus 】⚠日本語禁止⚡アモアス！！英語オンリー10人で騙し合いだ！！！！！【華鉈イオ/StellArt.】#vtuber",
@@ -22,16 +32,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-06-23T12:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "BzMMelSVEwU",
-        "title": "【 勝利の女神 : #nikke 】イベスト鑑賞『ARK RANGER』STORYⅠ同時視聴する！！ヒーロー誰？！#155【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/BzMMelSVEwU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BzMMelSVEwU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-22T13:01:24Z",
         "actualEndTime": null
       }
     ],
