@@ -1,63 +1,9 @@
 {
-  "updatedAt": "2026-06-23T12:31:49.685Z",
+  "updatedAt": "2026-06-23T15:47:37.662Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "SOiGVMmvi6I",
-        "title": "【#AmongUs】英語苦手な女10人による、英語オンリーアモアス！はたして会話は成立するのか！？【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/SOiGVMmvi6I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SOiGVMmvi6I",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-23T11:57:56Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "jcxigA8Gqpg",
-        "title": "【 勝利の女神 : #nikke 】イベスト鑑賞『ARK RANGER』STORYⅡ同時視聴する！この世界を守る！！#156【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/jcxigA8Gqpg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jcxigA8Gqpg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-24T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "Lhb9jeY9Wv8",
-        "title": "【 #amongus 】⚠日本語禁止⚡アモアス！！英語オンリー9人で騙し合いだ！！！！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Lhb9jeY9Wv8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Lhb9jeY9Wv8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-23T11:57:16Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "ANB9ZUEJTys",
-        "title": "【NIKKE/Dazzling Cupid】#8 完全初見🔰推しが通ってるM.M.R.附属高校を学ぼうの会【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ANB9ZUEJTys/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ANB9ZUEJTys",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-23T11:57:51Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "mX-RzkIdUik",
-        "title": "【 #歌枠┊弾き語り】心を込めて歌うピアノ弾き語り🎹【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/mX-RzkIdUik/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mX-RzkIdUik",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-23T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
