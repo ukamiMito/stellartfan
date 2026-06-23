@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T05:48:07.104Z",
+  "updatedAt": "2026-06-23T09:38:01.793Z",
   "channels": {
     "channelA": [
       {
@@ -35,7 +35,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "ANB9ZUEJTys",
+        "title": "【NIKKE/Dazzling Cupid】#8 完全初見🔰推しが通ってるM.M.R.附属高校を学ぼうの会【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/ANB9ZUEJTys/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ANB9ZUEJTys",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-23T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "mX-RzkIdUik",
+        "title": "【 #歌枠┊弾き語り】心を込めて歌うピアノ弾き語り🎹【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/mX-RzkIdUik/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mX-RzkIdUik",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-23T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
