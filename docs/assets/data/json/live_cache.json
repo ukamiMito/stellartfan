@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T05:37:14.474Z",
+  "updatedAt": "2026-06-24T09:29:32.068Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,7 +14,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "TU5SyCzdC3U",
+        "title": "【リズム天国 ミラクルスターズ 体験版】リズム感０がゆく！初めてのリズム天国！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/TU5SyCzdC3U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TU5SyCzdC3U",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-24T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "t4Q7ppTafCY",
