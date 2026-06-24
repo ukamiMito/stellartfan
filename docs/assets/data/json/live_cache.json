@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-06-24T01:25:08.037Z",
+  "updatedAt": "2026-06-24T05:37:14.474Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "dCpdHnofTio",
+        "title": "【 雑談 】ちょっとだけおはなし【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/dCpdHnofTio/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dCpdHnofTio",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-24T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "t4Q7ppTafCY",
+        "title": "【My Little Puppy】天国でパパを迎えに行こう※号泣注意【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/t4Q7ppTafCY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t4Q7ppTafCY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-24T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
