@@ -1,20 +1,31 @@
 {
-  "updatedAt": "2026-06-24T15:17:59.848Z",
+  "updatedAt": "2026-06-24T17:26:49.230Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
-    "channelC": [],
-    "channelD": [
+    "channelA": [
       {
-        "videoId": "t4Q7ppTafCY",
-        "title": "【My Little Puppy】天国でパパを迎えに行こう※号泣注意【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/t4Q7ppTafCY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=t4Q7ppTafCY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-24T11:59:36Z",
+        "videoId": "3cNH2HPWVZs",
+        "title": "#1【BIOHAZARD RE:4】完全初見！あのラクーン事件から6年！？今回は一体何が起こるんですか…！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/3cNH2HPWVZs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3cNH2HPWVZs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-25T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelB": [
+      {
+        "videoId": "qr4EIma0wh0",
+        "title": "【イオモニ/朝活】短く濃厚な朝を。【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/qr4EIma0wh0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qr4EIma0wh0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-24T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [],
+    "channelD": []
   }
 }
