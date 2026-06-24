@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T21:09:35.695Z",
+  "updatedAt": "2026-06-24T22:46:53.442Z",
   "channels": {
     "channelA": [
       {
@@ -13,18 +13,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "qr4EIma0wh0",
-        "title": "【イオモニ/朝活】短く濃厚な朝を。【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/qr4EIma0wh0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qr4EIma0wh0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-24T20:57:25Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
