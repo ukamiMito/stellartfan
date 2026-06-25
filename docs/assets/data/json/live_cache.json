@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T04:44:52.411Z",
+  "updatedAt": "2026-06-25T08:22:27.855Z",
   "channels": {
     "channelA": [
       {
@@ -15,6 +15,17 @@
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "BSFLcZIzRB4",
+        "title": "【 #歌枠┊弾き語り】雨の日も気分が上がる歌枠🌧【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/BSFLcZIzRB4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BSFLcZIzRB4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-25T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
