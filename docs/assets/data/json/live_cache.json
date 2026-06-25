@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T22:22:59.464Z",
+  "updatedAt": "2026-06-25T23:52:13.058Z",
   "channels": {
     "channelA": [
       {
@@ -21,9 +21,9 @@
         "title": "【 #雑談 】サッカーW杯同時視聴⚽応援しまするぞ～！🔥【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/FPW_QElT0fI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=FPW_QElT0fI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-25T22:30:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-25T22:30:11Z",
         "actualEndTime": null
       }
     ]
