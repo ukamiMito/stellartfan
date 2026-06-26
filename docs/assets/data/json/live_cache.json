@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T13:10:49.594Z",
+  "updatedAt": "2026-06-26T15:38:26.262Z",
   "channels": {
     "channelA": [
       {
@@ -25,18 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
+    "channelC": [],
+    "channelD": [
       {
-        "videoId": "v-SE3foPnOU",
-        "title": "【NIKKE/CHAPTER.14 旅】#9 完全初見🔰これからマリアンも一緒に旅できるってコトだよね！？【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/v-SE3foPnOU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=v-SE3foPnOU",
+        "videoId": "1HY5ouL4CrI",
+        "title": "【 #歌枠┊弾き語り】ゲリラ/ゆるく弾き語り【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/1HY5ouL4CrI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1HY5ouL4CrI",
         "status": "live",
         "scheduledStartTime": null,
-        "actualStartTime": "2026-06-26T11:58:01Z",
+        "actualStartTime": "2026-06-26T14:00:02Z",
         "actualEndTime": null
       }
-    ],
-    "channelD": []
+    ]
   }
 }
