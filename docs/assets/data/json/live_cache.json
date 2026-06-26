@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T23:52:13.058Z",
+  "updatedAt": "2026-06-26T03:40:40.416Z",
   "channels": {
     "channelA": [
       {
@@ -13,19 +13,19 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
-    "channelD": [
+    "channelB": [
       {
-        "videoId": "FPW_QElT0fI",
-        "title": "【 #雑談 】サッカーW杯同時視聴⚽応援しまするぞ～！🔥【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/FPW_QElT0fI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FPW_QElT0fI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-25T22:30:11Z",
+        "videoId": "Kzo1cJI8rOg",
+        "title": "【 勝利の女神 : #nikke 】🌴夏記念SP放送！同時視聴「サバイバル！？孤島探索大作戦！」※スパチャ禁止#156【華鉈イオ/StellArt.】 #PR",
+        "thumbnail": "https://i.ytimg.com/vi/Kzo1cJI8rOg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Kzo1cJI8rOg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-27T09:45:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelC": [],
+    "channelD": []
   }
 }
