@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T15:38:26.262Z",
+  "updatedAt": "2026-06-26T17:48:01.049Z",
   "channels": {
     "channelA": [
       {
@@ -26,17 +26,6 @@
       }
     ],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "1HY5ouL4CrI",
-        "title": "【 #歌枠┊弾き語り】ゲリラ/ゆるく弾き語り【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/1HY5ouL4CrI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1HY5ouL4CrI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-26T14:00:02Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
