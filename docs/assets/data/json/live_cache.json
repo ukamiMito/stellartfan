@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-26T03:40:40.416Z",
+  "updatedAt": "2026-06-26T07:52:26.921Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "v-SE3foPnOU",
+        "title": "【NIKKE/CHAPTER.14 旅】#7 完全初見🔰これからマリアンも一緒に旅できるってコトだよね！？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/v-SE3foPnOU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=v-SE3foPnOU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-26T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
