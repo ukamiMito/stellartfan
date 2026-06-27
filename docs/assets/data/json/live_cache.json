@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T00:06:39.091Z",
+  "updatedAt": "2026-06-27T04:34:12.263Z",
   "channels": {
     "channelA": [
       {
@@ -35,7 +35,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "nioVPDatYA4",
+        "title": "【トモダチコレクション　わくわく生活】#4 お昼にのびのびステランド。。。見守り隊【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/nioVPDatYA4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nioVPDatYA4",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-27T02:56:45Z",
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
