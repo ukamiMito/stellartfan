@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T07:48:46.528Z",
+  "updatedAt": "2026-06-27T10:07:52.104Z",
   "channels": {
     "channelA": [
       {
@@ -26,16 +26,38 @@
     "channelB": [
       {
         "videoId": "Kzo1cJI8rOg",
-        "title": "【 勝利の女神 : #nikke 】🌴夏記念SP放送！同時視聴「サバイバル！？孤島探索大作戦！」※スパチャ禁止#156【華鉈イオ/StellArt.】 #PR",
+        "title": "【 勝利の女神 : #nikke 】🌴夏記念SP放送！ミラー同時視聴「サバイバル！？孤島探索大作戦！」※スパチャ禁止#156【華鉈イオ/StellArt.】 #PR",
         "thumbnail": "https://i.ytimg.com/vi/Kzo1cJI8rOg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Kzo1cJI8rOg",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-27T09:42:59Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "NX9sNPAbF_s",
+        "title": "【Forza Horizon 6】今日こそは金リストバンド！！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/NX9sNPAbF_s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NX9sNPAbF_s",
         "status": "upcoming",
-        "scheduledStartTime": "2026-06-27T09:45:00Z",
+        "scheduledStartTime": "2026-06-27T12:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "DUr8Uas4Cbk",
+        "title": "【 #歌枠┊弾き語り】ボカロ曲だけを歌う日☂　【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/DUr8Uas4Cbk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DUr8Uas4Cbk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-27T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
