@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T11:54:14.538Z",
+  "updatedAt": "2026-06-27T13:42:22.082Z",
   "channels": {
     "channelA": [
       {
@@ -17,9 +17,9 @@
         "title": "【F1 2026/生放送同時視聴】「オーストリアGP　予選:ライブ」みんなで一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/irj-eU1fXQA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=irj-eU1fXQA",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-27T13:30:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-27T13:29:09Z",
         "actualEndTime": null
       }
     ],
@@ -30,9 +30,9 @@
         "title": "【Forza Horizon 6】今日こそは金リストバンド！！！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/NX9sNPAbF_s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=NX9sNPAbF_s",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-27T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-27T11:58:51Z",
         "actualEndTime": null
       }
     ],
@@ -42,9 +42,9 @@
         "title": "【 #歌枠┊弾き語り】ボカロ曲だけを歌う日☂　【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/DUr8Uas4Cbk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DUr8Uas4Cbk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-27T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-27T13:00:46Z",
         "actualEndTime": null
       }
     ]
