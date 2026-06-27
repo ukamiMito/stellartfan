@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T10:07:52.104Z",
+  "updatedAt": "2026-06-27T11:54:14.538Z",
   "channels": {
     "channelA": [
       {
@@ -23,18 +23,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "Kzo1cJI8rOg",
-        "title": "【 勝利の女神 : #nikke 】🌴夏記念SP放送！ミラー同時視聴「サバイバル！？孤島探索大作戦！」※スパチャ禁止#156【華鉈イオ/StellArt.】 #PR",
-        "thumbnail": "https://i.ytimg.com/vi/Kzo1cJI8rOg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Kzo1cJI8rOg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-27T09:42:59Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [
       {
         "videoId": "NX9sNPAbF_s",
