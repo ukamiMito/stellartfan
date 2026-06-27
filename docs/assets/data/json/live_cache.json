@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T15:15:31.534Z",
+  "updatedAt": "2026-06-27T16:38:18.769Z",
   "channels": {
     "channelA": [
       {
@@ -11,31 +11,10 @@
         "scheduledStartTime": "2026-06-28T12:30:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "irj-eU1fXQA",
-        "title": "【F1 2026/生放送同時視聴】「オーストリアGP　予選:ライブ」みんなで一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/irj-eU1fXQA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=irj-eU1fXQA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-27T13:29:09Z",
-        "actualEndTime": null
       }
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "DUr8Uas4Cbk",
-        "title": "【 #歌枠┊弾き語り】ボカロ曲だけを歌う日☂　【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/DUr8Uas4Cbk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DUr8Uas4Cbk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-27T13:00:46Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
