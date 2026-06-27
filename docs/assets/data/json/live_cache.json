@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-27T13:42:22.082Z",
+  "updatedAt": "2026-06-27T15:15:31.534Z",
   "channels": {
     "channelA": [
       {
@@ -24,18 +24,7 @@
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "NX9sNPAbF_s",
-        "title": "【Forza Horizon 6】今日こそは金リストバンド！！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/NX9sNPAbF_s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NX9sNPAbF_s",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-27T11:58:51Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "DUr8Uas4Cbk",
