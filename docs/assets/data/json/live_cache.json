@@ -1,31 +1,9 @@
 {
-  "updatedAt": "2026-06-28T14:48:39.343Z",
+  "updatedAt": "2026-06-28T16:10:28.765Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "ch0Q7LH45c4",
-        "title": "【F1 2026/生放送同時視聴】「オーストリアGP　決勝:ライブ」みんなで一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ch0Q7LH45c4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ch0Q7LH45c4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-28T12:27:15Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "-5ucOpOfPDY",
-        "title": "【お絵描き雑談】NEW機材お試ししながら夜更かし雑談🌙【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/-5ucOpOfPDY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-5ucOpOfPDY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-28T13:59:11Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "7K223zoCpcc",
