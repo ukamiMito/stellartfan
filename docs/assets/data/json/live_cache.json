@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T12:54:50.675Z",
+  "updatedAt": "2026-06-28T14:48:39.343Z",
   "channels": {
     "channelA": [
       {
@@ -20,12 +20,23 @@
         "title": "【お絵描き雑談】NEW機材お試ししながら夜更かし雑談🌙【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/-5ucOpOfPDY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-5ucOpOfPDY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-28T14:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-28T13:59:11Z",
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "7K223zoCpcc",
+        "title": "【 #歌枠┊弾き語り】リラックスタイムにどうですか？☀　【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/7K223zoCpcc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7K223zoCpcc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-29T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
