@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-28T08:31:23.692Z",
+  "updatedAt": "2026-06-28T11:06:34.574Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "-5ucOpOfPDY",
+        "title": "【お絵描き雑談】NEW機材お試ししながら夜更かし雑談🌙【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/-5ucOpOfPDY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-5ucOpOfPDY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-28T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
