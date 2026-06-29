@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-06-29T03:55:18.412Z",
+  "updatedAt": "2026-06-29T08:58:43.816Z",
   "channels": {
     "channelA": [],
     "channelB": [],
-    "channelC": [],
-    "channelD": [
+    "channelC": [
       {
-        "videoId": "7K223zoCpcc",
-        "title": "【 #歌枠┊弾き語り】リラックスタイムにどうですか？☀　【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/7K223zoCpcc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7K223zoCpcc",
+        "videoId": "V21_r3qGxFM",
+        "title": "【NIKKE/School of Lock】#10 完全初見🔰推しが通ってるM.M.R.附属高校を学ぼうの会2【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/V21_r3qGxFM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V21_r3qGxFM",
         "status": "upcoming",
-        "scheduledStartTime": "2026-06-29T05:00:00Z",
+        "scheduledStartTime": "2026-06-29T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelD": []
   }
 }
