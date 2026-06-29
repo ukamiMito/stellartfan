@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-29T19:03:40.424Z",
+  "updatedAt": "2026-06-29T21:07:45.818Z",
   "channels": {
     "channelA": [
       {
@@ -15,17 +15,6 @@
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "juWqJMuRKCs",
-        "title": "【 #雑談 】サッカーW杯同時視聴⚽応援します🔥【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/juWqJMuRKCs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=juWqJMuRKCs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-29T16:28:38Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
