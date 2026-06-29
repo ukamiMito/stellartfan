@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-06-29T13:12:55.761Z",
+  "updatedAt": "2026-06-29T16:44:44.147Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
-    "channelC": [
+    "channelA": [
       {
-        "videoId": "V21_r3qGxFM",
-        "title": "【NIKKE/School of Lock】#10 完全初見🔰推しが通ってるM.M.R.附属高校を学ぼうの会2【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/V21_r3qGxFM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=V21_r3qGxFM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-06-29T12:57:32Z",
+        "videoId": "Tqp4xdL7Fgs",
+        "title": "【リズム天国 ミラクルスターズ / 体験版】人生初のリズム天国✨はたしてリズムに乗れるのか。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Tqp4xdL7Fgs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Tqp4xdL7Fgs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-30T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
+    "channelB": [],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "juWqJMuRKCs",
         "title": "【 #雑談 】サッカーW杯同時視聴⚽応援します🔥【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/juWqJMuRKCs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=juWqJMuRKCs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-29T16:30:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-29T16:28:38Z",
         "actualEndTime": null
       }
     ]
