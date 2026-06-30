@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-06-30T20:29:18.307Z",
+  "updatedAt": "2026-06-30T21:59:43.135Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "g3OEBEB6YL8",
+        "title": "#5【トモダチコレクション わくわく生活】賑やかになった島で今回は何が起こるのか！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/g3OEBEB6YL8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=g3OEBEB6YL8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-01T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
