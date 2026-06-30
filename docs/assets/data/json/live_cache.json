@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T11:30:13.772Z",
+  "updatedAt": "2026-06-30T13:25:14.094Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【リズム天国 ミラクルスターズ / 体験版】人生初のリズム天国✨はたしてリズムに乗れるのか。【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/Tqp4xdL7Fgs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Tqp4xdL7Fgs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-30T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-30T12:59:14Z",
         "actualEndTime": null
       }
     ],
@@ -20,9 +20,9 @@
         "title": "【私はAIです。】AIに擬態して生き残れるのか！？【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/uKEpzMrUcFM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=uKEpzMrUcFM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-06-30T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-06-30T13:02:39Z",
         "actualEndTime": null
       }
     ],
