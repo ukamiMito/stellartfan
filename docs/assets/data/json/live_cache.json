@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T04:44:25.671Z",
+  "updatedAt": "2026-06-30T08:29:35.516Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "uKEpzMrUcFM",
+        "title": "【私はAIです。】AIに擬態して生き残れるのか！？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/uKEpzMrUcFM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uKEpzMrUcFM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-06-30T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
