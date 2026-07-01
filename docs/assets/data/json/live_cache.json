@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-30T23:21:42.840Z",
+  "updatedAt": "2026-07-01T01:39:55.961Z",
   "channels": {
     "channelA": [
       {
@@ -15,6 +15,17 @@
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "Rzp-QjVsoS8",
+        "title": "【リズム天国】ミラクルスターズ体験版！ピアノが弾ける私のリズムはいかに！？♬【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Rzp-QjVsoS8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Rzp-QjVsoS8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-01T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
