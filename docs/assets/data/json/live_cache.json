@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T01:39:55.961Z",
+  "updatedAt": "2026-07-01T06:26:38.474Z",
   "channels": {
     "channelA": [
       {
@@ -13,7 +13,18 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "eakAXJ1ICoo",
+        "title": "【 勝利の女神 : #nikke 】イベスト鑑賞『ARK RANGER』STORYⅡ同時視聴する！この世界を守る！！#156【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/eakAXJ1ICoo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eakAXJ1ICoo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-01T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": [
       {
