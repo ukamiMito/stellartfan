@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T06:26:38.474Z",
+  "updatedAt": "2026-07-01T10:29:59.472Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "AwR0UFl3J1A",
+        "title": "【NIKKE/CHAPTER.15 幸運】#11 完全初見🔰幸運、幸せそうなタイトルでにっこり【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/AwR0UFl3J1A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AwR0UFl3J1A",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-01T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "Rzp-QjVsoS8",
