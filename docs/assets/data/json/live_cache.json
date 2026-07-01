@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T10:29:59.472Z",
+  "updatedAt": "2026-07-01T13:19:14.876Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#5【トモダチコレクション わくわく生活】賑やかになった島で今回は何が起こるのか！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/g3OEBEB6YL8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=g3OEBEB6YL8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-01T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-01T12:59:06Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【 勝利の女神 : #nikke 】イベスト鑑賞『ARK RANGER』STORYⅡ同時視聴する！この世界を守る！！#156【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/eakAXJ1ICoo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=eakAXJ1ICoo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-01T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-01T11:58:27Z",
         "actualEndTime": null
       }
     ],
@@ -31,21 +31,21 @@
         "title": "【NIKKE/CHAPTER.15 幸運】#11 完全初見🔰幸運、幸せそうなタイトルでにっこり【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/AwR0UFl3J1A/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=AwR0UFl3J1A",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-01T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-01T11:56:56Z",
         "actualEndTime": null
       }
     ],
     "channelD": [
       {
-        "videoId": "Rzp-QjVsoS8",
-        "title": "【リズム天国】ミラクルスターズ体験版！ピアノが弾ける私のリズムはいかに！？♬【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Rzp-QjVsoS8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Rzp-QjVsoS8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-01T13:00:00Z",
-        "actualStartTime": null,
+        "videoId": "E6L91sK1Rzo",
+        "title": "【 #歌枠┊弾き語り】急遽変更！まったりします【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/E6L91sK1Rzo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=E6L91sK1Rzo",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-01T13:11:21Z",
         "actualEndTime": null
       }
     ]
