@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-01T16:05:54.201Z",
+  "updatedAt": "2026-07-01T18:24:30.195Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "ydsx0Oj-KNQ",
+        "title": "#3【BIOHAZARD RE:4】完全初見！ついにアシュリーちゃんと合流✨迎えのヘリが来るらしいんだけど不安しかない。 / チャプター5から【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/ydsx0Oj-KNQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ydsx0Oj-KNQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-02T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
