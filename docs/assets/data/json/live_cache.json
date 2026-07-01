@@ -1,53 +1,9 @@
 {
-  "updatedAt": "2026-07-01T13:19:14.876Z",
+  "updatedAt": "2026-07-01T16:05:54.201Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "g3OEBEB6YL8",
-        "title": "#5【トモダチコレクション わくわく生活】賑やかになった島で今回は何が起こるのか！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/g3OEBEB6YL8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g3OEBEB6YL8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-01T12:59:06Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "eakAXJ1ICoo",
-        "title": "【 勝利の女神 : #nikke 】イベスト鑑賞『ARK RANGER』STORYⅡ同時視聴する！この世界を守る！！#156【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/eakAXJ1ICoo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eakAXJ1ICoo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-01T11:58:27Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "AwR0UFl3J1A",
-        "title": "【NIKKE/CHAPTER.15 幸運】#11 完全初見🔰幸運、幸せそうなタイトルでにっこり【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/AwR0UFl3J1A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AwR0UFl3J1A",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-01T11:56:56Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "E6L91sK1Rzo",
-        "title": "【 #歌枠┊弾き語り】急遽変更！まったりします【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/E6L91sK1Rzo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=E6L91sK1Rzo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-01T13:11:21Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
