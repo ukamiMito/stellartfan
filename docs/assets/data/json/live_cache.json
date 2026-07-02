@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T10:39:26.498Z",
+  "updatedAt": "2026-07-02T12:57:52.874Z",
   "channels": {
     "channelA": [
       {
@@ -20,9 +20,9 @@
         "title": "【リズム天国 ミラクルスターズ】神リズム感を手に入れるために鍛錬鍛錬💪💪【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/H12RucnWzAo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=H12RucnWzAo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-02T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-02T12:56:56Z",
         "actualEndTime": null
       }
     ],
