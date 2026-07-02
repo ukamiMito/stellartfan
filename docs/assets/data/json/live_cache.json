@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T15:22:00.400Z",
+  "updatedAt": "2026-07-02T17:10:30.122Z",
   "channels": {
     "channelA": [
       {
@@ -13,7 +13,18 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "SmIzy5dbF5w",
+        "title": "【 勝利の女神 : #nikke 】🌴メガニケ夏イベストーリー『WAVE TO YOU』皆で観ていこう！#157【華鉈イオ/StellArt.】#PR #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/SmIzy5dbF5w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SmIzy5dbF5w",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-03T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
