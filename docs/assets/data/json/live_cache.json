@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T12:57:52.874Z",
+  "updatedAt": "2026-07-02T15:22:00.400Z",
   "channels": {
     "channelA": [
       {
@@ -7,36 +7,14 @@
         "title": "#3【BIOHAZARD RE:4】完全初見！ついにアシュリーちゃんと合流✨迎えのヘリが来るらしいんだけど不安しかない。 / チャプター5から【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/ydsx0Oj-KNQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ydsx0Oj-KNQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-02T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-02T12:58:43Z",
         "actualEndTime": null
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "H12RucnWzAo",
-        "title": "【リズム天国 ミラクルスターズ】神リズム感を手に入れるために鍛錬鍛錬💪💪【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/H12RucnWzAo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=H12RucnWzAo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-02T12:56:56Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "Rzp-QjVsoS8",
-        "title": "【リズム天国】ミラクルスターズ体験版！ピアノが弾ける私のリズムはいかに！？♬【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Rzp-QjVsoS8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Rzp-QjVsoS8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-02T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
