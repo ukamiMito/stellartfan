@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T01:09:37.842Z",
+  "updatedAt": "2026-07-03T05:25:41.158Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,39 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "eQTKvHgoLiQ",
+        "title": "【お絵描き作業】昼活！一緒に作業しませんか？初見さん大歓迎✨【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/eQTKvHgoLiQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eQTKvHgoLiQ",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-03T04:00:42Z",
+        "actualEndTime": null
+      },
+      {
+        "videoId": "E_yZUAkAd_Y",
+        "title": "【NIKKE/CHAPTER.16 烙印】#12 完全初見🔰NIKKEたちのために今は頑張り時【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/E_yZUAkAd_Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=E_yZUAkAd_Y",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-03T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "kxKjfxPnqic",
+        "title": "【バイオハザードレクイエム】#1 完全初見 ついにこの時が来た🔥新作やるぞ！！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/kxKjfxPnqic/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kxKjfxPnqic",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-03T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
