@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T14:03:24.810Z",
+  "updatedAt": "2026-07-03T16:06:25.283Z",
   "channels": {
     "channelA": [
       {
@@ -13,41 +13,8 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "SmIzy5dbF5w",
-        "title": "【 勝利の女神 : #nikke 】🌴メガニケ夏イベストーリー『WAVE TO YOU』皆で観ていこう！#157【華鉈イオ/StellArt.】#PR #ぶいきゃす",
-        "thumbnail": "https://i.ytimg.com/vi/SmIzy5dbF5w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SmIzy5dbF5w",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-03T12:58:06Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "E_yZUAkAd_Y",
-        "title": "【NIKKE/CHAPTER.16 烙印】#12 完全初見🔰NIKKEたちのために今は頑張り時【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/E_yZUAkAd_Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=E_yZUAkAd_Y",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-03T11:57:30Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "kxKjfxPnqic",
-        "title": "【バイオハザードレクイエム】#1 完全初見 ついにこの時が来た🔥新作やるぞ！！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/kxKjfxPnqic/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kxKjfxPnqic",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-03T12:58:56Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
