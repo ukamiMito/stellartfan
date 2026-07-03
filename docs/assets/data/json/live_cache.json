@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-03T05:25:41.158Z",
+  "updatedAt": "2026-07-03T08:34:54.077Z",
   "channels": {
     "channelA": [
       {
@@ -26,16 +26,6 @@
       }
     ],
     "channelC": [
-      {
-        "videoId": "eQTKvHgoLiQ",
-        "title": "【お絵描き作業】昼活！一緒に作業しませんか？初見さん大歓迎✨【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/eQTKvHgoLiQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eQTKvHgoLiQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-03T04:00:42Z",
-        "actualEndTime": null
-      },
       {
         "videoId": "E_yZUAkAd_Y",
         "title": "【NIKKE/CHAPTER.16 烙印】#12 完全初見🔰NIKKEたちのために今は頑張り時【にうふぁ/StellArt.】",
