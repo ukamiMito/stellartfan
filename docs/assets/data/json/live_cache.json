@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-07-03T17:56:22.426Z",
+  "updatedAt": "2026-07-03T19:26:28.155Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "oANBoLmOh5Q",
-        "title": "#4【ゲーム・オブ・スローンズ：キングスロード】完全初見でストーリー攻略！上司が厄介な問題をどんどん押しつけ…頼んでくる。 ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/oANBoLmOh5Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oANBoLmOh5Q",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-03T12:59:59Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "eay9zBd4HAQ",
