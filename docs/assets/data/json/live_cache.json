@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-03T20:38:54.051Z",
+  "updatedAt": "2026-07-03T22:03:49.455Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "ECFqZiTQ3Zw",
+        "title": "#4【BIOHAZARD RE:4】完全初見！Tウイルスよりもヤバそうなプラーガ…はやくルイスと合流しなきゃ！！ / チャプター9から【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/ECFqZiTQ3Zw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ECFqZiTQ3Zw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-04T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "eay9zBd4HAQ",
