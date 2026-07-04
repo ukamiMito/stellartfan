@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T02:53:57.266Z",
+  "updatedAt": "2026-07-04T06:20:08.330Z",
   "channels": {
     "channelA": [
       {
@@ -26,6 +26,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "jhmgTj4i4Jk",
+        "title": "【 #歌枠┊弾き語り】心を込めた弾き語り🎹癒さしMAX【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/jhmgTj4i4Jk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jhmgTj4i4Jk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-04T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
