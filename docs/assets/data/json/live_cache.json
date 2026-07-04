@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T11:05:43.182Z",
+  "updatedAt": "2026-07-04T12:44:01.130Z",
   "channels": {
     "channelA": [
       {
@@ -19,9 +19,9 @@
         "title": "【 勝利の女神 : #nikke 】🌴ニケ夏イベ✨ガチャ『シンデレラ：クリスタルウェーブ』お迎えします！#158【華鉈イオ/StellArt.】#PR #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/eay9zBd4HAQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=eay9zBd4HAQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-04T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-04T11:57:37Z",
         "actualEndTime": null
       }
     ],
