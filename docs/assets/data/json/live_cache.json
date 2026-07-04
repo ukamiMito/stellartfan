@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-04T06:20:08.330Z",
+  "updatedAt": "2026-07-04T09:04:49.550Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "OjDjY5fO2GY",
+        "title": "【NIKKE/CHAPTER.17 指標】#13 完全初見🔰指揮官とカウンターズは無事か…！？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/OjDjY5fO2GY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OjDjY5fO2GY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-04T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "jhmgTj4i4Jk",
