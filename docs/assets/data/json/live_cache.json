@@ -1,19 +1,8 @@
 {
-  "updatedAt": "2026-07-05T13:38:25.654Z",
+  "updatedAt": "2026-07-05T15:11:39.061Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "1HfjhTSCK_E",
-        "title": "【 #華鉈イオ生誕祭2026 】勇者イオの冒険が今始まる！激カワ誕生日グッズ＆お披露目あり✨【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/1HfjhTSCK_E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1HfjhTSCK_E",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-05T11:56:17Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
