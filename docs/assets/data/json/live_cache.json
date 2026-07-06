@@ -1,40 +1,18 @@
 {
-  "updatedAt": "2026-07-06T12:23:17.762Z",
+  "updatedAt": "2026-07-06T15:59:29.330Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "jMJcvKdRtd4",
-        "title": "【 #華鉈イオ生誕祭2026 】生誕祭振り返り🎀裏話＆スパチャ読み！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/jMJcvKdRtd4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jMJcvKdRtd4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-06T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "KnbHmtmdTN4",
-        "title": "【NIKKE/OVER ZONE】#14 完全初見🔰ゴッデスと一緒に戦えるってコト！？【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/KnbHmtmdTN4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KnbHmtmdTN4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-06T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "RrRxH6jru3M",
         "title": "【バイオハザードレクイエム】#2 完全初見 グレイス編恐怖すぎる件💀でも銃があるから大丈夫。【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/RrRxH6jru3M/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RrRxH6jru3M",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-06T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-06T12:58:08Z",
         "actualEndTime": null
       }
     ]
