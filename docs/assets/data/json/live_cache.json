@@ -1,20 +1,31 @@
 {
-  "updatedAt": "2026-07-06T15:59:29.330Z",
+  "updatedAt": "2026-07-06T18:16:59.305Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
-    "channelC": [],
-    "channelD": [
+    "channelA": [
       {
-        "videoId": "RrRxH6jru3M",
-        "title": "【バイオハザードレクイエム】#2 完全初見 グレイス編恐怖すぎる件💀でも銃があるから大丈夫。【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/RrRxH6jru3M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RrRxH6jru3M",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-06T12:58:08Z",
+        "videoId": "W3Rc2jPihHA",
+        "title": "#1【リズム天国 ミラクルスターズ】人生初リズム天国✨ついに製品版をプレイするぞおおお！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/W3Rc2jPihHA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=W3Rc2jPihHA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-07T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelB": [
+      {
+        "videoId": "zZ8dCjCtrew",
+        "title": "【 勝利の女神 : #nikke 】『シンデレラ：クリスタルウェーブ』の個人エピを読む✨推しの水着姿を堪能だ！#159【華鉈イオ/StellArt.】#PR #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/zZ8dCjCtrew/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zZ8dCjCtrew",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [],
+    "channelD": []
   }
 }
