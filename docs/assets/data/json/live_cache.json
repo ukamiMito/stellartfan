@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T03:31:38.910Z",
+  "updatedAt": "2026-07-06T08:19:31.824Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,7 +14,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "KnbHmtmdTN4",
+        "title": "【NIKKE/OVER ZONE】#14 完全初見🔰ゴッデスと一緒に戦えるってコト！？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/KnbHmtmdTN4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KnbHmtmdTN4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "RrRxH6jru3M",
+        "title": "【バイオハザードレクイエム】#2 完全初見 グレイス編恐怖すぎる件💀でも銃があるから大丈夫。【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/RrRxH6jru3M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RrRxH6jru3M",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
