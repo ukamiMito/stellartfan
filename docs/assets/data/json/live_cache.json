@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T09:40:11.454Z",
+  "updatedAt": "2026-07-07T12:26:32.882Z",
   "channels": {
     "channelA": [
       {
@@ -15,8 +15,18 @@
     ],
     "channelB": [
       {
+        "videoId": "KgTi6ooi28U",
+        "title": "【 勝利の女神 : #nikke 】ミニゲーム『ISLAND BREAKER』高得点を目指す！目指せ3万over！#160【華鉈イオ/StellArt.】#PR #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/KgTi6ooi28U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KgTi6ooi28U",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-08T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
         "videoId": "zZ8dCjCtrew",
-        "title": "【 勝利の女神 : #nikke 】『シンデレラ：クリスタルウェーブ』の個人エピを読む✨推しの水着姿を堪能だ！#159【華鉈イオ/StellArt.】#PR #ぶいきゃす",
+        "title": "【 勝利の女神 : #nikke 】『シンデレラ：クリスタルウェーブ』の個人エピを読む✨推しキャラ水着姿を堪能だ！#159【華鉈イオ/StellArt.】#PR #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/zZ8dCjCtrew/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zZ8dCjCtrew",
         "status": "upcoming",
