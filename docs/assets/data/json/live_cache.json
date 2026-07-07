@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T01:16:10.655Z",
+  "updatedAt": "2026-07-07T05:37:17.498Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "d-rO3gv4bT8",
+        "title": "【NIKKE/OVER ZONE 後編】#15 完全初見🔰ドロシー…頑張ろう一緒に…【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/d-rO3gv4bT8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=d-rO3gv4bT8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
