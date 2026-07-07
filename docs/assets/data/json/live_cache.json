@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-07T17:32:25.924Z",
+  "updatedAt": "2026-07-07T19:54:14.879Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "gZ-YLnZwxdw",
+        "title": "#2【リズム天国 ミラクルスターズ】人生初リズム天国✨全メダル獲得したい！！ ステージ5～【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/gZ-YLnZwxdw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gZ-YLnZwxdw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-08T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "KgTi6ooi28U",
