@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-07-07T15:25:42.957Z",
+  "updatedAt": "2026-07-07T17:32:25.924Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "W3Rc2jPihHA",
-        "title": "#1【リズム天国 ミラクルスターズ】人生初リズム天国✨ついに製品版をプレイするぞおおお！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/W3Rc2jPihHA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=W3Rc2jPihHA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-07T12:59:12Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "KgTi6ooi28U",
@@ -25,18 +14,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "d-rO3gv4bT8",
-        "title": "【NIKKE/OVER ZONE 後編】#15 完全初見🔰ドロシー…頑張ろう一緒に…【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/d-rO3gv4bT8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=d-rO3gv4bT8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-07T12:57:33Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
