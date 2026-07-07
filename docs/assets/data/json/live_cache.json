@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T05:37:17.498Z",
+  "updatedAt": "2026-07-07T09:40:11.454Z",
   "channels": {
     "channelA": [
       {
@@ -37,6 +37,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "R84oANvYRN0",
+        "title": "【 #七夕 】七夕配信🎋みんの願い事を祈りながら書く✎お話もしよ【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/R84oANvYRN0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=R84oANvYRN0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
