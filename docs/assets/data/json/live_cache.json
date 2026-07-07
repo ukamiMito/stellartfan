@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T12:26:32.882Z",
+  "updatedAt": "2026-07-07T15:25:42.957Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#1【リズム天国 ミラクルスターズ】人生初リズム天国✨ついに製品版をプレイするぞおおお！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/W3Rc2jPihHA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=W3Rc2jPihHA",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-07T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-07T12:59:12Z",
         "actualEndTime": null
       }
     ],
@@ -23,16 +23,6 @@
         "scheduledStartTime": "2026-07-08T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "zZ8dCjCtrew",
-        "title": "【 勝利の女神 : #nikke 】『シンデレラ：クリスタルウェーブ』の個人エピを読む✨推しキャラ水着姿を堪能だ！#159【華鉈イオ/StellArt.】#PR #ぶいきゃす",
-        "thumbnail": "https://i.ytimg.com/vi/zZ8dCjCtrew/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zZ8dCjCtrew",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-07T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
       }
     ],
     "channelC": [
@@ -41,23 +31,12 @@
         "title": "【NIKKE/OVER ZONE 後編】#15 完全初見🔰ドロシー…頑張ろう一緒に…【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/d-rO3gv4bT8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=d-rO3gv4bT8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-07T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-07T12:57:33Z",
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "R84oANvYRN0",
-        "title": "【 #七夕 】七夕配信🎋みんの願い事を祈りながら書く✎お話もしよ【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/R84oANvYRN0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R84oANvYRN0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-07T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
