@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T20:42:52.364Z",
+  "updatedAt": "2026-07-08T22:04:35.164Z",
   "channels": {
     "channelA": [
       {
@@ -19,9 +19,9 @@
         "title": "【イオモニ/朝活】正直、雨の日嫌いじゃない【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/dBbJoLh63x4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=dBbJoLh63x4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-08T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-08T20:57:25Z",
         "actualEndTime": null
       }
     ],
