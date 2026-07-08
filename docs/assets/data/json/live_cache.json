@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-07-08T15:40:44.294Z",
+  "updatedAt": "2026-07-08T17:35:29.738Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "gZ-YLnZwxdw",
-        "title": "#2【リズム天国 ミラクルスターズ】人生初リズム天国✨全メダル獲得したい！！ ステージ5～【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/gZ-YLnZwxdw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gZ-YLnZwxdw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-08T12:59:20Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "dBbJoLh63x4",
@@ -26,17 +15,6 @@
       }
     ],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "6UUsxcnR_fg",
-        "title": "【 #歌枠┊弾き語り】夜の睡眠導入🐑1日の終わりにいかがですか？【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/6UUsxcnR_fg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6UUsxcnR_fg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-08T13:01:14Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
