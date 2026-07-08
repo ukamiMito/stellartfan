@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T03:18:07.078Z",
+  "updatedAt": "2026-07-08T06:12:01.518Z",
   "channels": {
     "channelA": [
       {
@@ -36,6 +36,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "6UUsxcnR_fg",
+        "title": "【 #歌枠┊弾き語り】夜の睡眠導入🐑1日の終わりにいかがですか？【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/6UUsxcnR_fg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6UUsxcnR_fg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-08T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
