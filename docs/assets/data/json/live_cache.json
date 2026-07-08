@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T11:22:02.926Z",
+  "updatedAt": "2026-07-08T13:02:53.170Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#2【リズム天国 ミラクルスターズ】人生初リズム天国✨全メダル獲得したい！！ ステージ5～【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/gZ-YLnZwxdw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=gZ-YLnZwxdw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-08T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-08T12:59:20Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【 勝利の女神 : #nikke 】ミニゲーム『ISLAND BREAKER』高得点を目指す！目指せ3万over！#160【華鉈イオ/StellArt.】#PR #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/KgTi6ooi28U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=KgTi6ooi28U",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-08T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-08T12:57:36Z",
         "actualEndTime": null
       }
     ],
@@ -41,9 +41,9 @@
         "title": "【パラノマサイト FILE38 伊勢人魚物語】#1 はじめてのミステリーアドベンチャーに挑む！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/MEQHSzMz3XM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MEQHSzMz3XM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-08T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-08T11:57:36Z",
         "actualEndTime": null
       }
     ],
@@ -53,9 +53,9 @@
         "title": "【 #歌枠┊弾き語り】夜の睡眠導入🐑1日の終わりにいかがですか？【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/6UUsxcnR_fg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6UUsxcnR_fg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-08T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-08T13:01:14Z",
         "actualEndTime": null
       }
     ]
