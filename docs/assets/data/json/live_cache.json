@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-08T17:35:29.738Z",
+  "updatedAt": "2026-07-08T19:24:29.449Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "hDBWTSQtfwM",
+        "title": "#5【BIOHAZARD RE:4】完全初見！ルイスの仇を討ってアシュリーを救い出すぞ！！ / チャプター13から【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/hDBWTSQtfwM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hDBWTSQtfwM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-09T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "dBbJoLh63x4",
