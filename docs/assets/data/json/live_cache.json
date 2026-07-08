@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T06:12:01.518Z",
+  "updatedAt": "2026-07-08T09:05:52.312Z",
   "channels": {
     "channelA": [
       {
@@ -35,7 +35,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "MEQHSzMz3XM",
+        "title": "【パラノマサイト FILE38 伊勢人魚物語】#1 はじめてのミステリーアドベンチャーに挑む！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/MEQHSzMz3XM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MEQHSzMz3XM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-08T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "6UUsxcnR_fg",
