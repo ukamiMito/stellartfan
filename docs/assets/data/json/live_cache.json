@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T07:00:06.217Z",
+  "updatedAt": "2026-07-09T10:29:36.152Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "YCUHInHl7Pk",
+        "title": "【秋葉原のガチャショップシミュレーター】本日よりガチャガチャ屋オープンします！！！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/YCUHInHl7Pk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YCUHInHl7Pk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-09T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "5Rfns274jpY",
         "title": "【 勝利の女神 : #nikke 】夏イベストーリーⅡ『WAVE TO YOU』同時視聴しよう！#161【華鉈イオ/StellArt.】#PR #ぶいきゃす",
