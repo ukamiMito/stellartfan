@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T03:16:26.882Z",
+  "updatedAt": "2026-07-09T07:00:06.217Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "a1z-QkqfApc",
+        "title": "【NIKKE/CHAPTER.18】#16 完全初見🔰メインストーリー進める！マルチャーナも迎える！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/a1z-QkqfApc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=a1z-QkqfApc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-09T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "2YXGvKqRkFk",
+        "title": "【バイオハザードレクイエム】#3 完全初見 ついに療養所脱出！この先何が待っている！？【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/2YXGvKqRkFk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2YXGvKqRkFk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-09T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
