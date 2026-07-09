@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T10:29:36.152Z",
+  "updatedAt": "2026-07-09T13:34:04.860Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#5【BIOHAZARD RE:4】完全初見！ルイスの仇を討ってアシュリーを救い出すぞ！！ / チャプター13から【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/hDBWTSQtfwM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hDBWTSQtfwM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-09T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-09T13:05:11Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【秋葉原のガチャショップシミュレーター】本日よりガチャガチャ屋オープンします！！！【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/YCUHInHl7Pk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YCUHInHl7Pk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-09T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-09T11:57:16Z",
         "actualEndTime": null
       },
       {
@@ -38,12 +38,12 @@
     "channelC": [
       {
         "videoId": "a1z-QkqfApc",
-        "title": "【NIKKE/CHAPTER.18】#16 完全初見🔰メインストーリー進める！マルチャーナも迎える！【にうふぁ/StellArt.】",
+        "title": "【NIKKE/CHAPTER.18 英雄】#16 完全初見🔰メインストーリー進める！マルチャーナも迎える！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/a1z-QkqfApc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=a1z-QkqfApc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-09T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-09T12:57:49Z",
         "actualEndTime": null
       }
     ],
@@ -53,9 +53,9 @@
         "title": "【バイオハザードレクイエム】#3 完全初見 ついに療養所脱出！この先何が待っている！？【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/2YXGvKqRkFk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2YXGvKqRkFk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-09T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-09T12:56:46Z",
         "actualEndTime": null
       }
     ]
