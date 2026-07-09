@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-07-09T16:26:53.433Z",
+  "updatedAt": "2026-07-09T18:17:40.886Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "hDBWTSQtfwM",
-        "title": "#5【BIOHAZARD RE:4】完全初見！ルイスの仇を討ってアシュリーを救い出すぞ！！ / チャプター13から【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/hDBWTSQtfwM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hDBWTSQtfwM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-09T13:05:11Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "5Rfns274jpY",
@@ -26,17 +15,6 @@
       }
     ],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "2YXGvKqRkFk",
-        "title": "【バイオハザードレクイエム】#3 完全初見 ついに療養所脱出！この先何が待っている！？【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/2YXGvKqRkFk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2YXGvKqRkFk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-09T12:56:46Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
