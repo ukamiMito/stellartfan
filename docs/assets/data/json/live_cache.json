@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T12:24:11.161Z",
+  "updatedAt": "2026-07-10T15:11:18.604Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -18,33 +18,22 @@
         "title": "【 勝利の女神 : #nikke 】夏イベストーリーⅡ『WAVE TO YOU』同時視聴しよう！#161【華鉈イオ/StellArt.】#PR #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/5Rfns274jpY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5Rfns274jpY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-10T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "sIuu704ZyZU",
-        "title": "【めっちゃカメレオン】視聴者参加型でかくれんぼ！！初見さん大歓迎✨【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/sIuu704ZyZU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sIuu704ZyZU",
         "status": "live",
         "scheduledStartTime": null,
-        "actualStartTime": "2026-07-10T11:58:30Z",
+        "actualStartTime": "2026-07-10T12:57:26Z",
         "actualEndTime": null
       }
     ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "zAMa5jKXEs8",
         "title": "【 #歌枠┊弾き語り】金曜日の心が休まる歌枠🌙心を込めたピアノ弾き語り【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/zAMa5jKXEs8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zAMa5jKXEs8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-10T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-10T13:00:22Z",
         "actualEndTime": null
       }
     ]
