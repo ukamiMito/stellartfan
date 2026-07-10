@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-07-10T01:08:12.238Z",
+  "updatedAt": "2026-07-10T05:34:29.694Z",
   "channels": {
     "channelA": [],
     "channelB": [
+      {
+        "videoId": "3SYkIVcYkwo",
+        "title": "【 勝利の女神 : #nikke 】💎ガチャ勝負『マルチャーナ：マリンスタディ』お迎えします！石と勇気はある！！！#162【華鉈イオ/StellArt.】#PR #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/3SYkIVcYkwo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3SYkIVcYkwo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-11T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "5Rfns274jpY",
         "title": "【 勝利の女神 : #nikke 】夏イベストーリーⅡ『WAVE TO YOU』同時視聴しよう！#161【華鉈イオ/StellArt.】#PR #ぶいきゃす",
