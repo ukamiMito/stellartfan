@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T09:34:18.170Z",
+  "updatedAt": "2026-07-10T12:24:11.161Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -30,9 +30,9 @@
         "title": "【めっちゃカメレオン】視聴者参加型でかくれんぼ！！初見さん大歓迎✨【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/sIuu704ZyZU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=sIuu704ZyZU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-10T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-10T11:58:30Z",
         "actualEndTime": null
       }
     ],
