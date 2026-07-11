@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T11:29:37.157Z",
+  "updatedAt": "2026-07-11T12:32:25.826Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,7 +14,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "aVRN1gF5aHA",
+        "title": "【NIKKE/OVER ZONE ホワイトメモリー】#17 完全初見🔰一方そのころスノーホワイトは…？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/aVRN1gF5aHA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aVRN1gF5aHA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-11T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
