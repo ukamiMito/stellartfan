@@ -1,31 +1,9 @@
 {
-  "updatedAt": "2026-07-11T14:21:55.215Z",
+  "updatedAt": "2026-07-11T15:30:20.711Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "3SYkIVcYkwo",
-        "title": "【 勝利の女神 : #nikke 】💎ガチャ勝負『マルチャーナ：マリンスタディ』お迎えします！石と勇気はある！！！#162【華鉈イオ/StellArt.】#PR #ぶいきゃす",
-        "thumbnail": "https://i.ytimg.com/vi/3SYkIVcYkwo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3SYkIVcYkwo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-11T12:57:23Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "aVRN1gF5aHA",
-        "title": "【NIKKE/OVER ZONE ホワイトメモリー】#17 完全初見🔰一方そのころスノーホワイトは…？【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/aVRN1gF5aHA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=aVRN1gF5aHA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-11T12:58:47Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
+    "channelC": [],
     "channelD": []
   }
 }
