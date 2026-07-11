@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-11T19:17:14.137Z",
+  "updatedAt": "2026-07-11T20:22:43.555Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "BzkHn5D6NS4",
+        "title": "【雑談】初オフコラボの振り返りとか最近のこととかいろいろ！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/BzkHn5D6NS4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BzkHn5D6NS4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-12T06:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
