@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-07-12T11:59:42.371Z",
+  "updatedAt": "2026-07-12T13:47:14.790Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "RY2zumA_8ag",
+        "title": "【 勝利の女神 : #nikke 】『マルチャーナ：マリンスタディ』個人エピ見る！推しキャラ徹底解剖だ！#163【華鉈イオ/StellArt.】#PR #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/RY2zumA_8ag/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RY2zumA_8ag",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-13T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [
       {
         "videoId": "nVpgg3DX0bk",
