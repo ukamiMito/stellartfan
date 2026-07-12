@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-07-12T07:27:56.048Z",
+  "updatedAt": "2026-07-12T09:27:49.122Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [],
+    "channelC": [
       {
-        "videoId": "BzkHn5D6NS4",
-        "title": "【雑談】初オフコラボの振り返りとか最近のこととかいろいろ！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/BzkHn5D6NS4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BzkHn5D6NS4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-12T05:58:38Z",
+        "videoId": "nVpgg3DX0bk",
+        "title": "【飲酒雑談🍺】一杯飲みに行きませんか！！初見さん大歓迎✨【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/nVpgg3DX0bk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nVpgg3DX0bk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-12T11:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
     "channelD": []
   }
 }
