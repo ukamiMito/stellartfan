@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T01:04:42.379Z",
+  "updatedAt": "2026-07-12T04:52:23.044Z",
   "channels": {
     "channelA": [
       {
@@ -15,6 +15,17 @@
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "YIGzhcNJLd4",
+        "title": "【 #歌枠┊弾き語り】ゲリラだ！ピアノと歌で気分が上がる日曜に！【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/YIGzhcNJLd4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YIGzhcNJLd4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-12T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
