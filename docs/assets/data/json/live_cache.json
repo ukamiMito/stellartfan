@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T04:52:23.044Z",
+  "updatedAt": "2026-07-12T07:27:56.048Z",
   "channels": {
     "channelA": [
       {
@@ -7,25 +7,14 @@
         "title": "【雑談】初オフコラボの振り返りとか最近のこととかいろいろ！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/BzkHn5D6NS4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BzkHn5D6NS4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-12T06:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-12T05:58:38Z",
         "actualEndTime": null
       }
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "YIGzhcNJLd4",
-        "title": "【 #歌枠┊弾き語り】ゲリラだ！ピアノと歌で気分が上がる日曜に！【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/YIGzhcNJLd4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YIGzhcNJLd4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-12T05:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
