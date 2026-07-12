@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T10:55:47.390Z",
+  "updatedAt": "2026-07-12T11:59:42.371Z",
   "channels": {
     "channelA": [],
     "channelB": [],
@@ -9,9 +9,9 @@
         "title": "【飲酒雑談🍺】一杯飲みに行きませんか！！初見さん大歓迎✨【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/nVpgg3DX0bk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nVpgg3DX0bk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-12T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-12T10:59:05Z",
         "actualEndTime": null
       }
     ],
