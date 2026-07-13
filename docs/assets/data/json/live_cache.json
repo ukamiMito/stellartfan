@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-07-13T08:23:55.033Z",
+  "updatedAt": "2026-07-13T11:37:35.617Z",
   "channels": {
     "channelA": [],
     "channelB": [
+      {
+        "videoId": "YppzKoxIaxU",
+        "title": "【 勝利の女神 : #nikke 】ミニゲーム『ISLAND BREAKER』高得点を目指す！マルチャーナ使うぞ！#164【華鉈イオ/StellArt.】#PR #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/YppzKoxIaxU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YppzKoxIaxU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-14T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "RY2zumA_8ag",
         "title": "【 勝利の女神 : #nikke 】『マルチャーナ：マリンスタディ』個人エピ見る！推しキャラ徹底解剖だ！#163【華鉈イオ/StellArt.】#PR #ぶいきゃす",
@@ -23,16 +33,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-07-13T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "_ZisJwON6v4",
-        "title": "【お絵描き作業】まったりお絵描き✏一緒に作業しませんか～！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/_ZisJwON6v4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_ZisJwON6v4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-13T06:56:36Z",
         "actualEndTime": null
       }
     ],
