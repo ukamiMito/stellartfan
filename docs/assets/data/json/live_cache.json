@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T04:59:03.235Z",
+  "updatedAt": "2026-07-13T08:23:55.033Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,7 +14,39 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "3ZDB5WKT3ms",
+        "title": "【NIKKE/CHAPTER.19 楽園】#18 完全初見🔰楽園…もしかして彼女に会えるのか…？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/3ZDB5WKT3ms/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3ZDB5WKT3ms",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-13T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "_ZisJwON6v4",
+        "title": "【お絵描き作業】まったりお絵描き✏一緒に作業しませんか～！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/_ZisJwON6v4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_ZisJwON6v4",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-13T06:56:36Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "LN67joVlxIQ",
+        "title": "【 #歌枠┊弾き語り】リラックスの時間です🌙初見さん大歓迎🎹🎤【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/LN67joVlxIQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LN67joVlxIQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-13T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
