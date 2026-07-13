@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-13T11:37:35.617Z",
+  "updatedAt": "2026-07-13T14:32:55.877Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -18,9 +18,9 @@
         "title": "【 勝利の女神 : #nikke 】『マルチャーナ：マリンスタディ』個人エピ見る！推しキャラ徹底解剖だ！#163【華鉈イオ/StellArt.】#PR #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/RY2zumA_8ag/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=RY2zumA_8ag",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-13T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-13T12:57:35Z",
         "actualEndTime": null
       }
     ],
@@ -30,9 +30,9 @@
         "title": "【NIKKE/CHAPTER.19 楽園】#18 完全初見🔰楽園…もしかして彼女に会えるのか…？【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/3ZDB5WKT3ms/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=3ZDB5WKT3ms",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-13T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-13T12:58:40Z",
         "actualEndTime": null
       }
     ],
@@ -42,9 +42,9 @@
         "title": "【 #歌枠┊弾き語り】リラックスの時間です🌙初見さん大歓迎🎹🎤【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/LN67joVlxIQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=LN67joVlxIQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-13T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-13T12:59:07Z",
         "actualEndTime": null
       }
     ]
