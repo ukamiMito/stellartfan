@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T11:06:32.349Z",
+  "updatedAt": "2026-07-14T12:47:10.265Z",
   "channels": {
     "channelA": [
       {
@@ -40,12 +40,12 @@
     "channelD": [
       {
         "videoId": "EdEilY_a0rQ",
-        "title": "【漢字でGOG!】漢字を書く⁉ クリア目指すぞ～～🔥本領発揮！【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "title": "【漢字でGOGO!】漢字を書く⁉ クリア目指すぞ～～🔥本領発揮！【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/EdEilY_a0rQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=EdEilY_a0rQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-14T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-14T11:58:26Z",
         "actualEndTime": null
       }
     ]
