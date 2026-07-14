@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T05:14:30.485Z",
+  "updatedAt": "2026-07-14T07:24:55.775Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "sLyzwOcu4tk",
+        "title": "【心霊写真仕分けバイト】間違えたら自分に霊障が襲い掛かる！？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/sLyzwOcu4tk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sLyzwOcu4tk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-14T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "EdEilY_a0rQ",
+        "title": "【漢字でGOG!】漢字を書く⁉ クリア目指すぞ～～🔥本領発揮！【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/EdEilY_a0rQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EdEilY_a0rQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-14T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
