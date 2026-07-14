@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-07-14T16:14:19.492Z",
+  "updatedAt": "2026-07-14T17:40:12.793Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "q_bGxC7uYC0",
+        "title": "【リズム天国 ミラクルスターズ】初めてのリズ天🎶大人になったぼくは一味違うぞ！！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/q_bGxC7uYC0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q_bGxC7uYC0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
