@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T12:47:10.265Z",
+  "updatedAt": "2026-07-14T14:50:41.938Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【百尺様】30ｍの怪異！？まあ、デカければデカいほどいいって言いますし(？)【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/N4F9NiAr_io/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=N4F9NiAr_io",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-14T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-14T13:01:15Z",
         "actualEndTime": null
       }
     ],
@@ -19,35 +19,13 @@
         "title": "【 勝利の女神 : #nikke 】ミニゲーム『ISLAND BREAKER』高得点を目指す！マルチャーナ使うぞ！#164【華鉈イオ/StellArt.】#PR #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/YppzKoxIaxU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YppzKoxIaxU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-14T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "sLyzwOcu4tk",
-        "title": "【心霊写真仕分けバイト】間違えたら自分に霊障が襲い掛かる！？【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/sLyzwOcu4tk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sLyzwOcu4tk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-14T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "EdEilY_a0rQ",
-        "title": "【漢字でGOGO!】漢字を書く⁉ クリア目指すぞ～～🔥本領発揮！【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/EdEilY_a0rQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EdEilY_a0rQ",
         "status": "live",
         "scheduledStartTime": null,
-        "actualStartTime": "2026-07-14T11:58:26Z",
+        "actualStartTime": "2026-07-14T12:57:32Z",
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelC": [],
+    "channelD": []
   }
 }
