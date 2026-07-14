@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-14T17:40:12.793Z",
+  "updatedAt": "2026-07-14T19:19:04.693Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "pZ5r0t3R63M",
+        "title": "#1【龍が如く３外伝 Dark Ties】完全初見！峯が主人公の物語！！教えてください峯さんの生き様！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/pZ5r0t3R63M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pZ5r0t3R63M",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "q_bGxC7uYC0",
