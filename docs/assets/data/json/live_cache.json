@@ -1,19 +1,29 @@
 {
-  "updatedAt": "2026-07-15T16:00:50.610Z",
+  "updatedAt": "2026-07-15T17:46:18.565Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [
       {
-        "videoId": "pZ5r0t3R63M",
-        "title": "#1【龍が如く３外伝 Dark Ties】完全初見！峯が主人公の物語！！教えてください峯さんの生き様！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/pZ5r0t3R63M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pZ5r0t3R63M",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-15T12:59:17Z",
+        "videoId": "dJw53wWRgek",
+        "title": "【めっちゃカメレオン】超話題のめっちゃカメレオンをやる！見つけてみろおおおお【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/dJw53wWRgek/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dJw53wWRgek",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-16T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "VCuxMOZa7K4",
+        "title": "【イオモニ/朝活】今季の面白いアニメ話するぞ！！！【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/VCuxMOZa7K4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VCuxMOZa7K4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-15T21:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [],
     "channelC": [],
     "channelD": []
   }
