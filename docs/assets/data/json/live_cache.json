@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T20:32:25.342Z",
+  "updatedAt": "2026-07-15T21:59:45.971Z",
   "channels": {
     "channelA": [
       {
@@ -29,9 +29,9 @@
         "title": "【イオモニ/朝活】今季の面白いアニメ話するぞ！！！【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/VCuxMOZa7K4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=VCuxMOZa7K4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-15T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-15T20:57:22Z",
         "actualEndTime": null
       }
     ],
