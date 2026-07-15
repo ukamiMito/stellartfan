@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-15T19:10:17.226Z",
+  "updatedAt": "2026-07-15T20:32:25.342Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "oA-y1rmSKcs",
+        "title": "【めっちゃカメレオン】大人気のかくれんぼゲーム！見つからないように忍ぶぞおおおおお【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/oA-y1rmSKcs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oA-y1rmSKcs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-16T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "dJw53wWRgek",
