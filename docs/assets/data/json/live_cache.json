@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T06:19:14.763Z",
+  "updatedAt": "2026-07-15T08:41:29.866Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "fAXSELG4P_o",
+        "title": "【チャンネル登録2000人耐久】壺おじが先か2000人が先かの戦い【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/fAXSELG4P_o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fAXSELG4P_o",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-15T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
