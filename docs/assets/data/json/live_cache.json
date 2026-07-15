@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T10:48:51.690Z",
+  "updatedAt": "2026-07-15T12:13:51.890Z",
   "channels": {
     "channelA": [
       {
@@ -31,9 +31,9 @@
         "title": "【チャンネル登録2000人耐久】壺おじが先か2000人が先かの戦い🔥初見さん大歓迎✨【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/fAXSELG4P_o/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fAXSELG4P_o",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-15T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-15T11:00:10Z",
         "actualEndTime": null
       }
     ],
