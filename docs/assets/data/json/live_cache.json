@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T21:59:45.971Z",
+  "updatedAt": "2026-07-15T23:05:53.860Z",
   "channels": {
     "channelA": [
       {
@@ -35,7 +35,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "vX4McggM-J0",
+        "title": "【めっちゃカメレオン】StellArt.でかくれんぼ！！コラボ🙌✨【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/vX4McggM-J0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vX4McggM-J0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-16T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
