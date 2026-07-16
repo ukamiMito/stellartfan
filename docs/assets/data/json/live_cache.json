@@ -1,53 +1,9 @@
 {
-  "updatedAt": "2026-07-16T15:08:39.286Z",
+  "updatedAt": "2026-07-16T16:48:16.432Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "oA-y1rmSKcs",
-        "title": "【めっちゃカメレオン】大人気のかくれんぼゲーム！見つからないように忍ぶぞおおおおお【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/oA-y1rmSKcs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oA-y1rmSKcs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-16T12:57:57Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "dJw53wWRgek",
-        "title": "【めっちゃカメレオン】超話題のめっちゃカメレオンをやる！見つけてみろおおおお【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/dJw53wWRgek/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dJw53wWRgek",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-16T12:57:43Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "vX4McggM-J0",
-        "title": "【めっちゃカメレオン】StellArt.でかくれんぼ！！コラボ🙌✨【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/vX4McggM-J0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vX4McggM-J0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-16T12:59:23Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "XyxI_fAbTn0",
-        "title": "【めっちゃカメレオン】StellArt.コラボ🔍初！画力で上手に隠れるぞおおおお！【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/XyxI_fAbTn0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XyxI_fAbTn0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-16T12:58:41Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
