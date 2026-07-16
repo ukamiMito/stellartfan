@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-16T18:05:43.233Z",
+  "updatedAt": "2026-07-16T19:40:41.420Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "lnJHP6u8Q8s",
+        "title": "#最終回【BIOHAZARD RE:4】完全初見！残るはサドラーだけ！ぶっ倒してアシュリーと一緒に帰るんだ！！ / チャプター15から【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/lnJHP6u8Q8s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lnJHP6u8Q8s",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-17T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
