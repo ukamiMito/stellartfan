@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T04:08:18.908Z",
+  "updatedAt": "2026-07-16T06:42:29.277Z",
   "channels": {
     "channelA": [
       {
@@ -37,6 +37,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "XyxI_fAbTn0",
+        "title": "【めっちゃカメレオン】StellArt.コラボ🔍初！画力で上手に隠れるぞおおおお！【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/XyxI_fAbTn0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XyxI_fAbTn0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-16T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
