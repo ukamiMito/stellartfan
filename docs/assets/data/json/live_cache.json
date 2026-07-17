@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-17T19:07:30.964Z",
+  "updatedAt": "2026-07-17T20:26:48.907Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "rU_hyBSuVVc",
+        "title": "【ミラー配信】「2026 AUTOBACS JEGT グランプリシリーズ Round 1」を一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/rU_hyBSuVVc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rU_hyBSuVVc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-18T01:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "wx12E9ukDJM",
