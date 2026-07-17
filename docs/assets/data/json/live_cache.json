@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-07-17T17:37:55.368Z",
+  "updatedAt": "2026-07-17T19:07:30.964Z",
   "channels": {
     "channelA": [],
     "channelB": [
       {
-        "videoId": "c1bPBgBh7kc",
-        "title": "【ELDEN RING/エルデンリング】#39 完全初見！『典礼街オルディナ』攻略する！ラスボス撃破に向けて絶賛強化中※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/c1bPBgBh7kc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=c1bPBgBh7kc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-17T12:58:38Z",
+        "videoId": "wx12E9ukDJM",
+        "title": "【ELDEN RING/エルデンリング】#40 完全初見『聖樹の支えエブレフェール』探索！レベル上げだ～！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/wx12E9ukDJM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wx12E9ukDJM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-18T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
