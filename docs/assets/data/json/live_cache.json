@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T04:42:28.847Z",
+  "updatedAt": "2026-07-17T07:15:51.096Z",
   "channels": {
     "channelA": [
       {
@@ -13,8 +13,30 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
+    "channelB": [
+      {
+        "videoId": "c1bPBgBh7kc",
+        "title": "【ELDEN RING/エルデンリング】#39 完全初見！『典礼街オルディナ』攻略する！ラスボス撃破に向けて絶賛強化中※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/c1bPBgBh7kc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=c1bPBgBh7kc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-17T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "kA2Uzfq7Bfo",
+        "title": "【NIKKE/CHAPTER.20 火竜】#19 完全初見🔰エデンの安寧を守りたい…！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/kA2Uzfq7Bfo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kA2Uzfq7Bfo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-17T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "urZR8qc2LG8",
