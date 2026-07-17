@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-07-17T14:43:20.550Z",
+  "updatedAt": "2026-07-17T16:14:34.161Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "lnJHP6u8Q8s",
-        "title": "#最終回【BIOHAZARD RE:4】完全初見！残るはサドラーだけ！ぶっ倒してアシュリーと一緒に帰るんだ！！ / チャプター15から【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/lnJHP6u8Q8s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lnJHP6u8Q8s",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-17T12:58:31Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "c1bPBgBh7kc",
@@ -25,29 +14,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "kA2Uzfq7Bfo",
-        "title": "【NIKKE/CHAPTER.20 火竜】#19 完全初見🔰エデンの安寧を守りたい…！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/kA2Uzfq7Bfo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kA2Uzfq7Bfo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-17T12:58:03Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "urZR8qc2LG8",
-        "title": "【 #歌枠┊弾き語り】リラックスできる睡眠導入歌枠🌙1曲どうですか？【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/urZR8qc2LG8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=urZR8qc2LG8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-17T12:59:39Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
