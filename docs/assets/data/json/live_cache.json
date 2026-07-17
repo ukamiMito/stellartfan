@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-17T01:00:27.257Z",
+  "updatedAt": "2026-07-17T04:42:28.847Z",
   "channels": {
     "channelA": [
       {
@@ -15,6 +15,17 @@
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "urZR8qc2LG8",
+        "title": "【 #歌枠┊弾き語り】リラックスできる睡眠導入歌枠🌙1曲どうですか？【アイリナ・ゼファリオ / StellArt.】#vtuber #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/urZR8qc2LG8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=urZR8qc2LG8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-17T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
