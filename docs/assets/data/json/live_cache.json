@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-07-18T03:54:05.631Z",
+  "updatedAt": "2026-07-18T06:04:04.834Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "rU_hyBSuVVc",
-        "title": "【ミラー配信】「2026 AUTOBACS JEGT グランプリシリーズ Round 1」を一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/rU_hyBSuVVc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rU_hyBSuVVc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-18T01:43:50Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "wx12E9ukDJM",
@@ -25,7 +14,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "snl2MijyoIE",
+        "title": "【にうふぁの知恵あつめ🦉✉】念願のお便り募集企画～🙌【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/snl2MijyoIE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=snl2MijyoIE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "z0Yf5ir0fQY",
+        "title": "【バイオハザードレクイエム】#4 完全初見 ～いざラクーンシティの中心部へ～【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/z0Yf5ir0fQY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z0Yf5ir0fQY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-18T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
