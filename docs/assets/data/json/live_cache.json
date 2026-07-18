@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T13:56:10.055Z",
+  "updatedAt": "2026-07-18T14:55:14.735Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -36,17 +36,6 @@
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "z0Yf5ir0fQY",
-        "title": "【バイオハザードレクイエム】#4 完全初見 ～いざラクーンシティの中心部へ～【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/z0Yf5ir0fQY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=z0Yf5ir0fQY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-18T11:59:31Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
