@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T11:04:44.802Z",
+  "updatedAt": "2026-07-18T12:11:56.314Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -15,6 +15,16 @@
       }
     ],
     "channelC": [
+      {
+        "videoId": "ijyCBg_scs4",
+        "title": "【お絵描き配信/NIKKE】新人指揮官がアリスを描きながら雑談🐰🥕【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/ijyCBg_scs4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ijyCBg_scs4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-19T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "snl2MijyoIE",
         "title": "【お便り ラジオ 配信】にうふぁの知恵あつめ🦉✉あなたのお便り読ませていただきますッ🙌【にうふぁ/StellArt.】",
@@ -32,9 +42,9 @@
         "title": "【バイオハザードレクイエム】#4 完全初見 ～いざラクーンシティの中心部へ～【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/z0Yf5ir0fQY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=z0Yf5ir0fQY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-18T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-18T11:59:31Z",
         "actualEndTime": null
       }
     ]
