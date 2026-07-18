@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-18T15:56:33.668Z",
+  "updatedAt": "2026-07-18T17:00:05.450Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "JpkR4F8L_9c",
+        "title": "【ミラー配信】「2026 AUTOBACS JEGT グランプリシリーズ Round 2」を一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/JpkR4F8L_9c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JpkR4F8L_9c",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-19T01:45:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "wx12E9ukDJM",
@@ -23,16 +34,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-07-19T05:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "snl2MijyoIE",
-        "title": "【お便り ラジオ 配信】にうふぁの知恵あつめ🦉✉あなたのお便り読ませていただきますッ🙌【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/snl2MijyoIE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=snl2MijyoIE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-18T12:57:31Z",
         "actualEndTime": null
       }
     ],
