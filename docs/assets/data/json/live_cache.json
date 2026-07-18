@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T18:01:31.404Z",
+  "updatedAt": "2026-07-18T19:41:15.469Z",
   "channels": {
     "channelA": [
       {
@@ -13,18 +13,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "wx12E9ukDJM",
-        "title": "【ELDEN RING/エルデンリング】#40 完全初見『聖樹の支えエブレフェール』探索！レベル上げだ～！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/wx12E9ukDJM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wx12E9ukDJM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-18T12:57:27Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [
       {
         "videoId": "ijyCBg_scs4",
@@ -37,6 +26,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "4CPyNpPxVLI",
+        "title": "【 雑談  】昼活☀お昼ご飯もぐもぐしながら最近のお話【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/4CPyNpPxVLI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4CPyNpPxVLI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-19T03:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
