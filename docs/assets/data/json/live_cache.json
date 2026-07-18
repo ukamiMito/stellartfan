@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T12:11:56.314Z",
+  "updatedAt": "2026-07-18T13:56:10.055Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -8,9 +8,9 @@
         "title": "【ELDEN RING/エルデンリング】#40 完全初見『聖樹の支えエブレフェール』探索！レベル上げだ～！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/wx12E9ukDJM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wx12E9ukDJM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-18T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-18T12:57:27Z",
         "actualEndTime": null
       }
     ],
@@ -30,9 +30,9 @@
         "title": "【お便り ラジオ 配信】にうふぁの知恵あつめ🦉✉あなたのお便り読ませていただきますッ🙌【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/snl2MijyoIE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=snl2MijyoIE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-18T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-18T12:57:31Z",
         "actualEndTime": null
       }
     ],
