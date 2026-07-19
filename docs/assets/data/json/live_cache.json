@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-19T17:02:55.228Z",
+  "updatedAt": "2026-07-19T18:26:30.757Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "3qqnDb7hYik",
+        "title": "【Hand Simulator】手先が器用な奴が勝ちってことね？？？【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
+        "thumbnail": "https://i.ytimg.com/vi/3qqnDb7hYik/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3qqnDb7hYik",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
