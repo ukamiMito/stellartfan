@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-07-19T02:41:07.031Z",
+  "updatedAt": "2026-07-19T05:52:17.890Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "JpkR4F8L_9c",
-        "title": "【ミラー配信】「2026 AUTOBACS JEGT グランプリシリーズ Round 2」を一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/JpkR4F8L_9c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JpkR4F8L_9c",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-19T01:43:08Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [
       {
@@ -20,9 +9,9 @@
         "title": "【お絵描き配信/NIKKE】新人指揮官がアリスを描きながら雑談🐰🥕【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/ijyCBg_scs4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ijyCBg_scs4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-19T05:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-19T04:59:19Z",
         "actualEndTime": null
       }
     ],
@@ -34,16 +23,6 @@
         "url": "https://www.youtube.com/watch?v=85BqRkgEzek",
         "status": "upcoming",
         "scheduledStartTime": "2026-07-19T09:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "4CPyNpPxVLI",
-        "title": "【 雑談  】昼活☀お昼ご飯もぐもぐしながら最近のお話【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/4CPyNpPxVLI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4CPyNpPxVLI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-19T03:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
