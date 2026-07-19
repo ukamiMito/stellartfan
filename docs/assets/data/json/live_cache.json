@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T18:26:30.757Z",
+  "updatedAt": "2026-07-19T19:41:19.311Z",
   "channels": {
     "channelA": [
       {
@@ -13,7 +13,18 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "uDrQRGjIxb0",
+        "title": "【 Hand Simulator 】神の使い手はこのぼくだぁあああああああ！！w/天硝路ろまん,ちゃむ。【華鉈イオ/StellArt.】#くれよんどおり三番地",
+        "thumbnail": "https://i.ytimg.com/vi/uDrQRGjIxb0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uDrQRGjIxb0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
