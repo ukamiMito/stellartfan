@@ -1,20 +1,9 @@
 {
-  "updatedAt": "2026-07-19T13:16:22.980Z",
+  "updatedAt": "2026-07-19T14:38:13.620Z",
   "channels": {
     "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "8hNzW5AMzsc",
-        "title": "【NIKKE 参加型】協同作戦に新人指揮官が挑む🔰どなたでも大歓迎🙌【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/8hNzW5AMzsc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8hNzW5AMzsc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-19T11:58:28Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
