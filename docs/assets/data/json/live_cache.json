@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T23:53:24.900Z",
+  "updatedAt": "2026-07-19T02:41:07.031Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【ミラー配信】「2026 AUTOBACS JEGT グランプリシリーズ Round 2」を一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/JpkR4F8L_9c/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=JpkR4F8L_9c",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-19T01:45:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-19T01:43:08Z",
         "actualEndTime": null
       }
     ],
@@ -27,6 +27,16 @@
       }
     ],
     "channelD": [
+      {
+        "videoId": "85BqRkgEzek",
+        "title": "【 vtuber 弾き語り】リクエストOK❢ ピアノ弾き語りであなたを癒す🐑【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/85BqRkgEzek/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=85BqRkgEzek",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-19T09:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "4CPyNpPxVLI",
         "title": "【 雑談  】昼活☀お昼ご飯もぐもぐしながら最近のお話【アイリナ・ゼファリオ / StellArt.】#vtuber",
