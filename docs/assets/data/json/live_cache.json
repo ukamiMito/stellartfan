@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T08:17:04.145Z",
+  "updatedAt": "2026-07-19T10:06:27.040Z",
   "channels": {
     "channelA": [],
     "channelB": [],
@@ -10,9 +10,9 @@
         "title": "【 vtuber 弾き語り】リクエストOK❢ ピアノ弾き語りであなたを癒す🐑【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/85BqRkgEzek/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=85BqRkgEzek",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-19T09:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-19T08:57:17Z",
         "actualEndTime": null
       }
     ]
