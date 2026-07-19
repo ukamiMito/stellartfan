@@ -1,20 +1,9 @@
 {
-  "updatedAt": "2026-07-19T05:52:17.890Z",
+  "updatedAt": "2026-07-19T08:17:04.145Z",
   "channels": {
     "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "ijyCBg_scs4",
-        "title": "【お絵描き配信/NIKKE】新人指揮官がアリスを描きながら雑談🐰🥕【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ijyCBg_scs4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ijyCBg_scs4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-19T04:59:19Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "85BqRkgEzek",
