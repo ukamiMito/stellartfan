@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T18:51:57.556Z",
+  "updatedAt": "2026-07-20T20:20:15.035Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,26 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "LbgKeK4i_O4",
+        "title": "💓 Free chat ＆ schedule 💓",
+        "thumbnail": "https://i.ytimg.com/vi/LbgKeK4i_O4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LbgKeK4i_O4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-12-20T19:20:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "BzaIULhSCnE",
+        "title": "💗華鉈イオ生誕祭2026💗グッズ＆プレゼント受付情報",
+        "thumbnail": "https://i.ytimg.com/vi/BzaIULhSCnE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BzaIULhSCnE",
+        "status": "upcoming",
+        "scheduledStartTime": "2027-07-27T03:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "at_K3q4bfD4",
         "title": "【 にゃんこ郵便局 】2人でまったり郵便局の仕分けやっていく～～w/にうふぁ【華鉈イオ/StellArt.】#vtuber",
