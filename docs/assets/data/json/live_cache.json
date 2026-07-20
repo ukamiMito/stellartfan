@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T06:33:12.253Z",
+  "updatedAt": "2026-07-20T10:09:53.101Z",
   "channels": {
     "channelA": [
       {
@@ -37,6 +37,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "fvEPpU_2zGA",
+        "title": "【 vtuber 弾き語り】しっとり泣けるピアノ弾き語り🎇【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/fvEPpU_2zGA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fvEPpU_2zGA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-20T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
