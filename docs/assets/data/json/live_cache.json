@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T12:30:56.938Z",
+  "updatedAt": "2026-07-20T15:10:45.500Z",
   "channels": {
     "channelA": [
       {
@@ -7,21 +7,21 @@
         "title": "【Hand Simulator】手先が器用な奴が勝ちってことね？？？【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
         "thumbnail": "https://i.ytimg.com/vi/3qqnDb7hYik/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=3qqnDb7hYik",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-20T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-20T13:00:19Z",
         "actualEndTime": null
       }
     ],
     "channelB": [
       {
-        "videoId": "uDrQRGjIxb0",
+        "videoId": "BB5qr5kPJtA",
         "title": "【 Hand Simulator 】神の使い手はこのぼくだぁあああああああ！！w/天硝路ろまん,ちゃむ。【華鉈イオ/StellArt.】#くれよんどおり三番地",
-        "thumbnail": "https://i.ytimg.com/vi/uDrQRGjIxb0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uDrQRGjIxb0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-20T13:00:00Z",
-        "actualStartTime": null,
+        "thumbnail": "https://i.ytimg.com/vi/BB5qr5kPJtA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BB5qr5kPJtA",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-20T14:27:28Z",
         "actualEndTime": null
       }
     ],
@@ -43,9 +43,9 @@
         "title": "【 vtuber 弾き語り】しっとり泣けるピアノ弾き語り🎇【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/fvEPpU_2zGA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=fvEPpU_2zGA",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-20T14:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-20T13:59:16Z",
         "actualEndTime": null
       }
     ]
