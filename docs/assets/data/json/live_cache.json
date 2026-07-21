@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T15:02:53.537Z",
+  "updatedAt": "2026-07-21T16:54:24.029Z",
   "channels": {
     "channelA": [
       {
@@ -33,30 +33,20 @@
         "scheduledStartTime": "2027-07-27T03:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "at_K3q4bfD4",
-        "title": "【 にゃんこ郵便局 】2人でまったり郵便局の仕分けやっていく～～w/にうふぁ【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/at_K3q4bfD4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=at_K3q4bfD4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-21T12:58:28Z",
-        "actualEndTime": null
       }
     ],
-    "channelC": [
+    "channelC": [],
+    "channelD": [
       {
-        "videoId": "p-f6daWdpQE",
-        "title": "【にゃんこ郵便局】郵便局で仕分け作業✉イオちゃんと初コラボ！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/p-f6daWdpQE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=p-f6daWdpQE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-21T12:59:30Z",
+        "videoId": "TmndcWvOmPk",
+        "title": "【 vtuber 弾き語り】ピアノと癒されるひと時歌枠🎼【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/TmndcWvOmPk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TmndcWvOmPk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-22T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ],
-    "channelD": []
+    ]
   }
 }
