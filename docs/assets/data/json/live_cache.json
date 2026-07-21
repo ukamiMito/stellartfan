@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T11:23:00.245Z",
+  "updatedAt": "2026-07-21T12:52:42.357Z",
   "channels": {
     "channelA": [
       {
@@ -63,9 +63,9 @@
         "title": "【バイオハザードレクイエム】#最終回 ～エルピスを壊し世界を救う編～レオン生きてくれぇぇぇぇ【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/_UyybPCLk8I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=_UyybPCLk8I",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-21T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-21T11:59:27Z",
         "actualEndTime": null
       }
     ]
