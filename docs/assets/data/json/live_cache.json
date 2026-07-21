@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T12:52:42.357Z",
+  "updatedAt": "2026-07-21T15:02:53.537Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#1【BIOHAZARD RE:4】エイダ編 / 完全初見！エイダお姉様に一生ついていきます💕【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/pLul6xgc-yc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pLul6xgc-yc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-21T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-21T12:59:02Z",
         "actualEndTime": null
       }
     ],
@@ -39,9 +39,9 @@
         "title": "【 にゃんこ郵便局 】2人でまったり郵便局の仕分けやっていく～～w/にうふぁ【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/at_K3q4bfD4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=at_K3q4bfD4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-21T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-21T12:58:28Z",
         "actualEndTime": null
       }
     ],
@@ -51,23 +51,12 @@
         "title": "【にゃんこ郵便局】郵便局で仕分け作業✉イオちゃんと初コラボ！！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/p-f6daWdpQE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=p-f6daWdpQE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-21T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-21T12:59:30Z",
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "_UyybPCLk8I",
-        "title": "【バイオハザードレクイエム】#最終回 ～エルピスを壊し世界を救う編～レオン生きてくれぇぇぇぇ【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/_UyybPCLk8I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_UyybPCLk8I",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-21T11:59:27Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
