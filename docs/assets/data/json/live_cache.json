@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T03:55:29.402Z",
+  "updatedAt": "2026-07-21T06:27:41.209Z",
   "channels": {
     "channelA": [
       {
@@ -45,7 +45,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "p-f6daWdpQE",
+        "title": "【にゃんこ郵便局】郵便局で仕分け作業✉イオちゃんと初コラボ！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/p-f6daWdpQE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=p-f6daWdpQE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-21T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
