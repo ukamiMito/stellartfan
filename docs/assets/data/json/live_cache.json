@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-07-22T15:41:41.466Z",
+  "updatedAt": "2026-07-22T17:18:37.407Z",
   "channels": {
     "channelA": [],
     "channelB": [
+      {
+        "videoId": "nVmXVkOr6Qo",
+        "title": "【イオモニ/朝活】祝💐100回記念日！これまでの配信を朝マック食べながら振り返る🍔✨【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/nVmXVkOr6Qo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nVmXVkOr6Qo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-22T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "LbgKeK4i_O4",
         "title": "💓 Free chat ＆ schedule 💓",
@@ -24,18 +34,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "oQBWfHfkUtQ",
-        "title": "【NIKKE ストーリー】CHAPTER.21 巨鯨  完全初見🔰メインストリー進める！鯨って何のことだ… #20【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/oQBWfHfkUtQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oQBWfHfkUtQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-22T12:57:59Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
