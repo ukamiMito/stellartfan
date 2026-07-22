@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T11:55:20.565Z",
+  "updatedAt": "2026-07-22T13:52:39.941Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -8,9 +8,9 @@
         "title": "【 勝利の女神 : #nikke 】完全初見🔰ラプラス過去イベ『HIGHTECH TOY』を同時視聴！ヒーロー誕生だ！#164【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/TwNM3JCQYTs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=TwNM3JCQYTs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-22T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-22T12:57:53Z",
         "actualEndTime": null
       },
       {
@@ -40,9 +40,9 @@
         "title": "【NIKKE ストーリー】CHAPTER.21 巨鯨  完全初見🔰メインストリー進める！鯨って何のことだ… #20【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/oQBWfHfkUtQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oQBWfHfkUtQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-22T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-22T12:57:59Z",
         "actualEndTime": null
       }
     ],
@@ -52,9 +52,9 @@
         "title": "【 vtuber 弾き語り】ピアノと癒されるひと時歌枠🎼【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/TmndcWvOmPk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=TmndcWvOmPk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-22T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-22T12:58:22Z",
         "actualEndTime": null
       }
     ]
