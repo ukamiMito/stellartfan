@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-22T18:41:01.786Z",
+  "updatedAt": "2026-07-22T20:10:47.208Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "DogUc_vnUTg",
+        "title": "#2【龍が如く３外伝 Dark Ties】完全初見！ストーリー攻略＆好きなポイントBEST5を決める✨みんなのここ好きポイントも教えて！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/DogUc_vnUTg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DogUc_vnUTg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-23T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "nVmXVkOr6Qo",
