@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-22T09:58:37.891Z",
+  "updatedAt": "2026-07-22T11:55:20.565Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -34,7 +34,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "oQBWfHfkUtQ",
+        "title": "【NIKKE ストーリー】CHAPTER.21 巨鯨  完全初見🔰メインストリー進める！鯨って何のことだ… #20【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/oQBWfHfkUtQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oQBWfHfkUtQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-22T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "TmndcWvOmPk",
