@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T04:50:16.427Z",
+  "updatedAt": "2026-07-23T07:32:05.771Z",
   "channels": {
     "channelA": [
       {
@@ -45,7 +45,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "asWFISnIoog",
+        "title": "【スプラトゥーン レイダース】新人Vtuberが挑む！インクをぶちまけるゲームと聞いてきました🎨【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/asWFISnIoog/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=asWFISnIoog",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-23T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "qnWR0GlHqA0",
+        "title": "【スプラトゥーン レイダース】#1 最新作スプラ初プレイ‼ 私に出来るか・・？楽しむぞぉぉぉ🔥【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/qnWR0GlHqA0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qnWR0GlHqA0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-23T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
