@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-23T17:54:32.268Z",
+  "updatedAt": "2026-07-23T19:16:29.528Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "y-r-m1e3so8",
+        "title": "【龍が如く極3 / 龍が如く3外伝 Dark Ties】好きなプレイスポットBEST5決めてくよ～✨プリクラめっちゃ撮りたい！遊びまくるぞ！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/y-r-m1e3so8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=y-r-m1e3so8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-24T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "gZe6FHCKK6U",
