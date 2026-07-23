@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-23T12:09:11.798Z",
+  "updatedAt": "2026-07-23T14:40:10.167Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#2【龍が如く３外伝 Dark Ties】完全初見！ストーリー攻略＆好きなポイントBEST5を決める✨みんなのここ好きポイントも教えて！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/DogUc_vnUTg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DogUc_vnUTg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-23T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-23T12:58:28Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【グランツーリスモ7】ハンコンリハビリ配信！まったりカフェ進めるぞ～！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/PslU-e3Lf5Q/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PslU-e3Lf5Q",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-23T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-23T12:57:59Z",
         "actualEndTime": null
       },
       {
