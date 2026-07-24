@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T07:06:06.856Z",
+  "updatedAt": "2026-07-24T09:53:51.462Z",
   "channels": {
     "channelA": [
       {
@@ -23,29 +23,20 @@
         "scheduledStartTime": "2026-07-24T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
+      }
+    ],
+    "channelC": [
       {
-        "videoId": "LbgKeK4i_O4",
-        "title": "💓 Free chat ＆ schedule 💓",
-        "thumbnail": "https://i.ytimg.com/vi/LbgKeK4i_O4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LbgKeK4i_O4",
+        "videoId": "yD-AmifTdIQ",
+        "title": "【GeoGuessr 配信】まったりお散歩、付き合ってくれませんか？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/yD-AmifTdIQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yD-AmifTdIQ",
         "status": "upcoming",
-        "scheduledStartTime": "2026-12-20T19:20:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "BzaIULhSCnE",
-        "title": "💗華鉈イオ生誕祭2026💗グッズ＆プレゼント受付情報",
-        "thumbnail": "https://i.ytimg.com/vi/BzaIULhSCnE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BzaIULhSCnE",
-        "status": "upcoming",
-        "scheduledStartTime": "2027-07-27T03:00:00Z",
+        "scheduledStartTime": "2026-07-24T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [],
     "channelD": [
       {
         "videoId": "EULJEkWakiI",
