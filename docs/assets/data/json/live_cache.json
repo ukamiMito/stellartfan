@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T04:16:49.870Z",
+  "updatedAt": "2026-07-24T07:06:06.856Z",
   "channels": {
     "channelA": [
       {
@@ -46,6 +46,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "EULJEkWakiI",
+        "title": "【 vtuber 弾き語り】心を込めた深夜のピアノ弾き語り🎼【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/EULJEkWakiI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EULJEkWakiI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-24T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
