@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T13:44:08.052Z",
+  "updatedAt": "2026-07-24T15:24:44.838Z",
   "channels": {
     "channelA": [
       {
@@ -25,27 +25,16 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "yD-AmifTdIQ",
-        "title": "【GeoGuessr 配信】まったりお散歩、付き合ってくれませんか？【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/yD-AmifTdIQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yD-AmifTdIQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-24T12:58:28Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "EULJEkWakiI",
         "title": "【 vtuber 弾き語り】心を込めた深夜のピアノ弾き語り🎼ヨルシカさん多め【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/EULJEkWakiI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=EULJEkWakiI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-24T14:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-24T13:57:32Z",
         "actualEndTime": null
       }
     ]
