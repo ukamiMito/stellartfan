@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T11:41:17.658Z",
+  "updatedAt": "2026-07-24T13:44:08.052Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【龍が如く極3 / 龍が如く3外伝 Dark Ties】好きなプレイスポットBEST5決めてくよ～✨プリクラめっちゃ撮りたい！遊びまくるぞ！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/y-r-m1e3so8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=y-r-m1e3so8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-24T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-24T12:59:08Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【ELDEN RING/エルデンリング】#41 エルデン最強ボス『腐敗の女神、マレニア』攻略！！※ネタバレ＆スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/gZe6FHCKK6U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=gZe6FHCKK6U",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-24T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-24T12:58:26Z",
         "actualEndTime": null
       }
     ],
@@ -31,16 +31,16 @@
         "title": "【GeoGuessr 配信】まったりお散歩、付き合ってくれませんか？【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/yD-AmifTdIQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yD-AmifTdIQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-24T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-24T12:58:28Z",
         "actualEndTime": null
       }
     ],
     "channelD": [
       {
         "videoId": "EULJEkWakiI",
-        "title": "【 vtuber 弾き語り】心を込めた深夜のピアノ弾き語り🎼【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "title": "【 vtuber 弾き語り】心を込めた深夜のピアノ弾き語り🎼ヨルシカさん多め【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/EULJEkWakiI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=EULJEkWakiI",
         "status": "upcoming",
