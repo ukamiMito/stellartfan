@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-07-24T15:24:44.838Z",
+  "updatedAt": "2026-07-24T17:04:12.136Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "y-r-m1e3so8",
-        "title": "【龍が如く極3 / 龍が如く3外伝 Dark Ties】好きなプレイスポットBEST5決めてくよ～✨プリクラめっちゃ撮りたい！遊びまくるぞ！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/y-r-m1e3so8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=y-r-m1e3so8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-24T12:59:08Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "gZe6FHCKK6U",
@@ -26,17 +15,6 @@
       }
     ],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "EULJEkWakiI",
-        "title": "【 vtuber 弾き語り】心を込めた深夜のピアノ弾き語り🎼ヨルシカさん多め【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/EULJEkWakiI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EULJEkWakiI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-24T13:57:32Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
