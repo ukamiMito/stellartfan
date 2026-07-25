@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T07:15:54.621Z",
+  "updatedAt": "2026-07-25T09:16:42.398Z",
   "channels": {
     "channelA": [
       {
@@ -44,16 +44,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-07-25T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "_ZzqZJnJUmw",
-        "title": "【お絵描き配信 NIKKE イラスト】新人指揮官がドロシーを描きながら雑談☂【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/_ZzqZJnJUmw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_ZzqZJnJUmw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-25T05:58:10Z",
         "actualEndTime": null
       }
     ],
