@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T14:09:07.282Z",
+  "updatedAt": "2026-07-25T15:38:37.987Z",
   "channels": {
     "channelA": [
       {
@@ -10,16 +10,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-07-26T12:30:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "uhB8fyViO88",
-        "title": "【F1 2026/生放送同時視聴】「ハンガリーGP　予選:ライブ」みんなで一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/uhB8fyViO88/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uhB8fyViO88",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-25T13:30:57Z",
         "actualEndTime": null
       }
     ],
@@ -35,18 +25,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "9rWfD7sJwfo",
-        "title": "【NIKKE ストーリー】CHAPTER.22 侵略  完全初見🔰アークは一体どうなっちゃうんだ！？ #21【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/9rWfD7sJwfo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9rWfD7sJwfo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-25T12:57:09Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "rNYhRQrUKSA",
@@ -66,16 +45,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-07-26T03:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "J0c5mib7o-w",
-        "title": "【スプラトゥーン レイダース】#2 最新作スプラ初プレイ🔥ド初心者が行く！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/J0c5mib7o-w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=J0c5mib7o-w",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-25T10:59:41Z",
         "actualEndTime": null
       }
     ]
