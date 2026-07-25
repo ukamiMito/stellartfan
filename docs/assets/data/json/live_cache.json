@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T10:51:30.941Z",
+  "updatedAt": "2026-07-25T12:01:53.994Z",
   "channels": {
     "channelA": [
       {
@@ -73,9 +73,9 @@
         "title": "【スプラトゥーン レイダース】#2 最新作スプラ初プレイ🔥ド初心者が行く！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/J0c5mib7o-w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=J0c5mib7o-w",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-25T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-25T10:59:41Z",
         "actualEndTime": null
       }
     ]
