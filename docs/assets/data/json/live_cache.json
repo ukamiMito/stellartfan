@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T09:16:42.398Z",
+  "updatedAt": "2026-07-25T10:51:30.941Z",
   "channels": {
     "channelA": [
       {
@@ -48,6 +48,16 @@
       }
     ],
     "channelD": [
+      {
+        "videoId": "rNYhRQrUKSA",
+        "title": "【 vtuber 弾き語り】季節を巡るピアノ弾き語り🎹歌枠【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/rNYhRQrUKSA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rNYhRQrUKSA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-26T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "87ccnn18joU",
         "title": "【 雑談  】昼活☀最近暑すぎやしませんか？【アイリナ・ゼファリオ / StellArt.】#vtuber",
