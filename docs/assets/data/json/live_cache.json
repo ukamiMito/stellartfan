@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T04:42:14.013Z",
+  "updatedAt": "2026-07-25T07:15:54.621Z",
   "channels": {
     "channelA": [
       {
@@ -35,7 +35,49 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "9rWfD7sJwfo",
+        "title": "【NIKKE ストーリー】CHAPTER.22 侵略  完全初見🔰アークは一体どうなっちゃうんだ！？ #21【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/9rWfD7sJwfo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9rWfD7sJwfo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-25T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "_ZzqZJnJUmw",
+        "title": "【お絵描き配信 NIKKE イラスト】新人指揮官がドロシーを描きながら雑談☂【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/_ZzqZJnJUmw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_ZzqZJnJUmw",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-25T05:58:10Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "87ccnn18joU",
+        "title": "【 雑談  】昼活☀最近暑すぎやしませんか？【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/87ccnn18joU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=87ccnn18joU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-26T03:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "J0c5mib7o-w",
+        "title": "【スプラトゥーン レイダース】#2 最新作スプラ初プレイ🔥ド初心者が行く！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/J0c5mib7o-w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J0c5mib7o-w",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-25T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
