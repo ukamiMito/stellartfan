@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T12:01:53.994Z",
+  "updatedAt": "2026-07-25T14:09:07.282Z",
   "channels": {
     "channelA": [
       {
@@ -17,9 +17,9 @@
         "title": "【F1 2026/生放送同時視聴】「ハンガリーGP　予選:ライブ」みんなで一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/uhB8fyViO88/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=uhB8fyViO88",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-25T13:30:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-25T13:30:57Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【華鉈イオの深夜喫茶】第8回✨お願いごとをひとつ聞きましょう※やるとは言ってない【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
         "thumbnail": "https://i.ytimg.com/vi/a1-0WgfVADQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=a1-0WgfVADQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-25T14:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-25T13:57:24Z",
         "actualEndTime": null
       }
     ],
@@ -41,9 +41,9 @@
         "title": "【NIKKE ストーリー】CHAPTER.22 侵略  完全初見🔰アークは一体どうなっちゃうんだ！？ #21【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/9rWfD7sJwfo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9rWfD7sJwfo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-25T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-25T12:57:09Z",
         "actualEndTime": null
       }
     ],
