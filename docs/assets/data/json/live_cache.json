@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T15:38:37.987Z",
+  "updatedAt": "2026-07-25T16:56:30.918Z",
   "channels": {
     "channelA": [
       {
@@ -13,18 +13,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "a1-0WgfVADQ",
-        "title": "【華鉈イオの深夜喫茶】第8回✨お願いごとをひとつ聞きましょう※やるとは言ってない【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
-        "thumbnail": "https://i.ytimg.com/vi/a1-0WgfVADQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=a1-0WgfVADQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-25T13:57:24Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": [
       {
