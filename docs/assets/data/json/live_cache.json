@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T23:31:56.526Z",
+  "updatedAt": "2026-07-26T02:45:18.402Z",
   "channels": {
     "channelA": [
       {
@@ -13,7 +13,18 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "7dwbppemBbg",
+        "title": "【UNAGI/雑談】そうだ、鰻を食べよう【華鉈イオ/StellArt.】#vtuber #土用の丑の日",
+        "thumbnail": "https://i.ytimg.com/vi/7dwbppemBbg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7dwbppemBbg",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-26T02:23:35Z",
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": [
       {
