@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T14:08:17.873Z",
+  "updatedAt": "2026-07-26T15:38:13.865Z",
   "channels": {
     "channelA": [
       {
@@ -15,17 +15,6 @@
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "rNYhRQrUKSA",
-        "title": "【 vtuber 弾き語り】季節を巡るピアノ弾き語り🎹歌枠【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/rNYhRQrUKSA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rNYhRQrUKSA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-26T12:58:08Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
