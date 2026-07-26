@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T22:02:24.393Z",
+  "updatedAt": "2026-07-26T23:28:37.678Z",
   "channels": {
     "channelA": [
       {
@@ -13,7 +13,18 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "KZzpduNzKP0",
+        "title": "【 にゃんこ郵便局 】職場がピリピリしてきましたが笑顔で勤務しますw/にうふぁ【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/KZzpduNzKP0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KZzpduNzKP0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-27T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
