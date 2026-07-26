@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-26T02:45:18.402Z",
+  "updatedAt": "2026-07-26T06:05:14.845Z",
   "channels": {
     "channelA": [
       {
@@ -13,18 +13,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "7dwbppemBbg",
-        "title": "【UNAGI/雑談】そうだ、鰻を食べよう【華鉈イオ/StellArt.】#vtuber #土用の丑の日",
-        "thumbnail": "https://i.ytimg.com/vi/7dwbppemBbg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7dwbppemBbg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-26T02:23:35Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": [
       {
@@ -34,16 +23,6 @@
         "url": "https://www.youtube.com/watch?v=rNYhRQrUKSA",
         "status": "upcoming",
         "scheduledStartTime": "2026-07-26T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "87ccnn18joU",
-        "title": "【 雑談  】昼活☀最近暑すぎやしませんか？【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/87ccnn18joU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=87ccnn18joU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-26T03:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
