@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T05:10:28.603Z",
+  "updatedAt": "2026-07-27T08:54:18.475Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "JGV4dojlIqk",
+        "title": "【にゃんこ郵便局 配信】おおざっぱだってやればできるんだ！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/JGV4dojlIqk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JGV4dojlIqk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-27T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
