@@ -1,42 +1,9 @@
 {
-  "updatedAt": "2026-07-27T15:23:44.816Z",
+  "updatedAt": "2026-07-27T17:17:28.139Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "KZzpduNzKP0",
-        "title": "【 にゃんこ郵便局 】職場がピリピリしてきましたが笑顔で勤務しますw/にうふぁ【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/KZzpduNzKP0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KZzpduNzKP0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-27T12:57:31Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "JGV4dojlIqk",
-        "title": "【にゃんこ郵便局 配信】おおざっぱだってやればできるんだ！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/JGV4dojlIqk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JGV4dojlIqk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-27T12:58:00Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "9hU0k3Xvrgs",
-        "title": "【 vtuber 弾き語り】睡眠導入ピアノ弾き語り🐑歌枠🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/9hU0k3Xvrgs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9hU0k3Xvrgs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-27T13:57:51Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
