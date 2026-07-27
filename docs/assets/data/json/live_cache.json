@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T08:54:18.475Z",
+  "updatedAt": "2026-07-27T12:22:44.227Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【Among Us 3D】超豪華な大型アモアスコラボ✨しかも3D！！ #黄泉ハル村 【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/usR5bSXpRq4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=usR5bSXpRq4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-27T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-27T10:59:27Z",
         "actualEndTime": null
       }
     ],
@@ -37,6 +37,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "9hU0k3Xvrgs",
+        "title": "【 vtuber 弾き語り】睡眠導入ピアノ弾き語り🐑歌枠🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/9hU0k3Xvrgs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9hU0k3Xvrgs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-27T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
