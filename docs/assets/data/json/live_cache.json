@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-07-27T17:17:28.139Z",
+  "updatedAt": "2026-07-27T18:55:39.676Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
+    "channelA": [
+      {
+        "videoId": "AljTnNXIQ6U",
+        "title": "#1【スプラトゥーン レイダース】フウカ最推し女による、大暴れ最新作スプラ。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/AljTnNXIQ6U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AljTnNXIQ6U",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-28T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "2frYQeiLXFI",
+        "title": "【 勝利の女神 : #nikke 】新イベ『PROJECT MATIS』を一緒に観よう✨ヒーローラプラスがきた！！#165【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/2frYQeiLXFI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2frYQeiLXFI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-28T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
