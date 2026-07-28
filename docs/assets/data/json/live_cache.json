@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T10:05:08.621Z",
+  "updatedAt": "2026-07-28T12:19:53.776Z",
   "channels": {
     "channelA": [
       {
@@ -31,9 +31,9 @@
         "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！※ネタバレ注意 #2【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/t0DjpG1Njkk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=t0DjpG1Njkk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-28T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-28T10:58:20Z",
         "actualEndTime": null
       }
     ],
