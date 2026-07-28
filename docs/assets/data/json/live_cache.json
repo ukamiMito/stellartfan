@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T14:58:26.345Z",
+  "updatedAt": "2026-07-28T16:45:25.600Z",
   "channels": {
     "channelA": [
       {
@@ -15,39 +15,17 @@
     ],
     "channelB": [
       {
-        "videoId": "2frYQeiLXFI",
-        "title": "【 勝利の女神 : #nikke 】新イベ『PROJECT MATIS』を一緒に観よう✨ヒーローラプラスがきた！！#165【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/2frYQeiLXFI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2frYQeiLXFI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-28T12:57:28Z",
+        "videoId": "Sid8RDBP6u0",
+        "title": "【グランツーリスモ7】ハンコン挑戦✨カフェNo.35「日産GT-R」からスタート！！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/Sid8RDBP6u0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Sid8RDBP6u0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-29T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "t0DjpG1Njkk",
-        "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！※ネタバレ注意 #2【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/t0DjpG1Njkk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=t0DjpG1Njkk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-28T10:58:20Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "D-aA6TLG8C0",
-        "title": "【おにぎり屋さんシミュレータ―】私、働く事になりました🍙にぎにぎします【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/D-aA6TLG8C0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=D-aA6TLG8C0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-28T12:58:22Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
