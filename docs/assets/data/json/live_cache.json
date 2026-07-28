@@ -1,19 +1,18 @@
 {
-  "updatedAt": "2026-07-28T16:45:25.600Z",
+  "updatedAt": "2026-07-28T18:13:45.891Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "AljTnNXIQ6U",
-        "title": "#1【スプラトゥーン レイダース】フウカ最推し女による、大暴れ最新作スプラ。【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/AljTnNXIQ6U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AljTnNXIQ6U",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-28T12:58:22Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
+      {
+        "videoId": "_Kk1rpHh0eA",
+        "title": "【イオモニ/朝活】流しそうめんを一人でする方法を考える【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/_Kk1rpHh0eA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_Kk1rpHh0eA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-29T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "Sid8RDBP6u0",
         "title": "【グランツーリスモ7】ハンコン挑戦✨カフェNo.35「日産GT-R」からスタート！！【華鉈イオ/StellArt.】#gt7",
