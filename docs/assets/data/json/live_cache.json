@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T06:13:24.672Z",
+  "updatedAt": "2026-07-29T09:20:56.484Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -24,7 +24,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "tpddfIMrQYY",
+        "title": "【NIKKE ストーリー】CHAPTER.23 牢屋  完全初見🔰ど、ドロシー何をする気なんだ #22【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/tpddfIMrQYY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tpddfIMrQYY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "cwBrSU_Hsts",
+        "title": "【 vtuber 弾き語り】暑い日も心が涼しくなるピアノ弾き語り🎹【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/cwBrSU_Hsts/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cwBrSU_Hsts",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
