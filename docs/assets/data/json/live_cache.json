@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T11:39:10.300Z",
+  "updatedAt": "2026-07-29T14:08:46.588Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -18,9 +18,9 @@
         "title": "【グランツーリスモ7】ハンコン挑戦✨カフェNo.35「日産GT-R」からスタート！！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/Sid8RDBP6u0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Sid8RDBP6u0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-29T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-29T12:57:24Z",
         "actualEndTime": null
       }
     ],
@@ -30,9 +30,9 @@
         "title": "【NIKKE ストーリー】CHAPTER.23 牢屋  完全初見🔰ど、ドロシー何をする気なんだ #22【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/tpddfIMrQYY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=tpddfIMrQYY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-29T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-29T12:58:09Z",
         "actualEndTime": null
       }
     ],
@@ -42,9 +42,9 @@
         "title": "【 vtuber 弾き語り】暑い日も心が涼しくなるピアノ弾き語り🎹【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/cwBrSU_Hsts/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cwBrSU_Hsts",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-29T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-29T12:59:18Z",
         "actualEndTime": null
       }
     ]
