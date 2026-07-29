@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-29T14:08:46.588Z",
+  "updatedAt": "2026-07-29T16:01:13.221Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -36,17 +36,6 @@
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "cwBrSU_Hsts",
-        "title": "【 vtuber 弾き語り】暑い日も心が涼しくなるピアノ弾き語り🎹【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/cwBrSU_Hsts/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cwBrSU_Hsts",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-29T12:59:18Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
