@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-29T16:01:13.221Z",
+  "updatedAt": "2026-07-29T17:46:40.623Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "9l8BtuXQU0k",
+        "title": "#1【ペルソナ5 ザ・ロイヤル】完全初見！本日から怪盗やらせていただきます！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/9l8BtuXQU0k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9l8BtuXQU0k",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-30T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "_Kk1rpHh0eA",
@@ -12,30 +23,9 @@
         "scheduledStartTime": "2026-07-29T21:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "Sid8RDBP6u0",
-        "title": "【グランツーリスモ7】ハンコン挑戦✨カフェNo.35「日産GT-R」からスタート！！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/Sid8RDBP6u0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Sid8RDBP6u0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-29T12:57:24Z",
-        "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "tpddfIMrQYY",
-        "title": "【NIKKE ストーリー】CHAPTER.23 牢屋  完全初見🔰ど、ドロシー何をする気なんだ #22【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/tpddfIMrQYY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tpddfIMrQYY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-29T12:58:09Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
