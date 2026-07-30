@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T06:05:44.768Z",
+  "updatedAt": "2026-07-30T09:12:51.525Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "8ZdJ5V6NGqg",
+        "title": "【ASMR 配信】新人Vtuber ASMR にチャレンジ！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/8ZdJ5V6NGqg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8ZdJ5V6NGqg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-07-30T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
