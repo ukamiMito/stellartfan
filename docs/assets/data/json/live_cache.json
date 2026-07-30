@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T11:28:36.310Z",
+  "updatedAt": "2026-07-30T13:09:00.608Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#1【ペルソナ5 ザ・ロイヤル】完全初見！本日から怪盗やらせていただきます！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/9l8BtuXQU0k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9l8BtuXQU0k",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-30T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-30T12:59:31Z",
         "actualEndTime": null
       }
     ],
@@ -20,9 +20,9 @@
         "title": "【ASMR 配信】新人Vtuber ASMR にチャレンジ！！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/8ZdJ5V6NGqg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=8ZdJ5V6NGqg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-07-30T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-30T12:58:57Z",
         "actualEndTime": null
       }
     ],
