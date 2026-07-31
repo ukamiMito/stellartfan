@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T04:58:35.709Z",
+  "updatedAt": "2026-07-31T08:03:39.042Z",
   "channels": {
     "channelA": [
       {
@@ -37,16 +37,6 @@
     ],
     "channelC": [],
     "channelD": [
-      {
-        "videoId": "7pDj8nMVqyc",
-        "title": "【 vtuber 弾き語り】ゲリラ！7月最後のピアノ弾き語り歌枠だ🎇【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/7pDj8nMVqyc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7pDj8nMVqyc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-31T04:58:32Z",
-        "actualEndTime": null
-      },
       {
         "videoId": "LihFhCz5uEk",
         "title": "【 白栄大学0号館 】立ち入り禁止⚠️地図から消された校舎⁉心霊サークルへ迫る！ホラーゲーム【アイリナ・ゼファリオ  / StellArt.】#vtuber",
