@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-07-31T18:54:48.285Z",
+  "updatedAt": "2026-07-31T20:19:54.209Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "I82b1G5oKMg",
+        "title": "#2【ペルソナ5 ザ・ロイヤル】完全初見！はやくあのド変態教師をなんとかしないと…！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/I82b1G5oKMg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=I82b1G5oKMg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-01T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "FME5ZqWnUWw",
