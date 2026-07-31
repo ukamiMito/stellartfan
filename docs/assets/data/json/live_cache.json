@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-30T23:06:38.583Z",
+  "updatedAt": "2026-07-31T01:04:10.702Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "FME5ZqWnUWw",
+        "title": "【 勝利の女神 : #nikke 】新イベ『PROJECT MATIS』ストーリー2を一緒に観る！ロリシュエン(は)可愛い。#166【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/FME5ZqWnUWw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FME5ZqWnUWw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-01T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "J5FiqvbRJRA",
         "title": "【グランツーリスモ7】ハンコン挑戦✨カフェNo.37「Gr.Bラリーカー」終了まであと少し！【華鉈イオ/StellArt.】#gt7",
