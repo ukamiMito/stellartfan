@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-07-31T15:36:36.367Z",
+  "updatedAt": "2026-07-31T17:28:20.154Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "PPabl3w4Ji0",
-        "title": "#2【BIOHAZARD RE:4】エイダ編 / 完全初見！エイダお姉様と共に駆け抜ける！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/PPabl3w4Ji0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PPabl3w4Ji0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-31T12:59:36Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "FME5ZqWnUWw",
@@ -23,30 +12,9 @@
         "scheduledStartTime": "2026-08-01T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "J5FiqvbRJRA",
-        "title": "【グランツーリスモ7】ハンコン挑戦✨カフェNo.37「Gr.Bラリーカー」終了まであと少し！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/J5FiqvbRJRA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=J5FiqvbRJRA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-31T12:57:27Z",
-        "actualEndTime": null
       }
     ],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "LihFhCz5uEk",
-        "title": "【 白栄大学0号館 】立ち入り禁止⚠️地図から消された校舎⁉心霊サークルへ迫る！ホラーゲーム【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/LihFhCz5uEk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LihFhCz5uEk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-07-31T12:58:18Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
