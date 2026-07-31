@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T08:03:39.042Z",
+  "updatedAt": "2026-07-31T11:05:24.181Z",
   "channels": {
     "channelA": [
       {
@@ -35,7 +35,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "REGkdSkvn_M",
+        "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！※ネタバレ注意 #3話【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/REGkdSkvn_M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=REGkdSkvn_M",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-07-31T10:57:18Z",
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "LihFhCz5uEk",
