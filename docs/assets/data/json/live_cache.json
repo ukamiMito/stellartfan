@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T15:36:09.540Z",
+  "updatedAt": "2026-08-01T16:58:44.785Z",
   "channels": {
     "channelA": [
       {
@@ -13,41 +13,8 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "FME5ZqWnUWw",
-        "title": "【 勝利の女神 : #nikke 】新イベ『PROJECT MATIS』ストーリー2を一緒に観る！ロリシュエン(は)可愛い。#166【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/FME5ZqWnUWw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FME5ZqWnUWw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-01T12:57:22Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "YRfKviLXfT4",
-        "title": "【NIKKE イベスト】RED ASH  完全初見🔰あなたがレッドフードなのか…？　#23【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/YRfKviLXfT4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YRfKviLXfT4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-01T12:57:09Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "ku8KJd6keVs",
-        "title": "【 vtuber 弾き語り】夏の曲を弾き語りでお届け🪸summersong！【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/ku8KJd6keVs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ku8KJd6keVs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-01T13:57:24Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
