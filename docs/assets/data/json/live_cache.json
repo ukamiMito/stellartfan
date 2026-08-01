@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-01T18:05:01.530Z",
+  "updatedAt": "2026-08-01T19:42:39.621Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "bFEF8O0FTlc",
+        "title": "#2【スプラトゥーン レイダース】フウカ最推し女による、大暴れ最新作スプラ。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/bFEF8O0FTlc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bFEF8O0FTlc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-02T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": [
