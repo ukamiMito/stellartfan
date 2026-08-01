@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-08-01T16:58:44.785Z",
+  "updatedAt": "2026-08-01T18:05:01.530Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "I82b1G5oKMg",
-        "title": "#2【ペルソナ5 ザ・ロイヤル】完全初見！はやくあのド変態教師をなんとかしないと…！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/I82b1G5oKMg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=I82b1G5oKMg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-01T12:58:29Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "83uzYJVCD_g",
+        "title": "【 雑談  】昼活☀ご飯タイム！一緒にまったり過ごそう【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/83uzYJVCD_g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=83uzYJVCD_g",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-02T03:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
