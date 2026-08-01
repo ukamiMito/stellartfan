@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T00:07:26.975Z",
+  "updatedAt": "2026-08-01T04:02:19.265Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "YRfKviLXfT4",
+        "title": "【NIKKE イベスト】RED ASH  完全初見🔰あなたがレッドフードなのか…？　#23【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/YRfKviLXfT4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YRfKviLXfT4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-01T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
