@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T12:09:08.553Z",
+  "updatedAt": "2026-08-02T14:07:49.320Z",
   "channels": {
     "channelA": [],
     "channelB": [],
@@ -9,9 +9,9 @@
         "title": "【スパンキング除霊師】新人Vtuberでも除霊できる方法があると聞いて！！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/FnNST6CnNBs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=FnNST6CnNBs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-02T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-02T12:58:09Z",
         "actualEndTime": null
       }
     ],
