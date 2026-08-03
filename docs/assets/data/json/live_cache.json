@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-03T00:00:11.308Z",
+  "updatedAt": "2026-08-03T03:45:32.744Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "CN0_sE8H_D4",
+        "title": "【歌ってみた】ray - BUMP OF CHICKEN / 天硝路ろまん(Cover)",
+        "thumbnail": "https://i.ytimg.com/vi/CN0_sE8H_D4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CN0_sE8H_D4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-03T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
