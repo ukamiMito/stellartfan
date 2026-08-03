@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-08-03T16:24:57.320Z",
+  "updatedAt": "2026-08-03T18:16:18.278Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
+    "channelA": [
+      {
+        "videoId": "V4GUqvSx6uE",
+        "title": "#3【ペルソナ5 ザ・ロイヤル】完全初見！鴨志田絶対許さないからなああああ！！もはや闇討ちでも構わん！！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/V4GUqvSx6uE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=V4GUqvSx6uE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-04T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "wQX-vrdZ2GM",
+        "title": "【 勝利の女神 : #nikke 】推しガチャ『ラプラス：アルティメットヒーロー』をお迎えします#167【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/wQX-vrdZ2GM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wQX-vrdZ2GM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-05T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "W0rkRHfoYeQ",
+        "title": "【Minecraft/雑談】建築雑談～⛏街の線路をコツコツ作るのだ【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/W0rkRHfoYeQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=W0rkRHfoYeQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-04T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
