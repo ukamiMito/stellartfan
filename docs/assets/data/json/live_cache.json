@@ -1,27 +1,16 @@
 {
-  "updatedAt": "2026-08-03T10:54:16.637Z",
+  "updatedAt": "2026-08-03T13:40:34.234Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "CN0_sE8H_D4",
-        "title": "【歌ってみた】ray - BUMP OF CHICKEN / 天硝路ろまん(Cover)",
-        "thumbnail": "https://i.ytimg.com/vi/CN0_sE8H_D4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CN0_sE8H_D4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-03T11:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "BAWtbFpwbWs",
         "title": "【グランツーリスモ7】ハンコン挑戦✨カフェ最終レースNo.39「ワールドGTシリーズ」走りぬく！！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/BAWtbFpwbWs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BAWtbFpwbWs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-03T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-03T12:58:22Z",
         "actualEndTime": null
       }
     ],
@@ -31,9 +20,9 @@
         "title": "【お絵かき心理テスト】Vtuberの深層心理、お絵描きで覗いていきませんか👀【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/ZHeKhNwf-pQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZHeKhNwf-pQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-03T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-03T12:57:36Z",
         "actualEndTime": null
       }
     ],
@@ -43,9 +32,9 @@
         "title": "【 vtuber 弾き語り】心を込めたピアノ弾き型り🌙落ち着くチルタイム⏰【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/AjBjmlniXMU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=AjBjmlniXMU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-03T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-03T13:00:17Z",
         "actualEndTime": null
       }
     ]
