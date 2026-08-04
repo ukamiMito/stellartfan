@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T16:26:47.492Z",
+  "updatedAt": "2026-08-04T18:11:00.390Z",
   "channels": {
     "channelA": [
       {
@@ -22,16 +22,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-08-05T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "W0rkRHfoYeQ",
-        "title": "【Minecraft/雑談】建築雑談～⛏街の線路をコツコツ作るのだ【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/W0rkRHfoYeQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=W0rkRHfoYeQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-04T12:58:38Z",
         "actualEndTime": null
       }
     ],
