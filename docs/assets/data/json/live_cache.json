@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-08-04T18:11:00.390Z",
+  "updatedAt": "2026-08-04T20:08:27.581Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "V4GUqvSx6uE",
-        "title": "#3【ペルソナ5 ザ・ロイヤル】完全初見！鴨志田絶対許さないからなああああ！！もはや闇討ちでも構わん！！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/V4GUqvSx6uE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=V4GUqvSx6uE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-04T12:57:46Z",
+        "videoId": "h9u5RyF2RoA",
+        "title": "#4【ペルソナ5 ザ・ロイヤル】完全初見！カモシダ・パレスをクリアするぞ！！必ず改心させる。 ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/h9u5RyF2RoA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h9u5RyF2RoA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "Et0L4YLvd4A",
+        "title": "#3【スプラトゥーン レイダース】フウカ最推し女による、大暴れ最新作スプラ。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Et0L4YLvd4A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Et0L4YLvd4A",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-05T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
