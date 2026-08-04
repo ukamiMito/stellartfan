@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T11:39:00.209Z",
+  "updatedAt": "2026-08-04T14:09:36.137Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#3【ペルソナ5 ザ・ロイヤル】完全初見！鴨志田絶対許さないからなああああ！！もはや闇討ちでも構わん！！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/V4GUqvSx6uE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=V4GUqvSx6uE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-04T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-04T12:57:46Z",
         "actualEndTime": null
       }
     ],
@@ -29,33 +29,22 @@
         "title": "【Minecraft/雑談】建築雑談～⛏街の線路をコツコツ作るのだ【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/W0rkRHfoYeQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=W0rkRHfoYeQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-04T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "GhGyeu5_XhA",
-        "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！※ネタバレ注意 #4話【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/GhGyeu5_XhA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GhGyeu5_XhA",
         "status": "live",
         "scheduledStartTime": null,
-        "actualStartTime": "2026-08-04T11:28:41Z",
+        "actualStartTime": "2026-08-04T12:58:38Z",
         "actualEndTime": null
       }
     ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "wtIrD436AvM",
         "title": "【おにぎり屋さんシミュレータ―】最終回┊店長2日目！この街で一番の名店になる🍙 【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/wtIrD436AvM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wtIrD436AvM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-04T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-04T12:58:17Z",
         "actualEndTime": null
       }
     ]
