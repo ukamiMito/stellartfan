@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04T14:09:36.137Z",
+  "updatedAt": "2026-08-04T16:26:47.492Z",
   "channels": {
     "channelA": [
       {
@@ -36,17 +36,6 @@
       }
     ],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "wtIrD436AvM",
-        "title": "【おにぎり屋さんシミュレータ―】最終回┊店長2日目！この街で一番の名店になる🍙 【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/wtIrD436AvM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wtIrD436AvM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-04T12:58:17Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
