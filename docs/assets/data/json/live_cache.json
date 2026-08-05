@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T14:54:20.814Z",
+  "updatedAt": "2026-08-05T16:41:34.891Z",
   "channels": {
     "channelA": [
       {
@@ -23,18 +23,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "wQX-vrdZ2GM",
-        "title": "【 勝利の女神 : #nikke 】推しガチャ『ラプラス：アルティメットヒーロー』をお迎えします#167【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/wQX-vrdZ2GM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wQX-vrdZ2GM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-05T12:57:43Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [
       {
         "videoId": "sPdPHFrvGaA",
@@ -47,17 +36,6 @@
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "swy0g3y4tHs",
-        "title": "【 vtuber 弾き語り】涼しむ夏の夜🎐心を込めたピアノ弾き語り【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/swy0g3y4tHs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=swy0g3y4tHs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-05T12:59:46Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
