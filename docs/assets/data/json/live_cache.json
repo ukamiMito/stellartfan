@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-08-05T20:07:47.108Z",
+  "updatedAt": "2026-08-05T21:46:08.329Z",
   "channels": {
     "channelA": [
+      {
+        "videoId": "QN6Di2AQ-Qk",
+        "title": "【どろぼうノーム】小人になって人間の家で大暴れ！奪えるものすべて奪えええ【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
+        "thumbnail": "https://i.ytimg.com/vi/QN6Di2AQ-Qk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QN6Di2AQ-Qk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "h9u5RyF2RoA",
         "title": "#4【ペルソナ5 ザ・ロイヤル】完全初見！カモシダ・パレスをクリアするぞ！！必ず改心させる。 ※ネタバレ注意【天硝路ろまん / StellArt.】",
@@ -19,9 +29,9 @@
         "title": "【イオモニ/朝活】インターホンを押す者の正体【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/IqnQmOZnmFg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=IqnQmOZnmFg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-05T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-05T20:58:00Z",
         "actualEndTime": null
       }
     ],
