@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T16:41:34.891Z",
+  "updatedAt": "2026-08-05T18:20:51.667Z",
   "channels": {
     "channelA": [
       {
@@ -11,31 +11,21 @@
         "scheduledStartTime": "2026-08-06T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
+      }
+    ],
+    "channelB": [
       {
-        "videoId": "Et0L4YLvd4A",
-        "title": "#3【スプラトゥーン レイダース】フウカ最推し女による、大暴れ最新作スプラ。【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Et0L4YLvd4A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Et0L4YLvd4A",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-05T12:58:47Z",
+        "videoId": "IqnQmOZnmFg",
+        "title": "【イオモニ/朝活】インターホンを押す者の正体【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/IqnQmOZnmFg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IqnQmOZnmFg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-05T21:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [
-      {
-        "videoId": "sPdPHFrvGaA",
-        "title": "【NIKKE イベスト】RED ASH 後編 完全初見🔰あのままお別れなわけないよね…？　#24【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/sPdPHFrvGaA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sPdPHFrvGaA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-05T12:59:39Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
