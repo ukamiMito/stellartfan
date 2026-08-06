@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T09:24:33.441Z",
+  "updatedAt": "2026-08-06T11:39:49.307Z",
   "channels": {
     "channelA": [
       {
@@ -57,6 +57,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "JF69tsJtjyw",
+        "title": "【PUBG】ソロドン勝を取るまで終わりたくない🔥私、頑張る 【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/JF69tsJtjyw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JF69tsJtjyw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
