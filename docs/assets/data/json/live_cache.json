@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T00:04:03.964Z",
+  "updatedAt": "2026-08-06T03:48:45.409Z",
   "channels": {
     "channelA": [
       {
@@ -23,7 +23,18 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "U7nlOWlpP7Q",
+        "title": "【グランツーリスモ7】ハンコン挑戦✨メニューブックNo.40「ライトウェイトKカップ」に挑戦だ！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/U7nlOWlpP7Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=U7nlOWlpP7Q",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
