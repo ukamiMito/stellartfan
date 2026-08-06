@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T22:57:55.033Z",
+  "updatedAt": "2026-08-06T00:04:03.964Z",
   "channels": {
     "channelA": [
       {
@@ -23,18 +23,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "IqnQmOZnmFg",
-        "title": "【イオモニ/朝活】インターホンを押す者の正体【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/IqnQmOZnmFg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IqnQmOZnmFg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-05T20:58:00Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
