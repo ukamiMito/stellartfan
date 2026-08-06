@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T06:29:47.426Z",
+  "updatedAt": "2026-08-06T09:24:33.441Z",
   "channels": {
     "channelA": [
       {
@@ -25,6 +25,16 @@
     ],
     "channelB": [
       {
+        "videoId": "YO4GKGWp-qs",
+        "title": "【 どろぼうノーム 】小人の大泥棒ジジイになる！！神ゲーの予感・・・w/天硝路ろまん,ちゃむ。【華鉈イオ/StellArt.】#くれよんどおり三番地",
+        "thumbnail": "https://i.ytimg.com/vi/YO4GKGWp-qs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YO4GKGWp-qs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
         "videoId": "U7nlOWlpP7Q",
         "title": "【グランツーリスモ7】ハンコン挑戦✨メニューブックNo.40「ライトウェイトKカップ」に挑戦だ！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/U7nlOWlpP7Q/hqdefault.jpg",
@@ -35,7 +45,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "UxhHh5Z2b1o",
+        "title": "【Minecraft 実況】はじめてのマインクラフト【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/UxhHh5Z2b1o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UxhHh5Z2b1o",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
