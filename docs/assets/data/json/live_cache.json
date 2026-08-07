@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T19:52:07.622Z",
+  "updatedAt": "2026-08-07T20:39:43.484Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "83emtS7TW6Q",
+        "title": "【日本事故物件監視協会3/JSP3】オンライン業務で事故物件を監視👁👁【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/83emtS7TW6Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=83emtS7TW6Q",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-08T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
