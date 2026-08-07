@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T11:43:48.305Z",
+  "updatedAt": "2026-08-07T13:01:36.325Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【どろぼうノーム】小人になって人間の家で大暴れ！奪えるものすべて奪えええ【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
         "thumbnail": "https://i.ytimg.com/vi/QN6Di2AQ-Qk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=QN6Di2AQ-Qk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-07T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-07T13:00:25Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【 どろぼうノーム 】小人の大泥棒ジジイになる！！神ゲーの予感・・・w/天硝路ろまん,ちゃむ。【華鉈イオ/StellArt.】#くれよんどおり三番地",
         "thumbnail": "https://i.ytimg.com/vi/YO4GKGWp-qs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YO4GKGWp-qs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-07T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-07T12:58:52Z",
         "actualEndTime": null
       }
     ],
@@ -31,9 +31,9 @@
         "title": "【Minecraft 実況】はじめての洞窟探索🔥【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/WZRUz7mhw6o/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=WZRUz7mhw6o",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-07T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-07T11:57:38Z",
         "actualEndTime": null
       }
     ],
@@ -43,9 +43,9 @@
         "title": "【 vtuber 弾き語り】リラックスできるピアノ音色で癒しを届ける歌枠🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/4HL0hnc9qKU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4HL0hnc9qKU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-07T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-07T12:59:16Z",
         "actualEndTime": null
       }
     ]
