@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-08-07T22:33:51.521Z",
+  "updatedAt": "2026-08-07T23:32:42.655Z",
   "channels": {
     "channelA": [
       {
         "videoId": "mk_JzCwFySU",
-        "title": "【日本事故物件監視協会3】JSP最新作！2人で協力して監視業務するぞ～！！【天硝路ろまん / StellArt.】",
+        "title": "【日本事故物件監視協会3】JSP最新作！2人で協力して監視業務をするぞ～！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/mk_JzCwFySU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=mk_JzCwFySU",
         "status": "upcoming",
@@ -15,13 +15,13 @@
     ],
     "channelB": [
       {
-        "videoId": "tSk7j5Hei-4",
-        "title": "【Minecraft/雑談】深夜のまったりマイクラ配信。ゲリラ【華鉈イオ/StellArt.】#vtubers",
-        "thumbnail": "https://i.ytimg.com/vi/tSk7j5Hei-4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tSk7j5Hei-4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-07T17:59:57Z",
+        "videoId": "PWAy6sK6k7Q",
+        "title": "【NieR:Automata/ニーアオートマタ】#1 完全初見！これは呪いか。それとも罰か。【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/PWAy6sK6k7Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PWAy6sK6k7Q",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-08T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
