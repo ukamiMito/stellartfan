@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T14:07:22.820Z",
+  "updatedAt": "2026-08-07T00:23:27.741Z",
   "channels": {
     "channelA": [
       {
@@ -10,16 +10,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-08-07T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "h9u5RyF2RoA",
-        "title": "#4【ペルソナ5 ザ・ロイヤル】完全初見！カモシダ・パレスをクリアするぞ！！必ず改心させる。 ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/h9u5RyF2RoA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=h9u5RyF2RoA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-06T12:59:33Z",
         "actualEndTime": null
       }
     ],
@@ -33,41 +23,9 @@
         "scheduledStartTime": "2026-08-07T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "U7nlOWlpP7Q",
-        "title": "【グランツーリスモ7】ハンコン挑戦✨メニューブックNo.40「ライトウェイトKカップ」に挑戦だ！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/U7nlOWlpP7Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=U7nlOWlpP7Q",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-06T12:57:14Z",
-        "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "UxhHh5Z2b1o",
-        "title": "【Minecraft 実況】はじめてのマインクラフト【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/UxhHh5Z2b1o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UxhHh5Z2b1o",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-06T12:58:43Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "JF69tsJtjyw",
-        "title": "【PUBG】ソロドン勝を取るまで終わりたくない🔥私、頑張る 【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/JF69tsJtjyw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JF69tsJtjyw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-06T12:58:51Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
