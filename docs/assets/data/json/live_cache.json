@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T15:55:01.138Z",
+  "updatedAt": "2026-08-07T16:53:30.137Z",
   "channels": {
     "channelA": [],
     "channelB": [],
@@ -15,17 +15,6 @@
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "4HL0hnc9qKU",
-        "title": "【 vtuber 弾き語り】リラックスできるピアノ音色で癒しを届ける歌枠🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/4HL0hnc9qKU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4HL0hnc9qKU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-07T12:59:16Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
