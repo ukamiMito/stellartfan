@@ -1,30 +1,8 @@
 {
-  "updatedAt": "2026-08-07T14:31:11.532Z",
+  "updatedAt": "2026-08-07T15:55:01.138Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "QN6Di2AQ-Qk",
-        "title": "【どろぼうノーム】小人になって人間の家で大暴れ！奪えるものすべて奪えええ【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
-        "thumbnail": "https://i.ytimg.com/vi/QN6Di2AQ-Qk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QN6Di2AQ-Qk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-07T13:00:25Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "v6obosK95Js",
-        "title": "【 どろぼうノーム 】小人の大泥棒ジジイになる！！神ゲーの予感・・・w/天硝路ろまん,ちゃむ。【華鉈イオ/StellArt.】#くれよんどおり三番地",
-        "thumbnail": "https://i.ytimg.com/vi/v6obosK95Js/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=v6obosK95Js",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-07T13:22:22Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
+    "channelB": [],
     "channelC": [
       {
         "videoId": "WZRUz7mhw6o",
