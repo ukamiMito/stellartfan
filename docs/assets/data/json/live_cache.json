@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T06:45:22.660Z",
+  "updatedAt": "2026-08-07T08:13:06.137Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "WZRUz7mhw6o",
+        "title": "【Minecraft 実況】はじめての洞窟探索🔥【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/WZRUz7mhw6o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WZRUz7mhw6o",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "4HL0hnc9qKU",
