@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T13:01:36.325Z",
+  "updatedAt": "2026-08-07T14:31:11.532Z",
   "channels": {
     "channelA": [
       {
@@ -15,13 +15,13 @@
     ],
     "channelB": [
       {
-        "videoId": "YO4GKGWp-qs",
+        "videoId": "v6obosK95Js",
         "title": "【 どろぼうノーム 】小人の大泥棒ジジイになる！！神ゲーの予感・・・w/天硝路ろまん,ちゃむ。【華鉈イオ/StellArt.】#くれよんどおり三番地",
-        "thumbnail": "https://i.ytimg.com/vi/YO4GKGWp-qs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YO4GKGWp-qs",
+        "thumbnail": "https://i.ytimg.com/vi/v6obosK95Js/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=v6obosK95Js",
         "status": "live",
         "scheduledStartTime": null,
-        "actualStartTime": "2026-08-07T12:58:52Z",
+        "actualStartTime": "2026-08-07T13:22:22Z",
         "actualEndTime": null
       }
     ],
