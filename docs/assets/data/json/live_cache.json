@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T12:46:17.586Z",
+  "updatedAt": "2026-08-08T13:44:40.730Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【日本事故物件監視協会3】JSP最新作！2人で協力して監視業務をするぞ～！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/mk_JzCwFySU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=mk_JzCwFySU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-08T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-08T12:57:34Z",
         "actualEndTime": null
       }
     ],
@@ -19,9 +19,9 @@
         "title": "【NieR:Automata/ニーアオートマタ】#1 完全初見！これは呪いか。それとも罰か。【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/PWAy6sK6k7Q/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PWAy6sK6k7Q",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-08T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-08T12:57:18Z",
         "actualEndTime": null
       }
     ],
@@ -31,9 +31,9 @@
         "title": "【日本事故物件監視協会3/JSP3】オンライン業務で事故物件を監視👁👁【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/83emtS7TW6Q/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=83emtS7TW6Q",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-08T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-08T12:57:47Z",
         "actualEndTime": null
       }
     ],
