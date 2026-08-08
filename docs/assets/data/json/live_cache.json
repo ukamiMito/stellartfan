@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T08:39:35.593Z",
+  "updatedAt": "2026-08-08T09:36:50.830Z",
   "channels": {
     "channelA": [
       {
@@ -37,17 +37,6 @@
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "NUzoN53t_Tg",
-        "title": "【 vtuber 弾き語り】登録者3000人耐久だぁ！達成したらお知らせあり🌷【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/NUzoN53t_Tg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NUzoN53t_Tg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-08T05:58:57Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
