@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-08T17:59:23.023Z",
+  "updatedAt": "2026-08-08T18:50:58.520Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "gP7hrdpCHCo",
+        "title": "【Minecraft】🌠ステラート鯖マイクラ🌠ついに“アレ”を手に入れる！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/gP7hrdpCHCo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gP7hrdpCHCo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-09T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": [
