@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T03:41:40.744Z",
+  "updatedAt": "2026-08-09T05:04:13.738Z",
   "channels": {
     "channelA": [
       {
@@ -7,25 +7,14 @@
         "title": "【Minecraft】🌠ステラート鯖マイクラ🌠ついに“アレ”を手に入れる！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/gP7hrdpCHCo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=gP7hrdpCHCo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-09T05:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-09T05:00:25Z",
         "actualEndTime": null
       }
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "TGfVyl0rgBc",
-        "title": "【 雑談  】昼活☀ lunch time 🥐【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/TGfVyl0rgBc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TGfVyl0rgBc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-09T02:59:02Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
