@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T19:31:56.903Z",
+  "updatedAt": "2026-08-09T20:31:08.160Z",
   "channels": {
     "channelA": [
       {
@@ -25,18 +25,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "jX9tu_lkBMM",
-        "title": "【Minecraft 実況】深夜にコツコツ開拓🐄【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/jX9tu_lkBMM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jX9tu_lkBMM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-09T13:58:11Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
