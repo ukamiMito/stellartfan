@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T01:50:47.682Z",
+  "updatedAt": "2026-08-09T03:41:40.744Z",
   "channels": {
     "channelA": [
       {
@@ -21,9 +21,9 @@
         "title": "【 雑談  】昼活☀ lunch time 🥐【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/TGfVyl0rgBc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=TGfVyl0rgBc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-09T03:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-09T02:59:02Z",
         "actualEndTime": null
       }
     ]
