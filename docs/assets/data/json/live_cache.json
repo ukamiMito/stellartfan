@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T14:33:23.078Z",
+  "updatedAt": "2026-08-09T15:30:17.820Z",
   "channels": {
     "channelA": [],
     "channelB": [],
@@ -15,17 +15,6 @@
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "eetRXsGMC6A",
-        "title": "【 MAID CAFE 】メイドカフェで可愛い子に囲まれてお仕事体験する☕！/体験版 【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/eetRXsGMC6A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eetRXsGMC6A",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-09T12:57:58Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
