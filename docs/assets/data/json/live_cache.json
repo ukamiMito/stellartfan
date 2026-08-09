@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-08-09T15:30:17.820Z",
+  "updatedAt": "2026-08-09T16:34:10.616Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "pPUElnxnlpQ",
+        "title": "【 #dbd/ホラーウィーク 】初心者🔰べるくら先生の特別講習を受ける！！お気に入りキラー見つけたい！【華鉈イオ/StellArt.】 #deadbydaylight",
+        "thumbnail": "https://i.ytimg.com/vi/pPUElnxnlpQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pPUElnxnlpQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-10T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [
       {
         "videoId": "jX9tu_lkBMM",
