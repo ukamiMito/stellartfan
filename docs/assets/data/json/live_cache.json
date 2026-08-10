@@ -1,53 +1,9 @@
 {
-  "updatedAt": "2026-08-10T14:35:29.993Z",
+  "updatedAt": "2026-08-10T15:58:43.086Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "ngAu8jK9YbQ",
-        "title": "【 Dead by Daylight 】べるくらさんに教えてもらうデッドバイデイライト✨チェイス上手くなりたい！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ngAu8jK9YbQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ngAu8jK9YbQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-10T10:59:34Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "pPUElnxnlpQ",
-        "title": "【 #dbd/ホラーウィーク 】初心者🔰べるくら先生の特別講習を受ける！！お気に入りキラー見つけたい！【華鉈イオ/StellArt.】 #deadbydaylight",
-        "thumbnail": "https://i.ytimg.com/vi/pPUElnxnlpQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pPUElnxnlpQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-10T10:57:58Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "pT95UhsyGio",
-        "title": "【 Dead by Daylight 】べるくらさんにDBD教えていただきます✨🙌【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/pT95UhsyGio/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pT95UhsyGio",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-10T10:58:21Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "y5nIk2G_dR4",
-        "title": "【 Dead by Daylight 】べるくらさんから直々に教えてもらう🎉頑張るぞおお～🔥DAY1【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/y5nIk2G_dR4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=y5nIk2G_dR4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-10T10:59:17Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
