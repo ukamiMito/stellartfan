@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T02:25:16.271Z",
+  "updatedAt": "2026-08-10T04:12:18.939Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "pT95UhsyGio",
+        "title": "【 Dead by Daylight 】べるくらさんにDBD教えていただきます✨🙌【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/pT95UhsyGio/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pT95UhsyGio",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-10T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "y5nIk2G_dR4",
+        "title": "【 Dead by Daylight 】べるくらさんから直々に教えてもらう🎉頑張るぞおお～🔥DAY1【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/y5nIk2G_dR4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=y5nIk2G_dR4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-10T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
