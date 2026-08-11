@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-08-11T15:59:57.584Z",
+  "updatedAt": "2026-08-11T17:06:28.992Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "4_Z8R0Q_QBY",
+        "title": "【 Minecraft/寝落ち用】洞窟でひたすらダイヤ💎探しの旅に出る【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/4_Z8R0Q_QBY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4_Z8R0Q_QBY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-11T17:10:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": [
       {
