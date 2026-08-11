@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T04:18:57.146Z",
+  "updatedAt": "2026-08-11T05:34:40.698Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "ZNrFtuRKHFA",
+        "title": "【DON&#39;T SCREAM TOGETHER】叫んじゃいけないホラーゲーム…？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/ZNrFtuRKHFA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZNrFtuRKHFA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-11T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "yzge5AJFNYc",
+        "title": "【 DON&#39;T SCREAM TOGETHER 】完全初見⚠️恐怖を耐えろ！叫ぶの禁止ゲーム⚠️（ちょっと自信ある）　DAY2【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/yzge5AJFNYc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yzge5AJFNYc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-11T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
