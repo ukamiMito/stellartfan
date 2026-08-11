@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T08:30:09.134Z",
+  "updatedAt": "2026-08-11T09:33:15.770Z",
   "channels": {
     "channelA": [
       {
@@ -38,6 +38,16 @@
       }
     ],
     "channelD": [
+      {
+        "videoId": "ShymQbV2hOs",
+        "title": "【 vtuber 弾き語り】cill time🌷お昼に聴く心を込めた歌枠【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/ShymQbV2hOs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ShymQbV2hOs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-12T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "yzge5AJFNYc",
         "title": "【 DON&#39;T SCREAM TOGETHER 】完全初見⚠️恐怖を耐えろ！叫ぶの禁止ゲーム⚠️（ちょっと自信ある）　DAY2【アイリナ・ゼファリオ  / StellArt.】#vtuber",
