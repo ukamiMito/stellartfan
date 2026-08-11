@@ -1,61 +1,18 @@
 {
-  "updatedAt": "2026-08-11T14:35:00.911Z",
+  "updatedAt": "2026-08-11T15:59:57.584Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "C2p2ZQvOpGg",
-        "title": "【 DON&#39;T SCREAM TOGETHER 】絶叫禁止の耐久戦！！もし叫んだら…【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/C2p2ZQvOpGg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=C2p2ZQvOpGg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-11T12:58:59Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "uuEjp8-Emjs",
-        "title": "【DON&#39;T SCREAM TOGETHER/ホラーウィーク】絶対に叫んではいけない『耐久』対決！！【華鉈イオ/StellArt.】 #vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/uuEjp8-Emjs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uuEjp8-Emjs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-11T12:58:58Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "ZNrFtuRKHFA",
-        "title": "【DON&#39;T SCREAM TOGETHER】叫んじゃいけないホラーゲーム…？【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ZNrFtuRKHFA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZNrFtuRKHFA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-11T12:58:58Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "ShymQbV2hOs",
-        "title": "【 vtuber 弾き語り】cill time🌷お昼に聴く心を込めた歌枠【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "title": "【 vtuber 弾き語り】chill time🌷お昼に聴く心を込めた歌枠【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/ShymQbV2hOs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ShymQbV2hOs",
         "status": "upcoming",
         "scheduledStartTime": "2026-08-12T05:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "yzge5AJFNYc",
-        "title": "【 DON&#39;T SCREAM TOGETHER 】完全初見⚠️恐怖を耐えろ！叫ぶの禁止ゲーム⚠️（ちょっと自信ある）　DAY2【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/yzge5AJFNYc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yzge5AJFNYc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-11T13:00:01Z",
         "actualEndTime": null
       }
     ]
