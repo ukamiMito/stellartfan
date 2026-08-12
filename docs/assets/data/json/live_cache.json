@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-08-12T05:54:37.151Z",
+  "updatedAt": "2026-08-12T07:23:22.407Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "Et_1TV1ykPk",
+        "title": "【イオモニ/朝活】ずっとお盆休みでいい【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Et_1TV1ykPk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Et_1TV1ykPk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-12T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": [
       {
