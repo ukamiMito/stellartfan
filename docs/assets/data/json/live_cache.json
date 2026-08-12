@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-12T16:03:32.186Z",
+  "updatedAt": "2026-08-12T17:27:58.790Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "cW-kPI_eq8A",
+        "title": "【日本事故物件監視協会3】チーム対抗！事故物件監視バトル🔥 / イオ＆ろまんチーム視点【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/cW-kPI_eq8A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cW-kPI_eq8A",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-13T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "Et_1TV1ykPk",
