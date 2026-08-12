@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T04:07:30.678Z",
+  "updatedAt": "2026-08-12T05:54:37.151Z",
   "channels": {
     "channelA": [],
     "channelB": [],
@@ -10,9 +10,9 @@
         "title": "【 vtuber 弾き語り】chill time🌷お昼に聴く心を込めた歌枠【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/ShymQbV2hOs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ShymQbV2hOs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-12T05:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-12T04:58:55Z",
         "actualEndTime": null
       }
     ]
