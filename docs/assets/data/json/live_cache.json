@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T23:40:11.057Z",
+  "updatedAt": "2026-08-13T01:56:21.305Z",
   "channels": {
     "channelA": [
       {
@@ -13,19 +13,19 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
+    "channelB": [],
+    "channelC": [
       {
-        "videoId": "Et_1TV1ykPk",
-        "title": "【イオモニ/朝活】ずっとお盆休みでいい【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Et_1TV1ykPk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Et_1TV1ykPk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-12T20:57:37Z",
+        "videoId": "ce_07EYRSE0",
+        "title": "【日本事故物件監視協会3】JSP3でホラーバトル！！にうふぁアイリナチーム💚💜【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/ce_07EYRSE0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ce_07EYRSE0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-13T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [],
     "channelD": []
   }
 }
