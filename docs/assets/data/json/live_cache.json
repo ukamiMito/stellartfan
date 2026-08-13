@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T13:08:15.478Z",
+  "updatedAt": "2026-08-13T15:58:06.744Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【日本事故物件監視協会3】チーム対抗！事故物件監視バトル🔥 / イオ＆ろまんチーム視点【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/cW-kPI_eq8A/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cW-kPI_eq8A",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-13T14:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-13T13:57:34Z",
         "actualEndTime": null
       }
     ],
@@ -20,9 +20,9 @@
         "title": "【日本事故物件監視協会3】JSP3でホラーバトル！！にうふぁアイリナチーム💚💜【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/ce_07EYRSE0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ce_07EYRSE0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-13T14:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-13T13:57:49Z",
         "actualEndTime": null
       }
     ],
