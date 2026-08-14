@@ -1,19 +1,8 @@
 {
-  "updatedAt": "2026-08-14T07:23:21.999Z",
+  "updatedAt": "2026-08-14T08:44:25.629Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "DO1yTdxxqYs",
-        "title": "【 Minecraft/雑談 】🌸桜建築🌸可愛い馬小屋を作りたい！建築＆整地【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/DO1yTdxxqYs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DO1yTdxxqYs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-14T03:28:27Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
