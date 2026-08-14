@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-08-14T13:52:40.900Z",
+  "updatedAt": "2026-08-14T14:50:45.756Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "tRs45s_FyEM",
-        "title": "【ホラー企画】罰ゲームを受けるにうふぁを3人で見守る会【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/tRs45s_FyEM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tRs45s_FyEM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-14T13:14:45Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [],
     "channelD": []
