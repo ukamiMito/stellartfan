@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T12:35:28.020Z",
+  "updatedAt": "2026-08-15T13:29:28.646Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【ミラー配信】「GTWS 2026 ラウンド2 - 東京」マニュファクチャラーズカップとネイションズカップをミラー観戦する✨【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/xrV5lRlF2WQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xrV5lRlF2WQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-15T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-15T12:57:29Z",
         "actualEndTime": null
       }
     ],
@@ -21,9 +21,9 @@
         "title": "【 vtuber 弾き語り】夜の眠れるピアノ弾き語り🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/XSYeEq9X-xo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=XSYeEq9X-xo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-15T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-15T13:01:14Z",
         "actualEndTime": null
       }
     ]
