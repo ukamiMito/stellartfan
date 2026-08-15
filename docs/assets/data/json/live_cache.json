@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T09:27:04.701Z",
+  "updatedAt": "2026-08-15T09:50:44.919Z",
   "channels": {
     "channelA": [
       {
@@ -24,18 +24,7 @@
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "-4tn3k-sq9o",
-        "title": "【歌枠 新人Vtuber】お歌の練習！！楽しく歌いたい！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/-4tn3k-sq9o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-4tn3k-sq9o",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-15T06:59:05Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
