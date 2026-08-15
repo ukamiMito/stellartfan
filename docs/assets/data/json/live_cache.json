@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T10:47:34.627Z",
+  "updatedAt": "2026-08-15T11:19:12.933Z",
   "channels": {
     "channelA": [
       {
@@ -25,6 +25,17 @@
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "XSYeEq9X-xo",
+        "title": "【 vtuber 弾き語り】夜の眠れるピアノ弾き語り🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/XSYeEq9X-xo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XSYeEq9X-xo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
