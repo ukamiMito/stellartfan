@@ -1,28 +1,7 @@
 {
-  "updatedAt": "2026-08-15T04:58:38.185Z",
+  "updatedAt": "2026-08-15T05:32:10.232Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "xrV5lRlF2WQ",
-        "title": "【ミラー配信】「GTWS 2026 ラウンド2 - 東京」マニュファクチャラーズカップとネイションズカップをミラー観戦する✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/xrV5lRlF2WQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xrV5lRlF2WQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-15T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "OfG8noiMkKs",
-        "title": "【ミラー配信】全国高校e-Motorsport選手権 アオハルGP を観よう！高校生たちの熱いレースを見届けるぞ🔥【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/OfG8noiMkKs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OfG8noiMkKs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-15T09:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [],
     "channelD": []
