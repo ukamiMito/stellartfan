@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T11:44:53.317Z",
+  "updatedAt": "2026-08-15T12:35:28.020Z",
   "channels": {
     "channelA": [
       {
@@ -10,16 +10,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-08-15T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "OfG8noiMkKs",
-        "title": "【ミラー配信】全国高校e-Motorsport選手権 アオハルGP を観よう！高校生たちの熱いレースを見届けるぞ🔥【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/OfG8noiMkKs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OfG8noiMkKs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-15T08:52:16Z",
         "actualEndTime": null
       }
     ],
