@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T08:41:39.111Z",
+  "updatedAt": "2026-08-17T09:40:02.965Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -36,6 +36,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "U26RG6pWw8o",
+        "title": "【 vtuber 弾き語り】深夜のピアノ弾き語り🎹1曲どうですか？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/U26RG6pWw8o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=U26RG6pWw8o",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-17T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
