@@ -1,18 +1,19 @@
 {
-  "updatedAt": "2026-08-17T15:23:48.737Z",
+  "updatedAt": "2026-08-17T15:49:25.539Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "GnlUAg54ciw",
-        "title": "【 勝利の女神 : #nikke 】ペルソナコラボ✨イベスト『PERSONA ON FRONTLINE』観る！ペルソナ初見！#168【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/GnlUAg54ciw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GnlUAg54ciw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-17T12:58:09Z",
+        "videoId": "mqa3VPqXFvE",
+        "title": "#4【スプラトゥーン レイダース】フウカ最推し女による、大暴れ最新作スプラ。ストーリークリアを目指す！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/mqa3VPqXFvE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mqa3VPqXFvE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-18T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
-      },
+      }
+    ],
+    "channelB": [
       {
         "videoId": "YGWd0gLi-O8",
         "title": "【NieR:Automata/ニーアオートマタ】#2 完全初見！『砂漠地帯：マンモス団地』からスタート！【華鉈イオ/StellArt.】#vtuber",
@@ -24,18 +25,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "4Nf36DeGc78",
-        "title": "【Minecraft 実況】はじめてのブランチ・マイニング💪【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/4Nf36DeGc78/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4Nf36DeGc78",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-17T10:01:30Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "U26RG6pWw8o",
