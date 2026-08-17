@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T09:40:02.965Z",
+  "updatedAt": "2026-08-17T10:30:50.717Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -30,9 +30,9 @@
         "title": "【Minecraft 実況】はじめてのブランチ・マイニング💪【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/4Nf36DeGc78/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4Nf36DeGc78",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-17T10:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-17T10:01:30Z",
         "actualEndTime": null
       }
     ],
