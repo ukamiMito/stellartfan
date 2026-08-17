@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-08-17T06:53:39.878Z",
+  "updatedAt": "2026-08-17T07:52:11.629Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "GnlUAg54ciw",
+        "title": "【 勝利の女神 : #nikke 】ペルソナコラボ✨イベスト『PERSONA ON FRONTLINE』観る！ペルソナ初見！#168【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/GnlUAg54ciw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GnlUAg54ciw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-17T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "YGWd0gLi-O8",
+        "title": "【NieR:Automata/ニーアオートマタ】#2 完全初見！『砂漠地帯：マンモス団地』からスタート！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/YGWd0gLi-O8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YGWd0gLi-O8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
