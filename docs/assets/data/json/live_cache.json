@@ -1,9 +1,42 @@
 {
-  "updatedAt": "2026-08-18T06:45:57.731Z",
+  "updatedAt": "2026-08-18T07:36:52.029Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
-    "channelC": [],
+    "channelA": [
+      {
+        "videoId": "mqa3VPqXFvE",
+        "title": "#4【スプラトゥーン レイダース】フウカ最推し女による、大暴れ最新作スプラ。ストーリークリアを目指す！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/mqa3VPqXFvE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mqa3VPqXFvE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "YGWd0gLi-O8",
+        "title": "【NieR:Automata/ニーアオートマタ】#2 完全初見！『砂漠地帯：マンモス団地』からスタート！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/YGWd0gLi-O8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YGWd0gLi-O8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "MzvZooI_dRE",
+        "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！※ネタバレ注意 #5話【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/MzvZooI_dRE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MzvZooI_dRE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-18T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
