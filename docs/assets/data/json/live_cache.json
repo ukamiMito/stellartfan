@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T23:20:26.236Z",
+  "updatedAt": "2026-08-18T23:47:09.452Z",
   "channels": {
     "channelA": [
       {
@@ -13,19 +13,19 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
+    "channelB": [],
+    "channelC": [
       {
-        "videoId": "YGWd0gLi-O8",
-        "title": "【NieR:Automata/ニーアオートマタ】#2 完全初見！『砂漠地帯：マンモス団地』からスタート！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/YGWd0gLi-O8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YGWd0gLi-O8",
+        "videoId": "AsKDp0VoR7g",
+        "title": "【NIKKE 配信】SECOND AFFECTION  完全初見🔰初のサイドストーリー！ #25【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/AsKDp0VoR7g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AsKDp0VoR7g",
         "status": "upcoming",
         "scheduledStartTime": "2026-08-19T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [],
     "channelD": []
   }
 }
