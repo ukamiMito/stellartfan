@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T15:30:34.806Z",
+  "updatedAt": "2026-08-18T16:29:52.131Z",
   "channels": {
     "channelA": [
       {
@@ -23,6 +23,16 @@
         "scheduledStartTime": "2026-08-19T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
+      },
+      {
+        "videoId": "LbgKeK4i_O4",
+        "title": "💓 Free chat ＆ schedule 💓",
+        "thumbnail": "https://i.ytimg.com/vi/LbgKeK4i_O4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LbgKeK4i_O4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-12-20T19:20:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
       }
     ],
     "channelC": [
@@ -34,16 +44,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-08-19T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "MzvZooI_dRE",
-        "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！※ネタバレ注意 #5話【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/MzvZooI_dRE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MzvZooI_dRE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-18T11:58:48Z",
         "actualEndTime": null
       }
     ],
