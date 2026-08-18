@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-08-18T16:59:27.353Z",
+  "updatedAt": "2026-08-18T17:35:02.695Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "mqa3VPqXFvE",
-        "title": "#4【スプラトゥーン レイダース】フウカ最推し女による、大暴れ最新作スプラ。ストーリークリアを目指す！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/mqa3VPqXFvE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mqa3VPqXFvE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-18T12:58:56Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "YGWd0gLi-O8",
