@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T12:43:11.873Z",
+  "updatedAt": "2026-08-18T13:40:56.695Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#4【スプラトゥーン レイダース】フウカ最推し女による、大暴れ最新作スプラ。ストーリークリアを目指す！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/mqa3VPqXFvE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=mqa3VPqXFvE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-18T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-18T12:58:56Z",
         "actualEndTime": null
       }
     ],
@@ -20,7 +20,7 @@
         "thumbnail": "https://i.ytimg.com/vi/YGWd0gLi-O8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YGWd0gLi-O8",
         "status": "upcoming",
-        "scheduledStartTime": "2026-08-18T13:00:00Z",
+        "scheduledStartTime": "2026-08-19T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
@@ -53,9 +53,9 @@
         "title": "【 Minecraft 】初マイクラ🌷何する⁉まずは拠点造り！ 【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/8-sqpTvwxFc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=8-sqpTvwxFc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-18T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-18T13:00:43Z",
         "actualEndTime": null
       }
     ]
