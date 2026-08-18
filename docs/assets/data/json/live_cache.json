@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T16:29:52.131Z",
+  "updatedAt": "2026-08-18T16:59:27.353Z",
   "channels": {
     "channelA": [
       {
@@ -23,16 +23,6 @@
         "scheduledStartTime": "2026-08-19T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "LbgKeK4i_O4",
-        "title": "💓 Free chat ＆ schedule 💓",
-        "thumbnail": "https://i.ytimg.com/vi/LbgKeK4i_O4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LbgKeK4i_O4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-12-20T19:20:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
       }
     ],
     "channelC": [
@@ -47,17 +37,6 @@
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "8-sqpTvwxFc",
-        "title": "【 Minecraft 】初マイクラ🌷何する⁉まずは拠点造り！ 【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/8-sqpTvwxFc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8-sqpTvwxFc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-18T13:00:43Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
