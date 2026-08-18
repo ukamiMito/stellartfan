@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-08-17T23:46:38.232Z",
+  "updatedAt": "2026-08-18T01:10:42.291Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "YGWd0gLi-O8",
+        "title": "【NieR:Automata/ニーアオートマタ】#2 完全初見！『砂漠地帯：マンモス団地』からスタート！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/YGWd0gLi-O8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YGWd0gLi-O8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
