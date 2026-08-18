@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T07:36:52.029Z",
+  "updatedAt": "2026-08-18T08:35:28.698Z",
   "channels": {
     "channelA": [
       {
@@ -27,6 +27,16 @@
     ],
     "channelC": [
       {
+        "videoId": "AsKDp0VoR7g",
+        "title": "【NIKKE 配信】SECOND AFFECTION  完全初見🔰初のサイドストーリー！ #25【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/AsKDp0VoR7g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AsKDp0VoR7g",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-19T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
         "videoId": "MzvZooI_dRE",
         "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！※ネタバレ注意 #5話【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/MzvZooI_dRE/hqdefault.jpg",
@@ -37,6 +47,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "8-sqpTvwxFc",
+        "title": "【 Minecraft 】初マイクラ🌷何する⁉まずは拠点造り！ 【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/8-sqpTvwxFc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8-sqpTvwxFc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
