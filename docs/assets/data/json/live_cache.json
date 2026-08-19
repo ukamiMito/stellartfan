@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T08:35:57.866Z",
+  "updatedAt": "2026-08-19T09:32:48.429Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "drmZxwF8iuk",
+        "title": "【イオモニ/朝活】自己流節約術のお披露目会をしよう【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/drmZxwF8iuk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=drmZxwF8iuk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-19T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "YGWd0gLi-O8",
         "title": "【NieR:Automata/ニーアオートマタ】#2 完全初見！『砂漠地帯：マンモス団地』からスタート！【華鉈イオ/StellArt.】#vtuber",
