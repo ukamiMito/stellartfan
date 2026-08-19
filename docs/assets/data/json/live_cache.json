@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-08-19T06:54:44.424Z",
+  "updatedAt": "2026-08-19T07:37:00.179Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
+    "channelA": [
+      {
+        "videoId": "C_BGA6cYWhw",
+        "title": "【Minecraft】🌠ステラート鯖マイクラ🌠夜だしまったり雑談しながら建築しようや。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/C_BGA6cYWhw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C_BGA6cYWhw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-19T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "YGWd0gLi-O8",
+        "title": "【NieR:Automata/ニーアオートマタ】#2 完全初見！『砂漠地帯：マンモス団地』からスタート！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/YGWd0gLi-O8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YGWd0gLi-O8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-19T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "LbgKeK4i_O4",
+        "title": "💓 Free chat ＆ schedule 💓",
+        "thumbnail": "https://i.ytimg.com/vi/LbgKeK4i_O4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LbgKeK4i_O4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-12-20T19:20:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [
       {
         "videoId": "AsKDp0VoR7g",
