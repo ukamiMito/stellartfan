@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T22:50:33.718Z",
+  "updatedAt": "2026-08-19T23:21:28.211Z",
   "channels": {
     "channelA": [
       {
@@ -13,18 +13,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "drmZxwF8iuk",
-        "title": "【イオモニ/朝活】自己流節約術のお披露目会をしよう【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/drmZxwF8iuk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=drmZxwF8iuk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-19T20:57:28Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
