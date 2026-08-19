@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-08-19T17:50:20.212Z",
+  "updatedAt": "2026-08-19T18:34:00.512Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "C_BGA6cYWhw",
-        "title": "【Minecraft】🌠ステラート鯖マイクラ🌠夜だしまったり雑談しながら建築しようや。【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/C_BGA6cYWhw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=C_BGA6cYWhw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-19T13:00:40Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "drmZxwF8iuk",
