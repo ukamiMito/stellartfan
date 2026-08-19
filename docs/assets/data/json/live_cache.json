@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T15:30:12.573Z",
+  "updatedAt": "2026-08-19T15:59:42.058Z",
   "channels": {
     "channelA": [
       {
@@ -36,17 +36,6 @@
       }
     ],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "CzwyphQgcdk",
-        "title": "【 vtuber 弾き語り】圧倒的癒し🐑夜にピッタリのピアノ弾き語り🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/CzwyphQgcdk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CzwyphQgcdk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-19T13:00:52Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
