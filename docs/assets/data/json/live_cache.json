@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:26:01.482Z",
+  "updatedAt": "2026-08-19T20:54:31.578Z",
   "channels": {
     "channelA": [
       {
@@ -21,16 +21,6 @@
         "url": "https://www.youtube.com/watch?v=drmZxwF8iuk",
         "status": "upcoming",
         "scheduledStartTime": "2026-08-19T21:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "LbgKeK4i_O4",
-        "title": "💓 Free chat ＆ schedule 💓",
-        "thumbnail": "https://i.ytimg.com/vi/LbgKeK4i_O4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LbgKeK4i_O4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-12-20T19:20:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
