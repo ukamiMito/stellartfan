@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-19T18:34:00.512Z",
+  "updatedAt": "2026-08-19T19:23:57.431Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "bWztLR52o40",
+        "title": "#5【ペルソナ5 ザ・ロイヤル】完全初見！次のターゲットは日本画家！？一体どんな人物なんだー！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/bWztLR52o40/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bWztLR52o40",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "drmZxwF8iuk",
@@ -10,16 +21,6 @@
         "url": "https://www.youtube.com/watch?v=drmZxwF8iuk",
         "status": "upcoming",
         "scheduledStartTime": "2026-08-19T21:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "LbgKeK4i_O4",
-        "title": "💓 Free chat ＆ schedule 💓",
-        "thumbnail": "https://i.ytimg.com/vi/LbgKeK4i_O4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LbgKeK4i_O4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-12-20T19:20:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
