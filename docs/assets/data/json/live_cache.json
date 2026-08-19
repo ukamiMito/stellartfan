@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T10:27:41.849Z",
+  "updatedAt": "2026-08-19T10:56:17.795Z",
   "channels": {
     "channelA": [
       {
@@ -33,6 +33,16 @@
         "scheduledStartTime": "2026-08-19T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
+      },
+      {
+        "videoId": "LbgKeK4i_O4",
+        "title": "💓 Free chat ＆ schedule 💓",
+        "thumbnail": "https://i.ytimg.com/vi/LbgKeK4i_O4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LbgKeK4i_O4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-12-20T19:20:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
       }
     ],
     "channelC": [
@@ -47,6 +57,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "CzwyphQgcdk",
+        "title": "【 vtuber 弾き語り】圧倒的癒し🐑夜にピッタリのピアノ弾き語り🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/CzwyphQgcdk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CzwyphQgcdk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-19T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
