@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T14:32:35.778Z",
+  "updatedAt": "2026-08-19T15:30:12.573Z",
   "channels": {
     "channelA": [
       {
@@ -35,18 +35,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "AsKDp0VoR7g",
-        "title": "【NIKKE 配信】SECOND AFFECTION  完全初見🔰初のサイドストーリー！ #25【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/AsKDp0VoR7g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AsKDp0VoR7g",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-19T12:59:16Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "CzwyphQgcdk",
