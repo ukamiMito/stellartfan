@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-08-20T01:11:06.104Z",
+  "updatedAt": "2026-08-20T02:36:52.653Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "bWztLR52o40",
-        "title": "#5【ペルソナ5 ザ・ロイヤル】完全初見！次のターゲットは日本画家！？一体どんな人物なんだー！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/bWztLR52o40/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bWztLR52o40",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-20T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [],
     "channelD": []
