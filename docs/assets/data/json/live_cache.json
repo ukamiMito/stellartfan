@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T22:26:09.177Z",
+  "updatedAt": "2026-08-20T22:55:22.197Z",
   "channels": {
     "channelA": [
       {
@@ -13,7 +13,18 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "NrDKGvva9ao",
+        "title": "【誕プレ/開封枠】🎉視聴者様からの誕生日プレゼント🎁を開封していく！※写真有📸#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/NrDKGvva9ao/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NrDKGvva9ao",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-21T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
