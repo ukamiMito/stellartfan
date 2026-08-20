@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-20T18:46:44.504Z",
+  "updatedAt": "2026-08-20T19:30:02.130Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "cCVXaw5AV54",
-        "title": "【 Minecraft/雑談 】🔰初めての天空トラップタワー作る！経験値ガッポリ稼ぎたい！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/cCVXaw5AV54/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cCVXaw5AV54",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-20T12:58:57Z",
+        "videoId": "qrWwBIplLRk",
+        "title": "【グランツーリスモ7】久しぶりのGT7！メニューブック進めて感覚取り戻すぞーー！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/qrWwBIplLRk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qrWwBIplLRk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-21T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
