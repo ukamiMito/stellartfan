@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-08-20T17:27:41.669Z",
+  "updatedAt": "2026-08-20T17:57:14.213Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "bWztLR52o40",
-        "title": "#5【ペルソナ5 ザ・ロイヤル】完全初見！次のターゲットは日本画家！？一体どんな人物なんだー！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/bWztLR52o40/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bWztLR52o40",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-20T13:00:05Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "cCVXaw5AV54",
@@ -25,18 +14,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "dyshGhTf-kY",
-        "title": "【Minecraft 実況】はじめての村拡張👬💖👬【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/dyshGhTf-kY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dyshGhTf-kY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-20T11:56:56Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
