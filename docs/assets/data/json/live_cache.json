@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T11:34:29.719Z",
+  "updatedAt": "2026-08-20T12:47:33.889Z",
   "channels": {
     "channelA": [
       {
@@ -31,9 +31,9 @@
         "title": "【Minecraft 実況】はじめての村拡張👬💖👬【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/dyshGhTf-kY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=dyshGhTf-kY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-20T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-20T11:56:56Z",
         "actualEndTime": null
       }
     ],
