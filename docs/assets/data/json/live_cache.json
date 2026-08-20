@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-08-20T06:57:28.418Z",
+  "updatedAt": "2026-08-20T07:46:03.999Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
+    "channelA": [
+      {
+        "videoId": "bWztLR52o40",
+        "title": "#5【ペルソナ5 ザ・ロイヤル】完全初見！次のターゲットは日本画家！？一体どんな人物なんだー！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/bWztLR52o40/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bWztLR52o40",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "cCVXaw5AV54",
+        "title": "【 Minecraft/雑談 】🔰初めての天空トラップタワー作る！経験値ガッポリ稼ぎたい！！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/cCVXaw5AV54/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cCVXaw5AV54",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [
       {
         "videoId": "dyshGhTf-kY",
@@ -15,6 +37,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "mR5xazeuOQA",
+        "title": "【 Minecraft 】ド初心者の牧場小屋作り🐄おしゃれに作るぞ！ 【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/mR5xazeuOQA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mR5xazeuOQA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
