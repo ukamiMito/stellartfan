@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T09:35:08.517Z",
+  "updatedAt": "2026-08-21T10:29:03.126Z",
   "channels": {
     "channelA": [
       {
@@ -37,6 +37,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "qyROIyQ0dMI",
+        "title": "【 Minecraft 】ド初心者の牧場小屋作りpart2🐑小屋と周辺を整備していく！ 【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/qyROIyQ0dMI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qyROIyQ0dMI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-21T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
