@@ -1,8 +1,30 @@
 {
-  "updatedAt": "2026-08-21T06:44:26.628Z",
+  "updatedAt": "2026-08-21T07:41:02.934Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
+    "channelA": [
+      {
+        "videoId": "qrWwBIplLRk",
+        "title": "【グランツーリスモ7】久しぶりのGT7！メニューブック進めて感覚取り戻すぞーー！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/qrWwBIplLRk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qrWwBIplLRk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-21T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "NrDKGvva9ao",
+        "title": "【誕プレ/開封枠】🎉視聴者様からの誕生日プレゼント🎁を開封していく！※写真有📸#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/NrDKGvva9ao/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NrDKGvva9ao",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-21T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
