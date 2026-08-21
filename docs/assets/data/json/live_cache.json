@@ -1,30 +1,8 @@
 {
-  "updatedAt": "2026-08-21T15:32:04.565Z",
+  "updatedAt": "2026-08-21T16:33:02.564Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "qrWwBIplLRk",
-        "title": "【グランツーリスモ7】久しぶりのGT7！メニューブック進めて感覚取り戻すぞーー！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/qrWwBIplLRk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qrWwBIplLRk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-21T12:59:29Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "NrDKGvva9ao",
-        "title": "【誕プレ/開封枠】🎉視聴者様からの誕生日プレゼント🎁を開封していく！※写真有📸#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/NrDKGvva9ao/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NrDKGvva9ao",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-21T13:28:00Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
+    "channelB": [],
     "channelC": [],
     "channelD": [
       {
@@ -35,16 +13,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-08-22T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "qyROIyQ0dMI",
-        "title": "【 Minecraft 】ド初心者の牧場小屋作りpart2🐑小屋と周辺を整備していく！ 【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/qyROIyQ0dMI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qyROIyQ0dMI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-21T12:58:38Z",
         "actualEndTime": null
       }
     ]
