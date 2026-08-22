@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-08-22T15:19:10.828Z",
+  "updatedAt": "2026-08-22T15:45:58.210Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "1ZFnD5rp35w",
-        "title": "【F1 2026/生放送同時視聴】「オランダGP　予選:ライブ」角田さんが走ると聞いて！！！！！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/1ZFnD5rp35w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1ZFnD5rp35w",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-22T13:28:48Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "4q-CP2UdkNw",
@@ -26,17 +15,6 @@
       }
     ],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "Bk2Ii3TWv2o",
-        "title": "【 vtuber 弾き語り】夏の終わり、聴きたくなる曲をピアノ弾き語りでどうですか？🪸【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/Bk2Ii3TWv2o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Bk2Ii3TWv2o",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-22T12:58:11Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
