@@ -1,19 +1,8 @@
 {
-  "updatedAt": "2026-08-22T16:49:26.156Z",
+  "updatedAt": "2026-08-22T17:19:07.228Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "4q-CP2UdkNw",
-        "title": "【華鉈イオの深夜喫茶】第9回✨夏に観たくなるアニメ・映画の布教をしよう【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
-        "thumbnail": "https://i.ytimg.com/vi/4q-CP2UdkNw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4q-CP2UdkNw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-22T14:00:53Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
