@@ -1,9 +1,42 @@
 {
-  "updatedAt": "2026-08-22T06:38:03.835Z",
+  "updatedAt": "2026-08-22T07:30:37.045Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
+    "channelA": [
+      {
+        "videoId": "1ZFnD5rp35w",
+        "title": "【F1 2026/生放送同時視聴】「オランダGP　予選:ライブ」角田さんが走ると聞いて！！！！！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/1ZFnD5rp35w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1ZFnD5rp35w",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-22T13:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "4q-CP2UdkNw",
+        "title": "【華鉈イオの深夜喫茶】第9回✨夏に観たくなるアニメ・映画の布教をしよう【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
+        "thumbnail": "https://i.ytimg.com/vi/4q-CP2UdkNw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4q-CP2UdkNw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-22T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "Bk2Ii3TWv2o",
+        "title": "【 vtuber 弾き語り】夏の終わり、聴きたくなる曲をピアノ弾き語りでどうですか？🪸【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/Bk2Ii3TWv2o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Bk2Ii3TWv2o",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-22T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
