@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T10:22:10.359Z",
+  "updatedAt": "2026-08-22T10:49:15.509Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "FmiYHDdP5Ew",
+        "title": "【Minecraft 実況】もくもくブランチマイニング💎新×××登場！？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/FmiYHDdP5Ew/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FmiYHDdP5Ew",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-22T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "Bk2Ii3TWv2o",
