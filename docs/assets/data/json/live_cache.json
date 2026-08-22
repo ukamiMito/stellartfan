@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T13:30:49.775Z",
+  "updatedAt": "2026-08-22T14:20:08.598Z",
   "channels": {
     "channelA": [
       {
@@ -19,9 +19,9 @@
         "title": "【華鉈イオの深夜喫茶】第9回✨夏に観たくなるアニメ・映画の布教をしよう【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
         "thumbnail": "https://i.ytimg.com/vi/4q-CP2UdkNw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4q-CP2UdkNw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-22T14:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-22T14:00:53Z",
         "actualEndTime": null
       }
     ],
