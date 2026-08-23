@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T12:37:39.723Z",
+  "updatedAt": "2026-08-23T13:31:03.479Z",
   "channels": {
     "channelA": [
       {
@@ -20,9 +20,9 @@
         "title": "【なかったことに】なんとかごまかして名画を修復する！！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/R737PWLkr1k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=R737PWLkr1k",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-23T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-23T12:57:57Z",
         "actualEndTime": null
       }
     ],
@@ -32,9 +32,9 @@
         "title": "【鬼子母 Hariti】廃病院を彷徨う女⁉怖すぎるホラゲーやっていく‼【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/4rtOO7WxYaQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4rtOO7WxYaQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-23T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-23T12:59:03Z",
         "actualEndTime": null
       },
       {
