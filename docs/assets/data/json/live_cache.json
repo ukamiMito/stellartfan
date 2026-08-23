@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T11:45:28.145Z",
+  "updatedAt": "2026-08-23T12:37:39.723Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【F1 2026/生放送同時視聴】「オランダGP　予選:ライブ」角田さんが走ると聞いて！！！！！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/iNUUsNL6OfE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=iNUUsNL6OfE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-23T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-23T12:26:24Z",
         "actualEndTime": null
       }
     ],
