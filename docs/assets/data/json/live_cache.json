@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T14:22:02.008Z",
+  "updatedAt": "2026-08-23T14:49:11.031Z",
   "channels": {
     "channelA": [
       {
@@ -14,18 +14,7 @@
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "R737PWLkr1k",
-        "title": "【なかったことに】なんとかごまかして名画を修復する！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/R737PWLkr1k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=R737PWLkr1k",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-23T12:57:57Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "4rtOO7WxYaQ",
