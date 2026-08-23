@@ -1,9 +1,30 @@
 {
-  "updatedAt": "2026-08-23T22:47:41.098Z",
+  "updatedAt": "2026-08-23T23:19:58.032Z",
   "channels": {
     "channelA": [],
     "channelB": [],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "euevGSALGts",
+        "title": "【 vtuber 弾き語り】歌枠リレー前日！お昼のチルなピアノ弾き語り☕【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/euevGSALGts/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=euevGSALGts",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-24T05:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "lFmh_WCsgdI",
+        "title": "【#NEW推しV歌枠リレー】心を灯す音楽を届けます🕯StellArt.の音楽家⏳【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/lFmh_WCsgdI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lFmh_WCsgdI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-25T12:40:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
