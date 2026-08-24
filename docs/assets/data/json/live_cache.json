@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T08:57:09.028Z",
+  "updatedAt": "2026-08-24T09:52:27.255Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -24,18 +24,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "5YF3MZnlfnM",
-        "title": "【Minecraft 実況】もくもく整理整頓…できるのか？【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/5YF3MZnlfnM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5YF3MZnlfnM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-24T05:28:11Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "lFmh_WCsgdI",
