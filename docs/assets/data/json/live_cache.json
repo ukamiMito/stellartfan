@@ -1,9 +1,52 @@
 {
-  "updatedAt": "2026-08-24T06:56:35.655Z",
+  "updatedAt": "2026-08-24T07:58:45.241Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
-    "channelC": [],
-    "channelD": []
+    "channelB": [
+      {
+        "videoId": "Q8i1B2WWL1s",
+        "title": "【NieR:Automata/ニーアオートマタ】#3 完全初見！機械生命体とは一体なんなんだ......【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Q8i1B2WWL1s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Q8i1B2WWL1s",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-25T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "oVL_6qn1y3E",
+        "title": "【 勝利の女神 : #nikke 】ペルソナコラボ✨イベストⅡ『PERSONA ON FRONTLINE』同時視聴していく！#169【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/oVL_6qn1y3E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oVL_6qn1y3E",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-24T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "5YF3MZnlfnM",
+        "title": "【Minecraft 実況】もくもく整理整頓…できるのか？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/5YF3MZnlfnM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5YF3MZnlfnM",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-24T05:28:11Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "lFmh_WCsgdI",
+        "title": "【#NEW推しV歌枠リレー】心を灯す音楽を届けます🕯StellArt.の音楽家⏳【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/lFmh_WCsgdI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lFmh_WCsgdI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-25T12:40:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
