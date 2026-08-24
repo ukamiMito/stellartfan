@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T12:49:16.558Z",
+  "updatedAt": "2026-08-24T13:50:44.538Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -18,9 +18,9 @@
         "title": "【 勝利の女神 : #nikke 】ペルソナコラボ✨イベストⅡ『PERSONA ON FRONTLINE』同時視聴していく！#169【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/oVL_6qn1y3E/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=oVL_6qn1y3E",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-24T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-24T12:57:45Z",
         "actualEndTime": null
       }
     ],
