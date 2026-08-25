@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T15:40:33.436Z",
+  "updatedAt": "2026-08-25T16:36:05.566Z",
   "channels": {
     "channelA": [
       {
@@ -13,30 +13,8 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "5sBtuYpEKHM",
-        "title": "【NieR:Automata/ニーアオートマタ】#3 完全初見！機械生命体とは一体なんなんだ......【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/5sBtuYpEKHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5sBtuYpEKHM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-25T14:15:17Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "A9iKpghVWr4",
-        "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！※ネタバレ注意 #第２章１話【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/A9iKpghVWr4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=A9iKpghVWr4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-25T10:56:29Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
+    "channelC": [],
     "channelD": []
   }
 }
