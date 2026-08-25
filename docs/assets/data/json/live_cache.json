@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T03:47:28.153Z",
+  "updatedAt": "2026-08-25T04:37:33.989Z",
   "channels": {
     "channelA": [
       {
@@ -26,17 +26,6 @@
       }
     ],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "lFmh_WCsgdI",
-        "title": "【#NEW推しV歌枠リレー】心を灯す音楽を届けます🕯StellArt.の音楽家⏳【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/lFmh_WCsgdI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lFmh_WCsgdI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-25T12:40:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
