@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T04:37:33.989Z",
+  "updatedAt": "2026-08-25T05:30:35.464Z",
   "channels": {
     "channelA": [
       {
@@ -13,18 +13,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "Q8i1B2WWL1s",
-        "title": "【NieR:Automata/ニーアオートマタ】#3 完全初見！機械生命体とは一体なんなんだ......【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Q8i1B2WWL1s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q8i1B2WWL1s",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-25T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
