@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-25T18:37:45.249Z",
+  "updatedAt": "2026-08-25T19:30:52.802Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "LpcnoAzZUEM",
+        "title": "【スプラトゥーン レイダース】初見さん大歓迎！視聴者参加型スプラ🦑みんなでワイワイ遊ぼう✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/LpcnoAzZUEM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LpcnoAzZUEM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-26T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
