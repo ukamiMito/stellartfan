@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-08-25T17:30:43.035Z",
+  "updatedAt": "2026-08-25T18:37:45.249Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "9TjbVJJLwYo",
-        "title": "#6【ペルソナ5 ザ・ロイヤル】完全初見！杏殿、脱ぐのか脱がないのか…どうなの！？ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/9TjbVJJLwYo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9TjbVJJLwYo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-25T12:59:18Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [],
     "channelD": []
