@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-08-26T14:10:47.308Z",
+  "updatedAt": "2026-08-26T15:58:58.282Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "LpcnoAzZUEM",
-        "title": "【スプラトゥーン レイダース】初見さん大歓迎！視聴者参加型スプラ🦑みんなでワイワイ遊ぼう✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/LpcnoAzZUEM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LpcnoAzZUEM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-26T12:58:15Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "8vKrwFrS4bA",
@@ -35,29 +24,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "8FyC5lDKSxI",
-        "title": "【NIKKE イベスト】MIRACLE SNOW 前編 完全初見🔰クリスマス！どんなお話なんだろう～??【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/8FyC5lDKSxI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8FyC5lDKSxI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-26T12:57:31Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "9YU7UdwAiGY",
-        "title": "【 vtuber 弾き語り】まったり癒すピアノ弾き語り🪽歌枠リレーの振り返りも！【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/9YU7UdwAiGY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9YU7UdwAiGY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-26T12:59:11Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
