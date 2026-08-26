@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-08-26T16:52:53.735Z",
+  "updatedAt": "2026-08-26T19:00:49.385Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "Duuq5bVPe2w",
+        "title": "【グランツーリスモ7】赤い跳ね馬、乗りこなせるか！？メニューブック「フェラーリ」を進めるぞー！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Duuq5bVPe2w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Duuq5bVPe2w",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-27T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "8vKrwFrS4bA",
