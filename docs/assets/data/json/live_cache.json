@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T10:33:54.483Z",
+  "updatedAt": "2026-08-26T11:28:32.095Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "8vKrwFrS4bA",
+        "title": "【イオモニ/朝活】お月見の季節が来た！！月見バーガーは外せない🌙【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/8vKrwFrS4bA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8vKrwFrS4bA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-26T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "v8ZfSnNH7-g",
         "title": "【NieR:Automata/ニーアオートマタ】#4 完全初見！綺麗すぎる『水没都市』攻略していく！【華鉈イオ/StellArt.】#vtuber",
