@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T11:58:12.050Z",
+  "updatedAt": "2026-08-26T13:05:51.387Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【スプラトゥーン レイダース】初見さん大歓迎！視聴者参加型スプラ🦑みんなでワイワイ遊ぼう✨【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/LpcnoAzZUEM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=LpcnoAzZUEM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-26T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-26T12:58:15Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【NieR:Automata/ニーアオートマタ】#4 完全初見！綺麗すぎる『水没都市』攻略していく！【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/v8ZfSnNH7-g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=v8ZfSnNH7-g",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-26T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-26T12:57:43Z",
         "actualEndTime": null
       }
     ],
@@ -41,9 +41,9 @@
         "title": "【NIKKE イベスト】MIRACLE SNOW 前編 完全初見🔰クリスマス！どんなお話なんだろう～??【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/8FyC5lDKSxI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=8FyC5lDKSxI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-26T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-26T12:57:31Z",
         "actualEndTime": null
       }
     ],
@@ -53,9 +53,9 @@
         "title": "【 vtuber 弾き語り】まったり癒すピアノ弾き語り🪽歌枠リレーの振り返りも！【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/9YU7UdwAiGY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9YU7UdwAiGY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-26T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-08-26T12:59:11Z",
         "actualEndTime": null
       }
     ]
