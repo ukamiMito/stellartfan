@@ -1,19 +1,19 @@
 {
-  "updatedAt": "2026-08-26T05:33:10.437Z",
+  "updatedAt": "2026-08-26T06:47:31.966Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "v8ZfSnNH7-g",
-        "title": "【NieR:Automata/ニーアオートマタ】#4 完全初見！綺麗すぎる『水没都市』攻略していく！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/v8ZfSnNH7-g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=v8ZfSnNH7-g",
+        "videoId": "LpcnoAzZUEM",
+        "title": "【スプラトゥーン レイダース】初見さん大歓迎！視聴者参加型スプラ🦑みんなでワイワイ遊ぼう✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/LpcnoAzZUEM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LpcnoAzZUEM",
         "status": "upcoming",
         "scheduledStartTime": "2026-08-26T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
