@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T14:30:11.674Z",
+  "updatedAt": "2026-08-27T23:55:23.254Z",
   "channels": {
     "channelA": [
       {
@@ -11,53 +11,10 @@
         "scheduledStartTime": "2026-08-28T11:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "Duuq5bVPe2w",
-        "title": "【グランツーリスモ7】赤い跳ね馬、乗りこなせるか！？メニューブック「フェラーリ」を進めるぞー！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Duuq5bVPe2w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Duuq5bVPe2w",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-27T12:58:15Z",
-        "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "YfxA6PvvYWM",
-        "title": "【 Minecraft/雑談 】ウィザースケルトン討伐！ビーコンGETの為に頭を集めるよー！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/YfxA6PvvYWM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YfxA6PvvYWM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-27T12:57:27Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "r6qxjlOJDZk",
-        "title": "【Minecraft 実況】もくもく司書厳選！！戦いが始まる！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/r6qxjlOJDZk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=r6qxjlOJDZk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-27T14:00:29Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "BcP6ZJhBs1s",
-        "title": "【 Minecraft 】ド初心者のウーパールーパー探しの旅🌷可愛いウーパーちゃんGETしたいっ！ 【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/BcP6ZJhBs1s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BcP6ZJhBs1s",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-27T12:58:28Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
