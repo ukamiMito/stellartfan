@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-08-28T09:52:48.444Z",
+  "updatedAt": "2026-08-28T21:06:39.608Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "pscZxKjUN8I",
-        "title": "【Among Us 3D】全力で生き残って全力で騙すぞおおおお！！ #黄泉ハル村 【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/pscZxKjUN8I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pscZxKjUN8I",
+        "videoId": "MUT8F8B3EUI",
+        "title": "【 観察ノ間 -Dr.ろまん式 心解剖記- 】StellArt.の森の賢者、にうふぁを徹底解剖！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/MUT8F8B3EUI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MUT8F8B3EUI",
         "status": "upcoming",
-        "scheduledStartTime": "2026-08-28T11:00:00Z",
+        "scheduledStartTime": "2026-08-29T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
@@ -23,30 +23,9 @@
         "scheduledStartTime": "2026-08-29T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "sClmWwAW5AY",
-        "title": "【 勝利の女神 : #nikke 】完全初見🔰メインストーリーchapter.47「開戦を告げる」歌やっていく！#170【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/sClmWwAW5AY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sClmWwAW5AY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-28T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "O4zBBWET13U",
-        "title": "【つぐのひ  天招ねく救いの糸】左に歩くだけのホラーゲーム最新作✨【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/O4zBBWET13U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=O4zBBWET13U",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-28T14:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
