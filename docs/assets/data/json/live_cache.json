@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-27T23:55:23.254Z",
+  "updatedAt": "2026-08-28T09:52:48.444Z",
   "channels": {
     "channelA": [
       {
@@ -13,8 +13,40 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
+    "channelB": [
+      {
+        "videoId": "HvX0vezVgBA",
+        "title": "【Wrap House Simulator】初コラボ🍖2人で大繁盛ケバブ屋経営やっていくぞ！w/アイリナ・ゼファリオ【華鉈イオ/StellArt.】 #vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/HvX0vezVgBA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HvX0vezVgBA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "sClmWwAW5AY",
+        "title": "【 勝利の女神 : #nikke 】完全初見🔰メインストーリーchapter.47「開戦を告げる」歌やっていく！#170【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/sClmWwAW5AY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sClmWwAW5AY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-28T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "O4zBBWET13U",
+        "title": "【つぐのひ  天招ねく救いの糸】左に歩くだけのホラーゲーム最新作✨【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/O4zBBWET13U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=O4zBBWET13U",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-28T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
