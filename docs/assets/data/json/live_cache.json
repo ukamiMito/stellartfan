@@ -1,42 +1,20 @@
 {
-  "updatedAt": "2026-08-29T15:10:42.865Z",
+  "updatedAt": "2026-08-29T18:45:24.430Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "MUT8F8B3EUI",
-        "title": "【 観察ノ間 -Dr.ろまん式 心解剖記- 】StellArt.の森の賢者、にうふぁを徹底解剖！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/MUT8F8B3EUI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MUT8F8B3EUI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-29T12:58:04Z",
+        "videoId": "gb2pn2qPqxU",
+        "title": "#9【スナック浪漫】夏に関するお話をしよう🎐みんなの夏祭りの屋台ベスト3を発表！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/gb2pn2qPqxU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gb2pn2qPqxU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-30T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "HvX0vezVgBA",
-        "title": "【Wrap House Simulator】初コラボ🍖2人で大繁盛ケバブ屋経営やっていくぞ！w/アイリナ・ゼファリオ【華鉈イオ/StellArt.】 #vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/HvX0vezVgBA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HvX0vezVgBA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-29T12:59:45Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "ws14WCke-48",
-        "title": "【Wrap House Simulator】次の店長はケバブ屋🥙初コラボのイオちゃんと共同経営だ‼【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/ws14WCke-48/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ws14WCke-48",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-29T13:00:11Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
