@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-29T03:14:44.015Z",
+  "updatedAt": "2026-08-29T10:19:24.335Z",
   "channels": {
     "channelA": [
       {
@@ -26,6 +26,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "ws14WCke-48",
+        "title": "【Wrap House Simulator】次の店長はケバブ屋🥙初コラボのイオちゃんと共同経営だ‼【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/ws14WCke-48/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ws14WCke-48",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-08-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
