@@ -1,42 +1,9 @@
 {
-  "updatedAt": "2026-08-30T14:41:52.848Z",
+  "updatedAt": "2026-08-30T18:25:50.542Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "gb2pn2qPqxU",
-        "title": "#9【スナック浪漫】夏に関するお話をしよう🎐みんなの夏祭りの屋台ベスト3を発表！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/gb2pn2qPqxU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gb2pn2qPqxU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-30T12:58:27Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "NMBW7GYXgSo",
-        "title": "【NIKKE イベスト】MIRACLE SNOW 後編 完全初見🔰エヌの幸せ見つけてあげたい！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/NMBW7GYXgSo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NMBW7GYXgSo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-30T12:57:55Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "BaynZ0TDiSc",
-        "title": "【 vtuber 弾き語り】週末の疲れた心に響くピアノ弾き語り☁【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/BaynZ0TDiSc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BaynZ0TDiSc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-08-30T12:58:16Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
