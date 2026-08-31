@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-08-31T10:43:48.929Z",
+  "updatedAt": "2026-08-31T17:54:57.954Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "7lOrSjPqghc",
+        "title": "【雪葬】チラズアート最新作！夏だけど雪山で雪かきする！雪の中から出てくるのはいったい…【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/7lOrSjPqghc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7lOrSjPqghc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-01T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
-        "videoId": "oQdnf6EKcyw",
-        "title": "【 勝利の女神 : #nikke 】完全初見🔰メインストーリーchapter.48「新たに生まれ変わる」力やっていく！紅蓮どうなるー？！#171【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/oQdnf6EKcyw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oQdnf6EKcyw",
+        "videoId": "hrQMqVuuMkQ",
+        "title": "【NieR:Automata/ニーアオートマタ】#5 完全初見！キャンプが機械生命体に襲われてる？！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/hrQMqVuuMkQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hrQMqVuuMkQ",
         "status": "upcoming",
-        "scheduledStartTime": "2026-08-31T13:00:00Z",
+        "scheduledStartTime": "2026-09-01T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "Y9OI1lvxrPI",
-        "title": "【Minecraft 実況】エンチャントで満を持してブラマイ！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Y9OI1lvxrPI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Y9OI1lvxrPI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-08-31T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
