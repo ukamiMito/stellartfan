@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T01:40:34.652Z",
+  "updatedAt": "2026-09-01T07:20:08.500Z",
   "channels": {
     "channelA": [
       {
@@ -26,6 +26,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "u3E9uGkjkWY",
+        "title": "【 FF10 】#1 ファイナルファンタジー10の世界へ、さぁ行くぞ～✨【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/u3E9uGkjkWY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=u3E9uGkjkWY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-01T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
