@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T12:40:12.283Z",
+  "updatedAt": "2026-09-01T17:10:01.243Z",
   "channels": {
     "channelA": [
       {
@@ -7,47 +7,14 @@
         "title": "【雪葬】チラズアート最新作！夏だけど雪山で雪かきする！雪の中から出てくるのはいったい…【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/7lOrSjPqghc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=7lOrSjPqghc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-01T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-01T12:59:31Z",
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "hrQMqVuuMkQ",
-        "title": "【NieR:Automata/ニーアオートマタ】#5 完全初見！キャンプが機械生命体に襲われてる？！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/hrQMqVuuMkQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hrQMqVuuMkQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-01T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "KYeBLmcWbDQ",
-        "title": "【GeoGuessr 配信】にうふぁとお散歩、ここはどこでしょう？【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/KYeBLmcWbDQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KYeBLmcWbDQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-01T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "u3E9uGkjkWY",
-        "title": "【 FF10 】#1 ファイナルファンタジー10の世界へ、さぁ行くぞ～✨【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/u3E9uGkjkWY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u3E9uGkjkWY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-01T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
