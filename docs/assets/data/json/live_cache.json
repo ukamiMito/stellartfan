@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-01T07:20:08.500Z",
+  "updatedAt": "2026-09-01T12:40:12.283Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "KYeBLmcWbDQ",
+        "title": "【GeoGuessr 配信】にうふぁとお散歩、ここはどこでしょう？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/KYeBLmcWbDQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KYeBLmcWbDQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-01T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "u3E9uGkjkWY",
