@@ -1,19 +1,18 @@
 {
-  "updatedAt": "2026-09-02T14:06:53.424Z",
+  "updatedAt": "2026-09-02T17:58:39.932Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "wKBdApDYiyI",
-        "title": "#7【ペルソナ5 ザ・ロイヤル】完全初見！覚醒した祐介と共に斑目パレスを攻略する！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/wKBdApDYiyI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wKBdApDYiyI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-02T12:59:08Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
+      {
+        "videoId": "Vh-yO2TLtr0",
+        "title": "【グランツーリスモ7】お試し✨国体レギュレーションでTAやってみる！筑波サーキットだ！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/Vh-yO2TLtr0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Vh-yO2TLtr0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-03T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "qC5_q1Z52hQ",
         "title": "【イオモニ/朝活】今年があと4か月で終わるらしい【華鉈イオ/StellArt.】#新人vtuber",
@@ -23,41 +22,9 @@
         "scheduledStartTime": "2026-09-02T21:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "6c2XsEdgr0s",
-        "title": "【NieR:Automata/ニーアオートマタ】#6 完全初見！2周目開始！他のエンド回収していくよ～～【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/6c2XsEdgr0s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6c2XsEdgr0s",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-02T12:57:32Z",
-        "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "iNfA-Go2Q3I",
-        "title": "【デスゲームの報告書 実況】いったい何が起こったのか解明していく！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/iNfA-Go2Q3I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iNfA-Go2Q3I",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-02T12:57:56Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "ee9liHTrzM0",
-        "title": "【 vtuber 弾き語り】泣ける曲で心を浄化するよ🎼ピアノ弾き語り【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/ee9liHTrzM0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ee9liHTrzM0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-02T12:58:21Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
