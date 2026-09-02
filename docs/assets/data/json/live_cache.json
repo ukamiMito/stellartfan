@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T09:50:42.586Z",
+  "updatedAt": "2026-09-02T14:06:53.424Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#7【ペルソナ5 ザ・ロイヤル】完全初見！覚醒した祐介と共に斑目パレスを攻略する！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/wKBdApDYiyI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wKBdApDYiyI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-02T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-02T12:59:08Z",
         "actualEndTime": null
       }
     ],
@@ -29,9 +29,9 @@
         "title": "【NieR:Automata/ニーアオートマタ】#6 完全初見！2周目開始！他のエンド回収していくよ～～【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/6c2XsEdgr0s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6c2XsEdgr0s",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-02T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-02T12:57:32Z",
         "actualEndTime": null
       }
     ],
@@ -41,9 +41,9 @@
         "title": "【デスゲームの報告書 実況】いったい何が起こったのか解明していく！！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/iNfA-Go2Q3I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=iNfA-Go2Q3I",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-02T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-02T12:57:56Z",
         "actualEndTime": null
       }
     ],
@@ -53,9 +53,9 @@
         "title": "【 vtuber 弾き語り】泣ける曲で心を浄化するよ🎼ピアノ弾き語り【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/ee9liHTrzM0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ee9liHTrzM0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-02T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-02T12:58:21Z",
         "actualEndTime": null
       }
     ]
