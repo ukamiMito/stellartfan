@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T00:49:59.928Z",
+  "updatedAt": "2026-09-02T05:28:04.348Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "iNfA-Go2Q3I",
+        "title": "【デスゲームの報告書 実況】いったい何が起こったのか解明していく！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/iNfA-Go2Q3I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iNfA-Go2Q3I",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-02T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
