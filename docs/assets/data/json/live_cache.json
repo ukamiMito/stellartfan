@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T05:28:04.348Z",
+  "updatedAt": "2026-09-02T09:50:42.586Z",
   "channels": {
     "channelA": [
       {
@@ -13,7 +13,28 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "qC5_q1Z52hQ",
+        "title": "【イオモニ/朝活】今年があと4か月で終わるらしい【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/qC5_q1Z52hQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qC5_q1Z52hQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-02T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "6c2XsEdgr0s",
+        "title": "【NieR:Automata/ニーアオートマタ】#6 完全初見！2周目開始！他のエンド回収していくよ～～【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/6c2XsEdgr0s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6c2XsEdgr0s",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-02T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [
       {
         "videoId": "iNfA-Go2Q3I",
@@ -26,6 +47,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "ee9liHTrzM0",
+        "title": "【 vtuber 弾き語り】泣ける曲で心を浄化するよ🎼ピアノ弾き語り【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/ee9liHTrzM0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ee9liHTrzM0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-02T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
