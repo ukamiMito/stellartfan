@@ -1,42 +1,31 @@
 {
-  "updatedAt": "2026-09-03T11:31:18.949Z",
+  "updatedAt": "2026-09-03T15:52:08.813Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "x58QitV2XDs",
+        "title": "【グランツーリスモ7】JDSチャレンジ再開すっぞ！！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/x58QitV2XDs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=x58QitV2XDs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-04T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "Vh-yO2TLtr0",
         "title": "【グランツーリスモ7】お試し✨国体レギュレーションでTAやってみる！筑波サーキットだ！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/Vh-yO2TLtr0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Vh-yO2TLtr0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-03T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-03T12:58:02Z",
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "dZBrMWhzk24",
-        "title": "【Minecraft 実況】初心者二人でほのぼのマイクラ！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/dZBrMWhzk24/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dZBrMWhzk24",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-03T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "U4BCCBH-ibs",
-        "title": "【 Minecraft 】マイクラコラボ🎉新人2人で冒険や～！with にうふぁ【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/U4BCCBH-ibs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=U4BCCBH-ibs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-03T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
