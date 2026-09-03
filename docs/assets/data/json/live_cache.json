@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-02T23:05:01.252Z",
+  "updatedAt": "2026-09-03T01:17:36.004Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -11,16 +11,6 @@
         "status": "upcoming",
         "scheduledStartTime": "2026-09-03T13:00:00Z",
         "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "qC5_q1Z52hQ",
-        "title": "【イオモニ/朝活】今年があと4か月で終わるらしい【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/qC5_q1Z52hQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qC5_q1Z52hQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-02T20:57:36Z",
         "actualEndTime": null
       }
     ],
