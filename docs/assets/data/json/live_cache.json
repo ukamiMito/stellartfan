@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T01:17:36.004Z",
+  "updatedAt": "2026-09-03T06:11:30.309Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,7 +14,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "dZBrMWhzk24",
+        "title": "【Minecraft 実況】初心者二人でほのぼのマイクラ！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/dZBrMWhzk24/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dZBrMWhzk24",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-03T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
