@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T06:11:30.309Z",
+  "updatedAt": "2026-09-03T11:31:18.949Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -26,6 +26,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "U4BCCBH-ibs",
+        "title": "【 Minecraft 】マイクラコラボ🎉新人2人で冒険や～！with にうふぁ【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/U4BCCBH-ibs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=U4BCCBH-ibs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-03T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
