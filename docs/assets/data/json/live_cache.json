@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T03:10:57.992Z",
+  "updatedAt": "2026-09-04T08:12:44.111Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "oiNhaLcR7qc",
+        "title": "【Don&#39;t Drop The Cake 実況】絶対にこのケーキを落とすわけには…！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/oiNhaLcR7qc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oiNhaLcR7qc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-05T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
