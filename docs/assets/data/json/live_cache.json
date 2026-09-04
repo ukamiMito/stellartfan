@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T08:12:44.111Z",
+  "updatedAt": "2026-09-04T12:50:30.727Z",
   "channels": {
     "channelA": [
       {
@@ -26,6 +26,27 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "Zr4yAgSw8wM",
+        "title": "【 FF10 】#2 ファイナルファンタジー10の世界へ一緒に行こう✨【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Zr4yAgSw8wM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Zr4yAgSw8wM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-05T09:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "PhrnjLRuRJU",
+        "title": "【 vtuber 弾き語り】深夜歌枠🌙リラックスしたいそこのアナタへ🦋【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/PhrnjLRuRJU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PhrnjLRuRJU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-04T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
