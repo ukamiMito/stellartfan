@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-05T14:40:37.183Z",
+  "updatedAt": "2026-09-05T17:10:03.297Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "RrFqUvCaBaE",
-        "title": "【F1 2026/生放送同時視聴】「イタリアGP　予選:ライブ」モンツァだ！モンツァ！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/RrFqUvCaBaE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RrFqUvCaBaE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-05T13:28:58Z",
+        "videoId": "AgewIiuFkWM",
+        "title": "【F1 2026/生放送同時視聴】「イタリアGP　決勝:ライブ」ガスリーさんがポール！どうなるこのレース！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/AgewIiuFkWM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AgewIiuFkWM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-06T12:30:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
@@ -25,29 +25,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "oiNhaLcR7qc",
-        "title": "【Don&#39;t Drop The Cake 実況】絶対にこのケーキを落とすわけには…！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/oiNhaLcR7qc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oiNhaLcR7qc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-05T12:57:45Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "Zr4yAgSw8wM",
-        "title": "【 FF10 】#2 ファイナルファンタジー10の世界へ一緒に行こう✨【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Zr4yAgSw8wM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Zr4yAgSw8wM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-05T08:59:06Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
