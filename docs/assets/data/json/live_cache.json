@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T07:48:13.850Z",
+  "updatedAt": "2026-09-05T11:40:05.191Z",
   "channels": {
     "channelA": [
       {
@@ -13,7 +13,18 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "F1bTSi6J5D0",
+        "title": "【 勝利の女神 : #nikke 】新イベ『GREAT VILLAIN UNION』を一緒に観よう✨新ヴィラン連合とは、、、#172【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/F1bTSi6J5D0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F1bTSi6J5D0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [
       {
         "videoId": "oiNhaLcR7qc",
@@ -32,9 +43,9 @@
         "title": "【 FF10 】#2 ファイナルファンタジー10の世界へ一緒に行こう✨【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/Zr4yAgSw8wM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Zr4yAgSw8wM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-05T09:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-05T08:59:06Z",
         "actualEndTime": null
       }
     ]
