@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-06T03:11:16.663Z",
+  "updatedAt": "2026-09-06T08:02:54.090Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "3jiDVorfPUU",
+        "title": "【同時視聴 頭文字D】完全初見 First stage 1～5話【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/3jiDVorfPUU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3jiDVorfPUU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-06T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
