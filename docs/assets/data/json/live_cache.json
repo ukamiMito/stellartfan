@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-06T18:02:48.316Z",
+  "updatedAt": "2026-09-06T20:39:09.935Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "WN_GPIn1424",
+        "title": "【コードネーム】『ねくすとぴあ×StellArt.』これはグループの絆が試される時…！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/WN_GPIn1424/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WN_GPIn1424",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-07T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
