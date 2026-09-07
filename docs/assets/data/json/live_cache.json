@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T00:42:23.067Z",
+  "updatedAt": "2026-09-07T05:42:51.030Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "wh5SgTz4SvY",
+        "title": "【CODENAMES ONLINE】ねくすとぴあ×StellArt.はじめましてコラボ🙌よろしくお願いします！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/wh5SgTz4SvY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wh5SgTz4SvY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-07T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "PjZ-u57PUBY",
+        "title": "【 コードネーム 】StellArt.×ねくすとぴあ🔥 初コラボ緊張と楽しみの混雑！頑張るぞ～👊【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/PjZ-u57PUBY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PjZ-u57PUBY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-07T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
