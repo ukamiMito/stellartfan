@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-09-07T20:42:22.802Z",
+  "updatedAt": "2026-09-07T23:17:28.072Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "f7fQ71ZGu8w",
+        "title": "【グランツーリスモ7】🔰MT練習はじめます！頭と手が追い付かないいい【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/f7fQ71ZGu8w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=f7fQ71ZGu8w",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-08T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
