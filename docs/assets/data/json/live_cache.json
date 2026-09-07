@@ -1,53 +1,9 @@
 {
-  "updatedAt": "2026-09-07T11:42:16.235Z",
+  "updatedAt": "2026-09-07T17:20:06.869Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "WN_GPIn1424",
-        "title": "【コードネーム】『ねくすとぴあ×StellArt.』これはグループの絆が試される時…！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/WN_GPIn1424/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WN_GPIn1424",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-07T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "0nzyPnOUi7U",
-        "title": "【コードネーム】『ねくすとぴあ』VS『StellArt.』で絆の見せつけ合い⚡負けられないぞー！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/0nzyPnOUi7U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0nzyPnOUi7U",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-07T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "wh5SgTz4SvY",
-        "title": "【CODENAMES ONLINE】ねくすとぴあ×StellArt.はじめましてコラボ🙌よろしくお願いします！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/wh5SgTz4SvY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wh5SgTz4SvY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-07T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "PjZ-u57PUBY",
-        "title": "【 コードネーム 】StellArt.×ねくすとぴあ🔥 初コラボ緊張と楽しみの混雑！頑張るぞ～👊【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/PjZ-u57PUBY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PjZ-u57PUBY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-07T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
