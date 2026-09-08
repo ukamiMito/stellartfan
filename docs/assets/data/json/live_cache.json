@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T01:17:48.884Z",
+  "updatedAt": "2026-09-08T06:16:46.589Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,7 +14,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "fjcJMW3clyU",
+        "title": "【Minecraft 実況】洞窟を隅々まで徹底的に調査する！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/fjcJMW3clyU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fjcJMW3clyU",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-08T05:59:43Z",
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
