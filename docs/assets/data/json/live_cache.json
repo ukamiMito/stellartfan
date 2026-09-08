@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-09-08T19:29:25.091Z",
+  "updatedAt": "2026-09-08T21:58:59.301Z",
   "channels": {
     "channelA": [
       {
         "videoId": "4YJmsau0tDE",
-        "title": "#8【ペルソナ5 ザ・ロイヤル】完全初見！斑目の改心待ち！この間にコープとかメメントスも行くぞ～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "title": "#8【ペルソナ5 ザ・ロイヤル】完全初見！斑目の改心待ち！今のうちにコープとかメメントスに行くぞ～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/4YJmsau0tDE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4YJmsau0tDE",
         "status": "upcoming",
@@ -13,7 +13,28 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "C8zmAgPxeRE",
+        "title": "【イオモニ/朝活】この世は雨が降りすぎている☔【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/C8zmAgPxeRE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=C8zmAgPxeRE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-09T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "bXlT69_F2EA",
+        "title": "【NieR:Automata/ニーアオートマタ】#7 2周目/パスカルの村からスタート！9S操作難しい。。【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/bXlT69_F2EA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bXlT69_F2EA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-09T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
