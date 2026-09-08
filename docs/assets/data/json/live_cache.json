@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T06:16:46.589Z",
+  "updatedAt": "2026-09-08T11:34:43.145Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,18 +14,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
+    "channelC": [],
+    "channelD": [
       {
-        "videoId": "fjcJMW3clyU",
-        "title": "【Minecraft 実況】洞窟を隅々まで徹底的に調査する！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/fjcJMW3clyU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fjcJMW3clyU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-08T05:59:43Z",
+        "videoId": "__zdFWa0Gxw",
+        "title": "【 vtuber 弾き語り】深夜ピアノ歌枠🌙弾き語りで癒されませんか？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/__zdFWa0Gxw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=__zdFWa0Gxw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-08T14:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ],
-    "channelD": []
+    ]
   }
 }
