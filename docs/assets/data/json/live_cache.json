@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-09-08T16:04:36.074Z",
+  "updatedAt": "2026-09-08T19:29:25.091Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
-    "channelC": [],
-    "channelD": [
+    "channelA": [
       {
-        "videoId": "__zdFWa0Gxw",
-        "title": "【 vtuber 弾き語り】深夜ピアノ歌枠🌙弾き語りで癒されませんか？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/__zdFWa0Gxw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=__zdFWa0Gxw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-08T13:58:21Z",
+        "videoId": "4YJmsau0tDE",
+        "title": "#8【ペルソナ5 ザ・ロイヤル】完全初見！斑目の改心待ち！この間にコープとかメメントスも行くぞ～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/4YJmsau0tDE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4YJmsau0tDE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-09T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
