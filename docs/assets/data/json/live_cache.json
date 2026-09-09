@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-09-09T18:51:46.261Z",
+  "updatedAt": "2026-09-09T21:43:54.843Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "r_gNEt_NHw8",
+        "title": "【Minecraft】🌠ステラート鯖マイクラ🌠4人で鯖内をお散歩するよ～！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/r_gNEt_NHw8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=r_gNEt_NHw8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-10T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "C8zmAgPxeRE",
         "title": "【イオモニ/朝活】この世は雨が降りすぎている☔【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/C8zmAgPxeRE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=C8zmAgPxeRE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-09T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-09T20:57:20Z",
         "actualEndTime": null
       }
     ],
