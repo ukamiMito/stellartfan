@@ -17,7 +17,7 @@ export const CHANNELS = {
   channelB: {
     channelId: 'UCFernrRmaCRoOjZ55pwNxpw',
     channelName: '華鉈イオ',
-    freechatVideoId: 'foFBBmkRyf0',
+    freechatVideoId: 'LbgKeK4i_O4',
     excludeVideoIds: [
       'BlrvT6-EnRs'
     ]

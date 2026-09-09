@@ -29,7 +29,7 @@ const CHANNELS = {
   channelB: {
     channelId: 'UCFernrRmaCRoOjZ55pwNxpw',
     channelName: '華鉈イオ',
-    freechatVideoId: 'foFBBmkRyf0'
+    freechatVideoId: 'LbgKeK4i_O4'
   },
   channelC: {
     channelId: 'UCQp7x7j2luIdUscWmJ3nTNg',
