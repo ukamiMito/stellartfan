@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-09-09T14:11:12.486Z",
+  "updatedAt": "2026-09-09T18:51:46.261Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "4YJmsau0tDE",
-        "title": "#8【ペルソナ5 ザ・ロイヤル】完全初見！斑目の改心待ち！今のうちにコープとかメメントスに行くぞ～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/4YJmsau0tDE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4YJmsau0tDE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-09T12:58:52Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "C8zmAgPxeRE",
@@ -23,41 +12,9 @@
         "scheduledStartTime": "2026-09-09T21:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "bXlT69_F2EA",
-        "title": "【NieR:Automata/ニーアオートマタ】#7 2周目/パスカルの村からスタート！9S操作難しい。。【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/bXlT69_F2EA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bXlT69_F2EA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-09T12:57:48Z",
-        "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "F9WPDvqDzvI",
-        "title": "【同時視聴 頭文字D】完全初見 First stage 6～10話【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/F9WPDvqDzvI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F9WPDvqDzvI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-09T10:57:41Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "gEMvtyMHyI0",
-        "title": "【 FF10 】#3 ファイナルファンタジー10の世界へ✨HP激ヤバボスに勝てる⁉【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/gEMvtyMHyI0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gEMvtyMHyI0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-09T11:59:01Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
