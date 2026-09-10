@@ -1,53 +1,9 @@
 {
-  "updatedAt": "2026-09-10T11:51:46.064Z",
+  "updatedAt": "2026-09-10T16:27:25.140Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "r_gNEt_NHw8",
-        "title": "【Minecraft】🌠ステラート鯖マイクラ🌠4人で鯖内をお散歩するよ～！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/r_gNEt_NHw8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=r_gNEt_NHw8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-10T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "SckX1AuqQsI",
-        "title": "【 Minecraft 】StellArt.コラボ『森の洋館』を目指して探索しまくる！！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/SckX1AuqQsI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SckX1AuqQsI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-10T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "5ZrjWf2twGY",
-        "title": "【Minecraft 実況】StellArt.メンバーで探検するぞ～💪【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/5ZrjWf2twGY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5ZrjWf2twGY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-10T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "06NXmZp-yFs",
-        "title": "【 Minecraft 】初🎉メンバーでマイクラ冒険！教えてもらうんだぁ！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/06NXmZp-yFs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=06NXmZp-yFs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-10T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
