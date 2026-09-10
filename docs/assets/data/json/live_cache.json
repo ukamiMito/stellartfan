@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-10T06:39:21.309Z",
+  "updatedAt": "2026-09-10T11:51:46.064Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "5ZrjWf2twGY",
+        "title": "【Minecraft 実況】StellArt.メンバーで探検するぞ～💪【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/5ZrjWf2twGY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5ZrjWf2twGY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-10T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "06NXmZp-yFs",
+        "title": "【 Minecraft 】初🎉メンバーでマイクラ冒険！教えてもらうんだぁ！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/06NXmZp-yFs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=06NXmZp-yFs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-10T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
