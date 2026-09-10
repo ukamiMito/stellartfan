@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-09T23:32:01.132Z",
+  "updatedAt": "2026-09-10T01:29:50.661Z",
   "channels": {
     "channelA": [
       {
@@ -13,18 +13,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "C8zmAgPxeRE",
-        "title": "【イオモニ/朝活】この世は雨が降りすぎている☔【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/C8zmAgPxeRE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=C8zmAgPxeRE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-09T20:57:20Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
