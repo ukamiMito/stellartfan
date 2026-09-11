@@ -1,8 +1,40 @@
 {
-  "updatedAt": "2026-09-11T17:17:52.080Z",
+  "updatedAt": "2026-09-11T20:03:24.774Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
+    "channelA": [
+      {
+        "videoId": "fHXocGow8PI",
+        "title": "【F1 2026/生放送同時視聴】「スペインGP　決勝:ライブ」新コースのマドリンクサーキット楽しみだ✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/fHXocGow8PI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fHXocGow8PI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-13T12:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "z4CUk3B9Jrw",
+        "title": "【F1 2026/生放送同時視聴】「スペインGP　予選:ライブ」新コースのマドリンクサーキット楽しみだ✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/z4CUk3B9Jrw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z4CUk3B9Jrw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-12T13:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "3liA4lgrF3M",
+        "title": "【NieR:Automata/ニーアオートマタ】#8 2周目/ラスボス『イヴ戦』頑張るぞ！！！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/3liA4lgrF3M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3liA4lgrF3M",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-12T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
