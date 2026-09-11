@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T04:45:52.668Z",
+  "updatedAt": "2026-09-11T09:11:09.117Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,7 +14,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "9qzs5B1Hzjs",
+        "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！※ネタバレ注意 #第2章2話【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/9qzs5B1Hzjs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9qzs5B1Hzjs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-11T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "DXsMO-5x2MY",
+        "title": "【 vtuber 弾き語り】眠れるピアノ弾き語り🎹1曲どうですか？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/DXsMO-5x2MY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DXsMO-5x2MY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-11T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
