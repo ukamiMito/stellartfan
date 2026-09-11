@@ -1,42 +1,9 @@
 {
-  "updatedAt": "2026-09-11T13:36:57.111Z",
+  "updatedAt": "2026-09-11T17:17:52.080Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "FjiNGqtQq7E",
-        "title": "【グランツーリスモ7】🔰MT練習3日目！推し車S2000で沢山練習したい【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/FjiNGqtQq7E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FjiNGqtQq7E",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-11T13:27:33Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "9qzs5B1Hzjs",
-        "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！※ネタバレ注意 #第2章2話【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/9qzs5B1Hzjs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9qzs5B1Hzjs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-11T10:56:23Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "DXsMO-5x2MY",
-        "title": "【 vtuber 弾き語り】眠れるピアノ弾き語り🎹1曲どうですか？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/DXsMO-5x2MY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DXsMO-5x2MY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-11T12:58:51Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
