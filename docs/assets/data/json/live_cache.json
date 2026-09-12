@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T13:10:18.149Z",
+  "updatedAt": "2026-09-12T16:21:16.401Z",
   "channels": {
     "channelA": [
       {
@@ -11,42 +11,10 @@
         "scheduledStartTime": "2026-09-13T12:30:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "z4CUk3B9Jrw",
-        "title": "【F1 2026/生放送同時視聴】「スペインGP　予選:ライブ」新コースのマドリンクサーキット楽しみだ✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/z4CUk3B9Jrw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=z4CUk3B9Jrw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-12T13:30:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "3liA4lgrF3M",
-        "title": "【NieR:Automata/ニーアオートマタ】#8 2周目/ラスボス『イヴ戦』頑張るぞ！！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/3liA4lgrF3M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3liA4lgrF3M",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-12T12:58:26Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "vQDzUu7mrZE",
-        "title": "【 Minecraft 】🪸海の下に大きな倉庫作る✨可愛くできるかな？🐟【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/vQDzUu7mrZE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vQDzUu7mrZE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-12T12:58:16Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
