@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T09:24:53.648Z",
+  "updatedAt": "2026-09-12T13:10:18.149Z",
   "channels": {
     "channelA": [
       {
@@ -29,9 +29,9 @@
         "title": "【NieR:Automata/ニーアオートマタ】#8 2周目/ラスボス『イヴ戦』頑張るぞ！！！【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/3liA4lgrF3M/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=3liA4lgrF3M",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-12T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-12T12:58:26Z",
         "actualEndTime": null
       }
     ],
@@ -42,9 +42,9 @@
         "title": "【 Minecraft 】🪸海の下に大きな倉庫作る✨可愛くできるかな？🐟【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/vQDzUu7mrZE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vQDzUu7mrZE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-12T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-12T12:58:16Z",
         "actualEndTime": null
       }
     ]
