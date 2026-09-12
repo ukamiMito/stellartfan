@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T00:41:49.207Z",
+  "updatedAt": "2026-09-12T05:08:10.730Z",
   "channels": {
     "channelA": [
       {
@@ -36,6 +36,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "vQDzUu7mrZE",
+        "title": "【 Minecraft 】🪸海の下に大きな倉庫作る✨可愛くできるかな？🐟【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/vQDzUu7mrZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vQDzUu7mrZE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-12T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
