@@ -1,42 +1,9 @@
 {
-  "updatedAt": "2026-09-13T12:44:45.063Z",
+  "updatedAt": "2026-09-13T16:39:37.593Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "fHXocGow8PI",
-        "title": "【F1 2026/生放送同時視聴】「スペインGP　決勝:ライブ」新コースのマドリンクサーキット楽しみだ✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/fHXocGow8PI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fHXocGow8PI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-13T12:28:14Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "uvYEify4hXE",
-        "title": "【同時視聴 頭文字D】完全初見 First stage 11～15話【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/uvYEify4hXE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uvYEify4hXE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-13T10:57:43Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "hzmzd294CD4",
-        "title": "【 vtuber 弾き語り】癒されるピアノ弾き語り歌枠 ✧.゜聴いていってね🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/hzmzd294CD4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hzmzd294CD4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-13T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
