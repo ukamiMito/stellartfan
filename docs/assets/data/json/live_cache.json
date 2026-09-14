@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T07:10:02.551Z",
+  "updatedAt": "2026-09-14T14:07:12.392Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -8,9 +8,9 @@
         "title": "【 Minecraft/雑談 】初！資材ワールド探検にいくぞ！！欲しいものたくさん【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/c71VnfvaWFE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=c71VnfvaWFE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-14T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-14T12:57:33Z",
         "actualEndTime": null
       }
     ],
@@ -20,23 +20,12 @@
         "title": "【Minecraft 実況】見よう見まねで経験値トラップ作る💪【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/zS6CERpO7zo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=zS6CERpO7zo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-14T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-14T10:58:29Z",
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "6TB82_DvFqY",
-        "title": "【 FF10 】#4 ファイナルファンタジーXの世界へ✨【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/6TB82_DvFqY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6TB82_DvFqY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-14T09:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
