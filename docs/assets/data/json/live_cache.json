@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-09-13T23:35:32.091Z",
+  "updatedAt": "2026-09-14T01:43:49.318Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "c71VnfvaWFE",
+        "title": "【 Minecraft/雑談 】初！資材ワールド探検にいくぞ！！欲しいものたくさん【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/c71VnfvaWFE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=c71VnfvaWFE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-14T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
