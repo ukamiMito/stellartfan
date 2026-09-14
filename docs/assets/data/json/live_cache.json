@@ -1,31 +1,20 @@
 {
-  "updatedAt": "2026-09-14T14:07:12.392Z",
+  "updatedAt": "2026-09-14T19:24:46.929Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "c71VnfvaWFE",
-        "title": "【 Minecraft/雑談 】初！資材ワールド探検にいくぞ！！欲しいものたくさん【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/c71VnfvaWFE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=c71VnfvaWFE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-14T12:57:33Z",
+        "videoId": "vJMjqb2b6Xk",
+        "title": "【妹に運転を教える】我が妹に優しく丁寧に運転を教えるよ💕【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/vJMjqb2b6Xk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vJMjqb2b6Xk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-15T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "zS6CERpO7zo",
-        "title": "【Minecraft 実況】見よう見まねで経験値トラップ作る💪【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/zS6CERpO7zo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zS6CERpO7zo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-14T10:58:29Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
+    "channelC": [],
     "channelD": []
   }
 }
