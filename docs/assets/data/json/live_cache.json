@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T01:43:49.318Z",
+  "updatedAt": "2026-09-14T07:10:02.551Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,7 +14,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "zS6CERpO7zo",
+        "title": "【Minecraft 実況】見よう見まねで経験値トラップ作る💪【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/zS6CERpO7zo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zS6CERpO7zo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-14T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "6TB82_DvFqY",
+        "title": "【 FF10 】#4 ファイナルファンタジーXの世界へ✨【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/6TB82_DvFqY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6TB82_DvFqY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-14T09:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
