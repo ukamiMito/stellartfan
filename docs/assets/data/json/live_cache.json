@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-15T17:02:31.650Z",
+  "updatedAt": "2026-09-15T20:16:08.141Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "LKfDHBiEvyY",
+        "title": "#9【ペルソナ5 ザ・ロイヤル】完全初見！べっきぃ最高にゃん💕💕 ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/LKfDHBiEvyY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LKfDHBiEvyY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-16T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "CTOJXMkfwLM",
