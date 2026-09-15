@@ -1,42 +1,20 @@
 {
-  "updatedAt": "2026-09-15T11:47:58.827Z",
+  "updatedAt": "2026-09-15T17:02:31.650Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [
       {
-        "videoId": "vJMjqb2b6Xk",
-        "title": "【妹に運転を教える】我が妹に優しく丁寧に運転を教えるよ💕【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/vJMjqb2b6Xk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vJMjqb2b6Xk",
+        "videoId": "CTOJXMkfwLM",
+        "title": "【グランツーリスモ7】MT初心者🔰メニューブック『Gr.1プロトタイプシリーズ』やる！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/CTOJXMkfwLM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CTOJXMkfwLM",
         "status": "upcoming",
-        "scheduledStartTime": "2026-09-15T13:00:00Z",
+        "scheduledStartTime": "2026-09-16T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [
-      {
-        "videoId": "eZgYm_23QmE",
-        "title": "【グランツーリスモ７】憧れのＧＴ７！先輩に見守ってもらいながら走る🚙【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/eZgYm_23QmE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eZgYm_23QmE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-15T10:58:40Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "QAJlu1jB0k4",
-        "title": "【 vtuber 弾き語り】ピアノの音色でチルなひと時を☕🌙1曲どうですか？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/QAJlu1jB0k4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QAJlu1jB0k4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-15T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
