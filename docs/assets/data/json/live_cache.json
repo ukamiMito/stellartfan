@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T00:59:17.859Z",
+  "updatedAt": "2026-09-15T06:11:31.348Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "eZgYm_23QmE",
+        "title": "【グランツーリスモ７】憧れのＧＴ７！先輩に見守ってもらいながら走る🚙【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/eZgYm_23QmE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eZgYm_23QmE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-15T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
