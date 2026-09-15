@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T06:11:31.348Z",
+  "updatedAt": "2026-09-15T11:47:58.827Z",
   "channels": {
     "channelA": [
       {
@@ -20,12 +20,23 @@
         "title": "【グランツーリスモ７】憧れのＧＴ７！先輩に見守ってもらいながら走る🚙【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/eZgYm_23QmE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=eZgYm_23QmE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-15T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-15T10:58:40Z",
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "QAJlu1jB0k4",
+        "title": "【 vtuber 弾き語り】ピアノの音色でチルなひと時を☕🌙1曲どうですか？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/QAJlu1jB0k4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QAJlu1jB0k4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
