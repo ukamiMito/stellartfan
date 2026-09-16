@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T01:27:53.815Z",
+  "updatedAt": "2026-09-16T06:49:37.192Z",
   "channels": {
     "channelA": [
       {
@@ -26,6 +26,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "Zv_J5HD-NXg",
+        "title": "【グランツーリスモ7】人生初のGT7🔥レースもかっこよく走りたい🚙！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Zv_J5HD-NXg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Zv_J5HD-NXg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-16T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
