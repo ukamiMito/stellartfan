@@ -1,7 +1,17 @@
 {
-  "updatedAt": "2026-09-16T06:49:37.192Z",
+  "updatedAt": "2026-09-16T12:37:33.987Z",
   "channels": {
     "channelA": [
+      {
+        "videoId": "XO8rTT0i1rU",
+        "title": "#サブクエ回収【龍が如く極2】「初めての人におすすめしたいポイント5選」を話しながらキャバクラ経営する！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/XO8rTT0i1rU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XO8rTT0i1rU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-17T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "LKfDHBiEvyY",
         "title": "#9【ペルソナ5 ザ・ロイヤル】完全初見！べっきぃ最高にゃん💕💕 ※ネタバレ注意【天硝路ろまん / StellArt.】",
@@ -15,6 +25,16 @@
     ],
     "channelB": [
       {
+        "videoId": "m6N44u0toZ8",
+        "title": "【イオモニ/朝活】早起きは何文の徳？？【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/m6N44u0toZ8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=m6N44u0toZ8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-16T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
         "videoId": "CTOJXMkfwLM",
         "title": "【グランツーリスモ7】MT初心者🔰メニューブック『Gr.1プロトタイプシリーズ』やる！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/CTOJXMkfwLM/hqdefault.jpg",
@@ -25,16 +45,27 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "nEAFHU-iJVQ",
+        "title": "【グランツーリスモ７ GT7】いざライセンスの沼へ！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/nEAFHU-iJVQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nEAFHU-iJVQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-16T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "Zv_J5HD-NXg",
         "title": "【グランツーリスモ7】人生初のGT7🔥レースもかっこよく走りたい🚙！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/Zv_J5HD-NXg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Zv_J5HD-NXg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-16T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-16T11:00:33Z",
         "actualEndTime": null
       }
     ]
