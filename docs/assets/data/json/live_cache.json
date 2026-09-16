@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T20:26:44.316Z",
+  "updatedAt": "2026-09-16T23:16:21.679Z",
   "channels": {
     "channelA": [
       {
@@ -19,9 +19,9 @@
         "title": "【イオモニ/朝活】早起きは何文の徳？？【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/m6N44u0toZ8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=m6N44u0toZ8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-16T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-16T20:57:36Z",
         "actualEndTime": null
       }
     ],
