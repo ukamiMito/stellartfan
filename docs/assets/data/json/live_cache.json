@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T12:37:33.987Z",
+  "updatedAt": "2026-09-16T17:17:58.234Z",
   "channels": {
     "channelA": [
       {
@@ -9,16 +9,6 @@
         "url": "https://www.youtube.com/watch?v=XO8rTT0i1rU",
         "status": "upcoming",
         "scheduledStartTime": "2026-09-17T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "LKfDHBiEvyY",
-        "title": "#9【ペルソナ5 ザ・ロイヤル】完全初見！べっきぃ最高にゃん💕💕 ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/LKfDHBiEvyY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LKfDHBiEvyY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-16T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
@@ -33,41 +23,9 @@
         "scheduledStartTime": "2026-09-16T21:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "CTOJXMkfwLM",
-        "title": "【グランツーリスモ7】MT初心者🔰メニューブック『Gr.1プロトタイプシリーズ』やる！【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/CTOJXMkfwLM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CTOJXMkfwLM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-16T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "nEAFHU-iJVQ",
-        "title": "【グランツーリスモ７ GT7】いざライセンスの沼へ！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/nEAFHU-iJVQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nEAFHU-iJVQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-16T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "Zv_J5HD-NXg",
-        "title": "【グランツーリスモ7】人生初のGT7🔥レースもかっこよく走りたい🚙！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Zv_J5HD-NXg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Zv_J5HD-NXg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-16T11:00:33Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
