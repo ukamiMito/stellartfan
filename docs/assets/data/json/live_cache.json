@@ -1,53 +1,9 @@
 {
-  "updatedAt": "2026-09-17T12:08:46.148Z",
+  "updatedAt": "2026-09-17T17:02:31.055Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "XO8rTT0i1rU",
-        "title": "#サブクエ回収【龍が如く極2】「初めての人におすすめしたいポイント5選」を話しながらキャバクラ経営する！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/XO8rTT0i1rU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XO8rTT0i1rU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-17T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "uT9yttyAt7I",
-        "title": "【NieR:Automata/ニーアオートマタ】#9 3周目/A2登場！レベル上げもしたい！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/uT9yttyAt7I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uT9yttyAt7I",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-17T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "wHzc6Ga1AbM",
-        "title": "【同時視聴 頭文字D】完全初見 First stage 16～20話【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/wHzc6Ga1AbM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wHzc6Ga1AbM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-17T11:26:51Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "XQvTiGN9X0M",
-        "title": "【 vtuber 弾き語り】ピアノ弾き語りで心を温める🌷ch登録4000人ありがとう🎉【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/XQvTiGN9X0M/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XQvTiGN9X0M",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-17T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
