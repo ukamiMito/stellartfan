@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T01:31:06.708Z",
+  "updatedAt": "2026-09-17T06:41:45.230Z",
   "channels": {
     "channelA": [
       {
@@ -13,8 +13,30 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
+    "channelB": [
+      {
+        "videoId": "uT9yttyAt7I",
+        "title": "【NieR:Automata/ニーアオートマタ】#9 3周目/A2登場！レベル上げもしたい！！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/uT9yttyAt7I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uT9yttyAt7I",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-17T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "wHzc6Ga1AbM",
+        "title": "【同時視聴 頭文字D】完全初見 First stage 16～20話【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/wHzc6Ga1AbM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wHzc6Ga1AbM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-17T11:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
