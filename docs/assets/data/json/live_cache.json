@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-09-18T11:52:02.849Z",
+  "updatedAt": "2026-09-18T16:27:13.103Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "szbk7ZwPmbg",
+        "title": "【雀魂】チーム対抗で麻雀勝負！！負けたチームは罰ゲームですって…？【天硝路ろまん / StellArt.】#雀魂コラボweek",
+        "thumbnail": "https://i.ytimg.com/vi/szbk7ZwPmbg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=szbk7ZwPmbg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-19T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "EeBffFTloNw",
+        "title": "【グランツーリスモ７ GT7】ゲリラ！まったりコツコツ練習する会🚙【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/EeBffFTloNw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EeBffFTloNw",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-18T12:16:35Z",
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
