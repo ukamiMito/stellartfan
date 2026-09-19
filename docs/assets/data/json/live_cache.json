@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T06:40:22.303Z",
+  "updatedAt": "2026-09-19T11:35:50.552Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "U34pA4KUBiI",
+        "title": "【同時視聴 頭文字D】完全初見 First stage 21～26話 最終回【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/U34pA4KUBiI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=U34pA4KUBiI",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-19T10:57:56Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "qfiUCEov80E",
+        "title": "【 vtuber 弾き語り】アニソンをピアノ弾き語りで届ける歌枠！🎹癒し＆楽しいをお送りします🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/qfiUCEov80E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qfiUCEov80E",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-19T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
