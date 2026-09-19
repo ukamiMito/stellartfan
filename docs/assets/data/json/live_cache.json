@@ -1,53 +1,9 @@
 {
-  "updatedAt": "2026-09-19T14:49:24.606Z",
+  "updatedAt": "2026-09-19T18:03:38.133Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "szbk7ZwPmbg",
-        "title": "【雀魂】チーム対抗で麻雀勝負！！負けたチームは罰ゲームですって…？【天硝路ろまん / StellArt.】#雀魂コラボweek",
-        "thumbnail": "https://i.ytimg.com/vi/szbk7ZwPmbg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=szbk7ZwPmbg",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-19T12:59:26Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "BJjupj8z7Nw",
-        "title": "【雀魂/#雀魂コラボweek】チーム対抗じゃんたま🔥罰ゲーム有の本気対決！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/BJjupj8z7Nw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BJjupj8z7Nw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-19T12:58:35Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "U34pA4KUBiI",
-        "title": "【同時視聴 頭文字D】完全初見 First stage 21～26話 最終回【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/U34pA4KUBiI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=U34pA4KUBiI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-19T10:57:56Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "qfiUCEov80E",
-        "title": "【 vtuber 弾き語り】アニソンをピアノ弾き語りで届ける歌枠！🎹癒し＆楽しいをお送りします🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/qfiUCEov80E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qfiUCEov80E",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-19T13:00:19Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
