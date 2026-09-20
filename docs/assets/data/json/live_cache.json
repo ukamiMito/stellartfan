@@ -1,20 +1,9 @@
 {
-  "updatedAt": "2026-09-20T14:14:38.075Z",
+  "updatedAt": "2026-09-20T17:30:44.416Z",
   "channels": {
     "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "wi7vJpoksKc",
-        "title": "【グランツーリスモ７ GT7】上達目指してメニューブック進める🚙【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/wi7vJpoksKc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wi7vJpoksKc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-20T12:58:49Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
