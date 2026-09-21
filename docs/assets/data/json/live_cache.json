@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T05:32:10.314Z",
+  "updatedAt": "2026-09-21T11:08:16.536Z",
   "channels": {
     "channelA": [
       {
@@ -15,6 +15,17 @@
     ],
     "channelB": [],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "82Wzx7plb0s",
+        "title": "【 Operation: Tango 】2人で協力してスパイミッションを遂行していくー！🔥with.ろまん先生🪭【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/82Wzx7plb0s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=82Wzx7plb0s",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-21T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
