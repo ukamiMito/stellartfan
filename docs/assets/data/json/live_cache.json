@@ -1,31 +1,20 @@
 {
-  "updatedAt": "2026-09-21T11:08:16.536Z",
+  "updatedAt": "2026-09-21T17:05:16.539Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [
       {
-        "videoId": "PLFI8MnbGNE",
-        "title": "【Operation: Tango】ウチらは最強のハッカー＆エージェント！協力してミッション遂行するぞー！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/PLFI8MnbGNE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PLFI8MnbGNE",
+        "videoId": "7sYGLCG1iI8",
+        "title": "【 Minecraft 】⭐マイクラBINGO⭐制限時間内にアイテムを集めまくれ！！！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/7sYGLCG1iI8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7sYGLCG1iI8",
         "status": "upcoming",
-        "scheduledStartTime": "2026-09-21T13:00:00Z",
+        "scheduledStartTime": "2026-09-22T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "82Wzx7plb0s",
-        "title": "【 Operation: Tango 】2人で協力してスパイミッションを遂行していくー！🔥with.ろまん先生🪭【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/82Wzx7plb0s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=82Wzx7plb0s",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-21T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
