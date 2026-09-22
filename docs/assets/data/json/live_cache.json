@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-21T21:06:07.419Z",
+  "updatedAt": "2026-09-22T00:08:49.005Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "Q44hoZ7GFnY",
+        "title": "【Minecraft】マイクラビンゴ対決🔥一番早くアイテムを集められるのは誰だ！？【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Q44hoZ7GFnY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Q44hoZ7GFnY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-22T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "7sYGLCG1iI8",
