@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T05:01:14.405Z",
+  "updatedAt": "2026-09-22T10:00:32.972Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "lR3tH7QAR_c",
+        "title": "【Minecraft 実況】StellArt.でマイクラBINGO★【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/lR3tH7QAR_c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lR3tH7QAR_c",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-22T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "3nSKvPtXH2Q",
+        "title": "【 Minecraft 】マイクラビンゴ🎉アイテムを早く見つけるビンゴ対決だ！頑張るぞぉ～✨【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/3nSKvPtXH2Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3nSKvPtXH2Q",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-22T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
