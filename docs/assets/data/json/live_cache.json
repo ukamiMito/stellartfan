@@ -1,53 +1,9 @@
 {
-  "updatedAt": "2026-09-22T14:57:25.573Z",
+  "updatedAt": "2026-09-22T18:57:02.447Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "Q44hoZ7GFnY",
-        "title": "【Minecraft】マイクラビンゴ対決🔥一番早くアイテムを集められるのは誰だ！？【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Q44hoZ7GFnY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q44hoZ7GFnY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-22T12:58:04Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "7sYGLCG1iI8",
-        "title": "【 Minecraft 】⭐マイクラBINGO⭐制限時間内にアイテムを集めまくれ！！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/7sYGLCG1iI8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7sYGLCG1iI8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-22T12:57:05Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "lR3tH7QAR_c",
-        "title": "【Minecraft 実況】StellArt.でマイクラBINGO★【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/lR3tH7QAR_c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lR3tH7QAR_c",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-22T12:58:42Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "3nSKvPtXH2Q",
-        "title": "【 Minecraft 】マイクラビンゴ🎉アイテムを早く見つけるビンゴ対決だ！頑張るぞぉ～✨【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/3nSKvPtXH2Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3nSKvPtXH2Q",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-22T12:58:13Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
