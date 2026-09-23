@@ -1,31 +1,20 @@
 {
-  "updatedAt": "2026-09-23T15:03:13.791Z",
+  "updatedAt": "2026-09-23T19:04:41.638Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "xvqh408RGl0",
-        "title": "【 勝利の女神 : #nikke 】バニーイベント「COIN RUSH SHOWDOWN」ストーリー読み💕前篇#173【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/xvqh408RGl0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xvqh408RGl0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-23T12:57:40Z",
+        "videoId": "7A8HyXMK0N4",
+        "title": "【グランツーリスモ7】JDSチャレンジ！そろそろカッコいい天硝路専用ヘルメットも作りたい～～！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/7A8HyXMK0N4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7A8HyXMK0N4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-24T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
+    "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "H5EDb7huDqk",
-        "title": "【 vtuber 弾き語り】眠れるピアノ弾き語り🌙アコギギター最後お披露目！【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/H5EDb7huDqk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=H5EDb7huDqk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-23T12:58:23Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
