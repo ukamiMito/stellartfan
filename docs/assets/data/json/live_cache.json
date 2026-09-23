@@ -1,9 +1,20 @@
 {
-  "updatedAt": "2026-09-22T22:12:45.723Z",
+  "updatedAt": "2026-09-23T00:37:51.966Z",
   "channels": {
     "channelA": [],
     "channelB": [],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "F-818EusH8c",
+        "title": "【歌ってみた】千鳥 / ヨルシカ 【StellArt./アイリナ・ゼファリオ】",
+        "thumbnail": "https://i.ytimg.com/vi/F-818EusH8c/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F-818EusH8c",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-23T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
