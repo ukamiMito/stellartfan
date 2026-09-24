@@ -1,42 +1,9 @@
 {
-  "updatedAt": "2026-09-24T11:50:23.600Z",
+  "updatedAt": "2026-09-24T17:14:30.597Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "7A8HyXMK0N4",
-        "title": "【グランツーリスモ7】JDSチャレンジ！そろそろカッコいい天硝路専用ヘルメットも作りたい～～！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/7A8HyXMK0N4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=7A8HyXMK0N4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-24T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "wz9cGkL7wEc",
-        "title": "【同時視聴 頭文字D】完全初見 Second stage 1～4話【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/wz9cGkL7wEc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wz9cGkL7wEc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-24T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "2IdNx96dgO4",
-        "title": "【グランツーリスモ7】超初心者のGT7🚙ミッションでゴールド取りたい✨【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/2IdNx96dgO4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2IdNx96dgO4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-24T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
