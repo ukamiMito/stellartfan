@@ -1,40 +1,40 @@
 {
-  "updatedAt": "2026-09-25T07:52:38.963Z",
+  "updatedAt": "2026-09-25T13:51:19.789Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "jz-L469RnC0",
-        "title": "【Among Us 3D】今回も骨までしゃぶり尽くすわよ～😋💕 #黄泉ハル村 【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/jz-L469RnC0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jz-L469RnC0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-25T11:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "hp7-HCCpQE0",
         "title": "【 Minecraft/雑談 】コツコツまったり整地雑談します【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/hp7-HCCpQE0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hp7-HCCpQE0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-25T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-25T12:57:11Z",
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "gGarYzyFtJU",
+        "title": "【お便り 雑談 配信】にうふぁの知恵あつめ🦉✉多種多様な知恵が今ここに！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/gGarYzyFtJU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gGarYzyFtJU",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-25T12:57:24Z",
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "MWk8Gj9LLOs",
-        "title": "【SILENT HILL:Townfall】最新作 ‼ 霧に覆われた狐島へ...行く‼一人称リアルホラーゲーム #1【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "title": "【SILENT HILL:Townfall】最新作 ‼ 霧に覆われた狐島へ...この恐怖耐えられるか⁉ #1【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/MWk8Gj9LLOs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MWk8Gj9LLOs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-25T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-25T12:58:27Z",
         "actualEndTime": null
       }
     ]
