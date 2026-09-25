@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T01:56:56.546Z",
+  "updatedAt": "2026-09-25T07:52:38.963Z",
   "channels": {
     "channelA": [
       {
@@ -13,8 +13,30 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "hp7-HCCpQE0",
+        "title": "【 Minecraft/雑談 】コツコツまったり整地雑談します【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/hp7-HCCpQE0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hp7-HCCpQE0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-25T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "MWk8Gj9LLOs",
+        "title": "【SILENT HILL:Townfall】最新作 ‼ 霧に覆われた狐島へ...行く‼一人称リアルホラーゲーム #1【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/MWk8Gj9LLOs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MWk8Gj9LLOs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-25T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
