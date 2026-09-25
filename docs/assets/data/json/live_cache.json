@@ -1,42 +1,31 @@
 {
-  "updatedAt": "2026-09-25T13:51:19.789Z",
+  "updatedAt": "2026-09-25T18:39:31.241Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "K_ypplGTBfk",
+        "title": "【F1 2026/生放送同時視聴】「アゼルバイジャンGP　決勝:ライブ」バクー市街地コースだー！✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/K_ypplGTBfk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=K_ypplGTBfk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-26T10:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
-        "videoId": "hp7-HCCpQE0",
-        "title": "【 Minecraft/雑談 】コツコツまったり整地雑談します【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/hp7-HCCpQE0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hp7-HCCpQE0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-25T12:57:11Z",
+        "videoId": "6avTrwLBSWQ",
+        "title": "【華鉈イオの深夜喫茶】第10回✨人生で一番長くプレイしてるゲームって何？！【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
+        "thumbnail": "https://i.ytimg.com/vi/6avTrwLBSWQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6avTrwLBSWQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-26T14:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "gGarYzyFtJU",
-        "title": "【お便り 雑談 配信】にうふぁの知恵あつめ🦉✉多種多様な知恵が今ここに！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/gGarYzyFtJU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gGarYzyFtJU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-25T12:57:24Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "MWk8Gj9LLOs",
-        "title": "【SILENT HILL:Townfall】最新作 ‼ 霧に覆われた狐島へ...この恐怖耐えられるか⁉ #1【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/MWk8Gj9LLOs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MWk8Gj9LLOs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-25T12:58:27Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
