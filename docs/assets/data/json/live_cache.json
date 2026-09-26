@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T05:33:26.043Z",
+  "updatedAt": "2026-09-26T10:17:48.284Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "TI0S-IvjDh4",
+        "title": "【グランツーリスモ７ GT7】初のミッションに挑む！！！！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/TI0S-IvjDh4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TI0S-IvjDh4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-26T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "QoYD8rfZ58g",
+        "title": "【 vtuber 弾き語り】夜、癒しのひと時を🌷ピアノ弾き語りで奏でる歌枠【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/QoYD8rfZ58g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QoYD8rfZ58g",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-26T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
