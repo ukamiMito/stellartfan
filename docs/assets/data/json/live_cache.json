@@ -1,17 +1,28 @@
 {
-  "updatedAt": "2026-09-27T08:14:32.900Z",
+  "updatedAt": "2026-09-27T14:03:15.798Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "qsOer7eVzOU",
+        "title": "【 勝利の女神 : #nikke 】バニーイベント「COIN RUSH SHOWDOWN」ストーリーⅡ読む！後篇#174【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/qsOer7eVzOU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qsOer7eVzOU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-28T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [
       {
         "videoId": "6mNXTHiTL7I",
         "title": "【グランツーリスモ７ GT7】メニューブック進める☕【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/6mNXTHiTL7I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6mNXTHiTL7I",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-27T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-27T10:57:49Z",
         "actualEndTime": null
       }
     ],
@@ -21,9 +32,9 @@
         "title": "【 FF10 】#5 マカラーニャで奴を倒し、次の島へと旅は続く…✨【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/Q6cSOLFiL_k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Q6cSOLFiL_k",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-27T09:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-27T08:57:25Z",
         "actualEndTime": null
       }
     ]
