@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-09-27T01:50:51.846Z",
+  "updatedAt": "2026-09-27T08:14:32.900Z",
   "channels": {
     "channelA": [],
     "channelB": [],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "6mNXTHiTL7I",
+        "title": "【グランツーリスモ７ GT7】メニューブック進める☕【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/6mNXTHiTL7I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6mNXTHiTL7I",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-27T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "Q6cSOLFiL_k",
+        "title": "【 FF10 】#5 マカラーニャで奴を倒し、次の島へと旅は続く…✨【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Q6cSOLFiL_k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Q6cSOLFiL_k",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-27T09:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
