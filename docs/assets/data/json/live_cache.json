@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T05:28:20.190Z",
+  "updatedAt": "2026-09-28T12:01:46.697Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,7 +14,39 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "1bFWMjbF7wk",
+        "title": "【妹に運転を教える】無免許だけど助手席で役に立って見せる💪【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/1bFWMjbF7wk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1bFWMjbF7wk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "dpNTm_isgRM",
+        "title": "【同時視聴 頭文字D】完全初見 Second stage 7～13話【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/dpNTm_isgRM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dpNTm_isgRM",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-28T10:56:40Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "jm-dTuO1OkY",
+        "title": "【 vtuber 弾き語り】ピアノと雨の音、静かな眠れる歌枠☂ 1曲どうですか？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/jm-dTuO1OkY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jm-dTuO1OkY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-28T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
