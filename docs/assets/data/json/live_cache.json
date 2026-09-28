@@ -1,15 +1,26 @@
 {
-  "updatedAt": "2026-09-28T12:01:46.697Z",
+  "updatedAt": "2026-09-28T19:42:05.034Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "-5mZe0nEbdk",
+        "title": "【 BOMBANANA! 】見ざる聞かざる言わざるで爆弾解除！意思疎通大事！！【天硝路ろまん / StellArt.】＃くれよんどおり三番地",
+        "thumbnail": "https://i.ytimg.com/vi/-5mZe0nEbdk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-5mZe0nEbdk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
-        "videoId": "qsOer7eVzOU",
-        "title": "【 勝利の女神 : #nikke 】バニーイベント「COIN RUSH SHOWDOWN」ストーリーⅡ読む！後篇#174【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/qsOer7eVzOU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qsOer7eVzOU",
+        "videoId": "0-1rsCt1ZJg",
+        "title": "【 BOMBANANA! 】🐵見ざる・聞かざる・言わざるのサル3匹で爆弾処理💣w/天硝路ろまん,ちゃむ。【華鉈イオ/StellArt.】#くれよんどおり三番地",
+        "thumbnail": "https://i.ytimg.com/vi/0-1rsCt1ZJg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0-1rsCt1ZJg",
         "status": "upcoming",
-        "scheduledStartTime": "2026-09-28T13:00:00Z",
+        "scheduledStartTime": "2026-09-29T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
@@ -24,29 +35,8 @@
         "scheduledStartTime": "2026-09-29T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "dpNTm_isgRM",
-        "title": "【同時視聴 頭文字D】完全初見 Second stage 7～13話【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/dpNTm_isgRM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dpNTm_isgRM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-28T10:56:40Z",
-        "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "jm-dTuO1OkY",
-        "title": "【 vtuber 弾き語り】ピアノと雨の音、静かな眠れる歌枠☂ 1曲どうですか？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/jm-dTuO1OkY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jm-dTuO1OkY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-28T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
