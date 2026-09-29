@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T05:47:22.757Z",
+  "updatedAt": "2026-09-29T12:57:40.581Z",
   "channels": {
     "channelA": [
       {
@@ -19,9 +19,9 @@
         "title": "【 BOMBANANA! 】🐵見ざる・聞かざる・言わざるのサル3匹で爆弾処理💣w/天硝路ろまん,ちゃむ。【華鉈イオ/StellArt.】#くれよんどおり三番地",
         "thumbnail": "https://i.ytimg.com/vi/0-1rsCt1ZJg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=0-1rsCt1ZJg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-29T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-29T12:57:31Z",
         "actualEndTime": null
       }
     ],
@@ -31,12 +31,23 @@
         "title": "【妹に運転を教える】無免許だけど助手席で役に立って見せる💪【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/1bFWMjbF7wk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=1bFWMjbF7wk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-09-29T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-29T12:57:08Z",
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "-Gn90ebp7bc",
+        "title": "【SILENT HILL:Townfall】最新作 ‼ 絶対ヤバいメディカルセンターへ。この島の真相は・・ #2【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/-Gn90ebp7bc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-Gn90ebp7bc",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-29T12:57:30Z",
+        "actualEndTime": null
+      }
+    ]
   }
 }
