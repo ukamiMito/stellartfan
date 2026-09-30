@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-09-30T01:37:37.641Z",
+  "updatedAt": "2026-09-30T07:30:26.166Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "2WsdQYmirxM",
+        "title": "【イオモニ/朝活】秋の味覚No.1を決めます。個人的にはサツマイモ🍠【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/2WsdQYmirxM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2WsdQYmirxM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-30T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "QRtES5GePXs",
+        "title": "【NieR:Automata/ニーアオートマタ】#10 3周目/ボス戦！死に戻りエンドレスの始まり…【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/QRtES5GePXs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QRtES5GePXs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-09-30T13:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
