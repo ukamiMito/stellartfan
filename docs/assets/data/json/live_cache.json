@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-09-30T14:15:17.524Z",
+  "updatedAt": "2026-09-30T19:27:42.038Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "hTLlTZ8qq6I",
+        "title": "【グランツーリスモ7】リバリー作り編✨かっこいい自分のヘルメットとスーツが欲しいいいいいいい！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/hTLlTZ8qq6I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hTLlTZ8qq6I",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-01T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "2WsdQYmirxM",
@@ -12,30 +23,9 @@
         "scheduledStartTime": "2026-09-30T21:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "QRtES5GePXs",
-        "title": "【NieR:Automata/ニーアオートマタ】#10 3周目/ボス戦！死に戻りエンドレスの始まり…【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/QRtES5GePXs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QRtES5GePXs",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-30T13:27:35Z",
-        "actualEndTime": null
       }
     ],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "bb3tEvIEhWA",
-        "title": "【 vtuber 弾き語り】　9月最後をピアノ弾き語りで彩る🌷ゲリラ！【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/bb3tEvIEhWA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bb3tEvIEhWA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-30T13:58:45Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
