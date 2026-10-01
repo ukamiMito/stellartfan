@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T08:59:40.767Z",
+  "updatedAt": "2026-10-01T16:28:36.154Z",
   "channels": {
     "channelA": [
       {
@@ -7,47 +7,14 @@
         "title": "【グランツーリスモ7】リバリー作り編✨かっこいい自分のヘルメットとスーツが欲しいいいいいいい！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/hTLlTZ8qq6I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=hTLlTZ8qq6I",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-01T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-01T12:59:29Z",
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "YIwLAbGj6Xc",
-        "title": "【 勝利の女神 : #nikke 】新バニーガチャ『シン：スウィフトバニー』お迎えします👯#175【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/YIwLAbGj6Xc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YIwLAbGj6Xc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-01T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "MTFutrY78G4",
-        "title": "【GT7 耐久配信】チャンネル登録3000人が先か、オールゴールドが先かの戦い🔥🏆初見さん大歓迎✨【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/MTFutrY78G4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MTFutrY78G4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-01T11:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "qm8xfniZJQI",
-        "title": "【グランツーリスモ7】ライセンスA級！ゴールド目指して頑張ります🚙【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/qm8xfniZJQI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qm8xfniZJQI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-01T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
