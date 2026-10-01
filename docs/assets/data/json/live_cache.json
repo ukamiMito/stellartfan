@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-10-01T16:28:36.154Z",
+  "updatedAt": "2026-10-01T21:24:36.252Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "hTLlTZ8qq6I",
-        "title": "【グランツーリスモ7】リバリー作り編✨かっこいい自分のヘルメットとスーツが欲しいいいいいいい！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/hTLlTZ8qq6I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hTLlTZ8qq6I",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-01T12:59:29Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [],
     "channelD": []
