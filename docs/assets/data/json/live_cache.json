@@ -1,42 +1,20 @@
 {
-  "updatedAt": "2026-10-02T13:53:55.286Z",
+  "updatedAt": "2026-10-02T19:21:52.517Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "Lxzmfp2lwWk",
-        "title": "【グランツーリスモ7】大苦手の鈴鹿サーキット攻略！『Gr.1プロトタイプシリーズ』で挑みます【華鉈イオ/StellArt.】#gt7",
-        "thumbnail": "https://i.ytimg.com/vi/Lxzmfp2lwWk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Lxzmfp2lwWk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-02T12:58:08Z",
+        "videoId": "vvtrSSL1840",
+        "title": "【ミラー配信】「GTWS 2026 ラウンド3 - シンガポール」マニュファクチャラーズカップとネイションズカップを4人で観戦！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/vvtrSSL1840/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vvtrSSL1840",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-03T08:45:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "mlYLcwAhyKA",
-        "title": "【Minecraft 実況】ゼロからサバイバルで拠点への帰還を目指す💪【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/mlYLcwAhyKA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mlYLcwAhyKA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-02T12:58:30Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "czzSyFrNSa0",
-        "title": "【 SILENT HILL:Townfall 】恐ろしい変異病棟へ...どんな怪物が待っているのか #3【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/czzSyFrNSa0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=czzSyFrNSa0",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-02T12:59:08Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
