@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-10-03T13:25:53.146Z",
+  "updatedAt": "2026-10-03T17:38:11.565Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "vvtrSSL1840",
-        "title": "【ミラー配信】「GTWS 2026 ラウンド3 - シンガポール」マニュファクチャラーズカップとネイションズカップを4人で観戦！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/vvtrSSL1840/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vvtrSSL1840",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-03T08:45:00Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [],
     "channelD": []
