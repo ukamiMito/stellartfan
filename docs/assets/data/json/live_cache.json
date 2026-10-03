@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-03T20:13:34.923Z",
+  "updatedAt": "2026-10-03T23:07:56.028Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "1E-DLfCgCy8",
+        "title": "【F1 2026/生放送同時視聴】「バーレーンGP　決勝:ライブ」フェルスタッペンさん今シーズン初ポールだあああ！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/1E-DLfCgCy8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1E-DLfCgCy8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-04T07:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
