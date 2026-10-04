@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T02:42:57.277Z",
+  "updatedAt": "2026-10-04T08:50:25.321Z",
   "channels": {
     "channelA": [
       {
@@ -7,14 +7,36 @@
         "title": "【F1 2026/生放送同時視聴】「バーレーンGP　決勝:ライブ」フェルスタッペンさん今シーズン初ポールだあああ！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/1E-DLfCgCy8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=1E-DLfCgCy8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-04T07:30:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-04T06:46:49Z",
         "actualEndTime": null
       }
     ],
     "channelB": [],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "QLfpnnPe28w",
+        "title": "【同時視聴 頭文字D】完全初見 Third stage【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/QLfpnnPe28w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QLfpnnPe28w",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-04T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "1-tweHQSGdY",
+        "title": "【 FF10 】#6 究極召喚の真実、エボンの裏切りを知った今、旅はどうなってしまうのか⁉【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/1-tweHQSGdY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1-tweHQSGdY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-04T09:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
