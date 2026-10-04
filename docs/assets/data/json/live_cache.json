@@ -1,20 +1,9 @@
 {
-  "updatedAt": "2026-10-04T14:48:04.221Z",
+  "updatedAt": "2026-10-04T18:39:20.790Z",
   "channels": {
     "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "QLfpnnPe28w",
-        "title": "【同時視聴 頭文字D】完全初見 Third stage【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/QLfpnnPe28w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QLfpnnPe28w",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-04T11:57:41Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
