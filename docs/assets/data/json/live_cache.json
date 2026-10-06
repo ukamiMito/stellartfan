@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T02:31:55.991Z",
+  "updatedAt": "2026-10-06T09:26:44.878Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,29 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "tcEQ-cU_xe4",
+        "title": "【Minecraft 実況】初心者二人でネザーに挑む👊【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/tcEQ-cU_xe4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tcEQ-cU_xe4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-06T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "ggF3Eg6PU8k",
+        "title": "【 Minecraft 】ネザー編🌷探検と拠点をトロッコで繋ぎたい！溶岩ダイブ今日は大丈夫だよね？【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/ggF3Eg6PU8k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ggF3Eg6PU8k",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-06T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
