@@ -1,42 +1,20 @@
 {
-  "updatedAt": "2026-10-06T09:26:44.878Z",
+  "updatedAt": "2026-10-06T16:17:10.165Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [
       {
-        "videoId": "UdYpf4FfTlk",
-        "title": "#1【ときめきメモリアル】完全初見！『ときめきメモリアル～forever with you～ エモーショナル』をプレイ✨可愛い彼女がほしいです。 ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/UdYpf4FfTlk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UdYpf4FfTlk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-06T13:00:00Z",
-        "actualStartTime": null,
+        "videoId": "J_Nub2bBLdM",
+        "title": "【NieR:Automata/ニーアオートマタ】#11 3周目/終盤戦！クリアまで駆け抜けます！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/J_Nub2bBLdM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=J_Nub2bBLdM",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-06T12:57:47Z",
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [
-      {
-        "videoId": "tcEQ-cU_xe4",
-        "title": "【Minecraft 実況】初心者二人でネザーに挑む👊【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/tcEQ-cU_xe4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tcEQ-cU_xe4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-06T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "ggF3Eg6PU8k",
-        "title": "【 Minecraft 】ネザー編🌷探検と拠点をトロッコで繋ぎたい！溶岩ダイブ今日は大丈夫だよね？【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/ggF3Eg6PU8k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ggF3Eg6PU8k",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-06T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
