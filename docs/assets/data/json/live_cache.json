@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T00:45:03.409Z",
+  "updatedAt": "2026-10-07T06:34:09.851Z",
   "channels": {
     "channelA": [
       {
@@ -13,7 +13,28 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "miVv4E9I214",
+        "title": "【イオモニ/朝活】最近よく考えること話し合う【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/miVv4E9I214/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=miVv4E9I214",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-07T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "rP9IhFkiNC0",
+        "title": "【グランツーリスモ7】MT初心者🔰メニューブックNo.45『シルビア・シスターズ』挑戦する！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/rP9IhFkiNC0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rP9IhFkiNC0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
