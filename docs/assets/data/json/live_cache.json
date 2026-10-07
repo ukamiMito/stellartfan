@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T06:34:09.851Z",
+  "updatedAt": "2026-10-07T13:59:07.803Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "#10【ペルソナ5 ザ・ロイヤル】完全初見！次のターゲットを探し中！どこにいるんだーー！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/_yN05vYYCOU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=_yN05vYYCOU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-07T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-07T12:59:32Z",
         "actualEndTime": null
       }
     ],
@@ -29,13 +29,35 @@
         "title": "【グランツーリスモ7】MT初心者🔰メニューブックNo.45『シルビア・シスターズ』挑戦する！【華鉈イオ/StellArt.】#gt7",
         "thumbnail": "https://i.ytimg.com/vi/rP9IhFkiNC0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rP9IhFkiNC0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-07T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-07T12:57:40Z",
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "8n-2XpL4gfo",
+        "title": "【グランツーリスモ７ GT7】メニューブック回～☕🚙【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/8n-2XpL4gfo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8n-2XpL4gfo",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-07T12:57:41Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "2Yt3vsVuADE",
+        "title": "【 vtuber 弾き語り】癒しの睡眠導入歌枠🐑ピアノ弾き語り🌙【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/2Yt3vsVuADE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2Yt3vsVuADE",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-07T12:58:06Z",
+        "actualEndTime": null
+      }
+    ]
   }
 }
