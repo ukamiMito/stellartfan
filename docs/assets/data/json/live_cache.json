@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T06:13:28.737Z",
+  "updatedAt": "2026-10-08T13:37:51.810Z",
   "channels": {
     "channelA": [
       {
@@ -7,23 +7,45 @@
         "title": "【グランツーリスモ7】JDSチャレンジ！ろまん専用ヘルメットを被って気分上げてくぞーー！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/-4l_HPjUFso/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-4l_HPjUFso",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-08T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-08T12:59:08Z",
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
+    "channelB": [
+      {
+        "videoId": "A5ATUwSSATs",
+        "title": "【 Minecraft/雑談 】コツコツ作業マイクラ🎶初めてのビーコン設置してみる！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/A5ATUwSSATs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=A5ATUwSSATs",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-08T12:57:30Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "3mvDKWziZtg",
+        "title": "【タンポポは耐える。 実況】耐えてみせる！！何があろうとも！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/3mvDKWziZtg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3mvDKWziZtg",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-08T12:56:33Z",
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "BvEHLTd5nuI",
         "title": "【 SILENT HILL:Townfall 】最終回！サイモンとリチャードが犯した罪とは…一体どうなる⁉【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/BvEHLTd5nuI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BvEHLTd5nuI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-08T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-08T12:58:35Z",
         "actualEndTime": null
       }
     ]
