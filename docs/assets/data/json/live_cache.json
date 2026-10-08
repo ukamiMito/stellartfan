@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-10-07T20:00:23.728Z",
+  "updatedAt": "2026-10-08T00:13:49.703Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "-4l_HPjUFso",
+        "title": "【グランツーリスモ7】JDSチャレンジ！ろまん専用ヘルメットを被って気分上げてくぞーー！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/-4l_HPjUFso/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-4l_HPjUFso",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-08T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "miVv4E9I214",
         "title": "【イオモニ/朝活】最近よく考えること話し合う【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/miVv4E9I214/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=miVv4E9I214",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-07T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-07T21:01:11Z",
         "actualEndTime": null
       }
     ],
