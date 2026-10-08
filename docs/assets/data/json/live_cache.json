@@ -1,20 +1,9 @@
 {
-  "updatedAt": "2026-10-08T19:29:24.092Z",
+  "updatedAt": "2026-10-08T23:58:17.470Z",
   "channels": {
     "channelA": [],
     "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "0ki6f0L2yyY",
-        "title": "【 SILENT HILL:Townfall 】最終回！サイモンとリチャードが犯した罪とは…一体どうなる⁉【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/0ki6f0L2yyY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0ki6f0L2yyY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-08T17:43:02Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
