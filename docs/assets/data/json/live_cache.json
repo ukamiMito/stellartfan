@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T00:13:49.703Z",
+  "updatedAt": "2026-10-08T06:13:28.737Z",
   "channels": {
     "channelA": [
       {
@@ -13,19 +13,19 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
+    "channelB": [],
+    "channelC": [],
+    "channelD": [
       {
-        "videoId": "miVv4E9I214",
-        "title": "【イオモニ/朝活】最近よく考えること話し合う【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/miVv4E9I214/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=miVv4E9I214",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-07T21:01:11Z",
+        "videoId": "BvEHLTd5nuI",
+        "title": "【 SILENT HILL:Townfall 】最終回！サイモンとリチャードが犯した罪とは…一体どうなる⁉【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/BvEHLTd5nuI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BvEHLTd5nuI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-08T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ],
-    "channelC": [],
-    "channelD": []
+    ]
   }
 }
