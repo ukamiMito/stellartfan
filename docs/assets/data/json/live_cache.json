@@ -1,31 +1,31 @@
 {
-  "updatedAt": "2026-10-09T13:24:01.387Z",
+  "updatedAt": "2026-10-09T19:01:37.146Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
-    "channelC": [
+    "channelA": [
       {
-        "videoId": "yogoQnkIfLk",
-        "title": "【NIKKE ストーリー】CHAPTER.24 追放  完全初見🔰久しぶりのメインストーリーだーーー楽しみ！！！！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/yogoQnkIfLk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yogoQnkIfLk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-09T11:59:48Z",
+        "videoId": "fsxMLevgQuQ",
+        "title": "【F1 2026/生放送同時視聴】「シンガポールGP　予選:ライブ」ナイトレース初めて観る！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/fsxMLevgQuQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fsxMLevgQuQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-10T12:30:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelD": [
+    "channelB": [
       {
-        "videoId": "RRtiam024Xk",
-        "title": "【 vtuber 弾き語り】週末の疲れを吹き飛ばす🌷楽しく癒しのピアノ弾き語り【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/RRtiam024Xk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RRtiam024Xk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-09T12:58:14Z",
+        "videoId": "9XwARvm95AY",
+        "title": "【 勝利の女神 : #nikke 】🎃ハロウィンイベ『LITTLE WITCH TRICK』やります！SSＲベロータ✨#176【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/9XwARvm95AY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9XwARvm95AY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-10T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelC": [],
+    "channelD": []
   }
 }
