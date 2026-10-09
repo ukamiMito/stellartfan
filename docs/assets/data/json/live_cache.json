@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-10-09T06:13:30.548Z",
+  "updatedAt": "2026-10-09T13:24:01.387Z",
   "channels": {
     "channelA": [],
     "channelB": [],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "yogoQnkIfLk",
+        "title": "【NIKKE ストーリー】CHAPTER.24 追放  完全初見🔰久しぶりのメインストーリーだーーー楽しみ！！！！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/yogoQnkIfLk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yogoQnkIfLk",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-09T11:59:48Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "RRtiam024Xk",
+        "title": "【 vtuber 弾き語り】週末の疲れを吹き飛ばす🌷楽しく癒しのピアノ弾き語り【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/RRtiam024Xk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RRtiam024Xk",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-09T12:58:14Z",
+        "actualEndTime": null
+      }
+    ]
   }
 }
