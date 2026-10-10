@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T02:47:38.377Z",
+  "updatedAt": "2026-10-10T09:54:30.560Z",
   "channels": {
     "channelA": [
       {
@@ -26,6 +26,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "kO-ewbi-Gnk",
+        "title": "【 FF10 】#7 3回目のシーモア戦！そしてついにザナルカンドへ。【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/kO-ewbi-Gnk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kO-ewbi-Gnk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-10T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
