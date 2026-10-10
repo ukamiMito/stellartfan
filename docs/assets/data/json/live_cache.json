@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-10T20:05:44.345Z",
+  "updatedAt": "2026-10-10T23:35:30.987Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "7Y0MbdG47Qg",
+        "title": "【マーダーミステリー】たしかにヒロインを虐めてましたがヒロインを殺したのはわたくしではなくってよ！ / GM・王妃教育係視点 ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/7Y0MbdG47Qg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7Y0MbdG47Qg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-11T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
