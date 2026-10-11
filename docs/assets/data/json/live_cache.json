@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T02:13:47.747Z",
+  "updatedAt": "2026-10-11T08:59:38.881Z",
   "channels": {
     "channelA": [
       {
@@ -13,8 +13,41 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
-    "channelD": []
+    "channelB": [
+      {
+        "videoId": "IlRTX4UUovQ",
+        "title": "【マーダーミステリー】たしかにヒロインを虐めてましたがヒロインを殺したのはわたくしではなくってよ！伯爵令嬢：華鉈イオ視点 ※ネタバレ注意【華鉈イオ/StellArt.】#ヒロころ",
+        "thumbnail": "https://i.ytimg.com/vi/IlRTX4UUovQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IlRTX4UUovQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-11T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "H9Jw_fYyvCc",
+        "title": "【マーダーミステリー 配信】たしかにヒロインを虐めてましたがヒロインを殺したのはわたくしではなくってよ！男爵令嬢にうふぁ視点👀⚠ネタバレ注意⚠【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/H9Jw_fYyvCc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=H9Jw_fYyvCc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-11T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "A45DGnidXVA",
+        "title": "【マーダーミステリー】たしかにヒロインを虐めてましたがヒロインを殺したのはわたくしではなくってよ！子爵令嬢 視点ですわ🌹【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/A45DGnidXVA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=A45DGnidXVA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-11T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
