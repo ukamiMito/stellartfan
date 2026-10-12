@@ -1,31 +1,9 @@
 {
-  "updatedAt": "2026-10-12T09:48:04.228Z",
+  "updatedAt": "2026-10-12T19:49:19.773Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "wi8QggVeWCg",
-        "title": "【#スプラトゥーン3】人生初🔰のスプラトゥーン！！！！お気に入り武器見つけたいぞ🦑【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/wi8QggVeWCg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wi8QggVeWCg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-12T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "omQLIYJq6RM",
-        "title": "【 vtuber 弾き語り】泣けるピアノ弾き語り🎹1曲どうですか？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/omQLIYJq6RM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=omQLIYJq6RM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-12T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
