@@ -1,42 +1,20 @@
 {
-  "updatedAt": "2026-10-13T09:28:06.804Z",
+  "updatedAt": "2026-10-13T17:09:05.593Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "y-062pafwBo",
-        "title": "#2【ときめきメモリアル】完全初見！『ときめきメモリアル～forever with you～ エモーショナル』をプレイ✨一緒に帰ろうよ… ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/y-062pafwBo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=y-062pafwBo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-13T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
-        "videoId": "5_mzucpT6zw",
-        "title": "【 #BASEBREAD 】2人で完全栄養食パンの食べ比べ＆正直レビューしていく！おススメの食べ方もご紹介✨【華鉈イオ/StellArt.】#pr",
-        "thumbnail": "https://i.ytimg.com/vi/5_mzucpT6zw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5_mzucpT6zw",
+        "videoId": "W-K0d1vHUsY",
+        "title": "【 Japanese Ramen Simulator 】家系ラーメン屋経営します。へいらっしゃぁああいい！！！！！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/W-K0d1vHUsY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=W-K0d1vHUsY",
         "status": "upcoming",
-        "scheduledStartTime": "2026-10-13T12:00:00Z",
+        "scheduledStartTime": "2026-10-14T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "I_2HJu5yH-U",
-        "title": "【 Minecraft 】おしゃんなエンチャント部屋作りたい🏡ゼファ家増築編！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/I_2HJu5yH-U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=I_2HJu5yH-U",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-13T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
