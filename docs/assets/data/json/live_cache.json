@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T02:02:50.800Z",
+  "updatedAt": "2026-10-13T09:28:06.804Z",
   "channels": {
     "channelA": [
       {
@@ -26,6 +26,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "I_2HJu5yH-U",
+        "title": "【 Minecraft 】おしゃんなエンチャント部屋作りたい🏡ゼファ家増築編！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/I_2HJu5yH-U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=I_2HJu5yH-U",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-13T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
