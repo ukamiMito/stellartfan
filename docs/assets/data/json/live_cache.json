@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-13T17:09:05.593Z",
+  "updatedAt": "2026-10-13T21:51:54.232Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "IUeUHf4NnCI",
+        "title": "【Japanese Ramen Simulator】ラーメン屋開店ッッ！！バイト、出勤します！！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/IUeUHf4NnCI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IUeUHf4NnCI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-14T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "W-K0d1vHUsY",
