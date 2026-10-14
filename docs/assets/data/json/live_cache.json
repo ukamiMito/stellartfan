@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-10-14T11:59:46.765Z",
+  "updatedAt": "2026-10-14T17:14:46.783Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "IUeUHf4NnCI",
-        "title": "【Japanese Ramen Simulator】ラーメン屋開店ッッ！！バイト、出勤します！！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/IUeUHf4NnCI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IUeUHf4NnCI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-14T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "YXZVQke6DJ4",
@@ -23,41 +12,9 @@
         "scheduledStartTime": "2026-10-14T21:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "W-K0d1vHUsY",
-        "title": "【 Japanese Ramen Simulator 】家系ラーメン屋経営します。へいらっしゃぁああいい！！！！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/W-K0d1vHUsY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=W-K0d1vHUsY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-14T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "TpJhV_OOEIw",
-        "title": "【Japanese Ramen Simulator 実況】商い中🍜お好みありますか！？【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/TpJhV_OOEIw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TpJhV_OOEIw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-14T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "3oFa2gV0hKo",
-        "title": "【Japanese Ramen Simulator】私たちで超人気店にするんや🍜大好きなラーメン作り！【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/3oFa2gV0hKo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3oFa2gV0hKo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-14T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
