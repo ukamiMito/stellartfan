@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-14T17:14:46.783Z",
+  "updatedAt": "2026-10-14T20:45:26.246Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "HCnG33R5ON0",
+        "title": "#11【ペルソナ5 ザ・ロイヤル】完全初見！じわじわターゲットに近付いている…はず！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/HCnG33R5ON0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HCnG33R5ON0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "YXZVQke6DJ4",
