@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-10-15T12:52:26.556Z",
+  "updatedAt": "2026-10-15T17:47:25.663Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "HCnG33R5ON0",
-        "title": "#11【ペルソナ5 ザ・ロイヤル】完全初見！じわじわターゲットに近付いている…はず！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/HCnG33R5ON0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HCnG33R5ON0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-15T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "jIGu5JJvoiQ",
@@ -23,41 +12,9 @@
         "scheduledStartTime": "2026-10-16T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "5lKdXdoGrBk",
-        "title": "【 勝利の女神 : #nikke 】最新サイドストーリー「GINGERBREAD HOUSE」同時視聴！ヘンゼルとグレーテルの行方は…#177【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/5lKdXdoGrBk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5lKdXdoGrBk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-15T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "kDVdMUcDbdQ",
-        "title": "【グランツーリスモ７ GT7】メニューブックやるぞ～☕お～ッ✊【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/kDVdMUcDbdQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kDVdMUcDbdQ",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-15T11:57:53Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "kiwh5NebG9A",
-        "title": "【 vtuber 弾き語り】癒すピアノ弾き語り🌙心を込めて歌います🌷【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/kiwh5NebG9A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=kiwh5NebG9A",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-15T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
