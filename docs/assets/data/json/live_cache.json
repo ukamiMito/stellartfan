@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T23:29:16.334Z",
+  "updatedAt": "2026-10-15T01:52:23.454Z",
   "channels": {
     "channelA": [
       {
@@ -13,18 +13,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "YXZVQke6DJ4",
-        "title": "【イオモニ/朝活】ハロウィンで浮かれる女【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/YXZVQke6DJ4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YXZVQke6DJ4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-14T20:57:43Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
