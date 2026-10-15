@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T01:52:23.454Z",
+  "updatedAt": "2026-10-15T07:29:19.433Z",
   "channels": {
     "channelA": [
       {
@@ -13,8 +13,30 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
+    "channelB": [
+      {
+        "videoId": "5lKdXdoGrBk",
+        "title": "【 勝利の女神 : #nikke 】最新サイドストーリー「GINGERBREAD HOUSE」同時視聴！ヘンゼルとグレーテルの行方は…#177【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/5lKdXdoGrBk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5lKdXdoGrBk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "kDVdMUcDbdQ",
+        "title": "【グランツーリスモ７ GT7】メニューブックやるぞ～☕お～ッ✊【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/kDVdMUcDbdQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kDVdMUcDbdQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-15T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
