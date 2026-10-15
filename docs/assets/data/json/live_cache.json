@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-15T07:29:19.433Z",
+  "updatedAt": "2026-10-15T12:52:26.556Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "jIGu5JJvoiQ",
+        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン】#1 完全初見！初めての夜をソロプレイで渡る…※スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/jIGu5JJvoiQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jIGu5JJvoiQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-16T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "5lKdXdoGrBk",
         "title": "【 勝利の女神 : #nikke 】最新サイドストーリー「GINGERBREAD HOUSE」同時視聴！ヘンゼルとグレーテルの行方は…#177【華鉈イオ/StellArt.】#新人vtuber",
@@ -31,12 +41,23 @@
         "title": "【グランツーリスモ７ GT7】メニューブックやるぞ～☕お～ッ✊【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/kDVdMUcDbdQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=kDVdMUcDbdQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-15T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-15T11:57:53Z",
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "kiwh5NebG9A",
+        "title": "【 vtuber 弾き語り】癒すピアノ弾き語り🌙心を込めて歌います🌷【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/kiwh5NebG9A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kiwh5NebG9A",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
