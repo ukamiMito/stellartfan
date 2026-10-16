@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T09:18:43.648Z",
+  "updatedAt": "2026-10-16T14:19:19.332Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -8,21 +8,31 @@
         "title": "【ELDEN RING NIGHTREIGN /ナイトレイン】#1 完全初見！初めての夜をソロプレイで渡る…※スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/jIGu5JJvoiQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=jIGu5JJvoiQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-16T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-16T12:57:22Z",
         "actualEndTime": null
       }
     ],
     "channelC": [
       {
+        "videoId": "0xAOCCZKm9A",
+        "title": "【 #にうふぁ生誕祭2026 】にうふぁのはじめてのお誕生日です🎂✨【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/0xAOCCZKm9A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0xAOCCZKm9A",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-17T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
         "videoId": "6rte2oix_UE",
         "title": "【overthehill 実況】４WDで大自然を旅する🚙【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/6rte2oix_UE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=6rte2oix_UE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-16T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-16T12:57:35Z",
         "actualEndTime": null
       }
     ],
@@ -32,9 +42,9 @@
         "title": "【グランツーリスモ7】国際B級挑戦🔥感覚を身に着けて全ゴールド取るぞ～🏁【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/riJw18B0HTk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=riJw18B0HTk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-16T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-16T11:57:57Z",
         "actualEndTime": null
       }
     ]
