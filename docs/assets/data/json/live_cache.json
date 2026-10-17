@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T08:50:31.594Z",
+  "updatedAt": "2026-10-17T12:59:33.670Z",
   "channels": {
     "channelA": [],
     "channelB": [],
@@ -9,9 +9,9 @@
         "title": "【 #にうふぁ生誕祭2026 】にうふぁのはじめてのお誕生日です🎂✨【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/0xAOCCZKm9A/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=0xAOCCZKm9A",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-17T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-17T11:56:22Z",
         "actualEndTime": null
       }
     ],
