@@ -1,20 +1,9 @@
 {
-  "updatedAt": "2026-10-17T12:59:33.670Z",
+  "updatedAt": "2026-10-17T16:27:45.886Z",
   "channels": {
     "channelA": [],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "0xAOCCZKm9A",
-        "title": "【 #にうふぁ生誕祭2026 】にうふぁのはじめてのお誕生日です🎂✨【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/0xAOCCZKm9A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0xAOCCZKm9A",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-17T11:56:22Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
