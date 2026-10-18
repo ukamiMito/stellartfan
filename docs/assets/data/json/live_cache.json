@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T06:37:40.199Z",
+  "updatedAt": "2026-10-18T11:45:22.014Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -26,6 +26,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "ksTAm1jDfNs",
+        "title": "【 FF10 】#8 最終回⁉ ザナルカンドについてついにシンと...色んな思いを抱えて前に進む【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/ksTAm1jDfNs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ksTAm1jDfNs",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-18T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
