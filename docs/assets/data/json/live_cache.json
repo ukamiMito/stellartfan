@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-10-18T01:33:41.525Z",
+  "updatedAt": "2026-10-18T06:37:40.199Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
-    "channelC": [],
+    "channelB": [
+      {
+        "videoId": "h_lrxE4CyBk",
+        "title": "【Farming Simulator 22】大会ソロ練習！農業をはじめます✨基本操作を覚えるぞ！！！【華鉈イオ/StellArt.】#秋のV事務所食材争奪大会",
+        "thumbnail": "https://i.ytimg.com/vi/h_lrxE4CyBk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=h_lrxE4CyBk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "RA2KLy0oycU",
+        "title": "【 #にうふぁ生誕祭2026 振り返り】お誕生日振り返ります！スパチャも読むよ～！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/RA2KLy0oycU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RA2KLy0oycU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
