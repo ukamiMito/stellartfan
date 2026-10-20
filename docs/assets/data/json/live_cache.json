@@ -1,8 +1,18 @@
 {
-  "updatedAt": "2026-10-20T17:59:47.293Z",
+  "updatedAt": "2026-10-20T21:39:49.500Z",
   "channels": {
     "channelA": [],
     "channelB": [
+      {
+        "videoId": "Vx6YRs1jetc",
+        "title": "【イオモニ/朝活】スーパーの懸賞に応募したら大人になった証拠【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Vx6YRs1jetc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Vx6YRs1jetc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-21T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "jtAMkQRG4fw",
         "title": "【#スプラトゥーン3】初スプラ3コラボ🦑気合で乗り切る！パワーーーーー！！！！【華鉈イオ/StellArt.】#vtuber",
