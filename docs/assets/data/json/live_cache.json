@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T02:10:08.328Z",
+  "updatedAt": "2026-10-20T07:37:48.258Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -24,7 +24,39 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "pHMdzy9f0iE",
+        "title": "【NIKKE ストーリー】WORDLESS  完全初見🔰写真…ビリビリだ…ユニ…【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/pHMdzy9f0iE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pHMdzy9f0iE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "m8gvMOvkxCU",
+        "title": "【グランツーリスモ７ GT7】ゲリラ🌞初ウィークリーやってく！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/m8gvMOvkxCU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=m8gvMOvkxCU",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-20T06:17:48Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "oYfYNczh8Cc",
+        "title": "【 #耐久歌枠 】ch登録5000人耐久✨ピアノ弾き語りで駆け抜ける🌷初見さん大歓迎！【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/oYfYNczh8Cc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oYfYNczh8Cc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-20T08:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
