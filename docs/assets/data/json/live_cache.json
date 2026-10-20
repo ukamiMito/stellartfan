@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T13:01:48.367Z",
+  "updatedAt": "2026-10-20T17:59:47.293Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -12,30 +12,9 @@
         "scheduledStartTime": "2026-10-21T12:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "xio5Se7MoHM",
-        "title": "【 勝利の女神 : #nikke 】メイド🎀シンデレラ登場！キャラストーリー読みます！甘々すぎるらしい。。#178【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/xio5Se7MoHM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xio5Se7MoHM",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-20T12:57:20Z",
-        "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "pHMdzy9f0iE",
-        "title": "【NIKKE ストーリー】WORDLESS  完全初見🔰写真…ビリビリだ…ユニ…【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/pHMdzy9f0iE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pHMdzy9f0iE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-20T12:56:24Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
