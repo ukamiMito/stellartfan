@@ -1,18 +1,19 @@
 {
-  "updatedAt": "2026-10-21T00:09:36.596Z",
+  "updatedAt": "2026-10-21T04:53:54.222Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "Vx6YRs1jetc",
-        "title": "【イオモニ/朝活】スーパーの懸賞に応募したら大人になった証拠【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Vx6YRs1jetc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Vx6YRs1jetc",
+        "videoId": "NlDCv7i_zdM",
+        "title": "【スプラトゥーン3】念願のStellArt.メンバー4人でスプラ！！！！🦑🐙【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/NlDCv7i_zdM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NlDCv7i_zdM",
         "status": "upcoming",
-        "scheduledStartTime": "2026-10-21T21:00:00Z",
+        "scheduledStartTime": "2026-10-21T12:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
+      }
+    ],
+    "channelB": [
       {
         "videoId": "jtAMkQRG4fw",
         "title": "【#スプラトゥーン3】初スプラ3コラボ🦑気合で乗り切る！パワーーーーー！！！！【華鉈イオ/StellArt.】#vtuber",
@@ -24,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "_ASOhvY1-H4",
+        "title": "【スプラトゥーン３】塗って塗って塗りまくれ～🎨【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/_ASOhvY1-H4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_ASOhvY1-H4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-21T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
