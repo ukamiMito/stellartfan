@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-21T15:19:23.577Z",
+  "updatedAt": "2026-10-21T19:40:08.474Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "TxwSBpLucUo",
+        "title": "【えかきうた大合戦】歌詞だけを頼りに、正しい絵を完成させるゲーム！🎨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/TxwSBpLucUo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TxwSBpLucUo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-22T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "Vx6YRs1jetc",
