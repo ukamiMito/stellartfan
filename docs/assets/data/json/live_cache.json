@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-10-21T10:13:29.229Z",
+  "updatedAt": "2026-10-21T15:19:23.577Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "NlDCv7i_zdM",
-        "title": "【スプラトゥーン3】念願のStellArt.メンバー4人でスプラ！！！！🦑🐙【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/NlDCv7i_zdM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NlDCv7i_zdM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-21T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "Vx6YRs1jetc",
@@ -23,41 +12,9 @@
         "scheduledStartTime": "2026-10-21T21:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "jtAMkQRG4fw",
-        "title": "【#スプラトゥーン3】初スプラ3コラボ🦑気合で乗り切る！パワーーーーー！！！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/jtAMkQRG4fw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=jtAMkQRG4fw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-21T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "_ASOhvY1-H4",
-        "title": "【スプラトゥーン３】塗って塗って塗りまくれ～🎨【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/_ASOhvY1-H4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_ASOhvY1-H4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-21T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "bRehsU_vEfQ",
-        "title": "【 スプラトゥーン3 】新たなる挑戦！活躍できるよう頑張るんだ🔥【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/bRehsU_vEfQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bRehsU_vEfQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-21T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
