@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T22:47:44.597Z",
+  "updatedAt": "2026-10-22T01:33:16.871Z",
   "channels": {
     "channelA": [
       {
@@ -15,13 +15,13 @@
     ],
     "channelB": [
       {
-        "videoId": "Vx6YRs1jetc",
-        "title": "【イオモニ/朝活】スーパーの懸賞に応募したら大人になった証拠【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Vx6YRs1jetc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Vx6YRs1jetc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-21T20:58:22Z",
+        "videoId": "JldZquN9tdg",
+        "title": "【えかきうた大合戦】歌を聴いて絵を描く！！絵心たっぷりです【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/JldZquN9tdg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JldZquN9tdg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-22T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
