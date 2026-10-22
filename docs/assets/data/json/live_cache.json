@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T01:33:16.871Z",
+  "updatedAt": "2026-10-22T06:37:33.316Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "cD4NGe1hjsc",
+        "title": "【同時視聴 頭文字D】完全初見 Forth stage 1話～6話【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/cD4NGe1hjsc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cD4NGe1hjsc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-22T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
