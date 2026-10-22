@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T06:37:33.316Z",
+  "updatedAt": "2026-10-22T12:29:49.981Z",
   "channels": {
     "channelA": [
       {
@@ -14,6 +14,16 @@
       }
     ],
     "channelB": [
+      {
+        "videoId": "n1D57lm3bew",
+        "title": "【Farming Simulator 22】顔合わせ！初のチーム練習がっつりやるぞおおおお【華鉈イオ/StellArt.】#秋のV事務所食材争奪大会",
+        "thumbnail": "https://i.ytimg.com/vi/n1D57lm3bew/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=n1D57lm3bew",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-23T09:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "JldZquN9tdg",
         "title": "【えかきうた大合戦】歌を聴いて絵を描く！！絵心たっぷりです【華鉈イオ/StellArt.】#vtuber",
@@ -31,12 +41,23 @@
         "title": "【同時視聴 頭文字D】完全初見 Forth stage 1話～6話【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/cD4NGe1hjsc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cD4NGe1hjsc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-22T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-22T10:58:28Z",
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "_7hqPq3KCmk",
+        "title": "【 vtuber 弾き語り】真夜中のピアノ弾き語り🌙睡眠導入に癒しを届けます🎹【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/_7hqPq3KCmk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_7hqPq3KCmk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-22T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
