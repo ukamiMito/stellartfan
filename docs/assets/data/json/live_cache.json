@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-10-22T12:29:49.981Z",
+  "updatedAt": "2026-10-22T17:39:23.396Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "TxwSBpLucUo",
-        "title": "【えかきうた大合戦】歌詞だけを頼りに、正しい絵を完成させるゲーム！🎨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/TxwSBpLucUo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TxwSBpLucUo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-22T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "n1D57lm3bew",
@@ -23,41 +12,9 @@
         "scheduledStartTime": "2026-10-23T09:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "JldZquN9tdg",
-        "title": "【えかきうた大合戦】歌を聴いて絵を描く！！絵心たっぷりです【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/JldZquN9tdg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JldZquN9tdg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-22T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "cD4NGe1hjsc",
-        "title": "【同時視聴 頭文字D】完全初見 Forth stage 1話～6話【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/cD4NGe1hjsc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cD4NGe1hjsc",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-22T10:58:28Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "_7hqPq3KCmk",
-        "title": "【 vtuber 弾き語り】真夜中のピアノ弾き語り🌙睡眠導入に癒しを届けます🎹【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/_7hqPq3KCmk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_7hqPq3KCmk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-22T14:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
