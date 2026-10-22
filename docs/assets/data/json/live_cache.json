@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-22T17:39:23.396Z",
+  "updatedAt": "2026-10-22T20:50:35.597Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "HEOVqiG4uWI",
+        "title": "#2【Operation: Tango】ウチらは最強のハッカー＆エージェント！協力してミッション遂行するぞー！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/HEOVqiG4uWI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HEOVqiG4uWI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-23T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "n1D57lm3bew",
