@@ -1,31 +1,20 @@
 {
-  "updatedAt": "2026-10-23T15:07:30.585Z",
+  "updatedAt": "2026-10-23T19:17:25.954Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [
       {
-        "videoId": "HEOVqiG4uWI",
-        "title": "#2【Operation: Tango】ウチらは最強のハッカー＆エージェント！協力してミッション遂行するぞー！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/HEOVqiG4uWI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HEOVqiG4uWI",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-23T12:58:06Z",
+        "videoId": "TMUE8GOr2pY",
+        "title": "【 勝利の女神 : #nikke 】🎉ニケ4周年記念生放送『約束の地へ、女神集結』ミラー同時視聴しよう！※スパチャ禁止#179【華鉈イオ/StellArt.】 #pr",
+        "thumbnail": "https://i.ytimg.com/vi/TMUE8GOr2pY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TMUE8GOr2pY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-24T07:20:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "K2Y0a4BUXjw",
-        "title": "【 Operation: Tango 】スパイが帰ってきた！また世界、救っちゃうよ～🔥with.ろまん先生🪭【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/K2Y0a4BUXjw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=K2Y0a4BUXjw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-23T12:58:56Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
