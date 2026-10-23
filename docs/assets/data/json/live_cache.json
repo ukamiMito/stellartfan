@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-23T19:17:25.954Z",
+  "updatedAt": "2026-10-23T22:39:25.018Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "t_A_vGBNPn8",
+        "title": "#3【ときめきメモリアル】完全初見！『ときめきメモリアル～forever with you～ エモーショナル』をプレイ✨イイ雰囲気じゃん～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/t_A_vGBNPn8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t_A_vGBNPn8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-24T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "TMUE8GOr2pY",
