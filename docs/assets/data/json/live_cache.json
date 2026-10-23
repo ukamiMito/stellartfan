@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T04:55:55.535Z",
+  "updatedAt": "2026-10-23T10:07:38.959Z",
   "channels": {
     "channelA": [
       {
@@ -19,13 +19,35 @@
         "title": "【Farming Simulator 22】顔合わせ！初のチーム練習がっつりやるぞおおおお【華鉈イオ/StellArt.】#秋のV事務所食材争奪大会",
         "thumbnail": "https://i.ytimg.com/vi/n1D57lm3bew/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=n1D57lm3bew",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-23T08:57:48Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "jk-fgj70q9U",
+        "title": "【グランツーリスモ７ GT7】新たなるレースを求めて💪🔥【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/jk-fgj70q9U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jk-fgj70q9U",
         "status": "upcoming",
-        "scheduledStartTime": "2026-10-23T09:00:00Z",
+        "scheduledStartTime": "2026-10-23T12:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "K2Y0a4BUXjw",
+        "title": "【 Operation: Tango 】スパイが帰ってきた！また世界、救っちゃうよ～🔥with.ろまん先生🪭【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/K2Y0a4BUXjw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=K2Y0a4BUXjw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-23T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
