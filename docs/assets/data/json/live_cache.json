@@ -1,42 +1,20 @@
 {
-  "updatedAt": "2026-10-24T14:35:22.829Z",
+  "updatedAt": "2026-10-24T17:37:58.155Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [
       {
-        "videoId": "t_A_vGBNPn8",
-        "title": "#3【ときめきメモリアル】完全初見！『ときめきメモリアル～forever with you～ エモーショナル』をプレイ✨イイ雰囲気じゃん～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/t_A_vGBNPn8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=t_A_vGBNPn8",
+        "videoId": "z7ooQcYzM80",
+        "title": "【Farming Simulator 22】大会練習！前日にまったりやる！w/謎メンツ【華鉈イオ/StellArt.】#秋のV事務所食材争奪大会",
+        "thumbnail": "https://i.ytimg.com/vi/z7ooQcYzM80/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z7ooQcYzM80",
         "status": "live",
         "scheduledStartTime": null,
-        "actualStartTime": "2026-10-24T12:59:06Z",
+        "actualStartTime": "2026-10-24T16:00:06Z",
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [
-      {
-        "videoId": "3NgQWTwjJA8",
-        "title": "【霊、足しときました。】心霊写真を作る、簡単なお仕事って聞いて…【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/3NgQWTwjJA8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=3NgQWTwjJA8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-24T12:57:07Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "Rfa7gExqGQE",
-        "title": "【 vtuber 弾き語り】季節巡りながらピアノ弾き語りで歌います🌷【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/Rfa7gExqGQE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Rfa7gExqGQE",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-24T12:59:59Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
