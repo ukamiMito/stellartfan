@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T05:56:25.589Z",
+  "updatedAt": "2026-10-24T11:06:48.777Z",
   "channels": {
     "channelA": [
       {
@@ -16,16 +16,38 @@
     "channelB": [
       {
         "videoId": "TMUE8GOr2pY",
-        "title": "【 勝利の女神 : #nikke 】🎉ニケ4周年記念生放送『約束の地へ、女神集結』ミラー同時視聴しよう！※スパチャ禁止#179【華鉈イオ/StellArt.】 #pr",
+        "title": "【 勝利の女神 : #nikke 】🎉ニケ4周年記念生放送『約束の地へ、女神集結』ミラー同時視聴しよう！#179【華鉈イオ/StellArt.】 #pr #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/TMUE8GOr2pY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=TMUE8GOr2pY",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-24T07:21:19Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "3NgQWTwjJA8",
+        "title": "【霊、足しときます。】心霊写真を作る、簡単なお仕事って聞いて…【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/3NgQWTwjJA8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3NgQWTwjJA8",
         "status": "upcoming",
-        "scheduledStartTime": "2026-10-24T07:20:00Z",
+        "scheduledStartTime": "2026-10-24T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "Rfa7gExqGQE",
+        "title": "【 vtuber 弾き語り】季節巡りながらピアノ弾き語りで歌います🌷【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/Rfa7gExqGQE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Rfa7gExqGQE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-24T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
