@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-24T19:49:50.640Z",
+  "updatedAt": "2026-10-24T22:30:43.032Z",
   "channels": {
     "channelA": [
       {
@@ -7,13 +7,24 @@
         "title": "【F1 2026/生放送同時視聴】「アメリカGP　予選:ライブ」早朝に観るF1も趣深いじゃんね。【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/ChPGWUrhkFk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ChPGWUrhkFk",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-24T20:30:39Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "9mg1CdQlEcE",
+        "title": "【Farming Simulator 22】大会本番🔥練習の成果を出して絶対に勝つ！！【華鉈イオ/StellArt.】#秋のV事務所食材争奪大会",
+        "thumbnail": "https://i.ytimg.com/vi/9mg1CdQlEcE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=9mg1CdQlEcE",
         "status": "upcoming",
-        "scheduledStartTime": "2026-10-24T20:30:00Z",
+        "scheduledStartTime": "2026-10-25T07:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [],
     "channelC": [],
     "channelD": []
   }
