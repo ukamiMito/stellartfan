@@ -1,20 +1,42 @@
 {
-  "updatedAt": "2026-10-25T05:22:02.090Z",
+  "updatedAt": "2026-10-25T10:10:45.817Z",
   "channels": {
     "channelA": [],
     "channelB": [
       {
-        "videoId": "9mg1CdQlEcE",
+        "videoId": "44X4K8Md2lo",
         "title": "【Farming Simulator 22】大会本番🔥練習の成果を出して絶対に勝つ！！【華鉈イオ/StellArt.】#秋のV事務所食料争奪大会",
-        "thumbnail": "https://i.ytimg.com/vi/9mg1CdQlEcE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=9mg1CdQlEcE",
+        "thumbnail": "https://i.ytimg.com/vi/44X4K8Md2lo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=44X4K8Md2lo",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-25T09:01:10Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "n_QarOvxr9w",
+        "title": "【デカール作成 GT7】デカールづくりの準備を始めよう✊まったり雑談しながら🎨【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/n_QarOvxr9w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=n_QarOvxr9w",
         "status": "upcoming",
-        "scheduledStartTime": "2026-10-25T06:40:00Z",
+        "scheduledStartTime": "2026-10-25T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "eEyjC-6GAgY",
+        "title": "【 FF10 】#最終回  ついにシンの中へ...物語の最後を一緒に見届けよう※号泣【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/eEyjC-6GAgY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eEyjC-6GAgY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-25T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
