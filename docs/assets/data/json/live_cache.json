@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-10-24T22:30:43.032Z",
+  "updatedAt": "2026-10-25T00:33:45.523Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "ChPGWUrhkFk",
-        "title": "【F1 2026/生放送同時視聴】「アメリカGP　予選:ライブ」早朝に観るF1も趣深いじゃんね。【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ChPGWUrhkFk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ChPGWUrhkFk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-24T20:30:39Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "9mg1CdQlEcE",
