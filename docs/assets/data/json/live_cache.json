@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T14:24:32.774Z",
+  "updatedAt": "2026-10-25T17:53:21.322Z",
   "channels": {
     "channelA": [
       {
@@ -14,18 +14,7 @@
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "n_QarOvxr9w",
-        "title": "【デカール作成 GT7】デカールづくりの準備を始めよう✊まったり雑談しながら🎨【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/n_QarOvxr9w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=n_QarOvxr9w",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-25T12:58:37Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "eEyjC-6GAgY",
