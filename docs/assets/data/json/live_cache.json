@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-25T00:33:45.523Z",
+  "updatedAt": "2026-10-25T05:22:02.090Z",
   "channels": {
     "channelA": [],
     "channelB": [
       {
         "videoId": "9mg1CdQlEcE",
-        "title": "【Farming Simulator 22】大会本番🔥練習の成果を出して絶対に勝つ！！【華鉈イオ/StellArt.】#秋のV事務所食材争奪大会",
+        "title": "【Farming Simulator 22】大会本番🔥練習の成果を出して絶対に勝つ！！【華鉈イオ/StellArt.】#秋のV事務所食料争奪大会",
         "thumbnail": "https://i.ytimg.com/vi/9mg1CdQlEcE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9mg1CdQlEcE",
         "status": "upcoming",
-        "scheduledStartTime": "2026-10-25T07:00:00Z",
+        "scheduledStartTime": "2026-10-25T06:40:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
