@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-25T17:53:21.322Z",
+  "updatedAt": "2026-10-25T20:54:19.326Z",
   "channels": {
     "channelA": [
       {
@@ -7,25 +7,25 @@
         "title": "【F1 2026/生放送同時視聴】「アメリカGP　決勝:ライブ」早朝のハラハラドキドキ決勝レース【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/cAPQZZDddB8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cAPQZZDddB8",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-25T19:28:42Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelB": [
+      {
+        "videoId": "TtTxtQsKvWo",
+        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン】#2 完全初見！ソロ＆視聴者参加型もする！！初心者大募集🔥※スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/TtTxtQsKvWo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TtTxtQsKvWo",
         "status": "upcoming",
-        "scheduledStartTime": "2026-10-25T19:30:00Z",
+        "scheduledStartTime": "2026-10-26T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "eEyjC-6GAgY",
-        "title": "【 FF10 】#最終回  ついにシンの中へ...物語の最後を一緒に見届けよう※号泣【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/eEyjC-6GAgY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eEyjC-6GAgY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-25T11:57:37Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
