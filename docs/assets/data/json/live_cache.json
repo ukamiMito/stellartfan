@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-10-25T10:10:45.817Z",
+  "updatedAt": "2026-10-25T14:24:32.774Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "44X4K8Md2lo",
-        "title": "【Farming Simulator 22】大会本番🔥練習の成果を出して絶対に勝つ！！【華鉈イオ/StellArt.】#秋のV事務所食料争奪大会",
-        "thumbnail": "https://i.ytimg.com/vi/44X4K8Md2lo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=44X4K8Md2lo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-25T09:01:10Z",
+        "videoId": "cAPQZZDddB8",
+        "title": "【F1 2026/生放送同時視聴】「アメリカGP　決勝:ライブ」早朝のハラハラドキドキ決勝レース【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/cAPQZZDddB8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cAPQZZDddB8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-25T19:30:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
+    "channelB": [],
     "channelC": [
       {
         "videoId": "n_QarOvxr9w",
         "title": "【デカール作成 GT7】デカールづくりの準備を始めよう✊まったり雑談しながら🎨【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/n_QarOvxr9w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=n_QarOvxr9w",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-25T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-25T12:58:37Z",
         "actualEndTime": null
       }
     ],
@@ -32,9 +32,9 @@
         "title": "【 FF10 】#最終回  ついにシンの中へ...物語の最後を一緒に見届けよう※号泣【アイリナ・ゼファリオ / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/eEyjC-6GAgY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=eEyjC-6GAgY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-25T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-25T11:57:37Z",
         "actualEndTime": null
       }
     ]
