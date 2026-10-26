@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-26T20:10:53.749Z",
+  "updatedAt": "2026-10-26T23:55:26.846Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "tdSMZcZ7KBI",
+        "title": "【同時視聴】映画『クレヨンしんちゃん ガチンコ！逆襲のロボとーちゃん』を完全初見で観る！バスタオル必須らしい！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/tdSMZcZ7KBI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tdSMZcZ7KBI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-27T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
