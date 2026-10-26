@@ -1,42 +1,9 @@
 {
-  "updatedAt": "2026-10-26T14:19:09.658Z",
+  "updatedAt": "2026-10-26T20:10:53.749Z",
   "channels": {
     "channelA": [],
-    "channelB": [
-      {
-        "videoId": "TtTxtQsKvWo",
-        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン】#2 完全初見！ソロ＆視聴者参加型もする！！初心者大募集🔥※スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/TtTxtQsKvWo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TtTxtQsKvWo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-26T12:57:59Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "Aize57w_izA",
-        "title": "【Minecraft 実況】大冒険に出ます！！探さないでください！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Aize57w_izA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Aize57w_izA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-26T12:57:29Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "fcsliITX8kk",
-        "title": "【 FF10 】#最終回   ジェクトの想いを背負ってエボンジュを倒す🔥そして平和な世界へ…【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/fcsliITX8kk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fcsliITX8kk",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-26T11:59:32Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
