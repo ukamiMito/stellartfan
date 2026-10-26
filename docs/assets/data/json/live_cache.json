@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T01:46:49.285Z",
+  "updatedAt": "2026-10-26T07:04:41.554Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,7 +14,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "Aize57w_izA",
+        "title": "【Minecraft 実況】大冒険に出ます！！探さないでください！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Aize57w_izA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Aize57w_izA",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-26T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
