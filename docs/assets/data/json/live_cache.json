@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T05:10:21.033Z",
+  "updatedAt": "2026-10-27T10:37:48.826Z",
   "channels": {
     "channelA": [
       {
@@ -20,12 +20,23 @@
         "title": "【グランツーリスモ７ GT7】ゲリラ🌞打倒国際B！！残る金は二つ！！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/wVL0bNHLI3I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wVL0bNHLI3I",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-27T05:30:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-27T05:15:16Z",
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "mfevDo6_p4A",
+        "title": "【 vtuber 弾き語り】眠れる癒しのピアノ弾き語り🌙1曲いかが？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/mfevDo6_p4A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mfevDo6_p4A",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-27T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
