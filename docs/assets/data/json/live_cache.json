@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-26T23:55:26.846Z",
+  "updatedAt": "2026-10-27T05:10:21.033Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "wVL0bNHLI3I",
+        "title": "【グランツーリスモ７ GT7】ゲリラ🌞打倒国際B！！残る金は二つ！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/wVL0bNHLI3I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wVL0bNHLI3I",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-27T05:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
