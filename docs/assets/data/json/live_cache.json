@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-27T10:37:48.826Z",
+  "updatedAt": "2026-10-27T16:02:33.213Z",
   "channels": {
     "channelA": [
       {
@@ -7,34 +7,34 @@
         "title": "【同時視聴】映画『クレヨンしんちゃん ガチンコ！逆襲のロボとーちゃん』を完全初見で観る！バスタオル必須らしい！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/tdSMZcZ7KBI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=tdSMZcZ7KBI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-27T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [],
-    "channelC": [
-      {
-        "videoId": "wVL0bNHLI3I",
-        "title": "【グランツーリスモ７ GT7】ゲリラ🌞打倒国際B！！残る金は二つ！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/wVL0bNHLI3I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wVL0bNHLI3I",
         "status": "live",
         "scheduledStartTime": null,
-        "actualStartTime": "2026-10-27T05:15:16Z",
+        "actualStartTime": "2026-10-27T13:00:02Z",
         "actualEndTime": null
       }
     ],
+    "channelB": [
+      {
+        "videoId": "GAIs-h4ebMU",
+        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン】#3 参加型🔥初心者集まれ！IGLできるように覚えるぞ※スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/GAIs-h4ebMU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GAIs-h4ebMU",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-27T13:05:53Z",
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [],
     "channelD": [
       {
         "videoId": "mfevDo6_p4A",
         "title": "【 vtuber 弾き語り】眠れる癒しのピアノ弾き語り🌙1曲いかが？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
         "thumbnail": "https://i.ytimg.com/vi/mfevDo6_p4A/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=mfevDo6_p4A",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-27T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-27T13:00:12Z",
         "actualEndTime": null
       }
     ]
