@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-10-28T17:25:28.670Z",
+  "updatedAt": "2026-10-28T21:54:58.206Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "ZIT4Jk5wS3I",
+        "title": "#12【ペルソナ5 ザ・ロイヤル】完全初見！カネシロパレスに潜るぞおおお ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/ZIT4Jk5wS3I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZIT4Jk5wS3I",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "In5G9EesWaU",
         "title": "【イオモニ/朝活】🎃トリックオアトリート！お菓子なんていつ食べたってええですからね【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/In5G9EesWaU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=In5G9EesWaU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-28T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-28T20:57:12Z",
         "actualEndTime": null
       }
     ],
