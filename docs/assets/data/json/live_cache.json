@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:54:58.206Z",
+  "updatedAt": "2026-10-29T01:49:45.054Z",
   "channels": {
     "channelA": [
       {
@@ -13,18 +13,7 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "In5G9EesWaU",
-        "title": "【イオモニ/朝活】🎃トリックオアトリート！お菓子なんていつ食べたってええですからね【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/In5G9EesWaU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=In5G9EesWaU",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-28T20:57:12Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
