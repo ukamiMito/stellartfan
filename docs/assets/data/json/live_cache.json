@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-10-29T15:35:57.990Z",
+  "updatedAt": "2026-10-29T20:39:58.868Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "ZIT4Jk5wS3I",
-        "title": "#12【ペルソナ5 ザ・ロイヤル】完全初見！カネシロパレスに潜るぞおおお ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ZIT4Jk5wS3I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZIT4Jk5wS3I",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-29T13:01:20Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "ZiLwaHhHfaA",
