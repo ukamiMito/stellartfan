@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T08:33:16.948Z",
+  "updatedAt": "2026-10-29T15:35:57.990Z",
   "channels": {
     "channelA": [
       {
@@ -7,25 +7,25 @@
         "title": "#12【ペルソナ5 ザ・ロイヤル】完全初見！カネシロパレスに潜るぞおおお ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/ZIT4Jk5wS3I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZIT4Jk5wS3I",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-29T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-29T13:01:20Z",
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [
+    "channelB": [
       {
-        "videoId": "P37CBSbmIfY",
-        "title": "【呪ショッピング 実況】何でも揃っちゃう便利な通販サイトがあるらしい！？【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/P37CBSbmIfY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=P37CBSbmIfY",
+        "videoId": "ZiLwaHhHfaA",
+        "title": "【#overcooked2】二次会でオーバークック2やる！メルポテの団結力を再度見せつけるぞ～🔥【華鉈イオ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/ZiLwaHhHfaA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZiLwaHhHfaA",
         "status": "upcoming",
-        "scheduledStartTime": "2026-10-29T13:00:00Z",
+        "scheduledStartTime": "2026-10-30T10:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
+    "channelC": [],
     "channelD": []
   }
 }
