@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T01:49:45.054Z",
+  "updatedAt": "2026-10-29T08:33:16.948Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "P37CBSbmIfY",
+        "title": "【呪ショッピング 実況】何でも揃っちゃう便利な通販サイトがあるらしい！？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/P37CBSbmIfY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=P37CBSbmIfY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-29T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
