@@ -1,20 +1,30 @@
 {
-  "updatedAt": "2026-10-30T13:37:54.700Z",
+  "updatedAt": "2026-10-30T18:53:18.172Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
-    "channelC": [],
-    "channelD": [
+    "channelB": [
       {
-        "videoId": "cxMcFtYgBE4",
-        "title": "【 vtuber 弾き語り】真夜中の癒しピアノ弾き語り🌙君にリラックスを届けます【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/cxMcFtYgBE4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cxMcFtYgBE4",
+        "videoId": "KWSaMVqaA8Q",
+        "title": "【 勝利の女神:#NIKKE】完全初見🔰4周年メインストーリー第49章『すべてをかけた「決戦」』へ#179【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/KWSaMVqaA8Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KWSaMVqaA8Q",
         "status": "upcoming",
-        "scheduledStartTime": "2026-10-30T14:00:00Z",
+        "scheduledStartTime": "2026-11-01T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "e9mgroizab4",
+        "title": "【華鉈イオの深夜喫茶】第11回✨学生時代の文化祭＆体育祭の思い出ある？？【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
+        "thumbnail": "https://i.ytimg.com/vi/e9mgroizab4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=e9mgroizab4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-31T14:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelC": [],
+    "channelD": []
   }
 }
