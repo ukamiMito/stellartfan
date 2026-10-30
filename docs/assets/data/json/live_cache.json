@@ -1,20 +1,20 @@
 {
-  "updatedAt": "2026-10-30T06:30:37.785Z",
+  "updatedAt": "2026-10-30T13:37:54.700Z",
   "channels": {
     "channelA": [],
-    "channelB": [
+    "channelB": [],
+    "channelC": [],
+    "channelD": [
       {
-        "videoId": "ZiLwaHhHfaA",
-        "title": "【#overcooked2】二次会でオーバークック2やる！メルポテの団結力を再度見せつけるぞ～🔥【華鉈イオ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ZiLwaHhHfaA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZiLwaHhHfaA",
+        "videoId": "cxMcFtYgBE4",
+        "title": "【 vtuber 弾き語り】真夜中の癒しピアノ弾き語り🌙君にリラックスを届けます【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/cxMcFtYgBE4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cxMcFtYgBE4",
         "status": "upcoming",
-        "scheduledStartTime": "2026-10-30T10:00:00Z",
+        "scheduledStartTime": "2026-10-30T14:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
-    ],
-    "channelC": [],
-    "channelD": []
+    ]
   }
 }
