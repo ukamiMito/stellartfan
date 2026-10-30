@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-10-30T18:53:18.172Z",
+  "updatedAt": "2026-10-30T22:59:35.622Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "nfC68NA3A5E",
+        "title": "【雑談】浮気判定シート💗大丈夫、寛容だから私。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/nfC68NA3A5E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nfC68NA3A5E",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-31T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "KWSaMVqaA8Q",
