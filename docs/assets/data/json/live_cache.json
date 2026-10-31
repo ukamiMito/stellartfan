@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-30T22:59:35.622Z",
+  "updatedAt": "2026-10-31T02:26:05.538Z",
   "channels": {
     "channelA": [
       {
@@ -35,7 +35,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "zliWxLNOZvE",
+        "title": "【えかきうた大合戦】お絵描き好きとお歌好きが挑む🎨🎵【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/zliWxLNOZvE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zliWxLNOZvE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-31T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
