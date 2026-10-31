@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-31T15:21:38.992Z",
+  "updatedAt": "2026-10-31T19:34:11.212Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "nfC68NA3A5E",
-        "title": "【雑談】浮気判定シート💗大丈夫、寛容だから私。【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/nfC68NA3A5E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nfC68NA3A5E",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-31T12:59:47Z",
+        "videoId": "D8x6BwDnmWU",
+        "title": "【F1 2026/生放送同時視聴】「メキシコGP　予選:ライブ」ドライバーズチャンピオンどうなる…！？【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/D8x6BwDnmWU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=D8x6BwDnmWU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-31T20:30:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
@@ -23,19 +23,20 @@
         "scheduledStartTime": "2026-11-01T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "e9mgroizab4",
-        "title": "【華鉈イオの深夜喫茶】第11回✨学生時代の文化祭＆体育祭の思い出ある？？【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
-        "thumbnail": "https://i.ytimg.com/vi/e9mgroizab4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=e9mgroizab4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-31T13:58:44Z",
-        "actualEndTime": null
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "UFu55IUSihE",
+        "title": "【 FF9 】#1  完全初見のファイナルファンタジーIX！新たな冒険が始まる🌷【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/UFu55IUSihE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UFu55IUSihE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-01T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
