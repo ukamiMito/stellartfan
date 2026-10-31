@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T02:26:05.538Z",
+  "updatedAt": "2026-10-31T08:55:18.600Z",
   "channels": {
     "channelA": [
       {
@@ -47,6 +47,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "KH-R0eBjUKU",
+        "title": "【 えかきうた大合戦 】歌に合わせて絵を描く！簡単だよね👍🎨【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/KH-R0eBjUKU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KH-R0eBjUKU",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-10-31T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
