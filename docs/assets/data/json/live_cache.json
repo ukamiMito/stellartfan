@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T08:55:18.600Z",
+  "updatedAt": "2026-10-31T15:21:38.992Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【雑談】浮気判定シート💗大丈夫、寛容だから私。【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/nfC68NA3A5E/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nfC68NA3A5E",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-31T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-31T12:59:47Z",
         "actualEndTime": null
       }
     ],
@@ -29,35 +29,13 @@
         "title": "【華鉈イオの深夜喫茶】第11回✨学生時代の文化祭＆体育祭の思い出ある？？【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
         "thumbnail": "https://i.ytimg.com/vi/e9mgroizab4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=e9mgroizab4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-31T14:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-31T13:58:44Z",
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "zliWxLNOZvE",
-        "title": "【えかきうた大合戦】お絵描き好きとお歌好きが挑む🎨🎵【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/zliWxLNOZvE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zliWxLNOZvE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-31T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "KH-R0eBjUKU",
-        "title": "【 えかきうた大合戦 】歌に合わせて絵を描く！簡単だよね👍🎨【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/KH-R0eBjUKU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KH-R0eBjUKU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-31T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
