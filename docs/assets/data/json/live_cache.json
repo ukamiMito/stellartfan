@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-10-31T19:34:11.212Z",
+  "updatedAt": "2026-10-31T22:51:00.066Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "D8x6BwDnmWU",
-        "title": "【F1 2026/生放送同時視聴】「メキシコGP　予選:ライブ」ドライバーズチャンピオンどうなる…！？【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/D8x6BwDnmWU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=D8x6BwDnmWU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-10-31T20:30:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "KWSaMVqaA8Q",
