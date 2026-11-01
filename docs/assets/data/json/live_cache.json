@@ -1,42 +1,42 @@
 {
-  "updatedAt": "2026-11-01T09:22:54.621Z",
+  "updatedAt": "2026-11-01T16:26:21.232Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "My9v45hk3nw",
+        "title": "【F1 2026/生放送同時視聴】「メキシコGP　決勝:ライブ」ドライバーズチャンピオンどうなる…！？【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/My9v45hk3nw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=My9v45hk3nw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-01T19:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "KWSaMVqaA8Q",
         "title": "【 勝利の女神:#NIKKE】完全初見🔰4周年メインストーリー第49章『すべてをかけた「決戦」』へ#179【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/KWSaMVqaA8Q/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=KWSaMVqaA8Q",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-01T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-01T12:58:00Z",
         "actualEndTime": null
       }
     ],
     "channelC": [
       {
-        "videoId": "6_hdtMMDTzg",
-        "title": "【グランツーリスモ７ GT7】ミッション🔥ローリング・ストーンに挑戦✊【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/6_hdtMMDTzg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6_hdtMMDTzg",
+        "videoId": "PGBxA0S9nAA",
+        "title": "【グランツーリスモ７ GT7】ついにアレが…！？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/PGBxA0S9nAA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=PGBxA0S9nAA",
         "status": "upcoming",
-        "scheduledStartTime": "2026-11-01T12:00:00Z",
+        "scheduledStartTime": "2026-11-03T11:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "UFu55IUSihE",
-        "title": "【 FF9 】#1  完全初見のファイナルファンタジーIX！新たな冒険が始まる🌷【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/UFu55IUSihE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UFu55IUSihE",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-01T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
