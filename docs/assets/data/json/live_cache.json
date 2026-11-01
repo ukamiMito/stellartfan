@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T16:26:21.232Z",
+  "updatedAt": "2026-11-01T20:51:10.139Z",
   "channels": {
     "channelA": [
       {
@@ -7,24 +7,13 @@
         "title": "【F1 2026/生放送同時視聴】「メキシコGP　決勝:ライブ」ドライバーズチャンピオンどうなる…！？【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/My9v45hk3nw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=My9v45hk3nw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-01T19:30:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "KWSaMVqaA8Q",
-        "title": "【 勝利の女神:#NIKKE】完全初見🔰4周年メインストーリー第49章『すべてをかけた「決戦」』へ#179【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
-        "thumbnail": "https://i.ytimg.com/vi/KWSaMVqaA8Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KWSaMVqaA8Q",
         "status": "live",
         "scheduledStartTime": null,
-        "actualStartTime": "2026-11-01T12:58:00Z",
+        "actualStartTime": "2026-11-01T19:27:29Z",
         "actualEndTime": null
       }
     ],
+    "channelB": [],
     "channelC": [
       {
         "videoId": "PGBxA0S9nAA",
