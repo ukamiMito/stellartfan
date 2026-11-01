@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-01T02:15:18.407Z",
+  "updatedAt": "2026-11-01T09:22:54.621Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,7 +14,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "6_hdtMMDTzg",
+        "title": "【グランツーリスモ７ GT7】ミッション🔥ローリング・ストーンに挑戦✊【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/6_hdtMMDTzg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6_hdtMMDTzg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-01T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "UFu55IUSihE",
