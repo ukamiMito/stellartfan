@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T06:55:05.549Z",
+  "updatedAt": "2026-11-02T17:07:13.821Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -8,23 +8,13 @@
         "title": "【 勝利の女神:#NIKKE】完全初見🔰4周年メインストーリー第50章(前篇)『浮上』私たちは地上へ上がる#180【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/thrEIsekIM4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=thrEIsekIM4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-02T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-02T12:58:25Z",
         "actualEndTime": null
       }
     ],
     "channelC": [
-      {
-        "videoId": "uW50072lq2I",
-        "title": "【同時視聴 頭文字D】完全初見 Forth stage 7話～10話【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/uW50072lq2I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uW50072lq2I",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-02T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
       {
         "videoId": "PGBxA0S9nAA",
         "title": "【グランツーリスモ７ GT7】ついにアレが…！？【にうふぁ/StellArt.】",
@@ -36,17 +26,6 @@
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "I5uUCvfh5ro",
-        "title": "【 vtuber 弾き語り】夕暮れの静かなピアノ弾き語り🌇疲れを吹き飛ばす！初見さん大歓迎🌷【アイリナ・ゼファリオ / StellArt.】 #vsinger準備中",
-        "thumbnail": "https://i.ytimg.com/vi/I5uUCvfh5ro/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=I5uUCvfh5ro",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-02T08:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
