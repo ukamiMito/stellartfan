@@ -1,16 +1,27 @@
 {
-  "updatedAt": "2026-11-02T17:07:13.821Z",
+  "updatedAt": "2026-11-02T23:53:21.722Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "w3V_wY8Rxwg",
+        "title": "【同時視聴】映画『7番房の奇跡』を完全初見で観る！予告で既に泣きそうです。【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/w3V_wY8Rxwg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w3V_wY8Rxwg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-03T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
-        "videoId": "thrEIsekIM4",
-        "title": "【 勝利の女神:#NIKKE】完全初見🔰4周年メインストーリー第50章(前篇)『浮上』私たちは地上へ上がる#180【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
-        "thumbnail": "https://i.ytimg.com/vi/thrEIsekIM4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=thrEIsekIM4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-02T12:58:25Z",
+        "videoId": "t7KadFDjW0Y",
+        "title": "【 勝利の女神:#NIKKE】完全初見🔰4周年メインストーリー第50章(中篇)『浮上』私たちは地上へ上がる#181【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/t7KadFDjW0Y/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t7KadFDjW0Y",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-03T12:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
