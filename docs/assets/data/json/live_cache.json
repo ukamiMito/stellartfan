@@ -1,20 +1,30 @@
 {
-  "updatedAt": "2026-11-02T00:47:11.291Z",
+  "updatedAt": "2026-11-02T06:55:05.549Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [
       {
-        "videoId": "My9v45hk3nw",
-        "title": "【F1 2026/生放送同時視聴】「メキシコGP　決勝:ライブ」ドライバーズチャンピオンどうなる…！？【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/My9v45hk3nw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=My9v45hk3nw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-01T19:27:29Z",
+        "videoId": "thrEIsekIM4",
+        "title": "【 勝利の女神:#NIKKE】完全初見🔰4周年メインストーリー第50章(前篇)『浮上』私たちは地上へ上がる#180【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/thrEIsekIM4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=thrEIsekIM4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-02T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [],
     "channelC": [
+      {
+        "videoId": "uW50072lq2I",
+        "title": "【同時視聴 頭文字D】完全初見 Forth stage 7話～10話【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/uW50072lq2I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uW50072lq2I",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-02T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
       {
         "videoId": "PGBxA0S9nAA",
         "title": "【グランツーリスモ７ GT7】ついにアレが…！？【にうふぁ/StellArt.】",
@@ -26,6 +36,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "I5uUCvfh5ro",
+        "title": "【 vtuber 弾き語り】夕暮れの静かなピアノ弾き語り🌇疲れを吹き飛ばす！初見さん大歓迎🌷【アイリナ・ゼファリオ / StellArt.】 #vsinger準備中",
+        "thumbnail": "https://i.ytimg.com/vi/I5uUCvfh5ro/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=I5uUCvfh5ro",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-02T08:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
