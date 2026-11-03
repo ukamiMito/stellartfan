@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T23:53:21.722Z",
+  "updatedAt": "2026-11-03T06:52:58.866Z",
   "channels": {
     "channelA": [
       {
@@ -37,6 +37,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "ZF7XmXHAKSo",
+        "title": "【グランツーリスモ7】ついにハンドルを握る時が⁉ ハンコン完全初心者まずは楽しむ✨GT7【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/ZF7XmXHAKSo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZF7XmXHAKSo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-03T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
