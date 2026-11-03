@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T06:52:58.866Z",
+  "updatedAt": "2026-11-03T15:12:15.647Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【同時視聴】映画『7番房の奇跡』を完全初見で観る！予告で既に泣きそうです。【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/w3V_wY8Rxwg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=w3V_wY8Rxwg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-03T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-03T12:59:32Z",
         "actualEndTime": null
       }
     ],
@@ -19,21 +19,21 @@
         "title": "【 勝利の女神:#NIKKE】完全初見🔰4周年メインストーリー第50章(中篇)『浮上』私たちは地上へ上がる#181【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/t7KadFDjW0Y/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=t7KadFDjW0Y",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-03T12:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-03T11:57:41Z",
         "actualEndTime": null
       }
     ],
     "channelC": [
       {
         "videoId": "PGBxA0S9nAA",
-        "title": "【グランツーリスモ７ GT7】ついにアレが…！？【にうふぁ/StellArt.】",
+        "title": "【グランツーリスモ７ GT7】ついに念願のハンコンデビュ～🌟【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/PGBxA0S9nAA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=PGBxA0S9nAA",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-03T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-03T10:57:23Z",
         "actualEndTime": null
       }
     ],
@@ -43,9 +43,9 @@
         "title": "【グランツーリスモ7】ついにハンドルを握る時が⁉ ハンコン完全初心者まずは楽しむ✨GT7【アイリナ・ゼファリオ  / StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/ZF7XmXHAKSo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZF7XmXHAKSo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-03T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-03T11:00:06Z",
         "actualEndTime": null
       }
     ]
