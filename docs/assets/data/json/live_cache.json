@@ -1,8 +1,29 @@
 {
-  "updatedAt": "2026-11-04T01:25:14.412Z",
+  "updatedAt": "2026-11-04T08:04:13.815Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "90d6m1QAllo",
+        "title": "【イオモニ/朝活】こんにちは冬、さようなら秋【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/90d6m1QAllo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=90d6m1QAllo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-04T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "U3YV40jZOOc",
+        "title": "【 勝利の女神:#NIKKE】完全初見🔰4周年メインストーリー第50章(後篇)『浮上』私たちは地上へ上がる#182【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/U3YV40jZOOc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=U3YV40jZOOc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-04T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
