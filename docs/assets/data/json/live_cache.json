@@ -1,26 +1,27 @@
 {
-  "updatedAt": "2026-11-04T16:20:54.226Z",
+  "updatedAt": "2026-11-04T22:14:31.641Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "qNneJEZCcDg",
+        "title": "#13【ペルソナ5 ザ・ロイヤル】完全初見！カネシロパレスのクリアを目指す！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/qNneJEZCcDg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qNneJEZCcDg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-05T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "90d6m1QAllo",
         "title": "【イオモニ/朝活】こんにちは冬、さようなら秋【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/90d6m1QAllo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=90d6m1QAllo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-04T21:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      },
-      {
-        "videoId": "U3YV40jZOOc",
-        "title": "【 勝利の女神:#NIKKE】完全初見🔰4周年メインストーリー第50章(後篇)『浮上』私たちは地上へ上がる#182【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
-        "thumbnail": "https://i.ytimg.com/vi/U3YV40jZOOc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=U3YV40jZOOc",
         "status": "live",
         "scheduledStartTime": null,
-        "actualStartTime": "2026-11-04T13:01:50Z",
+        "actualStartTime": "2026-11-04T20:58:05Z",
         "actualEndTime": null
       }
     ],
