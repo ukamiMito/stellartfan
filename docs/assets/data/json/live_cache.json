@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T08:04:13.815Z",
+  "updatedAt": "2026-11-04T16:20:54.226Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -18,9 +18,9 @@
         "title": "【 勝利の女神:#NIKKE】完全初見🔰4周年メインストーリー第50章(後篇)『浮上』私たちは地上へ上がる#182【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/U3YV40jZOOc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=U3YV40jZOOc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-04T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-04T13:01:50Z",
         "actualEndTime": null
       }
     ],
