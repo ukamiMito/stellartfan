@@ -1,53 +1,9 @@
 {
-  "updatedAt": "2026-11-05T09:51:57.828Z",
+  "updatedAt": "2026-11-05T18:02:43.594Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "qNneJEZCcDg",
-        "title": "#13【ペルソナ5 ザ・ロイヤル】完全初見！カネシロパレスのクリアを目指す！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/qNneJEZCcDg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qNneJEZCcDg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-05T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "ZONHnaZnbVk",
-        "title": "【 勝利の女神:#NIKKE】4周年イベントストーリー『MARIA-n』ストーリー1を読む！マリアンとケツコン・・・？#183【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
-        "thumbnail": "https://i.ytimg.com/vi/ZONHnaZnbVk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZONHnaZnbVk",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-05T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "STV_293lXx0",
-        "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！※ネタバレ注意 #9【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/STV_293lXx0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=STV_293lXx0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-05T11:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "r87zTku-D7o",
-        "title": "【 雑談】浮気判定シートやるYO⭐  ～浮気とはいったい～【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/r87zTku-D7o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=r87zTku-D7o",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-05T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
