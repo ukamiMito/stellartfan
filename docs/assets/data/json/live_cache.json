@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T02:33:20.673Z",
+  "updatedAt": "2026-11-05T09:51:57.828Z",
   "channels": {
     "channelA": [
       {
@@ -37,6 +37,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "r87zTku-D7o",
+        "title": "【 雑談】浮気判定シートやるYO⭐  ～浮気とはいったい～【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/r87zTku-D7o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=r87zTku-D7o",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-05T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
