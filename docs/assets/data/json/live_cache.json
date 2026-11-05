@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T22:14:31.641Z",
+  "updatedAt": "2026-11-05T02:33:20.673Z",
   "channels": {
     "channelA": [
       {
@@ -15,17 +15,28 @@
     ],
     "channelB": [
       {
-        "videoId": "90d6m1QAllo",
-        "title": "【イオモニ/朝活】こんにちは冬、さようなら秋【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/90d6m1QAllo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=90d6m1QAllo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-04T20:58:05Z",
+        "videoId": "ZONHnaZnbVk",
+        "title": "【 勝利の女神:#NIKKE】4周年イベントストーリー『MARIA-n』ストーリー1を読む！マリアンとケツコン・・・？#183【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/ZONHnaZnbVk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ZONHnaZnbVk",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-05T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "STV_293lXx0",
+        "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！※ネタバレ注意 #9【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/STV_293lXx0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=STV_293lXx0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-05T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
