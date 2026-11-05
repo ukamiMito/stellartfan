@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-05T18:02:43.594Z",
+  "updatedAt": "2026-11-05T23:39:57.148Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "oJul309MIFc",
+        "title": "【ELDENRING NIGHTREIGN】人生初のフロム✨右も左も分からないけど仲間がいれば怖くない！ ※スパチャ禁止【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/oJul309MIFc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oJul309MIFc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
