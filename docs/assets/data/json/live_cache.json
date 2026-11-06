@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T03:40:55.275Z",
+  "updatedAt": "2026-11-06T11:33:11.442Z",
   "channels": {
     "channelA": [
       {
@@ -13,8 +13,41 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
-    "channelD": []
+    "channelB": [
+      {
+        "videoId": "KWg1MPZ-If0",
+        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン】初プレイの🔰初心者と夜を越えられるのか？！！！※スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/KWg1MPZ-If0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KWg1MPZ-If0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "u8edOcVkQ50",
+        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン 実況】初めての死にゲー🔰先輩の足を引っ張らずにできるのか※スパチャ禁止【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/u8edOcVkQ50/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=u8edOcVkQ50",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "NPSlNA47l-I",
+        "title": "【 vtuber 弾き語り】秋を感じる癒しのピアノ弾き語り🌷【アイリナ・ゼファリオ / StellArt.】 #vsinger準備中",
+        "thumbnail": "https://i.ytimg.com/vi/NPSlNA47l-I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NPSlNA47l-I",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-06T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
