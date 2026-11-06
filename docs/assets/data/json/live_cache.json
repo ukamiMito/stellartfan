@@ -1,7 +1,28 @@
 {
-  "updatedAt": "2026-11-06T18:30:29.774Z",
+  "updatedAt": "2026-11-06T23:32:06.161Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "CGYTVlrl2uY",
+        "title": "【F1 2026/生放送同時視聴】「サンパウロGP　予選:ライブ」カマラさんという方がF1デビューですって！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/CGYTVlrl2uY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CGYTVlrl2uY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-07T17:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "rV7K53X3QPQ",
+        "title": "#1【F1® 25】完全初見！ストーリーモード「ブレーキングポイント3」シーズン3は何が巻き起こる！？ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/rV7K53X3QPQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rV7K53X3QPQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
     "channelC": [],
     "channelD": []
