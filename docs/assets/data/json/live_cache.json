@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T16:38:19.927Z",
+  "updatedAt": "2026-11-07T20:32:10.618Z",
   "channels": {
     "channelA": [
       {
@@ -7,24 +7,13 @@
         "title": "【F1 2026/生放送同時視聴】「サンパウロGP　予選:ライブ」カマラさんという方がF1デビューですって！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/CGYTVlrl2uY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=CGYTVlrl2uY",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-07T17:30:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "txzFOAQ_2q8",
-        "title": "【 勝利の女神:#NIKKE】4周年イベントストーリー『MARIA-n』ストーリー2を読む！マリアンとケツコン・・・？#184【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
-        "thumbnail": "https://i.ytimg.com/vi/txzFOAQ_2q8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=txzFOAQ_2q8",
         "status": "live",
         "scheduledStartTime": null,
-        "actualStartTime": "2026-11-07T12:57:26Z",
+        "actualStartTime": "2026-11-07T17:33:23Z",
         "actualEndTime": null
       }
     ],
+    "channelB": [],
     "channelC": [],
     "channelD": []
   }
