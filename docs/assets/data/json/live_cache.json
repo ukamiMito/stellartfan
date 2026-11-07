@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T10:25:14.298Z",
+  "updatedAt": "2026-11-07T16:38:19.927Z",
   "channels": {
     "channelA": [
       {
@@ -11,16 +11,6 @@
         "scheduledStartTime": "2026-11-07T17:30:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "rV7K53X3QPQ",
-        "title": "#1【F1® 25】完全初見！ストーリーモード「ブレーキングポイント3」シーズン3は何が巻き起こる！？ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/rV7K53X3QPQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rV7K53X3QPQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-07T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
       }
     ],
     "channelB": [
@@ -29,35 +19,13 @@
         "title": "【 勝利の女神:#NIKKE】4周年イベントストーリー『MARIA-n』ストーリー2を読む！マリアンとケツコン・・・？#184【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/txzFOAQ_2q8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=txzFOAQ_2q8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-07T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-07T12:57:26Z",
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "Ov5WNuWXxbw",
-        "title": "【呪ショッピング 実況】ついに製品版🙌たくさん買い物しちゃうゾ✊【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Ov5WNuWXxbw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Ov5WNuWXxbw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-07T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "0ykyIIHCcTc",
-        "title": "【 FF9 】#2 完全初見のファイナルファンタジーIX！船を降り、仲間と共に旅に出る🚢【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/0ykyIIHCcTc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0ykyIIHCcTc",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-07T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
