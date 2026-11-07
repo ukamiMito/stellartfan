@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-11-07T20:32:10.618Z",
+  "updatedAt": "2026-11-07T23:59:29.627Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "CGYTVlrl2uY",
-        "title": "【F1 2026/生放送同時視聴】「サンパウロGP　予選:ライブ」カマラさんという方がF1デビューですって！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/CGYTVlrl2uY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CGYTVlrl2uY",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-07T17:33:23Z",
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [],
     "channelC": [],
     "channelD": []
