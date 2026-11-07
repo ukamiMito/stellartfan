@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-06T23:32:06.161Z",
+  "updatedAt": "2026-11-07T03:14:50.955Z",
   "channels": {
     "channelA": [
       {
@@ -23,8 +23,30 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
+    "channelB": [
+      {
+        "videoId": "txzFOAQ_2q8",
+        "title": "【 勝利の女神:#NIKKE】4周年イベントストーリー『MARIA-n』ストーリー2を読む！マリアンとケツコン・・・？#184【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/txzFOAQ_2q8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=txzFOAQ_2q8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "Ov5WNuWXxbw",
+        "title": "【呪ショッピング 実況】ついに製品版🙌たくさん買い物しちゃうゾ✊【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Ov5WNuWXxbw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ov5WNuWXxbw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-07T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
