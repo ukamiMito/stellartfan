@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T03:14:50.955Z",
+  "updatedAt": "2026-11-07T10:25:14.298Z",
   "channels": {
     "channelA": [
       {
@@ -47,6 +47,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "0ykyIIHCcTc",
+        "title": "【 FF9 】#2 完全初見のファイナルファンタジーIX！船を降り、仲間と共に旅に出る🚢【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/0ykyIIHCcTc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0ykyIIHCcTc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-07T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
