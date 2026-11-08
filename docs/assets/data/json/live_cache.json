@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T06:07:23.364Z",
+  "updatedAt": "2026-11-08T13:29:18.710Z",
   "channels": {
     "channelA": [
       {
@@ -20,12 +20,23 @@
         "title": "【グランツーリスモ７ GT7】DDproに慣れるべくサーキットエクスペリエンス🔥【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/cD7wOJhEN8E/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cD7wOJhEN8E",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-08T11:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-08T10:57:17Z",
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "XDSNYJvZrfA",
+        "title": "【 FF9 】#3 リンドブルムに到着🔥新たな仲間も加わりデートの為、狩猟祭優勝するぞ～！【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/XDSNYJvZrfA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XDSNYJvZrfA",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-08T11:57:40Z",
+        "actualEndTime": null
+      }
+    ]
   }
 }
