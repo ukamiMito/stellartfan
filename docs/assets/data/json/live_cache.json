@@ -1,9 +1,31 @@
 {
-  "updatedAt": "2026-11-07T23:59:29.627Z",
+  "updatedAt": "2026-11-08T06:07:23.364Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "XdFTkTyY9K4",
+        "title": "【F1 2026/生放送同時視聴】「サンパウロGP　予選:ライブ」カマラさんという方がF1デビューですって！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/XdFTkTyY9K4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XdFTkTyY9K4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-08T16:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "cD7wOJhEN8E",
+        "title": "【グランツーリスモ７ GT7】DDproに慣れるべくサーキットエクスペリエンス🔥【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/cD7wOJhEN8E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cD7wOJhEN8E",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-08T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
