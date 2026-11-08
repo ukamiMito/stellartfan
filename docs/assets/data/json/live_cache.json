@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-08T18:31:00.500Z",
+  "updatedAt": "2026-11-08T22:30:24.206Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "XdFTkTyY9K4",
-        "title": "【F1 2026/生放送同時視聴】「サンパウロGP　予選:ライブ」カマラさんという方がF1デビューですって！！【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/XdFTkTyY9K4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XdFTkTyY9K4",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-08T16:28:55Z",
+        "videoId": "O2Ev3AYGxwI",
+        "title": "【肝試しオンライン】この中に裏切り者がいる──────！？【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/O2Ev3AYGxwI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=O2Ev3AYGxwI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-09T12:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
