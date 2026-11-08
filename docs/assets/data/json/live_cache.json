@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-08T13:29:18.710Z",
+  "updatedAt": "2026-11-08T18:31:00.500Z",
   "channels": {
     "channelA": [
       {
@@ -7,36 +7,14 @@
         "title": "【F1 2026/生放送同時視聴】「サンパウロGP　予選:ライブ」カマラさんという方がF1デビューですって！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/XdFTkTyY9K4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=XdFTkTyY9K4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-08T16:30:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-08T16:28:55Z",
         "actualEndTime": null
       }
     ],
     "channelB": [],
-    "channelC": [
-      {
-        "videoId": "cD7wOJhEN8E",
-        "title": "【グランツーリスモ７ GT7】DDproに慣れるべくサーキットエクスペリエンス🔥【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/cD7wOJhEN8E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=cD7wOJhEN8E",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-08T10:57:17Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "XDSNYJvZrfA",
-        "title": "【 FF9 】#3 リンドブルムに到着🔥新たな仲間も加わりデートの為、狩猟祭優勝するぞ～！【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/XDSNYJvZrfA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XDSNYJvZrfA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-08T11:57:40Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
