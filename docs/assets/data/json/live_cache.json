@@ -1,18 +1,7 @@
 {
-  "updatedAt": "2026-11-09T09:51:40.527Z",
+  "updatedAt": "2026-11-09T20:47:16.079Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "O2Ev3AYGxwI",
-        "title": "【肝試しオンライン】この中に裏切り者がいる──────！？【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/O2Ev3AYGxwI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=O2Ev3AYGxwI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-09T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
         "videoId": "UrJRBEkCQ0M",
@@ -23,51 +12,9 @@
         "scheduledStartTime": "2026-11-10T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
-      },
-      {
-        "videoId": "o-YrMvD4MXg",
-        "title": "【肝試しオンライン】話題の新作👻肝試しで取れ高をつくる！！！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/o-YrMvD4MXg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=o-YrMvD4MXg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-09T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "FOhyqe95MwQ",
-        "title": "【肝試しオンライン】撮れ高狙ってみんなで楽しく肝試し配信👻🔥【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/FOhyqe95MwQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FOhyqe95MwQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-09T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "das4gQFe3-U",
-        "title": "【 vtuber 弾き語り】ゲリラ歌枠🎧温かい気持ちになるピアノ弾き語り☀【アイリナ・ゼファリオ / StellArt.】 #vsinger準備中",
-        "thumbnail": "https://i.ytimg.com/vi/das4gQFe3-U/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=das4gQFe3-U",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-09T08:29:55Z",
-        "actualEndTime": null
-      },
-      {
-        "videoId": "HX1Zatd0L3Y",
-        "title": "【 肝試しオンライン 】実際にライブをしながら肝試し⁉ 裏切り者はいったい…【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/HX1Zatd0L3Y/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HX1Zatd0L3Y",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-09T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
