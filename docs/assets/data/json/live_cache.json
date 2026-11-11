@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T00:15:23.100Z",
+  "updatedAt": "2026-11-11T06:43:31.822Z",
   "channels": {
     "channelA": [
       {
@@ -13,8 +13,30 @@
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
+    "channelB": [
+      {
+        "videoId": "kJzs6JMZlj4",
+        "title": "【 勝利の女神:#NIKKE】4周年イベントミニゲーム『FADING AFFECTION』続きやる！#186【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/kJzs6JMZlj4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kJzs6JMZlj4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-11T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "-fUK-FN36cQ",
+        "title": "【MoonSweepers 実況】O型が月面をきれいにお掃除できるのか！？【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/-fUK-FN36cQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-fUK-FN36cQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-11T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
