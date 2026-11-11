@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T06:43:31.822Z",
+  "updatedAt": "2026-11-11T14:43:59.347Z",
   "channels": {
     "channelA": [
       {
@@ -7,21 +7,31 @@
         "title": "#1【龍が如く4 伝説を継ぐもの】完全初見！熱き男達の、奇跡の記録！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/GavbISNOajs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=GavbISNOajs",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-11T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-11T12:59:22Z",
         "actualEndTime": null
       }
     ],
     "channelB": [
       {
+        "videoId": "bcTBScl1VYI",
+        "title": "【 勝利の女神:#NIKKE】4周年ガチャ勝負🔥『マリアン：クイーン』をGETする！！！#187【華鉈イオ/StellArt.】#マリアン #PR #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/bcTBScl1VYI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bcTBScl1VYI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-12T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
         "videoId": "kJzs6JMZlj4",
         "title": "【 勝利の女神:#NIKKE】4周年イベントミニゲーム『FADING AFFECTION』続きやる！#186【華鉈イオ/StellArt.】#PR  #ぶいきゃす",
         "thumbnail": "https://i.ytimg.com/vi/kJzs6JMZlj4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=kJzs6JMZlj4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-11T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-11T12:57:19Z",
         "actualEndTime": null
       }
     ],
@@ -31,12 +41,23 @@
         "title": "【MoonSweepers 実況】O型が月面をきれいにお掃除できるのか！？【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/-fUK-FN36cQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-fUK-FN36cQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-11T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-11T12:56:33Z",
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "fX1BmcF40vk",
+        "title": "【グランツーリスモ7】ハンコンに慣れたい！2日目🔥GT7【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/fX1BmcF40vk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fX1BmcF40vk",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-11T12:57:44Z",
+        "actualEndTime": null
+      }
+    ]
   }
 }
