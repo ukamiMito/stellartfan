@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T02:32:21.328Z",
+  "updatedAt": "2026-11-12T10:21:29.046Z",
   "channels": {
     "channelA": [
       {
@@ -26,6 +26,17 @@
       }
     ],
     "channelC": [],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "JfWupfPRcTQ",
+        "title": "【 Minecraft 】家とエンチャント部屋を繋ぐ橋を作る！オシャンにしたい🏡雑談【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/JfWupfPRcTQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JfWupfPRcTQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-12T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
