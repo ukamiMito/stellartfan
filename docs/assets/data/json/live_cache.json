@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-12T18:36:39.874Z",
+  "updatedAt": "2026-11-12T23:53:33.084Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "O0RVfEnI1Eg",
+        "title": "#2【F1® 25】完全初見！ストーリーモード「ブレーキングポイント3」やはり簡単にうまくはいかない人生 ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/O0RVfEnI1Eg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=O0RVfEnI1Eg",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-13T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "03bXQDaDtzU",
