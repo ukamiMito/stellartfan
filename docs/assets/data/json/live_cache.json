@@ -1,42 +1,20 @@
 {
-  "updatedAt": "2026-11-12T10:21:29.046Z",
+  "updatedAt": "2026-11-12T18:36:39.874Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "g9bQ0JJEhK0",
-        "title": "#2【龍が如く4 伝説を継ぐもの】完全初見！どこにいるんですか新井の兄貴！！四章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/g9bQ0JJEhK0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=g9bQ0JJEhK0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-12T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
-        "videoId": "bcTBScl1VYI",
-        "title": "【 勝利の女神:#NIKKE】4周年ガチャ勝負🔥『マリアン：クイーン』をGETする！！！#187【華鉈イオ/StellArt.】#マリアン #PR #ぶいきゃす",
-        "thumbnail": "https://i.ytimg.com/vi/bcTBScl1VYI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=bcTBScl1VYI",
+        "videoId": "03bXQDaDtzU",
+        "title": "【 勝利の女神:#NIKKE】4周年ガチャ勝負🔥『紅蓮：神殺』をGETする！！面談もやるよ！#188【華鉈イオ/StellArt.】#紅蓮 #PR #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/03bXQDaDtzU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=03bXQDaDtzU",
         "status": "upcoming",
-        "scheduledStartTime": "2026-11-12T13:00:00Z",
+        "scheduledStartTime": "2026-11-13T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "JfWupfPRcTQ",
-        "title": "【 Minecraft 】家とエンチャント部屋を繋ぐ橋を作る！オシャンにしたい🏡雑談【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/JfWupfPRcTQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=JfWupfPRcTQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-12T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
