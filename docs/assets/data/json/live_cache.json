@@ -1,42 +1,20 @@
 {
-  "updatedAt": "2026-11-13T06:50:28.564Z",
+  "updatedAt": "2026-11-13T15:25:53.495Z",
   "channels": {
-    "channelA": [
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
+    "channelD": [
       {
-        "videoId": "O0RVfEnI1Eg",
-        "title": "#2【F1® 25】完全初見！ストーリーモード「ブレーキングポイント3」やはり簡単にうまくはいかない人生 ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/O0RVfEnI1Eg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=O0RVfEnI1Eg",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-13T13:00:00Z",
-        "actualStartTime": null,
+        "videoId": "RimkjqOgm4w",
+        "title": "【 vtuber 弾き語り】夜の癒しピアノ弾き語り🎹満たされる歌枠🌷【アイリナ・ゼファリオ / StellArt.】 #vsinger準備中",
+        "thumbnail": "https://i.ytimg.com/vi/RimkjqOgm4w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RimkjqOgm4w",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-13T13:06:07Z",
         "actualEndTime": null
       }
-    ],
-    "channelB": [
-      {
-        "videoId": "03bXQDaDtzU",
-        "title": "【 勝利の女神:#NIKKE】4周年ガチャ勝負🔥『紅蓮：神殺』をGETする！！面談もやるよ！#188【華鉈イオ/StellArt.】#紅蓮 #PR #ぶいきゃす",
-        "thumbnail": "https://i.ytimg.com/vi/03bXQDaDtzU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=03bXQDaDtzU",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-13T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "y_BrjW8U52g",
-        "title": "【魔法少女ノ魔女裁判 実況】新人VtuberがSwitch版『 #まのさば 』完全初見プレイ！最終回！※ネタバレ注意 #11【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/y_BrjW8U52g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=y_BrjW8U52g",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-13T11:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": []
+    ]
   }
 }
