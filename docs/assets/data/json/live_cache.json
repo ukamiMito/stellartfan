@@ -1,20 +1,31 @@
 {
-  "updatedAt": "2026-11-13T15:25:53.495Z",
+  "updatedAt": "2026-11-13T21:39:56.276Z",
   "channels": {
-    "channelA": [],
-    "channelB": [],
-    "channelC": [],
-    "channelD": [
+    "channelA": [
       {
-        "videoId": "RimkjqOgm4w",
-        "title": "【 vtuber 弾き語り】夜の癒しピアノ弾き語り🎹満たされる歌枠🌷【アイリナ・ゼファリオ / StellArt.】 #vsinger準備中",
-        "thumbnail": "https://i.ytimg.com/vi/RimkjqOgm4w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=RimkjqOgm4w",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-13T13:06:07Z",
+        "videoId": "Vse23tibJpo",
+        "title": "【Minecraft】第二回！マイクラビンゴ対決🔥アイテムをかき集めろ～～！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Vse23tibJpo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Vse23tibJpo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-14T12:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
-    ]
+    ],
+    "channelB": [
+      {
+        "videoId": "wUUVz74fCiw",
+        "title": "【 Minecraft 】⭐マイクラBINGO⭐第二弾！制限時間内にアイテムを集めまくれ！！！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/wUUVz74fCiw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wUUVz74fCiw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-14T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [],
+    "channelD": []
   }
 }
