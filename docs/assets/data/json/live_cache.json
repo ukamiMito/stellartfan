@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-11-14T15:50:44.000Z",
+  "updatedAt": "2026-11-14T20:44:47.228Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "upkrxwcfXeY",
+        "title": "【 勝利の女神:#NIKKE】4周年イベントストーリー『MARIA-n』エピローグ＆ミニゲーム全回収する！#189【華鉈イオ/StellArt.】#紅蓮 #PR #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/upkrxwcfXeY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=upkrxwcfXeY",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-16T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": []
   }
