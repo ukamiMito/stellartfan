@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T01:50:44.033Z",
+  "updatedAt": "2026-11-14T09:00:27.693Z",
   "channels": {
     "channelA": [
       {
@@ -15,6 +15,16 @@
     ],
     "channelB": [
       {
+        "videoId": "I0rD2YD1M8s",
+        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン】#4 参加型🔥初心者も頑張って夜を越えたい、、！※スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/I0rD2YD1M8s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=I0rD2YD1M8s",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-14T07:01:47Z",
+        "actualEndTime": null
+      },
+      {
         "videoId": "wUUVz74fCiw",
         "title": "【 Minecraft 】⭐マイクラBINGO⭐第二弾！制限時間内にアイテムを集めまくれ！！！【華鉈イオ/StellArt.】#vtuber",
         "thumbnail": "https://i.ytimg.com/vi/wUUVz74fCiw/hqdefault.jpg",
@@ -25,7 +35,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "6PNI-RJFIz8",
+        "title": "【Minecraft 実況】前回からの成長を見せるんだ✊🔥【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/6PNI-RJFIz8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6PNI-RJFIz8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-14T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "_XQO5gnYKCw",
+        "title": "【 Minecraft 】マイクラビンゴ🎉アイテムを早く見つけるビンゴ対決！熱いバトルが始まる✨【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/_XQO5gnYKCw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_XQO5gnYKCw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-14T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
