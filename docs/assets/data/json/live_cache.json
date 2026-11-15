@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T00:23:29.927Z",
+  "updatedAt": "2026-11-15T07:14:31.182Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "Fs7ESF5OXjo",
+        "title": "【文字化化】ちょっぴり言葉が通じない彼との恋愛が始まる！？💕【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Fs7ESF5OXjo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Fs7ESF5OXjo",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-15T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "HxGqshC5aJ8",
+        "title": "【 FF9 】#4 完全初見のファイナルファンタジーIX🔥ブラネ女王の企みとは…争いを止めに行く！【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/HxGqshC5aJ8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=HxGqshC5aJ8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-15T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
