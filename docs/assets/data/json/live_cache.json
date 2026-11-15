@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-15T14:49:38.935Z",
+  "updatedAt": "2026-11-15T20:24:24.321Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "mdKynFIZLyw",
-        "title": "#14【ペルソナ5 ザ・ロイヤル】完全初見！コープ進めながら金城の改心を待つ！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/mdKynFIZLyw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mdKynFIZLyw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-15T12:59:37Z",
+        "videoId": "u3Y2dBL5Oh0",
+        "title": "#3【F1® 25】完全初見！ストーリーモード「ブレーキングポイント3」キャスパー解雇マ！？ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/u3Y2dBL5Oh0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=u3Y2dBL5Oh0",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-16T13:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
@@ -25,29 +25,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "Fs7ESF5OXjo",
-        "title": "【文字化化】ちょっぴり言葉が通じない彼との恋愛が始まる！？💕【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Fs7ESF5OXjo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Fs7ESF5OXjo",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-15T11:59:05Z",
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "HxGqshC5aJ8",
-        "title": "【 FF9 】#4 完全初見のファイナルファンタジーIX🔥ブラネ女王の企みとは…争いを止めに行く！【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/HxGqshC5aJ8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=HxGqshC5aJ8",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-15T11:56:42Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
