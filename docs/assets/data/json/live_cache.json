@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-14T20:44:47.228Z",
+  "updatedAt": "2026-11-15T00:23:29.927Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "mdKynFIZLyw",
+        "title": "#14【ペルソナ5 ザ・ロイヤル】完全初見！コープ進めながら金城の改心を待つ！！ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/mdKynFIZLyw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mdKynFIZLyw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-15T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "upkrxwcfXeY",
