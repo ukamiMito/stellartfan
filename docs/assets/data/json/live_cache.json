@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T00:24:20.262Z",
+  "updatedAt": "2026-11-16T07:19:50.781Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "4FKoe3ByKxI",
+        "title": "【NIKKE イベスト】LAST KINGDOM  完全初見🔰可能な範囲でマリアンを堪能したい！！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/4FKoe3ByKxI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4FKoe3ByKxI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-16T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
