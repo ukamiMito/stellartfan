@@ -1,42 +1,20 @@
 {
-  "updatedAt": "2026-11-16T07:19:50.781Z",
+  "updatedAt": "2026-11-16T17:28:42.678Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "u3Y2dBL5Oh0",
-        "title": "#3【F1® 25】完全初見！ストーリーモード「ブレーキングポイント3」キャスパー解雇マ！？ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/u3Y2dBL5Oh0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=u3Y2dBL5Oh0",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-16T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
     "channelB": [
       {
-        "videoId": "upkrxwcfXeY",
-        "title": "【 勝利の女神:#NIKKE】4周年イベントストーリー『MARIA-n』エピローグ＆ミニゲーム全回収する！#189【華鉈イオ/StellArt.】#紅蓮 #PR #ぶいきゃす",
-        "thumbnail": "https://i.ytimg.com/vi/upkrxwcfXeY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=upkrxwcfXeY",
+        "videoId": "_EKS3EEfwpM",
+        "title": "【 勝利の女神:#NIKKE】4周年配布✨新ラプンツェル徹底解剖！面談もやるよ！#190【華鉈イオ/StellArt.】#ラプンツェル #PR #ぶいきゃす",
+        "thumbnail": "https://i.ytimg.com/vi/_EKS3EEfwpM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_EKS3EEfwpM",
         "status": "upcoming",
-        "scheduledStartTime": "2026-11-16T13:00:00Z",
+        "scheduledStartTime": "2026-11-17T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "4FKoe3ByKxI",
-        "title": "【NIKKE イベスト】LAST KINGDOM  完全初見🔰可能な範囲でマリアンを堪能したい！！！【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/4FKoe3ByKxI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4FKoe3ByKxI",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-16T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
