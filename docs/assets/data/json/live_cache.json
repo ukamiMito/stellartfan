@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T01:05:48.915Z",
+  "updatedAt": "2026-11-17T09:14:46.802Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "Yfc-yKWzuEM",
+        "title": "【同時視聴 頭文字D】完全初見 Fourth stage 11話～14話【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Yfc-yKWzuEM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Yfc-yKWzuEM",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-17T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "qfGP0giZRA4",
+        "title": "【 FF9 】#5 完全初見のファイナルファンタジーIX🔥リンドブルムにまで襲撃をしたブラネ女王...一体どうなる⁉【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/qfGP0giZRA4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qfGP0giZRA4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-17T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
