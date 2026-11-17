@@ -1,53 +1,9 @@
 {
-  "updatedAt": "2026-11-17T09:14:46.802Z",
+  "updatedAt": "2026-11-17T18:38:48.499Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "qoog23q1t3k",
-        "title": "#3【龍が如く4 伝説を継ぐもの】完全初見！冴島さん視点で脱獄だー！！第二部 一章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/qoog23q1t3k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qoog23q1t3k",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-17T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "_EKS3EEfwpM",
-        "title": "【 勝利の女神:#NIKKE】4周年配布✨新ラプンツェル徹底解剖！面談もやるよ！#190【華鉈イオ/StellArt.】#ラプンツェル #PR #ぶいきゃす",
-        "thumbnail": "https://i.ytimg.com/vi/_EKS3EEfwpM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_EKS3EEfwpM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-17T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "Yfc-yKWzuEM",
-        "title": "【同時視聴 頭文字D】完全初見 Fourth stage 11話～14話【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Yfc-yKWzuEM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Yfc-yKWzuEM",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-17T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "qfGP0giZRA4",
-        "title": "【 FF9 】#5 完全初見のファイナルファンタジーIX🔥リンドブルムにまで襲撃をしたブラネ女王...一体どうなる⁉【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/qfGP0giZRA4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qfGP0giZRA4",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-17T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelA": [],
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
