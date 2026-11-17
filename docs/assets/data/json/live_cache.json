@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-16T17:28:42.678Z",
+  "updatedAt": "2026-11-17T01:05:48.915Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "qoog23q1t3k",
+        "title": "#3【龍が如く4 伝説を継ぐもの】完全初見！冴島さん視点で脱獄だー！！第二部 一章～ ※ネタバレ注意【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/qoog23q1t3k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qoog23q1t3k",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-17T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "_EKS3EEfwpM",
