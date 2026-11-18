@@ -1,9 +1,52 @@
 {
-  "updatedAt": "2026-11-18T01:19:41.668Z",
+  "updatedAt": "2026-11-18T09:12:21.251Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
-    "channelC": [],
-    "channelD": []
+    "channelB": [
+      {
+        "videoId": "bQQplDnuUFw",
+        "title": "【イオモニ/朝活】貧乏ゆすりのおじさんと戦いたい【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/bQQplDnuUFw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=bQQplDnuUFw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-18T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "8K2VvrRhBic",
+        "title": "【グランツーリスモ7】MT初心者🔰ハンコンを久しぶりに握る！リハビリ運転じゃ～～！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/8K2VvrRhBic/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8K2VvrRhBic",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "uXZ8mkg6fzE",
+        "title": "【NIKKE イベスト】LAST KINGDOM  完全初見🔰みんなの力を合わせたらきっと大丈夫💪【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/uXZ8mkg6fzE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uXZ8mkg6fzE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-18T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "szL2Kbk85xg",
+        "title": "【 vtuber 弾き語り】ゲリラ歌枠！夕方に癒されるピアノ弾き語り🌇【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/szL2Kbk85xg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=szL2Kbk85xg",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-18T07:57:25Z",
+        "actualEndTime": null
+      }
+    ]
   }
 }
