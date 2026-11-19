@@ -1,31 +1,20 @@
 {
-  "updatedAt": "2026-11-19T07:58:26.451Z",
+  "updatedAt": "2026-11-19T17:24:18.879Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
-    "channelC": [
+    "channelB": [
       {
-        "videoId": "2O95J1yE_gY",
-        "title": "【MoonSweepers 実況】さやみぃちゃんと一緒に月面おそうじ🧹【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/2O95J1yE_gY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2O95J1yE_gY",
+        "videoId": "-EWEAoCtTPo",
+        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン】#6 🔰初めての『深き夜』へと挑戦する！！初心者立ち上がれ🔥※スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/-EWEAoCtTPo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-EWEAoCtTPo",
         "status": "upcoming",
-        "scheduledStartTime": "2026-11-19T13:00:00Z",
+        "scheduledStartTime": "2026-11-20T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "fylBfu_w2To",
-        "title": "【 浮気した夫に全部吐かせる 】手段は選ばない。全てを吐かせる尋問ゲーム【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/fylBfu_w2To/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fylBfu_w2To",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-19T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
