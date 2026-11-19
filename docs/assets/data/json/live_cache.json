@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T18:07:37.500Z",
+  "updatedAt": "2026-11-19T00:26:02.823Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -8,9 +8,9 @@
         "title": "【イオモニ/朝活】貧乏ゆすりのおじさんと戦いたい【華鉈イオ/StellArt.】#新人vtuber",
         "thumbnail": "https://i.ytimg.com/vi/bQQplDnuUFw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=bQQplDnuUFw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-18T21:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-18T20:57:58Z",
         "actualEndTime": null
       }
     ],
