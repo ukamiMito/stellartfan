@@ -1,7 +1,18 @@
 {
-  "updatedAt": "2026-11-19T17:24:18.879Z",
+  "updatedAt": "2026-11-19T23:53:01.524Z",
   "channels": {
-    "channelA": [],
+    "channelA": [
+      {
+        "videoId": "rtTEFvR2VXQ",
+        "title": "【タンポポは耐える。】耐えて美しく咲いてやるわよ【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/rtTEFvR2VXQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rtTEFvR2VXQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-20T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelB": [
       {
         "videoId": "-EWEAoCtTPo",
