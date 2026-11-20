@@ -1,8 +1,19 @@
 {
-  "updatedAt": "2026-11-20T16:23:38.013Z",
+  "updatedAt": "2026-11-20T22:49:39.772Z",
   "channels": {
     "channelA": [],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "s7rrKVWah8E",
+        "title": "【 勝利の女神:#NIKKE】新イベスト「SKY ON THE ROCK」スカイが可愛すぎる！✈#191【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/s7rrKVWah8E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=s7rrKVWah8E",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-21T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelC": [],
     "channelD": [
       {
