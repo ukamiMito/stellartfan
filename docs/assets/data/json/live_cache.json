@@ -1,39 +1,17 @@
 {
-  "updatedAt": "2026-11-20T07:21:40.316Z",
+  "updatedAt": "2026-11-20T16:23:38.013Z",
   "channels": {
-    "channelA": [
-      {
-        "videoId": "rtTEFvR2VXQ",
-        "title": "【タンポポは耐える。】耐えて美しく咲いてやるわよ【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/rtTEFvR2VXQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rtTEFvR2VXQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-20T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelB": [
-      {
-        "videoId": "-EWEAoCtTPo",
-        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン】#6 🔰初めての『深き夜』へと挑戦する！！初心者立ち上がれ🔥※スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/-EWEAoCtTPo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-EWEAoCtTPo",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-20T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelA": [],
+    "channelB": [],
     "channelC": [],
     "channelD": [
       {
-        "videoId": "QmaLt5NukrQ",
-        "title": "【 vtuber 弾き語り】深夜の眠れるピアノ弾き語り🎧1曲どうですか？【アイリナ・ゼファリオ / StellArt.】 #vsinger",
-        "thumbnail": "https://i.ytimg.com/vi/QmaLt5NukrQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=QmaLt5NukrQ",
+        "videoId": "xxT61_JDBII",
+        "title": "【 デビュー半年記念🎉 】感謝を込めて、一緒にお祝いしよ～💜【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/xxT61_JDBII/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=xxT61_JDBII",
         "status": "upcoming",
-        "scheduledStartTime": "2026-11-20T13:00:00Z",
+        "scheduledStartTime": "2026-11-21T12:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
