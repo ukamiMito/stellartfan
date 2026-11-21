@@ -1,31 +1,20 @@
 {
-  "updatedAt": "2026-11-21T12:42:02.951Z",
+  "updatedAt": "2026-11-21T19:49:14.895Z",
   "channels": {
-    "channelA": [],
-    "channelB": [
+    "channelA": [
       {
-        "videoId": "s7rrKVWah8E",
-        "title": "【 勝利の女神:#NIKKE】新イベスト「SKY ON THE ROCK」スカイが可愛すぎる！✈#191【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/s7rrKVWah8E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=s7rrKVWah8E",
+        "videoId": "teO4sgWqwVk",
+        "title": "【F1 2026/生放送同時視聴】「ラスベガスGP　決勝:ライブ」すごく煌びやかなナイトレースコースだ…✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/teO4sgWqwVk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=teO4sgWqwVk",
         "status": "upcoming",
-        "scheduledStartTime": "2026-11-21T13:00:00Z",
+        "scheduledStartTime": "2026-11-22T03:30:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
+    "channelB": [],
     "channelC": [],
-    "channelD": [
-      {
-        "videoId": "xxT61_JDBII",
-        "title": "【 デビュー半年記念🎉 】感謝を込めて、一緒にお祝いしよ～💜【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/xxT61_JDBII/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=xxT61_JDBII",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-21T12:03:04Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
