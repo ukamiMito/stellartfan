@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T22:49:39.772Z",
+  "updatedAt": "2026-11-21T03:59:45.217Z",
   "channels": {
     "channelA": [],
     "channelB": [
@@ -14,7 +14,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "8PB8_ckWeig",
+        "title": "【デビュー半年記念✨】半年のお祝いだ～🙌ありがとうございます🎉【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/8PB8_ckWeig/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8PB8_ckWeig",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-21T11:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": [
       {
         "videoId": "xxT61_JDBII",
