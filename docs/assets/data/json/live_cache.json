@@ -1,20 +1,42 @@
 {
-  "updatedAt": "2026-11-22T00:22:03.947Z",
+  "updatedAt": "2026-11-22T07:29:51.995Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "teO4sgWqwVk",
-        "title": "【F1 2026/生放送同時視聴】「ラスベガスGP　決勝:ライブ」すごく煌びやかなナイトレースコースだ…✨【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/teO4sgWqwVk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=teO4sgWqwVk",
+        "videoId": "2p1Ilvlt08g",
+        "title": "【浮気した夫に全部吐かせる】浮気したらこうなるから覚悟してね💕【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/2p1Ilvlt08g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2p1Ilvlt08g",
         "status": "upcoming",
-        "scheduledStartTime": "2026-11-22T03:30:00Z",
+        "scheduledStartTime": "2026-11-22T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [],
-    "channelC": [],
+    "channelB": [
+      {
+        "videoId": "lOcAoWUfTOc",
+        "title": "【🔴みんなでティア表!】仲間の理解度が試される！ティア表つくるぞ～～～！【華鉈イオ/StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/lOcAoWUfTOc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=lOcAoWUfTOc",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-23T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelC": [
+      {
+        "videoId": "5urTfoZ_GKQ",
+        "title": "【グランツーリスモ７ GT7】ハンコン特訓🔥～MTを添えて～【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/5urTfoZ_GKQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5urTfoZ_GKQ",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-22T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
