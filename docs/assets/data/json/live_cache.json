@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:29:51.995Z",
+  "updatedAt": "2026-11-22T15:42:00.076Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【浮気した夫に全部吐かせる】浮気したらこうなるから覚悟してね💕【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/2p1Ilvlt08g/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2p1Ilvlt08g",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-22T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-22T13:01:18Z",
         "actualEndTime": null
       }
     ],
@@ -25,18 +25,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "5urTfoZ_GKQ",
-        "title": "【グランツーリスモ７ GT7】ハンコン特訓🔥～MTを添えて～【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/5urTfoZ_GKQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5urTfoZ_GKQ",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-22T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
