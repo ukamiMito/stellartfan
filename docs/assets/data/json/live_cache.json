@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T01:59:22.702Z",
+  "updatedAt": "2026-11-23T10:49:42.002Z",
   "channels": {
     "channelA": [
       {
@@ -37,6 +37,17 @@
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "dyrGWis4v08",
+        "title": "【 みんなでティア表 】お題に合わせてティア表を予想するゲーム🌷StellArt.一致団結で揃うのか⁉✨【アイリナ・ゼファリオ  / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/dyrGWis4v08/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dyrGWis4v08",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-23T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
