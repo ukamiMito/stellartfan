@@ -1,53 +1,31 @@
 {
-  "updatedAt": "2026-11-23T10:49:42.002Z",
+  "updatedAt": "2026-11-23T22:41:22.127Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "h-ezqFyaxpQ",
-        "title": "【みんなでティア表!】メンバー5人の価値観は一致するのか…！？【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/h-ezqFyaxpQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=h-ezqFyaxpQ",
+        "videoId": "5gAsjaDwTfE",
+        "title": "【ELDENRING NIGHTREIGN】フロムゲー初心者、グラディウスに挑む！！ ※スパチャ禁止【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/5gAsjaDwTfE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=5gAsjaDwTfE",
         "status": "upcoming",
-        "scheduledStartTime": "2026-11-23T13:00:00Z",
+        "scheduledStartTime": "2026-11-24T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
     "channelB": [
       {
-        "videoId": "lOcAoWUfTOc",
-        "title": "【🔴みんなでティア表!】仲間の理解度が試される！ティア表つくるぞ～～～！【華鉈イオ/StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/lOcAoWUfTOc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=lOcAoWUfTOc",
+        "videoId": "77aacKlhg5s",
+        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン】🔰初心者3人でグラディウスを倒す！！！※スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/77aacKlhg5s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=77aacKlhg5s",
         "status": "upcoming",
-        "scheduledStartTime": "2026-11-23T13:00:00Z",
+        "scheduledStartTime": "2026-11-24T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "05cpmeJTvgw",
-        "title": "【みんなでティア表!】StellArt.のティア表が爆誕する🙌【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/05cpmeJTvgw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=05cpmeJTvgw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-23T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "dyrGWis4v08",
-        "title": "【 みんなでティア表 】お題に合わせてティア表を予想するゲーム🌷StellArt.一致団結で揃うのか⁉✨【アイリナ・ゼファリオ  / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/dyrGWis4v08/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dyrGWis4v08",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-23T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelC": [],
+    "channelD": []
   }
 }
