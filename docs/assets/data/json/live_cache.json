@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T21:17:48.726Z",
+  "updatedAt": "2026-11-23T01:59:22.702Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,18 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "05cpmeJTvgw",
+        "title": "【みんなでティア表!】StellArt.のティア表が爆誕する🙌【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/05cpmeJTvgw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=05cpmeJTvgw",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-23T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
