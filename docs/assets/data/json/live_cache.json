@@ -1,53 +1,20 @@
 {
-  "updatedAt": "2026-11-24T06:27:10.909Z",
+  "updatedAt": "2026-11-24T18:21:43.431Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "5gAsjaDwTfE",
-        "title": "【ELDENRING NIGHTREIGN】フロムゲー初心者、グラディウスに挑む！！ ※スパチャ禁止【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/5gAsjaDwTfE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=5gAsjaDwTfE",
+        "videoId": "Pqob4S2Gwio",
+        "title": "【Minecraft】🌠ステラート鯖マイクラ🌠資材ワールドを探索しに行くぞ～！！【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/Pqob4S2Gwio/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Pqob4S2Gwio",
         "status": "upcoming",
-        "scheduledStartTime": "2026-11-24T13:00:00Z",
+        "scheduledStartTime": "2026-11-25T13:00:00Z",
         "actualStartTime": null,
         "actualEndTime": null
       }
     ],
-    "channelB": [
-      {
-        "videoId": "77aacKlhg5s",
-        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン】🔰初心者3人でグラディウスを倒す！！！※スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/77aacKlhg5s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=77aacKlhg5s",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-24T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelC": [
-      {
-        "videoId": "1n9PvhapR6g",
-        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン 実況】🔰初心者グラディウスに挑む✊※スパチャ禁止【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/1n9PvhapR6g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1n9PvhapR6g",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-24T13:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
-    "channelD": [
-      {
-        "videoId": "NP9XETlnC2k",
-        "title": "【 FF9 】#6 完全初見のファイナルファンタジーIX🔥外側の世界に出て、ついにクジャの居場所へ突入だぁぁぁ‼【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/NP9XETlnC2k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NP9XETlnC2k",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-24T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ]
+    "channelB": [],
+    "channelC": [],
+    "channelD": []
   }
 }
