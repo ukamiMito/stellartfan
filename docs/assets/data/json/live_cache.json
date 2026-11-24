@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T22:41:22.127Z",
+  "updatedAt": "2026-11-24T06:27:10.909Z",
   "channels": {
     "channelA": [
       {
@@ -25,7 +25,29 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [],
-    "channelD": []
+    "channelC": [
+      {
+        "videoId": "1n9PvhapR6g",
+        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン 実況】🔰初心者グラディウスに挑む✊※スパチャ禁止【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/1n9PvhapR6g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1n9PvhapR6g",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-24T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
+    "channelD": [
+      {
+        "videoId": "NP9XETlnC2k",
+        "title": "【 FF9 】#6 完全初見のファイナルファンタジーIX🔥外側の世界に出て、ついにクジャの居場所へ突入だぁぁぁ‼【アイリナ・ゼファリオ / StellArt.】#vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/NP9XETlnC2k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NP9XETlnC2k",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-24T12:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
