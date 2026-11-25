@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T02:48:49.092Z",
+  "updatedAt": "2026-11-25T13:01:15.449Z",
   "channels": {
     "channelA": [
       {
@@ -7,25 +7,57 @@
         "title": "【Minecraft】🌠ステラート鯖マイクラ🌠資材ワールドを探索しに行くぞ～！！【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/Pqob4S2Gwio/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Pqob4S2Gwio",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-25T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-25T12:59:24Z",
         "actualEndTime": null
       }
     ],
-    "channelB": [],
+    "channelB": [
+      {
+        "videoId": "By0cn3YeefI",
+        "title": "【イオモニ/朝活】今年も残り1ヶ月です【華鉈イオ/StellArt.】#新人vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/By0cn3YeefI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=By0cn3YeefI",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-25T21:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "_yZQ0loHKUc",
+        "title": "【グランツーリスモ7】MT初心者🔰カフェ進めていくぞ～！！【華鉈イオ/StellArt.】#gt7",
+        "thumbnail": "https://i.ytimg.com/vi/_yZQ0loHKUc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_yZQ0loHKUc",
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-25T12:57:54Z",
+        "actualEndTime": null
+      }
+    ],
     "channelC": [
       {
         "videoId": "DzsHF29uQy8",
         "title": "【文字化化】あなたの言葉が理解したいの！！！【にうふぁ/StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/DzsHF29uQy8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DzsHF29uQy8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-25T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-25T12:57:30Z",
         "actualEndTime": null
       }
     ],
-    "channelD": []
+    "channelD": [
+      {
+        "videoId": "IWRnCGvKSq8",
+        "title": "【 vtuber 弾き語り】心を温かく癒すピアノ弾き語り🌼リクエスト◎！【アイリナ・ゼファリオ / StellArt.】 #vsinger",
+        "thumbnail": "https://i.ytimg.com/vi/IWRnCGvKSq8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IWRnCGvKSq8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-25T14:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ]
   }
 }
