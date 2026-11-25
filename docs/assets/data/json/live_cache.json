@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T18:21:43.431Z",
+  "updatedAt": "2026-11-25T02:48:49.092Z",
   "channels": {
     "channelA": [
       {
@@ -14,7 +14,18 @@
       }
     ],
     "channelB": [],
-    "channelC": [],
+    "channelC": [
+      {
+        "videoId": "DzsHF29uQy8",
+        "title": "【文字化化】あなたの言葉が理解したいの！！！【にうふぁ/StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/DzsHF29uQy8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DzsHF29uQy8",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-25T13:00:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      }
+    ],
     "channelD": []
   }
 }
