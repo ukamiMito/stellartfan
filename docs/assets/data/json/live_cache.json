@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-26T14:30:16.394Z",
+  "updatedAt": "2026-11-26T23:21:03.007Z",
   "channels": {
     "channelA": [
       {
@@ -15,27 +15,17 @@
     ],
     "channelB": [
       {
-        "videoId": "ynYFVI9oloA",
-        "title": "【ELDEN RING NIGHTREIGN /ナイトレイン】#7 参加型🔥常世グノスター＆フルゴール倒すぞ！！！※スパチャ禁止【華鉈イオ/StellArt.】#新人vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/ynYFVI9oloA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ynYFVI9oloA",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-26T12:57:22Z",
+        "videoId": "QPzRTL6ExuE",
+        "title": "【華鉈イオの深夜喫茶】第12回✨冬がきた！鍋の具材は何を入れようか🍲【華鉈イオ/StellArt.】#新人vtuber #イオ喫",
+        "thumbnail": "https://i.ytimg.com/vi/QPzRTL6ExuE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=QPzRTL6ExuE",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-28T14:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
     "channelC": [
-      {
-        "videoId": "mbA99vjWQms",
-        "title": "【魔法少女ノ魔女裁判 】クリア済み！ココロノクライ鑑賞会します！！※ネタバレ注意 【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/mbA99vjWQms/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mbA99vjWQms",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-26T12:59:37Z",
-        "actualEndTime": null
-      },
       {
         "videoId": "ZrhPdYCrnb8",
         "title": "【雑談 コラボ】ヨルコちゃんと初コラボ🙌プロフィールシートを交換しちゃいます✨【にうふぁ/StellArt.】",
@@ -47,17 +37,6 @@
         "actualEndTime": null
       }
     ],
-    "channelD": [
-      {
-        "videoId": "weDCpDRzS_Q",
-        "title": "【 FF9 】#7 完全初見のファイナルファンタジーIX🔥メンバーが増え、ついにクジャとの対決か⁉【アイリナ・ゼファリオ / StellArt.】#vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/weDCpDRzS_Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=weDCpDRzS_Q",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-26T12:57:25Z",
-        "actualEndTime": null
-      }
-    ]
+    "channelD": []
   }
 }
