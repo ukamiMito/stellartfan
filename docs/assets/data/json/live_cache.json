@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-27T05:24:01.264Z",
+  "updatedAt": "2026-11-27T15:37:38.588Z",
   "channels": {
     "channelA": [
       {
@@ -7,9 +7,9 @@
         "title": "【ホロライブ麻雀 -ホロじゃん-】ホロライブさんの麻雀ゲームをやってみる！千速さんのインフルエンサーキットも開封✨ ※ネタバレ注意【天硝路ろまん / StellArt.】",
         "thumbnail": "https://i.ytimg.com/vi/Z08NBPkirCw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Z08NBPkirCw",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-27T13:00:00Z",
-        "actualStartTime": null,
+        "status": "live",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-11-27T12:59:04Z",
         "actualEndTime": null
       }
     ],
@@ -25,18 +25,7 @@
         "actualEndTime": null
       }
     ],
-    "channelC": [
-      {
-        "videoId": "ZrhPdYCrnb8",
-        "title": "【雑談 コラボ】ヨルコちゃんと初コラボ🙌プロフィールシートを交換しちゃいます✨【にうふぁ/StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/ZrhPdYCrnb8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ZrhPdYCrnb8",
-        "status": "upcoming",
-        "scheduledStartTime": "2026-11-27T12:00:00Z",
-        "actualStartTime": null,
-        "actualEndTime": null
-      }
-    ],
+    "channelC": [],
     "channelD": []
   }
 }
