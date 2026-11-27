@@ -1,15 +1,25 @@
 {
-  "updatedAt": "2026-11-27T15:37:38.588Z",
+  "updatedAt": "2026-11-27T23:45:01.811Z",
   "channels": {
     "channelA": [
       {
-        "videoId": "Z08NBPkirCw",
-        "title": "【ホロライブ麻雀 -ホロじゃん-】ホロライブさんの麻雀ゲームをやってみる！千速さんのインフルエンサーキットも開封✨ ※ネタバレ注意【天硝路ろまん / StellArt.】",
-        "thumbnail": "https://i.ytimg.com/vi/Z08NBPkirCw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Z08NBPkirCw",
-        "status": "live",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-11-27T12:59:04Z",
+        "videoId": "7hSiI_9nu04",
+        "title": "【ミラー配信】「2026 AUTOBACS JEGT グランプリシリーズ Round 4」を一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/7hSiI_9nu04/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=7hSiI_9nu04",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-28T04:30:00Z",
+        "actualStartTime": null,
+        "actualEndTime": null
+      },
+      {
+        "videoId": "WHK-p_K63T4",
+        "title": "【ミラー配信】「全国都道府県対抗eスポーツ選手権 2026 GT7部門 近畿代表決定戦」を一緒に観戦しよう✨【天硝路ろまん / StellArt.】",
+        "thumbnail": "https://i.ytimg.com/vi/WHK-p_K63T4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WHK-p_K63T4",
+        "status": "upcoming",
+        "scheduledStartTime": "2026-11-28T01:00:00Z",
+        "actualStartTime": null,
         "actualEndTime": null
       }
     ],
